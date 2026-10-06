@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mod>
+  <info>
+    <name>ELSB - Vortex Installer</name>
+    <modid>ELSBVortexInstaller</modid>
+    <description>Original ELSB character options with optional personal bodies and compatibility patches.</description>
+    <author>oOCamilleOo; upstream authors credited in CREDITS.txt</author>
+    <version>1.1.1</version>
+    <created_on>2026-10-06</created_on>
+  </info>
+  <supports>
+    <game>The Blood of Dawnwalker</game>
+    <requires>Vortex with XML FOMOD support and the Dawnwalker game extension</requires>
+    <optional>Separately installed third-party originals for selected compatibility patches; see Compatibility.txt</optional>
+  </supports>
+</mod>

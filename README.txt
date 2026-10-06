@@ -1,0 +1,64 @@
+ELSB - Vortex Installer
+Personal development package based on ELSB 1.1.1
+
+Choose Coen, Anca, Lacra and Marat's existing ELSB body, hairstyle, colour,
+beard, eye, outfit and scene options in Vortex. Anca and Lacra independently
+offer Vanilla, ELSB, or ELSB + Pussy Walker. Neither add-on body is selected
+by default. Suggestions reflect the saved toolkit preferences at preparation.
+
+The original ELSB module files are unchanged. The personal body add-on and
+Lacra hair/texture compatibility containers are separate additions. Original
+third-party mods are not bundled. You manage their activation in Vortex.
+No ELSB toolkit program, configuration or direct-copy operation is installed.
+
+Installation
+- Vortex: Complete Migration.txt, install ELSB - Vortex Installer.zip, choose options, enable this entry and deploy. Keep required third-party originals as separate entries.
+- Manual: This archive contains alternative payloads and requires its FOMOD wizard. Do not copy the whole Payload directory into the game.
+
+Changing choices
+Use Reinstall on this same Vortex entry, adjust the wizard and deploy.
+Vortex can preselect saved choices; the wizard's identifiers remain stable.
+Choosing Vanilla removes this entry's corresponding options on reinstall.
+Disabling this entry removes its managed files on deployment. It does not
+disable third-party originals. Avoid installing a second copy of this entry.
+Deployment alone does not rerun the wizard.
+
+Scene and outfit choices
+An ELSB partner body initially affects naked scenes. All scenes extends it
+to clothed scenes. Selecting an outfit also extends an ELSB body to all
+scenes, matching the toolkit's outfit dependency. Fitted third-party outfits
+require the corresponding ELSB body; both personal variants count as ELSB.
+Vanilla-body choices remain independent for each character.
+Story scars, wounds and skin states use the original ELSB options. The
+personal add-on keeps the original torso meshes and supplies its own legs.
+
+Compatibility and audit
+See Compatibility.txt for the reviewed combinations and exact versions.
+Run the optional read-only audit outside the game to show patches for
+currently deployed originals. It distinguishes deployment from staging,
+checks known container hashes and lists internal Unreal asset overlaps.
+See Audit/README.txt. It never activates, disables, installs or removes mods.
+The FOMOD wizard cannot automatically detect arbitrary active Dawnwalker
+containers, source hashes or mesh compatibility. Choose patches explicitly
+after enabling their matching originals. An unknown mod is not automatically
+incompatible; review its relevant assets before adding a new patch.
+
+Requirements
+Tested installer: Vortex 2.7.2 with Dawnwalker extension 1.1.0. This is the
+tested environment, not a whole-game version lock. No UE4SS dependency is
+introduced by this installer. Optional audit: Python 3.11+; retoc is optional
+for listing assets in unknown containers and is not bundled.
+
+Ownership
+Runtime containers go to Dawnwalker/Content/Paks/~mods relative to the game
+root. Only selected options and required shared modules are installed.
+A small entry receipt goes to ELSB-Vortex/Installed.txt outside Paks.
+Documentation, provenance and audit files remain in the archive and are not
+deployed by the wizard. Extract them somewhere outside the game when needed.
+Keep the original ELSB toolkit as a preserved reference outside the game;
+after migration, use Vortex exclusively for these installed assets.
+
+Personal use
+This is an unofficial personal development package. No public redistribution
+permission is granted. See CREDITS.txt and LICENSE.txt. Asset/package checks
+are documented separately in Verification.txt; gameplay acceptance is pending.

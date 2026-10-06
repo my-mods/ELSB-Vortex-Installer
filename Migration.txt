@@ -1,0 +1,44 @@
+User-controlled migration from direct ELSB installation to Vortex
+
+No migration or live deployment was performed while preparing this package.
+
+1. Close the game. Preserve the existing toolkit folder and ELSB.ini outside
+   the game. Extract the audit files outside the game and staging folders.
+
+2. Run the read-only audit against the current game and Vortex staging paths.
+   Keep its HTML report, JSON and Migration-Files.csv. The CSV records each
+   deployed container file's exact hash, size, hardlink count and Vortex
+   owner. Re-run after changing activation; a snapshot is not a cleanup script.
+
+3. Back up only files marked "BACK UP then remove confirmed unmanaged copy"
+   to a directory outside the game and staging. Confirm hashes still match
+   the report before removing those same unmanaged copies. A changed hash,
+   unexpected link count or missing inventory requires another ownership
+   review. Do not remove files marked KEEP or REVIEW as part of this list.
+
+4. Never use the original toolkit's "Remove all" for migration. It can also
+   remove imported copies currently owned by Vortex, including Coen Nude.
+   Keep managed Coen Nude files intact. Its original remains a separate entry.
+
+5. The unmanaged Lacra Beautiful Hair and chest-texture copies should move
+   to their existing Vortex entries: after backing up/removing only the
+   confirmed unmanaged copies, enable the originals and deploy through Vortex.
+   Review only duplicate/incompatible entries identified for your chosen
+   combination. There is no need to disable the entire mod list.
+
+6. Install this archive into one Vortex entry, choose bodies and applicable
+   patches, then enable and deploy when ready. Leave standalone VaginaMod
+   disabled for the supported personal body setup. You control every mod's
+   activation. The wizard never changes other entries.
+
+7. Re-run the audit. Confirm required originals are deployed at supported
+   hashes, complete triples are present, and old unmanaged duplicates are
+   gone. Check the active patches and relevant internal asset overlaps.
+
+8. From this point use Vortex exclusively for installed ELSB assets. Change
+   choices through Reinstall on this entry and deploy. Do not use the old
+   toolkit's Apply, mod-moving controls or Remove all against the live game.
+
+If an older entry has a wrong stored directory layout, rerun installation
+with the corrected archive. Merely deploying again retains its old layout.
+The stable ZIP filename does not automatically merge duplicate entries.

@@ -1,0 +1,1125 @@
+{
+  "body": {
+    "step": "Coen - Body and scenes",
+    "name": "Body",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": true
+      },
+      {
+        "id": "masculine",
+        "name": "ELSB",
+        "recommended": false
+      }
+    ]
+  },
+  "romance": {
+    "step": "Coen - Body and scenes",
+    "name": "Romance scenes",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": true
+      },
+      {
+        "id": "undress",
+        "name": "Undress (scenes where vanilla shows underwear)",
+        "recommended": false
+      }
+    ]
+  },
+  "coen_uw": {
+    "step": "Coen - Body and scenes",
+    "name": "Underwear (normal scenes)",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "On (vanilla)",
+        "recommended": false
+      },
+      {
+        "id": "off",
+        "name": "Off (also in normal scenes)",
+        "recommended": true
+      }
+    ]
+  },
+  "genitals": {
+    "step": "Coen - Body and scenes",
+    "name": "Genitals",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "None (vanilla)",
+        "recommended": true
+      },
+      {
+        "id": "compat_coen_nude",
+        "name": "Coen's Nude Mod (ELSB fit)",
+        "recommended": false
+      }
+    ]
+  },
+  "skin": {
+    "step": "Coen - Body and scenes",
+    "name": "Skin, makeup and tattoos",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "None",
+        "recommended": true
+      }
+    ]
+  },
+  "hair": {
+    "step": "Coen - Hair and eyes",
+    "name": "Hairstyle",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": true
+      },
+      {
+        "id": "Ambrus_A",
+        "name": "Ambrus's hair",
+        "recommended": false
+      },
+      {
+        "id": "Andrei_A",
+        "name": "Andrei's hair",
+        "recommended": false
+      },
+      {
+        "id": "Commoner_B",
+        "name": "Villager hair B",
+        "recommended": false
+      },
+      {
+        "id": "Commoner_C",
+        "name": "Villager hair C",
+        "recommended": false
+      },
+      {
+        "id": "Commoner_D",
+        "name": "Villager hair D",
+        "recommended": false
+      },
+      {
+        "id": "Commoner_E",
+        "name": "Villager hair E (braids)",
+        "recommended": false
+      },
+      {
+        "id": "Commoner_F",
+        "name": "Villager hair F",
+        "recommended": false
+      },
+      {
+        "id": "Florin_A",
+        "name": "Florin's hair",
+        "recommended": false
+      },
+      {
+        "id": "Isbrand_A",
+        "name": "Isbrand's hair",
+        "recommended": false
+      },
+      {
+        "id": "Marat_B",
+        "name": "Marat's hair (tied)",
+        "recommended": false
+      },
+      {
+        "id": "Marat_C",
+        "name": "Marat's hair (loose)",
+        "recommended": false
+      },
+      {
+        "id": "Mihai_A",
+        "name": "Mihai's hair",
+        "recommended": false
+      },
+      {
+        "id": "Vicho_A",
+        "name": "Vicho's hair",
+        "recommended": false
+      }
+    ]
+  },
+  "hair_color": {
+    "step": "Coen - Hair and eyes",
+    "name": "Hair color (and brows)",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": true
+      },
+      {
+        "id": "01_black",
+        "name": "Black",
+        "recommended": false
+      },
+      {
+        "id": "02_darkbrown",
+        "name": "Dark brown",
+        "recommended": false
+      },
+      {
+        "id": "03_brown",
+        "name": "Brown",
+        "recommended": false
+      },
+      {
+        "id": "04_lightbrown",
+        "name": "Light brown",
+        "recommended": false
+      },
+      {
+        "id": "05_auburn",
+        "name": "Auburn",
+        "recommended": false
+      },
+      {
+        "id": "06_ginger",
+        "name": "Ginger",
+        "recommended": false
+      },
+      {
+        "id": "07_darkblonde",
+        "name": "Dark blonde",
+        "recommended": false
+      },
+      {
+        "id": "08_blonde",
+        "name": "Blonde",
+        "recommended": false
+      },
+      {
+        "id": "09_platinum",
+        "name": "Platinum blonde",
+        "recommended": false
+      },
+      {
+        "id": "10_saltpepper",
+        "name": "Salt and pepper",
+        "recommended": false
+      },
+      {
+        "id": "11_white",
+        "name": "White",
+        "recommended": false
+      }
+    ]
+  },
+  "beard": {
+    "step": "Coen - Hair and eyes",
+    "name": "Beard",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "None",
+        "recommended": true
+      },
+      {
+        "id": "Andrei_A",
+        "name": "Andrei's beard",
+        "recommended": false
+      },
+      {
+        "id": "Commoner_B",
+        "name": "Villager beard B",
+        "recommended": false
+      },
+      {
+        "id": "Commoner_C",
+        "name": "Villager beard C",
+        "recommended": false
+      },
+      {
+        "id": "Commoner_D",
+        "name": "Villager beard D",
+        "recommended": false
+      },
+      {
+        "id": "Commoner_E",
+        "name": "Villager beard E",
+        "recommended": false
+      },
+      {
+        "id": "Marat_A",
+        "name": "Marat's beard",
+        "recommended": false
+      },
+      {
+        "id": "Neberu_A",
+        "name": "Neberu's beard A",
+        "recommended": false
+      },
+      {
+        "id": "Pieter_A",
+        "name": "Pieter's beard",
+        "recommended": false
+      },
+      {
+        "id": "Villager_A",
+        "name": "Villager beard (other)",
+        "recommended": false
+      }
+    ]
+  },
+  "beard_color": {
+    "step": "Coen - Hair and eyes",
+    "name": "Beard color",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": true
+      },
+      {
+        "id": "01_black",
+        "name": "Black",
+        "recommended": false
+      },
+      {
+        "id": "02_darkbrown",
+        "name": "Dark brown",
+        "recommended": false
+      },
+      {
+        "id": "03_brown",
+        "name": "Brown",
+        "recommended": false
+      },
+      {
+        "id": "04_lightbrown",
+        "name": "Light brown",
+        "recommended": false
+      },
+      {
+        "id": "05_auburn",
+        "name": "Auburn",
+        "recommended": false
+      },
+      {
+        "id": "06_ginger",
+        "name": "Ginger",
+        "recommended": false
+      },
+      {
+        "id": "07_darkblonde",
+        "name": "Dark blonde",
+        "recommended": false
+      },
+      {
+        "id": "08_blonde",
+        "name": "Blonde",
+        "recommended": false
+      },
+      {
+        "id": "09_platinum",
+        "name": "Platinum blonde",
+        "recommended": false
+      },
+      {
+        "id": "10_saltpepper",
+        "name": "Salt and pepper",
+        "recommended": false
+      },
+      {
+        "id": "11_white",
+        "name": "White",
+        "recommended": false
+      }
+    ]
+  },
+  "eyes": {
+    "step": "Coen - Hair and eyes",
+    "name": "Vampire eye color",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": true
+      },
+      {
+        "id": "blue",
+        "name": "Blue",
+        "recommended": false
+      },
+      {
+        "id": "green",
+        "name": "Green",
+        "recommended": false
+      },
+      {
+        "id": "orange",
+        "name": "Orange",
+        "recommended": false
+      },
+      {
+        "id": "purple",
+        "name": "Purple",
+        "recommended": false
+      },
+      {
+        "id": "red",
+        "name": "Red",
+        "recommended": false
+      },
+      {
+        "id": "yellow",
+        "name": "Yellow",
+        "recommended": false
+      }
+    ]
+  },
+  "anca_body": {
+    "step": "Anca - Body and scenes",
+    "name": "Anca's body",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": false
+      },
+      {
+        "id": "booty",
+        "name": "ELSB",
+        "recommended": true
+      },
+      {
+        "id": "pussywalker",
+        "name": "ELSB + Pussy Walker",
+        "recommended": false
+      }
+    ]
+  },
+  "anca_scope": {
+    "step": "Anca - Body and scenes",
+    "name": "Anca's body scenes",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Naked scenes only (default)",
+        "recommended": false
+      },
+      {
+        "id": "all",
+        "name": "All scenes",
+        "recommended": true
+      }
+    ]
+  },
+  "anca_outfit": {
+    "step": "Anca - Body and scenes",
+    "name": "Anca's outfit",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": true
+      },
+      {
+        "id": "nude",
+        "name": "Naked",
+        "recommended": false
+      },
+      {
+        "id": "compat_loose_anca",
+        "name": "Wrong Sized Tanktop For Thicc Anca (ELSB fit)",
+        "recommended": false
+      },
+      {
+        "id": "compat_revealing_anca_531",
+        "name": "Revealing Anca (ELSB fit)",
+        "recommended": false
+      },
+      {
+        "id": "compat_revealing_anca_592",
+        "name": "Revealing Thicc Anca by MM (ELSB fit)",
+        "recommended": false
+      },
+      {
+        "id": "compat_thicc_anca_279",
+        "name": "Thicc Anca by MM (ELSB fit)",
+        "recommended": false
+      }
+    ]
+  },
+  "anca_skin": {
+    "step": "Anca - Body and scenes",
+    "name": "Anca's skin, makeup and tattoos",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "None",
+        "recommended": true
+      }
+    ]
+  },
+  "anca_hair": {
+    "step": "Anca - Hair and eyes",
+    "name": "Anca's hairstyle",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": true
+      },
+      {
+        "id": "Anca_B",
+        "name": "Anca's hair B (tied up)",
+        "recommended": false
+      },
+      {
+        "id": "Commoner_C",
+        "name": "Village woman hair C",
+        "recommended": false
+      },
+      {
+        "id": "Commoner_E",
+        "name": "Village woman hair E",
+        "recommended": false
+      },
+      {
+        "id": "Esme_A",
+        "name": "Esme's hair",
+        "recommended": false
+      },
+      {
+        "id": "Yanna_H",
+        "name": "Yanna's hair",
+        "recommended": false
+      }
+    ]
+  },
+  "anca_hair_color": {
+    "step": "Anca - Hair and eyes",
+    "name": "Anca's hair color (and brows)",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": true
+      },
+      {
+        "id": "01_black",
+        "name": "Black",
+        "recommended": false
+      },
+      {
+        "id": "02_darkbrown",
+        "name": "Dark brown",
+        "recommended": false
+      },
+      {
+        "id": "03_brown",
+        "name": "Brown",
+        "recommended": false
+      },
+      {
+        "id": "04_lightbrown",
+        "name": "Light brown",
+        "recommended": false
+      },
+      {
+        "id": "05_auburn",
+        "name": "Auburn",
+        "recommended": false
+      },
+      {
+        "id": "06_ginger",
+        "name": "Ginger",
+        "recommended": false
+      },
+      {
+        "id": "07_darkblonde",
+        "name": "Dark blonde",
+        "recommended": false
+      },
+      {
+        "id": "08_blonde",
+        "name": "Blonde",
+        "recommended": false
+      },
+      {
+        "id": "09_platinum",
+        "name": "Platinum blonde",
+        "recommended": false
+      },
+      {
+        "id": "10_saltpepper",
+        "name": "Salt and pepper",
+        "recommended": false
+      },
+      {
+        "id": "11_white",
+        "name": "White",
+        "recommended": false
+      }
+    ]
+  },
+  "lacra_body": {
+    "step": "Lacra - Body and scenes",
+    "name": "Lacra's body",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": false
+      },
+      {
+        "id": "fitness",
+        "name": "ELSB",
+        "recommended": true
+      },
+      {
+        "id": "pussywalker",
+        "name": "ELSB + Pussy Walker",
+        "recommended": false
+      }
+    ]
+  },
+  "lacra_scope": {
+    "step": "Lacra - Body and scenes",
+    "name": "Lacra's body scenes",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Naked scenes only (default)",
+        "recommended": true
+      },
+      {
+        "id": "all",
+        "name": "All scenes",
+        "recommended": false
+      }
+    ]
+  },
+  "lacra_outfit": {
+    "step": "Lacra - Body and scenes",
+    "name": "Lacra's outfit",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": true
+      },
+      {
+        "id": "nude",
+        "name": "Naked",
+        "recommended": false
+      },
+      {
+        "id": "compat_revealing_lacra",
+        "name": "Revealing Lacra (ELSB fit)",
+        "recommended": false
+      }
+    ]
+  },
+  "lacra_skin": {
+    "step": "Lacra - Body and scenes",
+    "name": "Lacra's skin, makeup and tattoos",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "None",
+        "recommended": false
+      },
+      {
+        "id": "compat_lacra_chest",
+        "name": "Lacra Vrakhir Chest Texture - priority patch",
+        "recommended": true
+      }
+    ]
+  },
+  "lacra_hair": {
+    "step": "Lacra - Hair and eyes",
+    "name": "Lacra's hairstyle",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": false
+      },
+      {
+        "id": "Commoner_A",
+        "name": "Village woman hair A",
+        "recommended": false
+      },
+      {
+        "id": "Commoner_B",
+        "name": "Village woman hair B",
+        "recommended": false
+      },
+      {
+        "id": "Commoner_C",
+        "name": "Village woman hair C",
+        "recommended": false
+      },
+      {
+        "id": "Commoner_E",
+        "name": "Village woman hair E",
+        "recommended": false
+      },
+      {
+        "id": "Esme_A",
+        "name": "Esme's hair",
+        "recommended": false
+      },
+      {
+        "id": "Sarah_A",
+        "name": "Sarah's hair",
+        "recommended": false
+      },
+      {
+        "id": "XanthesDaughter_A",
+        "name": "Xanthe's daughter's hair",
+        "recommended": false
+      },
+      {
+        "id": "Yanna_H",
+        "name": "Yanna's hair",
+        "recommended": false
+      },
+      {
+        "id": "compat_lacra_hair",
+        "name": "Lacra Beautiful Hair - clothing-table patch",
+        "recommended": true
+      }
+    ]
+  },
+  "lacra_hair_color": {
+    "step": "Lacra - Hair and eyes",
+    "name": "Lacra's hair color",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": true
+      },
+      {
+        "id": "01_black",
+        "name": "Black",
+        "recommended": false
+      },
+      {
+        "id": "02_darkbrown",
+        "name": "Dark brown",
+        "recommended": false
+      },
+      {
+        "id": "03_brown",
+        "name": "Brown",
+        "recommended": false
+      },
+      {
+        "id": "04_lightbrown",
+        "name": "Light brown",
+        "recommended": false
+      },
+      {
+        "id": "05_auburn",
+        "name": "Auburn",
+        "recommended": false
+      },
+      {
+        "id": "06_ginger",
+        "name": "Ginger",
+        "recommended": false
+      },
+      {
+        "id": "07_darkblonde",
+        "name": "Dark blonde",
+        "recommended": false
+      },
+      {
+        "id": "08_blonde",
+        "name": "Blonde",
+        "recommended": false
+      },
+      {
+        "id": "09_platinum",
+        "name": "Platinum blonde",
+        "recommended": false
+      },
+      {
+        "id": "10_saltpepper",
+        "name": "Salt and pepper",
+        "recommended": false
+      },
+      {
+        "id": "11_white",
+        "name": "White",
+        "recommended": false
+      }
+    ]
+  },
+  "lacra_eyes": {
+    "step": "Lacra - Hair and eyes",
+    "name": "Lacra's eye glow (vampire)",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": true
+      },
+      {
+        "id": "blue",
+        "name": "Blue",
+        "recommended": false
+      },
+      {
+        "id": "green",
+        "name": "Green",
+        "recommended": false
+      },
+      {
+        "id": "orange",
+        "name": "Orange",
+        "recommended": false
+      },
+      {
+        "id": "purple",
+        "name": "Purple",
+        "recommended": false
+      },
+      {
+        "id": "red",
+        "name": "Red",
+        "recommended": false
+      },
+      {
+        "id": "yellow",
+        "name": "Yellow",
+        "recommended": false
+      }
+    ]
+  },
+  "marat_body": {
+    "step": "Marat - Body and scenes",
+    "name": "Marat's body",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": false
+      },
+      {
+        "id": "fitness",
+        "name": "ELSB",
+        "recommended": true
+      }
+    ]
+  },
+  "marat_scope": {
+    "step": "Marat - Body and scenes",
+    "name": "Marat's body scenes",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Naked scenes only (default)",
+        "recommended": true
+      },
+      {
+        "id": "all",
+        "name": "All scenes",
+        "recommended": false
+      }
+    ]
+  },
+  "marat_romance": {
+    "step": "Marat - Body and scenes",
+    "name": "Marat's romance scenes",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": true
+      },
+      {
+        "id": "undress",
+        "name": "Undress (scenes where vanilla shows underwear)",
+        "recommended": false
+      }
+    ]
+  },
+  "marat_outfit": {
+    "step": "Marat - Body and scenes",
+    "name": "Marat's outfit",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": true
+      },
+      {
+        "id": "nude",
+        "name": "Naked",
+        "recommended": false
+      }
+    ]
+  },
+  "marat_genitals": {
+    "step": "Marat - Body and scenes",
+    "name": "Marat's genitals",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "None (vanilla)",
+        "recommended": false
+      },
+      {
+        "id": "compat_coen_nude_marat",
+        "name": "Coen Nude - Marat fit",
+        "recommended": true
+      }
+    ]
+  },
+  "marat_skin": {
+    "step": "Marat - Body and scenes",
+    "name": "Marat's skin, makeup and tattoos",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "None",
+        "recommended": true
+      }
+    ]
+  },
+  "marat_hair": {
+    "step": "Marat - Hair and eyes",
+    "name": "Marat's hairstyle",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": true
+      },
+      {
+        "id": "Ambrus_A",
+        "name": "Ambrus's hair",
+        "recommended": false
+      },
+      {
+        "id": "Commoner_B",
+        "name": "Villager hair B",
+        "recommended": false
+      },
+      {
+        "id": "Commoner_D",
+        "name": "Villager hair D",
+        "recommended": false
+      },
+      {
+        "id": "Commoner_F",
+        "name": "Villager hair F",
+        "recommended": false
+      },
+      {
+        "id": "Isbrand_A",
+        "name": "Isbrand's hair",
+        "recommended": false
+      },
+      {
+        "id": "Mihai_A",
+        "name": "Mihai's hair",
+        "recommended": false
+      }
+    ]
+  },
+  "marat_hair_color": {
+    "step": "Marat - Hair and eyes",
+    "name": "Marat's hair color (and brows)",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": true
+      },
+      {
+        "id": "01_black",
+        "name": "Black",
+        "recommended": false
+      },
+      {
+        "id": "02_darkbrown",
+        "name": "Dark brown",
+        "recommended": false
+      },
+      {
+        "id": "03_brown",
+        "name": "Brown",
+        "recommended": false
+      },
+      {
+        "id": "04_lightbrown",
+        "name": "Light brown",
+        "recommended": false
+      },
+      {
+        "id": "05_auburn",
+        "name": "Auburn",
+        "recommended": false
+      },
+      {
+        "id": "06_ginger",
+        "name": "Ginger",
+        "recommended": false
+      },
+      {
+        "id": "07_darkblonde",
+        "name": "Dark blonde",
+        "recommended": false
+      },
+      {
+        "id": "08_blonde",
+        "name": "Blonde",
+        "recommended": false
+      },
+      {
+        "id": "09_platinum",
+        "name": "Platinum blonde",
+        "recommended": false
+      },
+      {
+        "id": "10_saltpepper",
+        "name": "Salt and pepper",
+        "recommended": false
+      },
+      {
+        "id": "11_white",
+        "name": "White",
+        "recommended": false
+      }
+    ]
+  },
+  "marat_beard": {
+    "step": "Marat - Hair and eyes",
+    "name": "Marat's beard",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": true
+      },
+      {
+        "id": "0_none",
+        "name": "None (clean-shaven)",
+        "recommended": false
+      },
+      {
+        "id": "Andrei_A",
+        "name": "Andrei's beard (light stubble)",
+        "recommended": false
+      },
+      {
+        "id": "Commoner_B",
+        "name": "Villager beard B",
+        "recommended": false
+      },
+      {
+        "id": "Commoner_C",
+        "name": "Villager beard C",
+        "recommended": false
+      },
+      {
+        "id": "Commoner_D",
+        "name": "Villager beard D",
+        "recommended": false
+      },
+      {
+        "id": "Commoner_E",
+        "name": "Villager beard E",
+        "recommended": false
+      },
+      {
+        "id": "Neberu_A",
+        "name": "Neberu's beard A",
+        "recommended": false
+      },
+      {
+        "id": "Pieter_A",
+        "name": "Pieter's beard",
+        "recommended": false
+      },
+      {
+        "id": "Villager_A",
+        "name": "Villager beard (other)",
+        "recommended": false
+      }
+    ]
+  },
+  "marat_beard_color": {
+    "step": "Marat - Hair and eyes",
+    "name": "Marat's beard color",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": true
+      },
+      {
+        "id": "01_black",
+        "name": "Black",
+        "recommended": false
+      },
+      {
+        "id": "02_darkbrown",
+        "name": "Dark brown",
+        "recommended": false
+      },
+      {
+        "id": "03_brown",
+        "name": "Brown",
+        "recommended": false
+      },
+      {
+        "id": "04_lightbrown",
+        "name": "Light brown",
+        "recommended": false
+      },
+      {
+        "id": "05_auburn",
+        "name": "Auburn",
+        "recommended": false
+      },
+      {
+        "id": "06_ginger",
+        "name": "Ginger",
+        "recommended": false
+      },
+      {
+        "id": "07_darkblonde",
+        "name": "Dark blonde",
+        "recommended": false
+      },
+      {
+        "id": "08_blonde",
+        "name": "Blonde",
+        "recommended": false
+      },
+      {
+        "id": "09_platinum",
+        "name": "Platinum blonde",
+        "recommended": false
+      },
+      {
+        "id": "10_saltpepper",
+        "name": "Salt and pepper",
+        "recommended": false
+      },
+      {
+        "id": "11_white",
+        "name": "White",
+        "recommended": false
+      }
+    ]
+  }
+}

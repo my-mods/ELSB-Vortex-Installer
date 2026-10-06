@@ -1,0 +1,8 @@
+Personal development package. All upstream content remains the property of
+its respective authors and rights holders. No license to redistribute the
+ELSB toolkit, donor content, game assets or third-party patch derivatives is
+granted by this package. Check upstream permissions for the exact content
+and destination before any remote upload. No public release is included.
+
+Installer metadata, audit implementation and original integration work are
+provided for this personal package. They do not supersede upstream rights.

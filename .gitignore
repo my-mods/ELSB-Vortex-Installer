@@ -1,0 +1,4 @@
+.local/
+*.zip
+Reports/
+Audit/__pycache__/

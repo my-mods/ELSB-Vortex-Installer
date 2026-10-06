@@ -1,0 +1,57 @@
+Verification status -- personal development build, 2026-10-06
+
+Completed asset and package checks
+- All 828 original ELSB payload files (276 triples) match their local 1.1.1
+  inputs byte-for-byte. All 18 existing personal add-on files match their
+  previously verified inputs. Original toolkit files and settings are preserved.
+- All 24 personal/add-on container variants pass retoc verification: six
+  reused body/scope/outfit containers and eighteen new compatibility variants
+  (seventeen clothing tables and one chest texture container).
+- Each new hair table round-trips through UAssetAPI and independently through
+  CUE4Parse. All 928 original rows, including hard object/audio references,
+  remain equal; the donor hair row is the only addition. One of the seventeen
+  variants is a retained redundant upstream-table case; the wizard installs
+  only the effective winner's patch.
+- The chest patch round-trip retains the original texture properties/native
+  exports and bulk mip bytes. Its three asset paths are Lacra torso textures.
+- Reused personal meshes/materials/presets match the existing verified add-on.
+  Its original geometry checks covered four LODs, skin weights, waist seams,
+  unchanged geometry outside the graft, private texture/material paths and
+  unchanged torso assets. The new installer does not rebuild those meshes.
+- Actual installed Vortex 2.7.2 native FOMOD engine: 349 scenarios, including
+  all nine Anca/Lacra body combinations, every selectable option, paired beard
+  colours, scene/outfit rules, conditional fitted patches and hair-table winners.
+- Saved installer choices reopen without changes. Switching to Vanilla and
+  restoring the saved choices are covered. No runtime INI/menu is introduced.
+- Installed Dawnwalker extension 1.1.0 executed with disposable discovery
+  state: XML FOMOD takes precedence over its generic pak installer; explicit
+  dawnwalker-root routing resolves every selected triple to the correct path.
+- Fixture-only hardlink lifecycle checks cover repeat application, reinstall,
+  removal of options, disabling and restoration, with unrelated files retained.
+- The read-only auditor distinguishes active bytes from staged originals,
+  preserves managed ownership and rejects changed source hashes. The local
+  reapply workflow rejects missing, changed and duplicate upstream anchors.
+- Final archive contents and hashes are checked against the allowlist and
+  source files. The actual ZIP's extracted wizard is tested with the same
+  installed FOMOD engine and extension. The Latest Archives pickup is hash-matched.
+
+Inherited limitations
+261 of the 276 original ELSB container variants fail retoc verification with
+an inherited chunk hash mismatch. Their original hashes are recorded and
+their bytes have deliberately not been rewritten. The original fitted outfit
+patches carry this limitation. Preserving them is not a claim that the
+upstream checksums are valid.
+
+Local originals for Coen Nude, Revealing Anca 531 and Revealing Lacra 501
+match their patch-manifest hashes. The three other upstream Anca outfit
+originals were unavailable for combination checks. Their installer conditions
+are covered, but their full combinations remain unvalidated.
+
+Pending gameplay acceptance
+Animation and extreme poses; clothing fit and transitions; story scars,
+wounds, ritual/romance states; camera-distance and LOD transitions; final
+visual acceptance of hair and chest appearance. Offline reference/priority
+checks do not establish these results. No gameplay performance claim is made.
+
+No live Vortex installation, activation, deactivation, deployment, migration
+or public upload was performed as part of this development work.

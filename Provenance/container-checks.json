@@ -1,0 +1,1802 @@
+[
+  {
+    "path": "Payload/ELSB/_core/ELSB_ZCoreSK_P.utoc",
+    "sha256": "8c044adb4cb786a14e186a3ea85d155764ca1fbccd047ae3b321c92eb1f5a053",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/ELSB/_core/ELSB_ZCore_P.utoc",
+    "sha256": "9f95a512c88b80bb5707c6194da83784af76addfe6d10c5e550e6c80e08e543d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/anca_body/booty/ELSB_AncaBodyBDP_P.utoc",
+    "sha256": "b75a1d93af563f7227fc46858c833e3d922733387882ed03df37c3fbb23f0df9",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/anca_body/booty/ELSB_AncaBodyHead_P.utoc",
+    "sha256": "aaded339d11893e4f0280d0ea0b8aa024fb31a3f50dcb4404f31174492248530",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/anca_body/booty/ELSB_AncaBodyNeck_P.utoc",
+    "sha256": "9f4341278ddc455160e1af9fa2778ed79caf7a9a182c3e34d9b463a0f9e5ff63",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/ELSB/anca_body/booty/ELSB_AncaBody_P.utoc",
+    "sha256": "a57395bdc6f976ab7cad5ffc2cd14f588ddcfd19b26418295e14bb85f9c5ff3b",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/ELSB/anca_hair/Anca_B/ELSB_AncaHair_P.utoc",
+    "sha256": "ade505cbc971f4cc325398b6f66f5100872abed99b6a25161e33c0c56aae2648",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/anca_hair/Commoner_C/ELSB_AncaHair_P.utoc",
+    "sha256": "2d48c037ebfc409f2c47df5524183323269b61a0096f13e566f979c928fc1af8",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/anca_hair/Commoner_E/ELSB_AncaHair_P.utoc",
+    "sha256": "944a9453b73001e1c8c4f175d1c526ad7a03b4a8967156fbe41208a125344994",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/anca_hair/Esme_A/ELSB_AncaHair_P.utoc",
+    "sha256": "d0580b8f7f830a1fadda6dd15f3eb6eabcb89b0ba159cf1db45e3a41b9722023",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/anca_hair/Yanna_H/ELSB_AncaHair_P.utoc",
+    "sha256": "64a6d91288e3bbfd5d38b93887182e516de0a77745c6a8af18ca171f89f17d42",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/anca_hair_color/01_black/ELSB_0ColorAncaHair_P.utoc",
+    "sha256": "7af8e2c338230c243fa7f96411342f10dcd4b7b9ad5a5c20ff0e21cf7db70d38",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/anca_hair_color/02_darkbrown/ELSB_0ColorAncaHair_P.utoc",
+    "sha256": "ea120303e91530d9452b08138c213320c71620c53f1ee97be70daa7d628de8f6",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/anca_hair_color/03_brown/ELSB_0ColorAncaHair_P.utoc",
+    "sha256": "49378e5607f5ac7b6eecc856a6a2b70d81d6cb3d202b7cc4c96656fb3e025973",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/anca_hair_color/04_lightbrown/ELSB_0ColorAncaHair_P.utoc",
+    "sha256": "ebc218dfcbe7d386f5911a89983a0721333aba181269f743088f9b3b68bc802d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/anca_hair_color/05_auburn/ELSB_0ColorAncaHair_P.utoc",
+    "sha256": "e42283a5e1d0bca539ab2feece30ea0f0198eb7ffa70aa3894338af90cbd3001",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/anca_hair_color/06_ginger/ELSB_0ColorAncaHair_P.utoc",
+    "sha256": "4c51f3d69cf843032d5ae8beeb83fdc47445ba2bdb184703411c262370021f85",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/anca_hair_color/07_darkblonde/ELSB_0ColorAncaHair_P.utoc",
+    "sha256": "8af24d7a19d6401ae311ec3f9d2a0604fe11a1028541fe889bc9fc518a64c589",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/anca_hair_color/08_blonde/ELSB_0ColorAncaHair_P.utoc",
+    "sha256": "85c9bb3090c8f02b355a6a24b89f82b42e68393f91e2db2ac796e40931d26bbe",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/anca_hair_color/09_platinum/ELSB_0ColorAncaHair_P.utoc",
+    "sha256": "aabed907ba97d7f88f189748ece09e40d33cbd96f60c270fa00a58b7e0007aa9",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/anca_hair_color/10_saltpepper/ELSB_0ColorAncaHair_P.utoc",
+    "sha256": "7b8d6dbabbef51537129d39056d701d5f53e5a61b53748a0738ed0762e42c672",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/anca_hair_color/11_white/ELSB_0ColorAncaHair_P.utoc",
+    "sha256": "d6dbbad2f6cf8c62685216e04fc21deafdc87e2da3735cfe6dee7622d0a248fb",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/anca_outfit/nude/ELSB_AncaOutfit_P.utoc",
+    "sha256": "0d8fa9a5e4df5950785829c10c804f98808673e3c89cbd10281d5ab57d51bd97",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/anca_scope/all/ELSB_AncaScopeGarmSK_P.utoc",
+    "sha256": "83e36ad52d3c6b574cd5d8dec717f8b28c9dc31e5e708b4f699296a0f981f695",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/anca_scope/all/ELSB_AncaScopeGarm_P.utoc",
+    "sha256": "b96ad8cd5518b1fc023b7fde610701367cde0a8ad41f52f2ce14a740c61bb48d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/anca_scope/all/ELSB_AncaScope_P.utoc",
+    "sha256": "4358215996d440f96917df5de15ae265f68384472305831b5daea1279f7f0c83",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/beard/Andrei_A/ELSB_Beard_P.utoc",
+    "sha256": "0d01de2f6218f289dc5dcd19fc3c7f38fd0eb6afb1a408bfb65244cd3c966bfd",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/beard/Commoner_B/ELSB_Beard_P.utoc",
+    "sha256": "eb587e407b7c0f9c87ea30c160c857a89bd41fd71e5f80509809bd42e4697de2",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/beard/Commoner_C/ELSB_Beard_P.utoc",
+    "sha256": "d93b72998161a58f30f46f19997e2c162bac24588d4ad937f260f04a33d3749d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/beard/Commoner_D/ELSB_Beard_P.utoc",
+    "sha256": "57fc586cda78d875772a52bf5ae8b2e4ef21e9e9a97dddc336e768634e084259",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/beard/Commoner_E/ELSB_Beard_P.utoc",
+    "sha256": "c61ad361bb059f6f17023fdf5bfa455c18153c9a8baf46b607c1b32049908c79",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/beard/Marat_A/ELSB_Beard_P.utoc",
+    "sha256": "e8c2844f728fe01187d0cbd08070191c1269fbb6edecfef28070673ef934eb11",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/beard/Neberu_A/ELSB_Beard_P.utoc",
+    "sha256": "c26096272308494e6fc8999d213944ee19a95dc635779866d28c4d7df4708fa7",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/beard/Pieter_A/ELSB_Beard_P.utoc",
+    "sha256": "e75f882795163b980e98080000e0bae299931fe96e4dca52177f6267d2432656",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/beard/Villager_A/ELSB_Beard_P.utoc",
+    "sha256": "b29fa8b6a9dbd9655822c858a73df65c56c61fd07b699a42c5f62ba4d10f2dd7",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/beard_color/01_black/ELSB_0ColorBeard_P.utoc",
+    "sha256": "01e22300e5cb051cbbf371f8ac981ca17457d0d87180b3d88afbd5b43f6a7b5e",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/beard_color/02_darkbrown/ELSB_0ColorBeard_P.utoc",
+    "sha256": "8517b75b32eb83519ae15e02d341a958462d566d72353d0e3f743ae25c5c5500",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/beard_color/03_brown/ELSB_0ColorBeard_P.utoc",
+    "sha256": "00e39d439b4e2799a904e568746879029c8c26b3952f4e722131f367c39d742a",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/beard_color/04_lightbrown/ELSB_0ColorBeard_P.utoc",
+    "sha256": "e3bf001608667d971f78e7c5be234c4b30c39959618771ae2bee261e8f9b1889",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/beard_color/05_auburn/ELSB_0ColorBeard_P.utoc",
+    "sha256": "54f242e514fc2b0003b06ea1827745b6329aa7d1211c62ef118220c6b486bb2d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/beard_color/06_ginger/ELSB_0ColorBeard_P.utoc",
+    "sha256": "a9e81a43f733c1e601e23952fc2df54851528d6e7234b2a0dab7ccdd039cb725",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/beard_color/07_darkblonde/ELSB_0ColorBeard_P.utoc",
+    "sha256": "73e7f848b6331c41237e89d1ed6e5ee75a506e8eed17d82939fb6cb3d383a1be",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/beard_color/08_blonde/ELSB_0ColorBeard_P.utoc",
+    "sha256": "e85462cfa5b03677316de90a18ae73888a96a35d5fa875ef7219eb0eb923caa0",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/beard_color/09_platinum/ELSB_0ColorBeard_P.utoc",
+    "sha256": "695192b33f76d2db49f6fca25c3f6fadfe85e697d9eca23ffb2cc91200fd9272",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/beard_color/10_saltpepper/ELSB_0ColorBeard_P.utoc",
+    "sha256": "48e490b16c2ec4459294b66fbb43aafae71387810ae28f54ee0566946aa38ec6",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/beard_color/11_white/ELSB_0ColorBeard_P.utoc",
+    "sha256": "383a16e9eb7b2cb7a7d7cadab0ed937ca74a5287db26137d2289dae87f3ec252",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/body/masculine/ELSB_BodyGarmSK_P.utoc",
+    "sha256": "0b7998e8351902eeed7f06a984bc13fbe61cde6cc6aa963904406ad0fc3712d6",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/ELSB/body/masculine/ELSB_BodyGarm_P.utoc",
+    "sha256": "f3390a52354c3ab23792ec80c8ffce3639b17ea78b0b212c3ff66011473f243a",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/body/masculine/ELSB_BodyHead_P.utoc",
+    "sha256": "bdb71f89f3dacb4e0c36d922503e783c15da824e9c68605f77431e2a662a42ed",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/body/masculine/ELSB_Body_P.utoc",
+    "sha256": "f8af7633cb814813fc6d4a5d19e4e344adf4ad666b4f05fea6be8dd925ead1e9",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/ELSB/coen_uw/off/ELSB_Underwear_P.utoc",
+    "sha256": "d2ad4ba9c2e3fdf11631c01d4d63a02656b53d40bca511bb5dc639c0241252c0",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/compat/coen_nude/0ELSB_CompatCoenNudeMaratTex_P.utoc",
+    "sha256": "c3548fb2608bad445e7cf4502d2889767d0493feaca90a359b90119a75a53d6d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/ELSB/compat/coen_nude/0ELSB_CompatCoenNudeMarat_P.utoc",
+    "sha256": "cc719eb83007407e8ae053ee3a32b46a2d8b9bce90ae7184be740f9e269c4e77",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/compat/coen_nude/0ELSB_CompatCoenNudeTex_P.utoc",
+    "sha256": "3ef9c0d2e49890aecba8165fbe599cbd14f78eb63f024e7781a99014da30b6f4",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/ELSB/compat/coen_nude/0ELSB_CompatCoenNude_P.utoc",
+    "sha256": "8fb2bbbf0fc2649362a82d2c76e898652c9187eb0a39fbead9368c9bd9f2b7ef",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/compat/loose_anca/0ELSB_CompatLooseAncaPlayAs_P.utoc",
+    "sha256": "62b7e1c00a60264e79144a5ccdd45f6fc6c651ae35416b1d267494b2c10a6085",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/compat/loose_anca/0ELSB_CompatLooseAnca_P.utoc",
+    "sha256": "2ae4de5f5fba6de27e261c443fee2d90a429ddd948b656db01dc100f76e3d1a6",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/compat/revealing_anca_531/0ELSB_CompatRevealingAnca531PlayAs_P.utoc",
+    "sha256": "5c8e95d2e9e8dddcb1cd6eb903e3f84b7551be8399d1d3e484fd2a87ac84a18a",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/compat/revealing_anca_531/0ELSB_CompatRevealingAnca531_P.utoc",
+    "sha256": "9496640ad2eb8232bfc3d3a5d9a57c1705e982016fe145106150185ae8db6312",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/compat/revealing_anca_592/0ELSB_CompatRevealingAnca592PlayAs_P.utoc",
+    "sha256": "b9bf0e9bdfb0d1f42eb528ba1cc7ddbac688c2d2f98b3007a75f134ae9d83208",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/compat/revealing_anca_592/0ELSB_CompatRevealingAnca592_P.utoc",
+    "sha256": "781d47120ff8e6f6ee8afbeba83ed0ade510a3f202d57bec45c0e1fe926b8914",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/compat/revealing_lacra/0ELSB_CompatRevealingLacra_P.utoc",
+    "sha256": "63eef4ae3296dec41f5ba3b5b56e30fe407cd48f92ae21c2afc354326785c15a",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/compat/thicc_anca_279/0ELSB_CompatThiccAnca279PlayAs_P.utoc",
+    "sha256": "cab7201b646dd69dd632218597097795d72a78f228fb6acc6a3e6be1c4da67df",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/compat/thicc_anca_279/0ELSB_CompatThiccAnca279_P.utoc",
+    "sha256": "d663649384d912b1750c5483270856c014ae8dd34991a729825630b8116a923b",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/eyes/blue/ELSB_Eyes_P.utoc",
+    "sha256": "89e1e775e40c1e81489c6bcdcc07b3aa01e45da02a6e18445acd755fd79cd554",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/eyes/green/ELSB_Eyes_P.utoc",
+    "sha256": "89e1e775e40c1e81489c6bcdcc07b3aa01e45da02a6e18445acd755fd79cd554",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/eyes/orange/ELSB_Eyes_P.utoc",
+    "sha256": "89e1e775e40c1e81489c6bcdcc07b3aa01e45da02a6e18445acd755fd79cd554",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/eyes/purple/ELSB_Eyes_P.utoc",
+    "sha256": "89e1e775e40c1e81489c6bcdcc07b3aa01e45da02a6e18445acd755fd79cd554",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/eyes/red/ELSB_Eyes_P.utoc",
+    "sha256": "89e1e775e40c1e81489c6bcdcc07b3aa01e45da02a6e18445acd755fd79cd554",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/eyes/yellow/ELSB_Eyes_P.utoc",
+    "sha256": "89e1e775e40c1e81489c6bcdcc07b3aa01e45da02a6e18445acd755fd79cd554",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/hair/Ambrus_A/ELSB_Hair_P.utoc",
+    "sha256": "331178c08f2961ebcbc2579335f8026599769065c0675dbc2a01075f2cb43eae",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/hair/Andrei_A/ELSB_Hair_P.utoc",
+    "sha256": "38c739f5f85c28fb7ada7c8bd79c9495591e09f9d0f567aff7def562f6f3ad5e",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/hair/Commoner_B/ELSB_Hair_P.utoc",
+    "sha256": "898ddde7adb1aab5c299dbd415b39482d47e65dd565a04969e484266cda44160",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/hair/Commoner_C/ELSB_Hair_P.utoc",
+    "sha256": "462577c189f266e6d19c58a2f12327e10b0d74de7afbc8fa22805ae78e46cca3",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/hair/Commoner_D/ELSB_Hair_P.utoc",
+    "sha256": "2d33f041f203c017c298e9e955f10e3c8a804465e1c3ddd544f71db83eb60fc0",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/hair/Commoner_E/ELSB_Hair_P.utoc",
+    "sha256": "433e54bedc021cb844b73ec940eb4bb9540985ca17c59d6ad7f40e25c7c35be5",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/hair/Commoner_F/ELSB_Hair_P.utoc",
+    "sha256": "ebd0cba264c3294affc35626d33105d3382286407413de215bdfc4d1669fd3f7",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/hair/Florin_A/ELSB_Hair_P.utoc",
+    "sha256": "8ddfd5fc2a999a436fe58919106b6534fbefb86464e64af034b418473c5547ee",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/hair/Isbrand_A/ELSB_Hair_P.utoc",
+    "sha256": "ea1fbb7e1ec8ce56c1d0aaf7023027c17dc61c32a6f7fac61291d45c0ced5172",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/hair/Marat_B/ELSB_Hair_P.utoc",
+    "sha256": "c30f84155bcca3d8dab03a7139c94c1cb9492e30598c20b6145fb91529e0c8ef",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/hair/Marat_C/ELSB_Hair_P.utoc",
+    "sha256": "9a46cd6218963dbca5d7566a497fb7fe86925566355fe0737e00dfc94bb11a34",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/hair/Mihai_A/ELSB_Hair_P.utoc",
+    "sha256": "029102634db651d85c434d013032b5b76ecede5a396e7bf0179c5474d2d3a56b",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/hair/Vicho_A/ELSB_Hair_P.utoc",
+    "sha256": "246eba26b2fb4176ad8ca946eb1fc4a1ca6c5c458b933ca0e1f6c82f2c4cb054",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/hair_color/01_black/ELSB_0ColorHair_P.utoc",
+    "sha256": "b77d930b4d42b515c38d40439fab430bddcb972df9e507f98a15a1e7b358e132",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/hair_color/02_darkbrown/ELSB_0ColorHair_P.utoc",
+    "sha256": "a8024132b82ad120b5763b57e45962fbb9abfe64871c812efc212ac2e7b2f279",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/hair_color/03_brown/ELSB_0ColorHair_P.utoc",
+    "sha256": "342f56a38d1bbd33661c25732c09a3a70666aad58deee7392aec3ab11395133c",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/hair_color/04_lightbrown/ELSB_0ColorHair_P.utoc",
+    "sha256": "2aff8433a7b6172b68a3362d7b3f6bf0185670d62249eb1a62cb93dc5dc700fc",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/hair_color/05_auburn/ELSB_0ColorHair_P.utoc",
+    "sha256": "ae0a9017fe9ed24266a3cbcb8576a5a4ec98887ab1f151f1ebe35d7508591db1",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/hair_color/06_ginger/ELSB_0ColorHair_P.utoc",
+    "sha256": "3bcdb720fc85a7e510658bf8c78f819fca0308ed60e42a4096ef62214ed99199",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/hair_color/07_darkblonde/ELSB_0ColorHair_P.utoc",
+    "sha256": "dd7fff33caeac48d2547a521a93605bfa610781971e4e9e2d93845c0aae61a7c",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/hair_color/08_blonde/ELSB_0ColorHair_P.utoc",
+    "sha256": "b54cfc748529589c6cc372d709347085505c0232f7cb0000e180401c2bb4e6de",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/hair_color/09_platinum/ELSB_0ColorHair_P.utoc",
+    "sha256": "88bb3c5944b22b77b2dc3007b17207fe1d64817004aaad9460af6f6184064b27",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/hair_color/10_saltpepper/ELSB_0ColorHair_P.utoc",
+    "sha256": "952e02dd98b64b6e14d793a12b158dc8ef60b9ca06cc30e9db86167e8bf8ff44",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/hair_color/11_white/ELSB_0ColorHair_P.utoc",
+    "sha256": "6f349a5f72a5302b7bffe61cfa959c5c510f0dc16d7c6915f600dc8551448b27",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_body/fitness/ELSB_LacraBodyBDP_P.utoc",
+    "sha256": "fb67c274303d6d55b5d4dec858cb4e16f0b467ceed0ad9b81aabc8511dc45393",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_body/fitness/ELSB_LacraBodyHead_P.utoc",
+    "sha256": "a2a3585282d98e8bc8fb0640d06f724cc1a87aa107974a7849d071ae3b2b2fe4",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_body/fitness/ELSB_LacraBodyNeck_P.utoc",
+    "sha256": "dab7ad786d82be4a3d8477d47b2c411f96e196e1ebd11b574888834fdc47b573",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/ELSB/lacra_body/fitness/ELSB_LacraBody_P.utoc",
+    "sha256": "e17fa6e053ab5099fb21ce9348286a434dc87be9d9bbfa1c79dbde2e75f44e25",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/ELSB/lacra_eyes/blue/ELSB_LacraEyes_P.utoc",
+    "sha256": "d6d49176ce5337a2fbba3e47b96e19708f2d783ea87f1aedb637955627b008c5",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_eyes/green/ELSB_LacraEyes_P.utoc",
+    "sha256": "d6d49176ce5337a2fbba3e47b96e19708f2d783ea87f1aedb637955627b008c5",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_eyes/orange/ELSB_LacraEyes_P.utoc",
+    "sha256": "d6d49176ce5337a2fbba3e47b96e19708f2d783ea87f1aedb637955627b008c5",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_eyes/purple/ELSB_LacraEyes_P.utoc",
+    "sha256": "d6d49176ce5337a2fbba3e47b96e19708f2d783ea87f1aedb637955627b008c5",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_eyes/red/ELSB_LacraEyes_P.utoc",
+    "sha256": "d6d49176ce5337a2fbba3e47b96e19708f2d783ea87f1aedb637955627b008c5",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_eyes/yellow/ELSB_LacraEyes_P.utoc",
+    "sha256": "d6d49176ce5337a2fbba3e47b96e19708f2d783ea87f1aedb637955627b008c5",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair/Commoner_A/ELSB_LacraHairPin_P.utoc",
+    "sha256": "27812717859ec3c7e648a35a085c5c919c75a46693202bc2025ca585e8346cc7",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair/Commoner_A/ELSB_LacraHair_P.utoc",
+    "sha256": "f191015f6267c5abe48cd8a978481caf75220ea6a2d90dd441daf28d43cf5fa4",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair/Commoner_B/ELSB_LacraHairPin_P.utoc",
+    "sha256": "27812717859ec3c7e648a35a085c5c919c75a46693202bc2025ca585e8346cc7",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair/Commoner_B/ELSB_LacraHair_P.utoc",
+    "sha256": "d2144196e9eb4e111fd16de70ba42dbd4c443b41a1fb2699b3417c5ba5d22535",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair/Commoner_C/ELSB_LacraHairPin_P.utoc",
+    "sha256": "27812717859ec3c7e648a35a085c5c919c75a46693202bc2025ca585e8346cc7",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair/Commoner_C/ELSB_LacraHair_P.utoc",
+    "sha256": "5c116940d238583593aae943dcb5339ba0ab40f951c71806db8580377bf2fece",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair/Commoner_E/ELSB_LacraHairPin_P.utoc",
+    "sha256": "27812717859ec3c7e648a35a085c5c919c75a46693202bc2025ca585e8346cc7",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair/Commoner_E/ELSB_LacraHair_P.utoc",
+    "sha256": "5b0bbab4abbf8b82f0d7d1547469f840f72d6b8099d115b636d5026a1c223737",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair/Esme_A/ELSB_LacraHairPin_P.utoc",
+    "sha256": "27812717859ec3c7e648a35a085c5c919c75a46693202bc2025ca585e8346cc7",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair/Esme_A/ELSB_LacraHair_P.utoc",
+    "sha256": "3ce66caef1d1ea8c2c1e98beff00960189b1a1137c2e5703374478de8ef64bbd",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair/Sarah_A/ELSB_LacraHairPin_P.utoc",
+    "sha256": "27812717859ec3c7e648a35a085c5c919c75a46693202bc2025ca585e8346cc7",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair/Sarah_A/ELSB_LacraHair_P.utoc",
+    "sha256": "d50c29f30ff2a929f0482a580a13a28a4f96541c6c177d54b3fa906e15e615db",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair/XanthesDaughter_A/ELSB_LacraHairPin_P.utoc",
+    "sha256": "27812717859ec3c7e648a35a085c5c919c75a46693202bc2025ca585e8346cc7",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair/XanthesDaughter_A/ELSB_LacraHair_P.utoc",
+    "sha256": "1543c363147a0ae0f604945cb2fcd53717fc7f7d665dc68abf277c839f814818",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair/Yanna_H/ELSB_LacraHairPin_P.utoc",
+    "sha256": "27812717859ec3c7e648a35a085c5c919c75a46693202bc2025ca585e8346cc7",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair/Yanna_H/ELSB_LacraHair_P.utoc",
+    "sha256": "a3c19e8447ad75e9c82cfa861e030514623563816bef556e5012d1109bf1fd7e",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair_color/01_black/ELSB_0ColorLacraHair_P.utoc",
+    "sha256": "7a9102c205518aeb2e9ce4da4c799525f0cffd11feb2368c070035662c237cf6",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair_color/02_darkbrown/ELSB_0ColorLacraHair_P.utoc",
+    "sha256": "0e1772047f4124468fb87941ab1d3a75584dc2bda02894239d4f1d43d7bf44a4",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair_color/03_brown/ELSB_0ColorLacraHair_P.utoc",
+    "sha256": "de8894bf82d54587ed570ad71d8661346e4c23db79333188c42d84103401a0ba",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair_color/04_lightbrown/ELSB_0ColorLacraHair_P.utoc",
+    "sha256": "1937e198c1dc2b39ad345da51fd85206985300c11c1a8f2ac66caa4a9de73588",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair_color/05_auburn/ELSB_0ColorLacraHair_P.utoc",
+    "sha256": "e6f50408e829b5951e26f39d6a2f0ba3b07fff65ed91df712d9cd8a1da4ae5f6",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair_color/06_ginger/ELSB_0ColorLacraHair_P.utoc",
+    "sha256": "46361aba11368da80d44f910ae0161d0d12158d089a30bff7b5a47e85055ab89",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair_color/07_darkblonde/ELSB_0ColorLacraHair_P.utoc",
+    "sha256": "17d05f88347cff2fed25afd33818b2c59a41db5de8b84f8656e8735acdc01583",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair_color/08_blonde/ELSB_0ColorLacraHair_P.utoc",
+    "sha256": "763732c0624af96d024ce988121c833e14b6b91b2d5131c4dacea0891fae7663",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair_color/09_platinum/ELSB_0ColorLacraHair_P.utoc",
+    "sha256": "490279353255de59e27fb7a47720b3ae1c1819e82bbbb48c007afd389de59cf0",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair_color/10_saltpepper/ELSB_0ColorLacraHair_P.utoc",
+    "sha256": "952bc295c569cefce848afa36e48e192130794b7a8eb4568268b802392d95215",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_hair_color/11_white/ELSB_0ColorLacraHair_P.utoc",
+    "sha256": "b3b243cdd5baa1d58fa5d9f2fc4188e5a5cdd959dbdc9369e0a535673ebb574c",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_outfit/nude/ELSB_LacraOutfitNeck_P.utoc",
+    "sha256": "0281092d1e7d93b1db1f8435cfef9a40b02af0037742992b14ba6042cd372f1b",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/ELSB/lacra_outfit/nude/ELSB_LacraOutfit_P.utoc",
+    "sha256": "bfb2a56b7dca824211c03f24840b9eb345289d88189f4ee643f6590123905af8",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_scope/all/ELSB_LacraScopeGarmSK_P.utoc",
+    "sha256": "493874113b71b8013ef2d63827a300d38e0f7e29cc328ab839494a7e482b259f",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/ELSB/lacra_scope/all/ELSB_LacraScopeGarm_P.utoc",
+    "sha256": "99b42978d2810d9753e5e94ba04ad90c62126c60c07a28d396952034119c847b",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/lacra_scope/all/ELSB_LacraScope_P.utoc",
+    "sha256": "71b1542d30ac7b53279a884ae87bfff492e3d3301d85de223ca5cd7afb9dfba5",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard/0_none/ELSB_MaratBeard_P.utoc",
+    "sha256": "1538adc6022e72d50c7d9657b7427965a2fa45e7b37af301d41071ddac23b83c",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard/Andrei_A/ELSB_MaratBeard_P.utoc",
+    "sha256": "a81cba9b69e8122c8b99fa314c6ed8cd3f931327afe9b6820e85fafa992aabc8",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard/Commoner_B/ELSB_MaratBeard_P.utoc",
+    "sha256": "37e1dd468571717a7d64ffe2d393707fc79b6644fa03228a47287aaed62f2eb3",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard/Commoner_C/ELSB_MaratBeard_P.utoc",
+    "sha256": "626c2f5b43fbd27a777a20efe59549f57b4e827126d8332111c8aeae75949f56",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard/Commoner_D/ELSB_MaratBeard_P.utoc",
+    "sha256": "bd5789688aafb36d79f4ad326a8fdce200875b779b807b69cfe7b62cd3e0ba63",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard/Commoner_E/ELSB_MaratBeard_P.utoc",
+    "sha256": "b7081337fa26a42e7de7a9b7baa45af896000f68b8fabccf299d054477719b1b",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard/Neberu_A/ELSB_MaratBeard_P.utoc",
+    "sha256": "7fdc5cb2d41f56d27b57125be3605107bb6338de793d56bf1af528f5add97c8f",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard/Pieter_A/ELSB_MaratBeard_P.utoc",
+    "sha256": "4bdd3b542940aa42360c1946ec3e76cbf898c00cf3916faed700f53fcc31c383",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard/Villager_A/ELSB_MaratBeard_P.utoc",
+    "sha256": "ace3c0836429733323827cb5e5ebaa0057488402aef0a381ad38d512e1634334",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/01_black/Andrei_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "14ee8047db93ba528ca9eb28b3ea6008e1a1f95a1101708520e166bbcca33619",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/01_black/Commoner_B/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "c414518fc4cb3869111d00c1915acf52ca2043e9ac2e027e081216bbdd4ebd3d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/01_black/Commoner_C/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "70551f10e54544902d03a556a66f5551eb4b2c38ed60193cf79093162e3eb93c",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/01_black/Commoner_D/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "9692345087b66f679b1052b96b3c255ff864138b469e9aca11bf45e8b938603e",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/01_black/Commoner_E/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "61a2539baf13504c58f0b1b35643bdade1d25adb5e99a95dd4f1cfbeb23d67d6",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/01_black/Neberu_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "ae7829868c256559d6a71f1981da673f78193f9ac7a8cd7317f4ea0a7f65d98d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/01_black/Pieter_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "5315183e90d0059dc5b7906119ebb8757279dbb1d4479daccf4e0878478ef938",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/01_black/Villager_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "fd7e475b5f5ec54902663b160dcff8c7325daa6ad456e7dec1cf3151d6c93e4a",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/01_black/_vanilla/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "92381424133d3996c0b59b027cc2ae15e0e50c80224a4fac6746a48d203333d5",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/02_darkbrown/Andrei_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "14ee8047db93ba528ca9eb28b3ea6008e1a1f95a1101708520e166bbcca33619",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/02_darkbrown/Commoner_B/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "c414518fc4cb3869111d00c1915acf52ca2043e9ac2e027e081216bbdd4ebd3d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/02_darkbrown/Commoner_C/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "70551f10e54544902d03a556a66f5551eb4b2c38ed60193cf79093162e3eb93c",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/02_darkbrown/Commoner_D/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "9692345087b66f679b1052b96b3c255ff864138b469e9aca11bf45e8b938603e",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/02_darkbrown/Commoner_E/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "61a2539baf13504c58f0b1b35643bdade1d25adb5e99a95dd4f1cfbeb23d67d6",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/02_darkbrown/Neberu_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "ae7829868c256559d6a71f1981da673f78193f9ac7a8cd7317f4ea0a7f65d98d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/02_darkbrown/Pieter_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "5315183e90d0059dc5b7906119ebb8757279dbb1d4479daccf4e0878478ef938",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/02_darkbrown/Villager_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "fd7e475b5f5ec54902663b160dcff8c7325daa6ad456e7dec1cf3151d6c93e4a",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/02_darkbrown/_vanilla/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "92381424133d3996c0b59b027cc2ae15e0e50c80224a4fac6746a48d203333d5",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/03_brown/Andrei_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "14ee8047db93ba528ca9eb28b3ea6008e1a1f95a1101708520e166bbcca33619",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/03_brown/Commoner_B/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "c414518fc4cb3869111d00c1915acf52ca2043e9ac2e027e081216bbdd4ebd3d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/03_brown/Commoner_C/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "70551f10e54544902d03a556a66f5551eb4b2c38ed60193cf79093162e3eb93c",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/03_brown/Commoner_D/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "9692345087b66f679b1052b96b3c255ff864138b469e9aca11bf45e8b938603e",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/03_brown/Commoner_E/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "61a2539baf13504c58f0b1b35643bdade1d25adb5e99a95dd4f1cfbeb23d67d6",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/03_brown/Neberu_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "ae7829868c256559d6a71f1981da673f78193f9ac7a8cd7317f4ea0a7f65d98d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/03_brown/Pieter_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "5315183e90d0059dc5b7906119ebb8757279dbb1d4479daccf4e0878478ef938",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/03_brown/Villager_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "fd7e475b5f5ec54902663b160dcff8c7325daa6ad456e7dec1cf3151d6c93e4a",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/03_brown/_vanilla/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "92381424133d3996c0b59b027cc2ae15e0e50c80224a4fac6746a48d203333d5",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/04_lightbrown/Andrei_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "14ee8047db93ba528ca9eb28b3ea6008e1a1f95a1101708520e166bbcca33619",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/04_lightbrown/Commoner_B/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "c414518fc4cb3869111d00c1915acf52ca2043e9ac2e027e081216bbdd4ebd3d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/04_lightbrown/Commoner_C/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "70551f10e54544902d03a556a66f5551eb4b2c38ed60193cf79093162e3eb93c",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/04_lightbrown/Commoner_D/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "9692345087b66f679b1052b96b3c255ff864138b469e9aca11bf45e8b938603e",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/04_lightbrown/Commoner_E/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "61a2539baf13504c58f0b1b35643bdade1d25adb5e99a95dd4f1cfbeb23d67d6",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/04_lightbrown/Neberu_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "ae7829868c256559d6a71f1981da673f78193f9ac7a8cd7317f4ea0a7f65d98d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/04_lightbrown/Pieter_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "5315183e90d0059dc5b7906119ebb8757279dbb1d4479daccf4e0878478ef938",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/04_lightbrown/Villager_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "fd7e475b5f5ec54902663b160dcff8c7325daa6ad456e7dec1cf3151d6c93e4a",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/04_lightbrown/_vanilla/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "92381424133d3996c0b59b027cc2ae15e0e50c80224a4fac6746a48d203333d5",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/05_auburn/Andrei_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "14ee8047db93ba528ca9eb28b3ea6008e1a1f95a1101708520e166bbcca33619",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/05_auburn/Commoner_B/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "c414518fc4cb3869111d00c1915acf52ca2043e9ac2e027e081216bbdd4ebd3d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/05_auburn/Commoner_C/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "70551f10e54544902d03a556a66f5551eb4b2c38ed60193cf79093162e3eb93c",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/05_auburn/Commoner_D/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "9692345087b66f679b1052b96b3c255ff864138b469e9aca11bf45e8b938603e",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/05_auburn/Commoner_E/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "61a2539baf13504c58f0b1b35643bdade1d25adb5e99a95dd4f1cfbeb23d67d6",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/05_auburn/Neberu_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "ae7829868c256559d6a71f1981da673f78193f9ac7a8cd7317f4ea0a7f65d98d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/05_auburn/Pieter_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "5315183e90d0059dc5b7906119ebb8757279dbb1d4479daccf4e0878478ef938",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/05_auburn/Villager_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "fd7e475b5f5ec54902663b160dcff8c7325daa6ad456e7dec1cf3151d6c93e4a",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/05_auburn/_vanilla/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "92381424133d3996c0b59b027cc2ae15e0e50c80224a4fac6746a48d203333d5",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/06_ginger/Andrei_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "14ee8047db93ba528ca9eb28b3ea6008e1a1f95a1101708520e166bbcca33619",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/06_ginger/Commoner_B/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "c414518fc4cb3869111d00c1915acf52ca2043e9ac2e027e081216bbdd4ebd3d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/06_ginger/Commoner_C/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "70551f10e54544902d03a556a66f5551eb4b2c38ed60193cf79093162e3eb93c",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/06_ginger/Commoner_D/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "9692345087b66f679b1052b96b3c255ff864138b469e9aca11bf45e8b938603e",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/06_ginger/Commoner_E/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "61a2539baf13504c58f0b1b35643bdade1d25adb5e99a95dd4f1cfbeb23d67d6",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/06_ginger/Neberu_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "ae7829868c256559d6a71f1981da673f78193f9ac7a8cd7317f4ea0a7f65d98d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/06_ginger/Pieter_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "5315183e90d0059dc5b7906119ebb8757279dbb1d4479daccf4e0878478ef938",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/06_ginger/Villager_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "fd7e475b5f5ec54902663b160dcff8c7325daa6ad456e7dec1cf3151d6c93e4a",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/06_ginger/_vanilla/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "92381424133d3996c0b59b027cc2ae15e0e50c80224a4fac6746a48d203333d5",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/07_darkblonde/Andrei_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "14ee8047db93ba528ca9eb28b3ea6008e1a1f95a1101708520e166bbcca33619",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/07_darkblonde/Commoner_B/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "c414518fc4cb3869111d00c1915acf52ca2043e9ac2e027e081216bbdd4ebd3d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/07_darkblonde/Commoner_C/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "70551f10e54544902d03a556a66f5551eb4b2c38ed60193cf79093162e3eb93c",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/07_darkblonde/Commoner_D/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "9692345087b66f679b1052b96b3c255ff864138b469e9aca11bf45e8b938603e",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/07_darkblonde/Commoner_E/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "61a2539baf13504c58f0b1b35643bdade1d25adb5e99a95dd4f1cfbeb23d67d6",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/07_darkblonde/Neberu_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "ae7829868c256559d6a71f1981da673f78193f9ac7a8cd7317f4ea0a7f65d98d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/07_darkblonde/Pieter_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "5315183e90d0059dc5b7906119ebb8757279dbb1d4479daccf4e0878478ef938",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/07_darkblonde/Villager_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "fd7e475b5f5ec54902663b160dcff8c7325daa6ad456e7dec1cf3151d6c93e4a",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/07_darkblonde/_vanilla/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "92381424133d3996c0b59b027cc2ae15e0e50c80224a4fac6746a48d203333d5",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/08_blonde/Andrei_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "14ee8047db93ba528ca9eb28b3ea6008e1a1f95a1101708520e166bbcca33619",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/08_blonde/Commoner_B/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "c414518fc4cb3869111d00c1915acf52ca2043e9ac2e027e081216bbdd4ebd3d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/08_blonde/Commoner_C/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "70551f10e54544902d03a556a66f5551eb4b2c38ed60193cf79093162e3eb93c",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/08_blonde/Commoner_D/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "9692345087b66f679b1052b96b3c255ff864138b469e9aca11bf45e8b938603e",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/08_blonde/Commoner_E/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "61a2539baf13504c58f0b1b35643bdade1d25adb5e99a95dd4f1cfbeb23d67d6",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/08_blonde/Neberu_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "ae7829868c256559d6a71f1981da673f78193f9ac7a8cd7317f4ea0a7f65d98d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/08_blonde/Pieter_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "5315183e90d0059dc5b7906119ebb8757279dbb1d4479daccf4e0878478ef938",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/08_blonde/Villager_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "fd7e475b5f5ec54902663b160dcff8c7325daa6ad456e7dec1cf3151d6c93e4a",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/08_blonde/_vanilla/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "92381424133d3996c0b59b027cc2ae15e0e50c80224a4fac6746a48d203333d5",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/09_platinum/Andrei_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "14ee8047db93ba528ca9eb28b3ea6008e1a1f95a1101708520e166bbcca33619",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/09_platinum/Commoner_B/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "c414518fc4cb3869111d00c1915acf52ca2043e9ac2e027e081216bbdd4ebd3d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/09_platinum/Commoner_C/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "70551f10e54544902d03a556a66f5551eb4b2c38ed60193cf79093162e3eb93c",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/09_platinum/Commoner_D/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "9692345087b66f679b1052b96b3c255ff864138b469e9aca11bf45e8b938603e",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/09_platinum/Commoner_E/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "61a2539baf13504c58f0b1b35643bdade1d25adb5e99a95dd4f1cfbeb23d67d6",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/09_platinum/Neberu_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "ae7829868c256559d6a71f1981da673f78193f9ac7a8cd7317f4ea0a7f65d98d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/09_platinum/Pieter_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "5315183e90d0059dc5b7906119ebb8757279dbb1d4479daccf4e0878478ef938",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/09_platinum/Villager_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "fd7e475b5f5ec54902663b160dcff8c7325daa6ad456e7dec1cf3151d6c93e4a",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/09_platinum/_vanilla/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "92381424133d3996c0b59b027cc2ae15e0e50c80224a4fac6746a48d203333d5",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/10_saltpepper/Andrei_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "14ee8047db93ba528ca9eb28b3ea6008e1a1f95a1101708520e166bbcca33619",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/10_saltpepper/Commoner_B/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "c414518fc4cb3869111d00c1915acf52ca2043e9ac2e027e081216bbdd4ebd3d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/10_saltpepper/Commoner_C/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "70551f10e54544902d03a556a66f5551eb4b2c38ed60193cf79093162e3eb93c",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/10_saltpepper/Commoner_D/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "9692345087b66f679b1052b96b3c255ff864138b469e9aca11bf45e8b938603e",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/10_saltpepper/Commoner_E/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "61a2539baf13504c58f0b1b35643bdade1d25adb5e99a95dd4f1cfbeb23d67d6",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/10_saltpepper/Neberu_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "ae7829868c256559d6a71f1981da673f78193f9ac7a8cd7317f4ea0a7f65d98d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/10_saltpepper/Pieter_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "5315183e90d0059dc5b7906119ebb8757279dbb1d4479daccf4e0878478ef938",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/10_saltpepper/Villager_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "fd7e475b5f5ec54902663b160dcff8c7325daa6ad456e7dec1cf3151d6c93e4a",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/10_saltpepper/_vanilla/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "92381424133d3996c0b59b027cc2ae15e0e50c80224a4fac6746a48d203333d5",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/11_white/Andrei_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "14ee8047db93ba528ca9eb28b3ea6008e1a1f95a1101708520e166bbcca33619",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/11_white/Commoner_B/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "c414518fc4cb3869111d00c1915acf52ca2043e9ac2e027e081216bbdd4ebd3d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/11_white/Commoner_C/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "70551f10e54544902d03a556a66f5551eb4b2c38ed60193cf79093162e3eb93c",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/11_white/Commoner_D/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "9692345087b66f679b1052b96b3c255ff864138b469e9aca11bf45e8b938603e",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/11_white/Commoner_E/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "61a2539baf13504c58f0b1b35643bdade1d25adb5e99a95dd4f1cfbeb23d67d6",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/11_white/Neberu_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "ae7829868c256559d6a71f1981da673f78193f9ac7a8cd7317f4ea0a7f65d98d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/11_white/Pieter_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "5315183e90d0059dc5b7906119ebb8757279dbb1d4479daccf4e0878478ef938",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/11_white/Villager_A/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "fd7e475b5f5ec54902663b160dcff8c7325daa6ad456e7dec1cf3151d6c93e4a",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_beard_color/11_white/_vanilla/ELSB_0ColorMaratBeard_P.utoc",
+    "sha256": "92381424133d3996c0b59b027cc2ae15e0e50c80224a4fac6746a48d203333d5",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_body/fitness/ELSB_MaratBody0Uw_P.utoc",
+    "sha256": "762de0fc11c626f2c9d5078063e1d008f09f67b3410ddbeb1d1e86affc9dba5e",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/ELSB/marat_body/fitness/ELSB_MaratBodyBDP_P.utoc",
+    "sha256": "fd5e06f3053059bf1880426e927755a160a21f1669668d5da607b7936f912e8e",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_body/fitness/ELSB_MaratBodyHead_P.utoc",
+    "sha256": "e394374beba4bcb4a31a19daa8a698abc1a1350b296978e139e7a3e7d5065c86",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_body/fitness/ELSB_MaratBodyMI_P.utoc",
+    "sha256": "2b74eb75ccc09be348a74d59999be3564c89ac77223491441131d991b596d027",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_body/fitness/ELSB_MaratBodyTorsoACMI_P.utoc",
+    "sha256": "3e559dec640b3ba87004b8a8ad733acf457bb1f4f48cd36e5eaf2aeac2275718",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_body/fitness/ELSB_MaratBodyTorsoAC_P.utoc",
+    "sha256": "725c9d23818ec7335f7eca94a690a3abd883826de07b4a47d6211d732aca0d92",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/ELSB/marat_body/fitness/ELSB_MaratBody_P.utoc",
+    "sha256": "d4b1d9d6c50214c8ffe1d4157e884c18e5e84fd9aea4ab980ee09bdbf46623de",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/ELSB/marat_hair/Ambrus_A/ELSB_MaratHair_P.utoc",
+    "sha256": "8e650860e40b3f31fc339f1125d94ee9a60d113149ac3c468f9f54cb17dc9e13",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_hair/Commoner_B/ELSB_MaratHair_P.utoc",
+    "sha256": "846bfbf48b82c9cee5ce4a0a0e92c859f9539987507960e345ab79378d91ca1a",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_hair/Commoner_D/ELSB_MaratHair_P.utoc",
+    "sha256": "8a131340ff432bb30d2647288bd6404abb05a8c303cf9b07844f90654375dd45",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_hair/Commoner_F/ELSB_MaratHair_P.utoc",
+    "sha256": "0abe7a9c3e1d6e4d5fae1ce57e418c0de05e22054c507fec564612b227621a37",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_hair/Isbrand_A/ELSB_MaratHair_P.utoc",
+    "sha256": "7268ae65a4efcc281b0228d1a6482d87156f50e7f3cddf03188a29e667947fe3",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_hair/Mihai_A/ELSB_MaratHair_P.utoc",
+    "sha256": "0b0149c5d9cc1e6275d44419d55a12cfda2658c09fb451a42018e75ad25527a6",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_hair_color/01_black/ELSB_0ColorMaratHair_P.utoc",
+    "sha256": "054f11763234ac04126e68878e93ed2f39fe225a2b64ed7028fa4408412a6357",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_hair_color/02_darkbrown/ELSB_0ColorMaratHair_P.utoc",
+    "sha256": "f70d5807fb46e2215324abc70b39621a4bd988abc3903f688661690d48f74899",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_hair_color/03_brown/ELSB_0ColorMaratHair_P.utoc",
+    "sha256": "b61b3e2c131f5e759bd02941f4e8ac3fba5946d64309ae110f26acf234d7458a",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_hair_color/04_lightbrown/ELSB_0ColorMaratHair_P.utoc",
+    "sha256": "987f717f5102318983f7e882d92c0b107bde82ebe46e1282ee95a70c33500302",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_hair_color/05_auburn/ELSB_0ColorMaratHair_P.utoc",
+    "sha256": "c246c4b42fc5804b92413546e44610d1aa03c878d93842e080726612bd4ba67b",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_hair_color/06_ginger/ELSB_0ColorMaratHair_P.utoc",
+    "sha256": "288031ae24e7a0c474c8bd1c8f1af8297f0e24e71c7e16615634dd49f8201205",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_hair_color/07_darkblonde/ELSB_0ColorMaratHair_P.utoc",
+    "sha256": "01842d5dafa2323c95d0b5d32fe350565ceeec1c4fd9cbcdf5c85a7b298f720d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_hair_color/08_blonde/ELSB_0ColorMaratHair_P.utoc",
+    "sha256": "c54f6de488c1b259d3c627286a6387d2490b5d7f4bc0467b4444074234fa8aed",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_hair_color/09_platinum/ELSB_0ColorMaratHair_P.utoc",
+    "sha256": "6b09d6c7c2d7331a14d01613cf2b9bc8a87b170adfd8d0b2d1fbf20c0f11b98d",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_hair_color/10_saltpepper/ELSB_0ColorMaratHair_P.utoc",
+    "sha256": "a0764186e0d62b7e952a371fb3e3b7ae3a3a9d5710972504e549b91fd0e8c0ab",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_hair_color/11_white/ELSB_0ColorMaratHair_P.utoc",
+    "sha256": "5087c7d453057627deaea92f10378fee57cf6e4cb18d850ccfc4b24c4395bce9",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_outfit/nude/ELSB_MaratOutfit_P.utoc",
+    "sha256": "bab9cdd2e0e0115d2934bf592bf45e4514063f0823ac3a429b958aa01191d3c4",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_romance/undress/ELSB_MaratRomance_P.utoc",
+    "sha256": "39807610c3c1c518c64b83dfb18a15c402d5c8b812883a180f47118af4cf7a1a",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_scope/all/ELSB_MaratScopeGarmSK_P.utoc",
+    "sha256": "ee7d9538293e4148ce5ecb76b62b3c4765fff4648a762d1c0c8eb52a299441d9",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/ELSB/marat_scope/all/ELSB_MaratScopeGarm_P.utoc",
+    "sha256": "72847d0197d2077c7fa08107a780de9f5fb3329d85484161abb507458d9aeaea",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_scope/all/ELSB_MaratScopeUw_P.utoc",
+    "sha256": "42c14e8c9bcef85b083d32e810ab16cfa0d00ddbdda249464d4b88cb2980a37f",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_scope/all/ELSB_MaratScope_P.utoc",
+    "sha256": "89385e55b4632f3f41333f142a892d31ebd0fc3fe5e863297d5b03bf69beb82c",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/marat_scope/_default/ELSB_MaratScopeUw_P.utoc",
+    "sha256": "42c14e8c9bcef85b083d32e810ab16cfa0d00ddbdda249464d4b88cb2980a37f",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/ELSB/romance/undress/ELSB_Romance_P.utoc",
+    "sha256": "e56f9207a886abf274be9f5d3ae84bd552eb171a64a0c2d4400d29ea4a29b3bb",
+    "new_or_reused_personal": false,
+    "verify_exit_code": 1
+  },
+  {
+    "path": "Payload/Patches/lacra_chest/0ELSB_CompatLacraChest_P.utoc",
+    "sha256": "7b27bee36267036ea8838fba511e11ff8dcf784838fd033eaba8f65978ea4ad3",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/lacra_hair/0/0ELSB_CompatLacraHairTable_P.utoc",
+    "sha256": "5341a97bdadf2426921846cb20484ac7c03b09b27b1b054994806b00b82130d5",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/lacra_hair/1/0ELSB_CompatLacraHairTable_P.utoc",
+    "sha256": "109007d7bdd73bb13062a2ad372abea034d345f7055ae71463ec380a7c0f04a2",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/lacra_hair/10/0ELSB_CompatLacraHairTable_P.utoc",
+    "sha256": "c884a2cab99f70aaced77ecdc4700a2b9c82c6bca359a0c89543602cbb4ca85a",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/lacra_hair/11/0ELSB_CompatLacraHairTable_P.utoc",
+    "sha256": "680e8dd2c139dbdee045de4808ee98e1b1395769b9adf62635ed5bbf207a2e2a",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/lacra_hair/12/0ELSB_CompatLacraHairTable_P.utoc",
+    "sha256": "edd02f0495889b2b4d807315a4b861789c33d3f14dbabe1151e6e3478c2d225e",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/lacra_hair/13/0ELSB_CompatLacraHairTable_P.utoc",
+    "sha256": "06327a540302ee18594b3c4ec8463d78149c9f4cd2d565ae384e3b79e8f35caf",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/lacra_hair/14/0ELSB_CompatLacraHairTable_P.utoc",
+    "sha256": "5341a97bdadf2426921846cb20484ac7c03b09b27b1b054994806b00b82130d5",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/lacra_hair/15/0ELSB_CompatLacraHairTable_P.utoc",
+    "sha256": "5341a97bdadf2426921846cb20484ac7c03b09b27b1b054994806b00b82130d5",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/lacra_hair/16/0ELSB_CompatLacraHairTable_P.utoc",
+    "sha256": "5341a97bdadf2426921846cb20484ac7c03b09b27b1b054994806b00b82130d5",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/lacra_hair/2/0ELSB_CompatLacraHairTable_P.utoc",
+    "sha256": "7baf52c69a42373cc1c9f301291a024b0761ef39695da488e232dec28ece4a1a",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/lacra_hair/3/0ELSB_CompatLacraHairTable_P.utoc",
+    "sha256": "b9cc119c69a769ff0621a77eae459c2fde5fb3385e386a1909b464aaa11e60d1",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/lacra_hair/4/0ELSB_CompatLacraHairTable_P.utoc",
+    "sha256": "fea021c7337fab7265e56be3d25fb3038f5b9acd5c5808f190713e2e15eb9706",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/lacra_hair/5/0ELSB_CompatLacraHairTable_P.utoc",
+    "sha256": "eeb9d472a6da0e9602d229066e0750bb9651d714f1dd70943175ac8759e98a4a",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/lacra_hair/6/0ELSB_CompatLacraHairTable_P.utoc",
+    "sha256": "839025fae9de76bb605381336ac9210a6beb5eb5db141e4468927a34530d9a63",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/lacra_hair/7/0ELSB_CompatLacraHairTable_P.utoc",
+    "sha256": "25ef8734494e76bb1d2be1cc556e9cc6f5bc713cac182e8141b026ae012c5c75",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/lacra_hair/8/0ELSB_CompatLacraHairTable_P.utoc",
+    "sha256": "f897a58e93df328e2e7d5522af4ab87bb626baa9f5b1db2a63d18326d83d3960",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/lacra_hair/9/0ELSB_CompatLacraHairTable_P.utoc",
+    "sha256": "b3a8cf36900c66c7614a152c5c1733207a48f9543e28e93e5f8b3b71f4bf8c33",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/PussyWalker/anca_body/booty_pussywalker/ELSB_AncaBody0PW_P.utoc",
+    "sha256": "1f1fc9f805bcc71b7c83a295f3877afa8d99080e246f115aa2ad3528caa747a9",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/PussyWalker/lacra_body/fitness_pussywalker/ELSB_LacraBody0PW_P.utoc",
+    "sha256": "193bb1851f5895758197ab6e78afe66bf1f4947a3108df56001dd51401072f73",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/PussyWalker/_pussywalker/anca_outfit/nude/ELSB_AncaOutfit0PW_P.utoc",
+    "sha256": "61f91cb28ac0cdd819a36cff6f87532a5f5b19ce0b9fa31bfca23639e4c33b6d",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/PussyWalker/_pussywalker/anca_scope/all/ELSB_AncaScope0PW_P.utoc",
+    "sha256": "5d4a69e89e861ef79d89b115ab832951879b9c9e5a9bb6f7bc7b9099b823a1bf",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/PussyWalker/_pussywalker/lacra_outfit/nude/ELSB_LacraOutfit0PW_P.utoc",
+    "sha256": "85bb055eb8fc7964f1112c1101b8f2f7e1cfc1db3989e560036e6728c1ad94f9",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/PussyWalker/_pussywalker/lacra_scope/all/ELSB_LacraScope0PW_P.utoc",
+    "sha256": "6011fdf36335537775c8b17850a4d8c440b93902e87fea2b4f31e626aa8b67fe",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  }
+]

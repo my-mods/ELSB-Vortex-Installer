@@ -1,0 +1,3 @@
+ELSB - Vortex Installer
+Original ELSB 1.1.1 modules. Manage choices through Reinstall in Vortex.
+No toolkit executable or INI is deployed.

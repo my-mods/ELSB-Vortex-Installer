@@ -1,0 +1,28 @@
+ELSB 1.1.1 bodies, skins, outfits and fitted compatibility modules:
+Akazonae36 -- https://www.nexusmods.com/thebloodofdawnwalker/mods/695
+
+Pussywalker / VaginaMod donor (version 1, Nexus file 1236):
+supergreatluffy -- https://www.nexusmods.com/thebloodofdawnwalker/mods/370
+The existing personal Anca/Lacra add-on is reused; no standalone donor mod
+is required at runtime.
+
+Coen's Nude Mod: dakyoz -- Nexus 281
+Revealing Anca and Revealing Lacra: Joell560 -- Nexus 531 and 501
+Thicc Anca: MistrianMilker -- Nexus 279
+Wrong Sized Tanktop and Revealing Thicc Anca: ScrumpChewie -- Nexus 607 and 592
+Their originals remain separate downloads/entries. Existing ELSB refits
+retain their original bytes and source requirements.
+
+Lacra Beautiful Hair (fixed): gleb63
+https://www.nexusmods.com/thebloodofdawnwalker/mods/570
+Lacra Chest Texture - Vrakhir Fix: PinkyDude
+https://www.nexusmods.com/thebloodofdawnwalker/mods/709
+The two new compatibility patches derive from the local original files;
+original downloads stay separate. Permissions must be checked before upload.
+
+The Blood of Dawnwalker game assets: their original rights holders.
+Vortex and the FOMOD installer: Nexus Mods and contributors.
+Asset inspection/build tools: retoc, CUE4Parse and UAssetAPI contributors.
+
+This local package does not imply endorsement or public redistribution rights.
+

@@ -6,6 +6,10 @@ EXTS=('.pak','.ucas','.utoc')
 def digest(p):
  with p.open('rb') as f:return hashlib.file_digest(f,'sha256').hexdigest()
 def normalize(p):return str(Path(p).resolve()).casefold()
+def asset_identity(p):
+ # Cooked projects can use a different project folder while mounting at /Game.
+ value=p.replace('\\','/')
+ return ('/Game/'+value.split('/Content/',1)[1] if '/Content/' in value else value).casefold()
 def inspect(game,staging,retoc=None):
  catalogue=json.loads((Path(__file__).parent/'catalogue.json').read_text(encoding='utf-8'))
  byhash={}
@@ -53,7 +57,7 @@ def inspect(game,staging,retoc=None):
  paths={};physical={}
  for c in active:
   physical.setdefault(c['name'].casefold(),[]).append(c['path'])
-  for a in c['assets']:paths.setdefault(a.casefold(),[]).append(c)
+  for a in c['assets']:paths.setdefault(asset_identity(a),[]).append(c)
  overlaps=[]
  for asset,entries in paths.items():
   unique={c['path']:c for c in entries}
@@ -66,7 +70,7 @@ def inspect(game,staging,retoc=None):
  warnings=[]
  for collision in collisions:warnings.append(collision['name']+': duplicate physical container name in different folders; winning order requires review.')
  for d in inactive:
-  if any('/compat/'+d['id']+'/' in i or '/Patches/'+d['id']+'/' in i for i in active_ids):warnings.append(d['title']+': an ELSB patch is deployed, but its supported original is not currently deployed. Review this patch/original combination in Vortex.')
+  if any('/compat/'+d['id']+'/' in i or '/Patches/'+d['id']+'/' in i or ('/characters/' in i and '/'+d['id']+'/' in i) for i in active_ids):warnings.append(d['title']+': an ELSB patch is deployed, but its supported original is not currently deployed. Review this patch/original combination in Vortex.')
  if any('/PussyWalker/' in i for i in active_ids) and any(i.startswith('external/vaginamod/') for i in active_ids):warnings.append('Standalone VaginaMod is deployed alongside the personal Pussy Walker add-on; this combination has not been validated.')
  for c in active:
   if not c['complete']:warnings.append(c['name']+': incomplete container triple.')

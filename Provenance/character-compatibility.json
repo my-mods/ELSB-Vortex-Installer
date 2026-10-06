@@ -1,0 +1,910 @@
+{
+  "date": "2026-10-06",
+  "category": "Characters",
+  "entries": [
+    {
+      "mod_id": 523,
+      "file_id": 2081,
+      "title": "Evil Twin Retexture v.1.3 Original Skin Tone",
+      "version": "1.3",
+      "archive": "Evil Twin Retexture v.1.3 Original Skin Tone 523 1.3 2026-09-16T21-03Z QqTq45eIw.zip",
+      "selection_id": "chars_523_2081",
+      "mode": "textures",
+      "originals": [
+        {
+          "filename": "CoenRetexture_OriginalSkinTone_P.utoc",
+          "sha256": {
+            ".pak": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+            ".ucas": "2be21c21502cefe324df9bab17d871256538cd49690129a3799e7d4e7b8e47dd",
+            ".utoc": "a1baf5af132c4e3d99075e7dd52a26fc3ee38af124543da881c71e46f3b8f4b5"
+          },
+          "assets": [
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HMA_Coen_Head_A/Textures/T_HMA_Coen_Head_A_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HMA_Coen_Head_A/Textures/T_HMA_Coen_Head_A_NC.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/Textures/T_HMA_Coen_BodyTorso_A_02_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/Textures/T_HMA_Coen_BodyTorso_A_02_NC.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/Textures/T_HMA_Coen_BodyTorso_A_04_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/Textures/T_HMA_Coen_BodyTorso_A_04_NC.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/Textures/T_HMA_Coen_BodyTorso_A_05_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/Textures/T_HMA_Coen_BodyTorso_A_05_NC.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Shaders/Characters/Clothes/PaintTorso/Textures/T_HMA_Coen_BodyTorso_A_03_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Shaders/Characters/Clothes/PaintTorso/Textures/T_HMA_Coen_BodyTorso_A_03_NC.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 709,
+      "file_id": 3031,
+      "title": "Lacra Vrakhir Chest Texture",
+      "version": "1.0.0",
+      "archive": "Lacra Vrakhir Chest Texture 709 1.0.0 2026-10-03T09-06Z lfUfKoz4Q.zip",
+      "selection_id": "lacra_chest",
+      "mode": "existing",
+      "originals": [
+        {
+          "filename": "Lacra_VrakhirChestTexture_P.utoc",
+          "sha256": {
+            ".pak": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+            ".ucas": "a403c9ba6bb3749668fb10c8c2e32d0001d334808b9ffcf58765211ae4f62229",
+            ".utoc": "d5c2bbf012f9c233a60a53462a4a54b3ec52daf21500d9a839b620ec8a5cadf0"
+          },
+          "assets": [
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HFA_Lacra_BodyTorso_A/Textures/T_HFA_Lacra_BodyTorso_A_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HFA_Lacra_BodyTorso_A/Textures/T_HFA_Lacra_BodyTorso_A_NC.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HFA_Lacra_BodyTorso_A/Textures/T_HFA_Lacra_BodyTorso_A_R.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 550,
+      "file_id": 2442,
+      "title": "Makeup v2 (no Eye of Horus)",
+      "version": "2",
+      "archive": "Makeup v2 (no Eye of Horus) 550 2 2026-09-21T22-38Z 3SxSDq7FQ.zip",
+      "selection_id": "chars_550_2442",
+      "mode": "direct",
+      "originals": [
+        {
+          "filename": "Lacra makeup_P.utoc",
+          "sha256": {
+            ".pak": "547597300a02105c3b4e6ac4d580c7567c02711e7f41e479c0bf85226ae78553",
+            ".ucas": "0bd1f20cc5408cdace8b25e11d2b4bb8c9890ee04722d08a9e3a60fa9651a49a",
+            ".utoc": "a77d45234420312d711961879d3f5c97c4a0101bb4b5fd674afee6871927cd72"
+          },
+          "assets": [
+            "LACRA/Content/_Dawnwalker/Characters/Heads/HFA_Lacra_Head_B/Textures/T_HFA_Lacra_Head_B_D.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 531,
+      "file_id": 2521,
+      "title": "Revealing Anca",
+      "version": "1.2.1",
+      "archive": "Revealing Anca 531 1.2.1 2026-09-23T13-29Z tzYzjaIeC.zip",
+      "selection_id": "revealing_anca_531",
+      "mode": "existing",
+      "originals": [
+        {
+          "filename": "revealing-Anca-298_P.utoc",
+          "sha256": {
+            ".pak": "0e17ba6a66fccd4b11297000feec171f78c2c1372047cfe9ae8b53657d3ef99d",
+            ".ucas": "135d2818d09e733eecee310aa9d38411fd3936f7a80e7aa19b489e88d8af49e3",
+            ".utoc": "5857d697b0a4b4166d1f692939605e6d2e21d58f4c3323a7457d869e22edd21a"
+          },
+          "assets": [
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Anca_Torso_A/CA_HFA_Anca_Torso_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Anca_Torso_A/SK_HFA_Anca_Torso_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Citizen_Torso_E/Materials/MI_HFA_Citizen_Torso_E_S0_OPT_Anca_Top.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 501,
+      "file_id": 2503,
+      "title": "Revealing Lacra",
+      "version": "1.2",
+      "archive": "Revealing Lacra 501 1.2 2026-09-23T01-46Z kZ3Z1psoc.zip",
+      "selection_id": "revealing_lacra",
+      "mode": "existing",
+      "originals": [
+        {
+          "filename": "revealing-Lacra-300_P.utoc",
+          "sha256": {
+            ".pak": "d5f0bdc4633e5defa4aefca1bfe4063015722177c2ed5500d8ec454a70859f23",
+            ".ucas": "1ea0302f583282654cfa291581cb39d2cda232462369104441ae539f38881a64",
+            ".utoc": "40bc648f8e2fbe99959fe00c5ec9eb4fc1f29f7737fb2490c4c0ec2b9b1a51e9"
+          },
+          "assets": [
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Lacra_Torso_A/CA_HFA_Lacra_Torso_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Lacra_Torso_A/SK_HFA_Lacra_Torso_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Lacra_Torso_B/SK_HFA_Lacra_Torso_B.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 281,
+      "file_id": 2748,
+      "title": "Coen Nude",
+      "version": "1.0.8",
+      "archive": "Coen Nude 281 1.0.8 2026-09-27T15-48Z Y585g2wtS.rar",
+      "selection_id": "coen_nude",
+      "mode": "existing",
+      "originals": [
+        {
+          "filename": "zCoenNude_P.utoc",
+          "sha256": {
+            ".pak": "dcef9e5ce8ea46abc4d11ad0c15d2816864d6b9274c287c512f59dce46c4e071",
+            ".ucas": "19f53a51a3a263d77053df75971175b6c614fc7baca70190136b8bce00fa2361",
+            ".utoc": "7f4fe01d6e69a43c242e880e16662746e3ded6576538f269cfc38e0f8e6bb008"
+          },
+          "assets": [
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HMA_Coen_BodyLegs_A/SK_HMA_Coen_BodyLegs_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HMA_Coen_BodyLegs_A/Textures/T_HMA_Coen_BodyLegs_A_01_BDS.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HMA_Coen_BodyLegs_A/Textures/T_HMA_Coen_BodyLegs_A_01_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HMA_Coen_BodyLegs_A/Textures/T_HMA_Coen_BodyLegs_A_01_NC.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HMA_Coen_BodyLegs_A/Textures/T_HMA_Coen_BodyLegs_A_01_R.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/SK_HMA_Coen_BodyTorso_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Legs/HMA_Coen_Legs_X/SK_HMA_Coen_Legs_X.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 370,
+      "file_id": 1236,
+      "title": "VaginaMod",
+      "version": "1",
+      "archive": "VaginaMod 370 1 2026-09-09T18-22Z cpQpRzh5N.7z",
+      "selection_id": "pussywalker_conflict",
+      "mode": "existing",
+      "originals": [
+        {
+          "filename": "pakchunk300-Windows_P.utoc",
+          "sha256": {
+            ".pak": "3ccd2b56211b49d2e4fd5296f987ba86b0739fab59dbba88c643746628438089",
+            ".ucas": "d293d72b65f8298a20c4c9242535100e6a4ad348e8a6290a37cfd54dedac41ad",
+            ".utoc": "a0b2834f740621bd91ee1159113712ffb2fc256110aee940bba86c23a8b53455"
+          },
+          "assets": [
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/Bodylegs/HFA_Anca_BodyLegs_A/Textures/T_HFA_Anca_BodyLegs_A_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/Bodylegs/HFA_Anca_BodyLegs_A/Textures/T_HFA_Anca_BodyLegs_A_NC.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/Bodylegs/HFA_Anca_BodyLegs_A/Textures/T_HFA_Anca_BodyLegs_A_R.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/Bodylegs/HFA_Common_BodyLegs_A/SK_HFA_Common_BodyLegs_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/Bodylegs/HFA_Common_BodyLegs_A/Textures/T_HFA_Common_BodyLegs_NC_A_01.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/Bodylegs/HFA_Common_BodyLegs_A/Textures/T_HFA_Common_BodyLegs_R_A_01.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 570,
+      "file_id": 3104,
+      "title": "Lacra Beautiful Hair",
+      "version": "4",
+      "archive": "Lacra Beautiful Hair 570 4 2026-10-04T23-28Z ODcDE4rb5.zip",
+      "selection_id": "lacra_hair",
+      "mode": "existing",
+      "originals": [
+        {
+          "filename": "LacraHair_Physics_Core_109_P.utoc",
+          "sha256": {
+            ".pak": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+            ".ucas": "2e0331739a5912d01a36201038f9d0e10cb616c33ac1c4c0ffd42aa17beb6a67",
+            ".utoc": "f182f456d63bcc32b5ea3e35c7527b9dc3014bc63c82459b62c54e33784f8cea"
+          },
+          "assets": [
+            "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/APP_HFA_Lacra_A_default.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/APP_HFA_Lacra_B_memory.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/APP_HFA_Lacra_C_naked.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/APP_HFA_Lacra_C_naked_Censored.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/APP_HFA_Lacra_D_Soul.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/APP_HFA_Lacra_E_Sleeve.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Hair/Haircuts/HFFACE_Lacr_Haircuts_A/CA_HFFACE_Lacr_Haircuts_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Hair/Haircuts/HFFACE_Lacra_Haircuts_A/SK_HFFACE_Lacra_Haircuts_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Inventory/DataTables/DT_Garments.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 703,
+      "file_id": 2986,
+      "title": "Youthful Coen",
+      "version": "1",
+      "archive": "Youthful Coen 703 1 2026-10-01T18-39Z vhfhUIi0Z.zip",
+      "selection_id": "chars_703_2986",
+      "mode": "direct",
+      "originals": [
+        {
+          "filename": "youthfulCoen_P.utoc",
+          "sha256": {
+            ".pak": "2163e17071a2f7561a4eb18921c177d70db62a4230b764f31f0e835f37a70e2b",
+            ".ucas": "1ea71dfdeba996e4f03f12eacf6557c5fc49c8cd488ed4a8e27700f0c73e753d",
+            ".utoc": "cff9ceee6299909a83cd2880d816aedfa05a10675e133becc0bacfb6d997173c"
+          },
+          "assets": [
+            "youthfulCoen/Content/_Dawnwalker/Characters/Heads/HMA_Coen_Head_A/Textures/T_HMA_Coen_Eyebrows_A_A.uasset",
+            "youthfulCoen/Content/_Dawnwalker/Characters/Heads/HMA_Coen_Head_A/Textures/T_HMA_Coen_Head_A_D.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 618,
+      "file_id": 2504,
+      "title": "Djrd Coen NOFACE Tats",
+      "version": "1",
+      "archive": "Djrd Coen NOFACE Tats 618 1 2026-09-23T02-06Z 3SxSDq7GA.zip",
+      "selection_id": "chars_618_2504",
+      "mode": "textures",
+      "originals": [
+        {
+          "filename": "djrd_coen_NOFACE_tats_P.utoc",
+          "sha256": {
+            ".pak": "2528a7388da3839ddfca540a2bbba3674708d92797f9da710b30e83a5874c020",
+            ".ucas": "b87ecfe08086601c3f381126f0d95b87e9ceb496b788da623ae28b0958f368d8",
+            ".utoc": "06ef41cfca5fcaea28ec9205cd878fb497dd1626004d8ce8cb74528eca42db58"
+          },
+          "assets": [
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HMA_Coen_Head_A/Textures/PAL_CoenHead.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HMA_Coen_Head_A/Textures/T_HMA_Coen_Head_A_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HMA_Coen_Head_A/Textures/T_HMA_Coen_Head_A_Monster_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HMA_Coen_BodyHands_A/Textures/PAL_CoenHands_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HMA_Coen_BodyHands_A/Textures/T_HMA_Coen_BodyHands_A_01_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HMA_Coen_BodyHands_A/Textures/T_HMA_Coen_BodyHands_A_02_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HMA_Coen_BodyHands_A/Textures/T_HMA_Coen_BodyHands_A_04_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HMA_Coen_BodyHands_A/Textures/T_HMA_Coen_Sq721_BodyHands_A_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HMA_Coen_BodyHands_A/Textures/T_HMA_Coen_Sq721_BodyHands_A_D_02.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HMA_Coen_BodyHands_B/Textures/PAL_CoenHands_B.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HMA_Coen_BodyHands_B/Textures/T_HMA_Coen_BodyHands_B_01_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HMA_Coen_BodyHands_B/Textures/T_HMA_Coen_BodyHands_B_02_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HMA_Coen_BodyHands_B/Textures/T_HMA_Coen_BodyHands_B_03_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HMA_Coen_BodyHands_B/Textures/T_HMA_Coen_BodyHands_B_D_Monster.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/Textures/PAL_CoenTats.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/Textures/T_HMA_Coen_BodyTorso_A_01_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/Textures/T_HMA_Coen_BodyTorso_A_02_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/Textures/T_HMA_Coen_BodyTorso_A_03_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/Textures/T_HMA_Coen_BodyTorso_A_04_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/Textures/T_HMA_Coen_BodyTorso_A_05_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/Textures/T_HMA_Coen_BodyTorso_B_D_Monster.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 618,
+      "file_id": 2495,
+      "title": "V1 Djrd Coen Tats",
+      "version": "1",
+      "archive": "V1 Djrd Coen Tats 618 1 2026-09-22T23-18Z GHZH3FKIS.zip",
+      "selection_id": "chars_618_2495",
+      "mode": "textures",
+      "originals": [
+        {
+          "filename": "djrd_coen_tats_P.utoc",
+          "sha256": {
+            ".pak": "2528a7388da3839ddfca540a2bbba3674708d92797f9da710b30e83a5874c020",
+            ".ucas": "1386383e41b0af7155c78fcfac2090d7e070acf3b6f833cf56bc94ccabee48f4",
+            ".utoc": "4a1b241c944f1124838dd73274fcdc3667d134e331ec843b01e47d339d0aee6c"
+          },
+          "assets": [
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HMA_Coen_Head_A/Textures/PAL_CoenHead.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HMA_Coen_Head_A/Textures/T_HMA_Coen_Head_A_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HMA_Coen_Head_A/Textures/T_HMA_Coen_Head_A_Monster_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HMA_Coen_BodyHands_A/Textures/PAL_CoenHands_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HMA_Coen_BodyHands_A/Textures/T_HMA_Coen_BodyHands_A_01_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HMA_Coen_BodyHands_A/Textures/T_HMA_Coen_BodyHands_A_02_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HMA_Coen_BodyHands_A/Textures/T_HMA_Coen_BodyHands_A_04_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HMA_Coen_BodyHands_A/Textures/T_HMA_Coen_Sq721_BodyHands_A_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HMA_Coen_BodyHands_A/Textures/T_HMA_Coen_Sq721_BodyHands_A_D_02.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HMA_Coen_BodyHands_B/Textures/PAL_CoenHands_B.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HMA_Coen_BodyHands_B/Textures/T_HMA_Coen_BodyHands_B_01_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HMA_Coen_BodyHands_B/Textures/T_HMA_Coen_BodyHands_B_02_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HMA_Coen_BodyHands_B/Textures/T_HMA_Coen_BodyHands_B_03_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HMA_Coen_BodyHands_B/Textures/T_HMA_Coen_BodyHands_B_D_Monster.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/Textures/PAL_CoenTats.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/Textures/T_HMA_Coen_BodyTorso_A_01_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/Textures/T_HMA_Coen_BodyTorso_A_02_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/Textures/T_HMA_Coen_BodyTorso_A_03_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/Textures/T_HMA_Coen_BodyTorso_A_04_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/Textures/T_HMA_Coen_BodyTorso_A_05_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/Textures/T_HMA_Coen_BodyTorso_B_D_Monster.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 279,
+      "file_id": 825,
+      "title": "ThiccAnca",
+      "version": "1.1",
+      "archive": "ThiccAnca 279 1.1 2026-09-07T04-54Z C2B29rxz2.zip",
+      "selection_id": "thicc_anca_279",
+      "mode": "existing",
+      "originals": [
+        {
+          "filename": "ThiccAnca_P.utoc",
+          "sha256": {
+            ".pak": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+            ".ucas": "e766a5b80946bb4ef79a75167c1cdf7b96e04259816da926efc7b9fc41fa6382",
+            ".utoc": "ac69eeb28fbb7798f89dfcae49b4159ae508c574deefcf5d3f6812001872803f"
+          },
+          "assets": [
+            "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Anca_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Anca_A_FullHealed.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Anca_A_Scar.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Anca_D_after_ritual.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Anca_NoScars_Naked.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Anca_Scars_Naked.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Anca_Scars_Wound_Naked.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Neck_C/SK_HFA_Anca_Neck_C.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Neck_N/SK_HFA_Anca_Neck_N.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HFA_AncaCL_BodyLegs_A/SK_HFA_AncaCL_BodyLegs_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HFA_AncaXX_BodyLegs_A/SK_HFA_AncaXX_BodyLegs_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HFA_AncaXX_BodyTorso_A/SK_HFA_AncaXX_BodyTorso_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HFA_AncaXX_BodyTorso_C/SK_HFA_AncaXX_BodyTorso_C.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Legs/HFA_Anca_Legs_A/SK_HFA_Anca_Legs_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Anca_Torso_A/CA_HFA_Anca_Torso_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Anca_Torso_A/SK_HFA_Anca_Torso_A.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 592,
+      "file_id": 2258,
+      "title": "Revealing Anca",
+      "version": "1",
+      "archive": "Revealing Anca 592 1 2026-09-19T00-08Z mB9BLvDgW.rar",
+      "selection_id": "revealing_anca_592",
+      "mode": "existing",
+      "originals": [
+        {
+          "filename": "A_ThiccAnca_P.utoc",
+          "sha256": {
+            ".pak": "f4d0ad73b90b67533221113b35927e339a0f78e7d905cea4126eed0ff00c4933",
+            ".ucas": "24dd162b1b5c550e34b89529372e6021df93a1d542ff0855766dbe7cd68588b2",
+            ".utoc": "fabd89d36417c863a79413370e2159a3b7f62a838a602a2192e9a94c60584781"
+          },
+          "assets": [
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Anca_Torso_A/CA_HFA_Anca_Torso_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Anca_Torso_A/SK_HFA_Anca_Torso_A.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 607,
+      "file_id": 2337,
+      "title": "Loose Anca",
+      "version": "1",
+      "archive": "Loose Anca 607 1 2026-09-20T03-29Z XJrJvVqEZ.rar",
+      "selection_id": "loose_anca",
+      "mode": "existing",
+      "originals": [
+        {
+          "filename": "A_Loose_Anca_P.utoc",
+          "sha256": {
+            ".pak": "f4d0ad73b90b67533221113b35927e339a0f78e7d905cea4126eed0ff00c4933",
+            ".ucas": "3d58edac05d10a8c063208bf8c3c365ff16d73769eeb39638d0c3dea3db1ab05",
+            ".utoc": "e11043df867b39a4fe3b21fb457f78726086eecb1b416228dccfa63216985f9a"
+          },
+          "assets": [
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Anca_Torso_A/CA_HFA_Anca_Torso_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Anca_Torso_A/SK_HFA_Anca_Torso_A.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 311,
+      "file_id": 1846,
+      "title": "SlimThiccLacrabyMM",
+      "version": "1",
+      "archive": "SlimThiccLacrabyMM 311 1 2026-09-13T22-29Z KMWM7k8ap.zip",
+      "selection_id": "chars_311_1846",
+      "mode": "alternative",
+      "originals": [
+        {
+          "filename": "SlimThiccLacra_P.utoc",
+          "sha256": {
+            ".pak": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+            ".ucas": "b669541c4f4c8d17ee4d213b646c4326da4fed84aca0b17779cee34209b0fd5d",
+            ".utoc": "c4f142666c9219c0823df6b15c86bd1944cd89661764984847d197bfcaad0d26"
+          },
+          "assets": [
+            "Dawnwalker/Content/Mods/UBImportedOutfit/M_ImportedOutfit.uasset",
+            "Dawnwalker/Content/Mods/UBImportedOutfit/SK_ImportedOutfit.uasset",
+            "Dawnwalker/Content/Mods/UBImportedOutfit/SK_ImportedOutfit_Skeleton.uasset",
+            "Dawnwalker/Content/Mods/UBImportedOutfit/Textures/T_Outfit_basecolor.uasset",
+            "Dawnwalker/Content/Mods/UBImportedOutfit/Textures/T_Outfit_metallic.uasset",
+            "Dawnwalker/Content/Mods/UBImportedOutfit/Textures/T_Outfit_normal.uasset",
+            "Dawnwalker/Content/Mods/UBImportedOutfit/Textures/T_Outfit_roughness.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Lacra_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Lacra_A_Naked.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Lacra_B.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Lacra_E_Sleeve.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Lacra_Head_B/SK_HFA_Lacra_Head_B.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HFA_LacrVT_BodyLegs_A/SK_HFA_LacrVT_BodyLegs_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HFA_LacrVT_BodyTorso_A/SK_HFA_LacrVT_BodyTorso_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HFA_LacrVT_BodyTorso_C/SK_HFA_LacrVT_BodyTorso_C.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Feet/HFA_Lacra_Feet_A/SK_HFA_Lacra_Feet_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Lacra_Torso_A/SK_HFA_Lacra_Torso_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Inventory/DataTables/DT_Garments.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 311,
+      "file_id": 1805,
+      "title": "ThiccLacrabyMM",
+      "version": "1",
+      "archive": "ThiccLacrabyMM 311 1 2026-09-13T21-19Z nrvrlMTzv.zip",
+      "selection_id": "chars_311_1805",
+      "mode": "alternative",
+      "originals": [
+        {
+          "filename": "ThiccLacraMM_P.utoc",
+          "sha256": {
+            ".pak": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+            ".ucas": "f7073d0a7be9ba7ca4477317c5d1dbbc7458709a7dfc8a4ff1859e2a68aa373f",
+            ".utoc": "e8a979802f9c00af0330d15c32b53a175a6ef648090109b2a290653b11e165b1"
+          },
+          "assets": [
+            "Dawnwalker/Content/Mods/UBImportedOutfit/M_ImportedOutfit.uasset",
+            "Dawnwalker/Content/Mods/UBImportedOutfit/SK_ImportedOutfit.uasset",
+            "Dawnwalker/Content/Mods/UBImportedOutfit/SK_ImportedOutfit_Skeleton.uasset",
+            "Dawnwalker/Content/Mods/UBImportedOutfit/Textures/T_Outfit_basecolor.uasset",
+            "Dawnwalker/Content/Mods/UBImportedOutfit/Textures/T_Outfit_metallic.uasset",
+            "Dawnwalker/Content/Mods/UBImportedOutfit/Textures/T_Outfit_normal.uasset",
+            "Dawnwalker/Content/Mods/UBImportedOutfit/Textures/T_Outfit_roughness.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Lacra_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Lacra_A_Naked.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Lacra_B.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Lacra_E_Sleeve.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Lacra_Head_B/SK_HFA_Lacra_Head_B.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HFA_LacrVT_BodyLegs_A/SK_HFA_LacrVT_BodyLegs_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HFA_LacrVT_BodyTorso_A/SK_HFA_LacrVT_BodyTorso_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HFA_LacrVT_BodyTorso_C/SK_HFA_LacrVT_BodyTorso_C.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Feet/HFA_Lacra_Feet_A/SK_HFA_Lacra_Feet_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Lacra_Torso_A/SK_HFA_Lacra_Torso_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Inventory/DataTables/DT_Garments.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 626,
+      "file_id": 2488,
+      "title": "Anca Puffy Hair",
+      "version": "1",
+      "archive": "Anca Puffy Hair 626 1 2026-09-22T17-14Z 96X6nfpCd.rar",
+      "selection_id": "chars_626_2488",
+      "mode": "hair",
+      "originals": [
+        {
+          "filename": "ZZZZZZ_AncaPuffy_PREVIOUS_AllCA_AllLODs_P.utoc",
+          "sha256": {
+            ".pak": "10430ebb9364a68804b2541aa436ddd840b315be48591b207f6bf3f588ab57a3",
+            ".ucas": "3257edaf84a3b202bad9e6a32116612abd2b42a42eb076a3411956c897cee46a",
+            ".utoc": "a4878d7d2560b13c7ed9c3511f2313be7c250b91ed169570fb3e6f253bf47b1e"
+          },
+          "assets": [
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Hair/Haircuts/HFFACE_Anca_Haircuts_A/CA_HFFACE_Anca_Haircuts_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Hair/Haircuts/HFFACE_Anca_Haircuts_A/SK_HFFACE_Anca_Haircuts_A.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Hair/Haircuts/HFFACE_Anca_Haircuts_B/CA_HFFACE_Anca_Haircuts_B.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 621,
+      "file_id": 2827,
+      "title": "Body Hair- chest pits and pubes",
+      "version": "2",
+      "archive": "Body Hair- chest pits and pubes 621 2 2026-09-28T20-04Z owGwkxNTP.zip",
+      "selection_id": "chars_621_2827",
+      "mode": "textures",
+      "originals": [
+        {
+          "filename": "body_hair_P.utoc",
+          "sha256": {
+            ".pak": "fd305082d0d91d1d1d707b7289e505db54ac8d2dd9a873f89afb0664df338ea6",
+            ".ucas": "efd906c6ea2a66a0f9e935b17a365fdab696c76900b770572eff73ad7254344d",
+            ".utoc": "be3c9c5ecd8cff0d0ead0b9c2f16bf966b14dbe06d6b6b1d01e8c0b255d0ee59"
+          },
+          "assets": [
+            "chesthair2/Content/_Dawnwalker/Characters/Humans/Bodies/Body/HMA_Coen_Body_A/Textures/T_HMA_Coen_Body_A_D.uasset",
+            "chesthair2/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HMA_Coen_BodyLegs_A/Textures/T_HMA_Coen_BodyLegs_A_01_D.uasset",
+            "chesthair2/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/Textures/T_HMA_Coen_BodyTorso_A_01_D.uasset",
+            "chesthair2/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/Textures/T_HMA_Coen_BodyTorso_A_02_D.uasset",
+            "chesthair2/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/Textures/T_HMA_Coen_BodyTorso_A_03_D.uasset",
+            "chesthair2/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/Textures/T_HMA_Coen_BodyTorso_A_04_D.uasset",
+            "chesthair2/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/Textures/T_HMA_Coen_BodyTorso_A_05_D.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 550,
+      "file_id": 2444,
+      "title": "Lacra Natural Makeup",
+      "version": "1",
+      "archive": "Lacra Natural Makeup 550 1 2026-09-21T23-19Z mB9BLvDX1.zip",
+      "selection_id": "chars_550_2444",
+      "mode": "direct",
+      "originals": [
+        {
+          "filename": "Lacra Natural_P.utoc",
+          "sha256": {
+            ".pak": "a33d6b80f641de3222132262b77202762c20942a17dd9810e71bdacd591fe202",
+            ".ucas": "e27e7569fc66b3eb2bfbf672b55396cd9a9b54c4d3aa9555a52e3d7913e02e34",
+            ".utoc": "69ec7bdd14cf6ad5a19799ceebfede1da8d428e730d3855d6a84b3613bae0d8c"
+          },
+          "assets": [
+            "LACRA/Content/_Dawnwalker/Characters/Heads/HFA_Lacra_Head_B/Textures/T_HFA_Lacra_Head_B_D.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 550,
+      "file_id": 2443,
+      "title": "Lacra Makeup",
+      "version": "2",
+      "archive": "Lacra Makeup 550 2 2026-09-21T22-38Z DFpFQiuqO.zip",
+      "selection_id": "chars_550_2443",
+      "mode": "direct",
+      "originals": [
+        {
+          "filename": "Lacra Eye Makeup_P.utoc",
+          "sha256": {
+            ".pak": "71e65df99ea42c15c2507269fd7447113cbb75056586237c53f5829b0c991d4e",
+            ".ucas": "42de1d659e30036fbbd912374ac56c0ec42dd5ec8023291465659add7bae39d8",
+            ".utoc": "813a78c648a293f940cbf1b513b514bc3e9b4a0f39984368b6dc6940aa5d8c53"
+          },
+          "assets": [
+            "LACRA/Content/_Dawnwalker/Characters/Heads/HFA_Lacra_Head_B/Textures/T_HFA_Lacra_Head_B_D.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 550,
+      "file_id": 2085,
+      "title": "Lacra LESS Wrinkles",
+      "version": "1",
+      "archive": "Lacra LESS Wrinkles 550 1 2026-09-16T21-35Z qCmCin1EH.rar",
+      "selection_id": "chars_550_2085",
+      "mode": "direct",
+      "originals": [
+        {
+          "filename": "pakchunk9995-LacraWrinkles_P.utoc",
+          "sha256": {
+            ".pak": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+            ".ucas": "8f8290d432ce3f1e0e09b610804e8e7c955671223ea662559b5d9ff73d916c3c",
+            ".utoc": "185b9e192feb917c4279883da22070f96c77fb6097eac28fa70a4294e7e3b1a6"
+          },
+          "assets": [
+            "LACRA/Content/_Dawnwalker/Characters/Heads/HFA_Lacra_Head_B/Textures/T_HFA_Lacra_Head_B_WM1.uasset",
+            "LACRA/Content/_Dawnwalker/Characters/Heads/HFA_Lacra_Head_B/Textures/T_HFA_Lacra_Head_B_WM2.uasset",
+            "LACRA/Content/_Dawnwalker/Characters/Heads/HFA_Lacra_Head_B/Textures/T_HFA_Lacra_Head_B_WM3.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 550,
+      "file_id": 2083,
+      "title": "Lacra Smooth Skin",
+      "version": "1",
+      "archive": "Lacra Smooth Skin 550 1 2026-09-16T21-34Z owGwkxN6t.rar",
+      "selection_id": "chars_550_2083",
+      "mode": "textures",
+      "originals": [
+        {
+          "filename": "pakchunk9996-LacraSmoothSkin_P.utoc",
+          "sha256": {
+            ".pak": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+            ".ucas": "46ba5565e395d0674b2955d3bc0b4de945e6af39400df239fc360a3ba7bdcf5a",
+            ".utoc": "b10cebfb15e11830b9681b8b6e34ba60ae4e7ee6135833ec439e35de47f4344a"
+          },
+          "assets": [
+            "LACRA/Content/_Dawnwalker/Characters/Heads/HFA_Lacra_Head_B/Textures/T_HFA_Lacra_Head_B_NC.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 533,
+      "file_id": 2024,
+      "title": "Rise Of Lacra Croft - Human Head Replacement",
+      "version": "1",
+      "archive": "Rise Of Lacra Croft - Human Head Replacement 533 1 2026-09-16T03-46Z JPuPhOCU0.zip",
+      "selection_id": "chars_533_2024",
+      "mode": "head",
+      "originals": [
+        {
+          "filename": "pakchunk7903-RiseOfLacraCroft_P.utoc",
+          "sha256": {
+            ".pak": "9bddaa29e8983b4d0a6032882d318a252af564a2b97294db94634a2623fafcbc",
+            ".ucas": "2a12930431f16bf3a27fcec44e9c097a6128941e79f3344e69c6569fa0a39b33",
+            ".utoc": "41a7a379c9a3f9dec7818b9fa20da15d4142e28ccf6331aa854d169affd6ee41"
+          },
+          "assets": [
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Lacra_Head_B/SK_HFA_Lacra_Head_B.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 404,
+      "file_id": 2069,
+      "title": "Anca Young No Eyeliner",
+      "version": "2",
+      "archive": "Anca Young No Eyeliner 404 2 2026-09-16T19-13Z kZ3Z1psro.zip",
+      "selection_id": "chars_404_2069",
+      "mode": "textures",
+      "originals": [
+        {
+          "filename": "pakchunk7900-AncaYoungNoEyeliner_P.utoc",
+          "sha256": {
+            ".pak": "bc655424cd408c49eb25af740938effef62f850e03fd8e76e41ade1ce32c4aa7",
+            ".ucas": "b5bb71b210ec77fe34e2d14b14c3e8a2fc86246f99b8da96d7dbcefebf8d5678",
+            ".utoc": "f39c4940d9f9f6e115f380dcfddbbeb263a514bdcfc001f2d281666c5e16b804"
+          },
+          "assets": [
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_D.uasset"
+          ]
+        },
+        {
+          "filename": "pakchunk7901-AncaYoungSmootherFace_P.utoc",
+          "sha256": {
+            ".pak": "dc4796b8331308cb442cdd949914057fcd8c68c4e37af486ac252d631c6cac13",
+            ".ucas": "bf76f5393ddde2e510e263a4f3780ad84e7886afd025638afcbeb3b505a993e6",
+            ".utoc": "24bc812b495872a19f70bcece8dbfa6e805ce7baa04c5ed4f207ed5892f33586"
+          },
+          "assets": [
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_BDS_q101.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_BNAO.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_CM1.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_CM2.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_CM3.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_NC.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_NC_LOD1.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_NC_LOD2.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_NC_LOD3.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_R.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_WM1.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_WM2.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_WM3.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 404,
+      "file_id": 2068,
+      "title": "Anca Young No Makeup",
+      "version": "2",
+      "archive": "Anca Young No Makeup 404 2 2026-09-16T19-12Z Fgbgq9kOC.zip",
+      "selection_id": "chars_404_2068",
+      "mode": "textures",
+      "originals": [
+        {
+          "filename": "pakchunk7900-AncaYoungNoMakeup_P.utoc",
+          "sha256": {
+            ".pak": "bc655424cd408c49eb25af740938effef62f850e03fd8e76e41ade1ce32c4aa7",
+            ".ucas": "75b78bb0d3b0bf7107b96f3508cf232182824c15450c5d537861aeb861970932",
+            ".utoc": "09c4bcb85be746bc29abcad29c7a3925643da4a2cdbfef88a3523daf7a04a137"
+          },
+          "assets": [
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_D.uasset"
+          ]
+        },
+        {
+          "filename": "pakchunk7901-AncaYoungSmootherFace_P.utoc",
+          "sha256": {
+            ".pak": "dc4796b8331308cb442cdd949914057fcd8c68c4e37af486ac252d631c6cac13",
+            ".ucas": "bf76f5393ddde2e510e263a4f3780ad84e7886afd025638afcbeb3b505a993e6",
+            ".utoc": "24bc812b495872a19f70bcece8dbfa6e805ce7baa04c5ed4f207ed5892f33586"
+          },
+          "assets": [
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_BDS_q101.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_BNAO.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_CM1.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_CM2.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_CM3.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_NC.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_NC_LOD1.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_NC_LOD2.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_NC_LOD3.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_R.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_WM1.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_WM2.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_WM3.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 404,
+      "file_id": 2067,
+      "title": "Anca Young Makeup",
+      "version": "2",
+      "archive": "Anca Young Makeup 404 2 2026-09-16T19-12Z 5n0ndKRSo.zip",
+      "selection_id": "chars_404_2067",
+      "mode": "textures",
+      "originals": [
+        {
+          "filename": "pakchunk7900AncaYoungMakeup_P.utoc",
+          "sha256": {
+            ".pak": "bc655424cd408c49eb25af740938effef62f850e03fd8e76e41ade1ce32c4aa7",
+            ".ucas": "52f5c45b394e569a82e2a91860590bd76019300e30d39fbb1da517d54ef74355",
+            ".utoc": "9fd8111c30367b2b918277cd2c9056d246c9cbcbf03202c2c1a21e434ef2203b"
+          },
+          "assets": [
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_D.uasset"
+          ]
+        },
+        {
+          "filename": "pakchunk7901-AncaYoungSmootherFace_P.utoc",
+          "sha256": {
+            ".pak": "dc4796b8331308cb442cdd949914057fcd8c68c4e37af486ac252d631c6cac13",
+            ".ucas": "bf76f5393ddde2e510e263a4f3780ad84e7886afd025638afcbeb3b505a993e6",
+            ".utoc": "24bc812b495872a19f70bcece8dbfa6e805ce7baa04c5ed4f207ed5892f33586"
+          },
+          "assets": [
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_BDS_q101.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_BNAO.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_CM1.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_CM2.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_CM3.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_NC.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_NC_LOD1.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_NC_LOD2.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_NC_LOD3.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_R.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_WM1.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_WM2.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_WM3.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 512,
+      "file_id": 1957,
+      "title": "Anca Is Really Old",
+      "version": "1",
+      "archive": "Anca Is Really Old 512 1 2026-09-15T09-37Z QqTq45eCB.zip",
+      "selection_id": "chars_512_1957",
+      "mode": "textures",
+      "originals": [
+        {
+          "filename": "AncaIsReallyOld_P.utoc",
+          "sha256": {
+            ".pak": "bc655424cd408c49eb25af740938effef62f850e03fd8e76e41ade1ce32c4aa7",
+            ".ucas": "5e544a69b6d0fd5b4ba67e8023956f7935121c9c75b30dd375a727106ac107eb",
+            ".utoc": "a05c1a33297a6ff4500a4fffeb8928b39f582df2109869694bf32045dc0fadb4"
+          },
+          "assets": [
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/Textures/T_HFA_Anca_Head_A_D.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 445,
+      "file_id": 2457,
+      "title": "Lacra Gothic Makeup",
+      "version": "2",
+      "archive": "Lacra Gothic Makeup 445 2 2026-09-22T07-55Z qCmCin19n.zip",
+      "selection_id": "chars_445_2457",
+      "mode": "textures",
+      "originals": [
+        {
+          "filename": "pakchunk7902-LacraGothicSkinGothMakeupv2_P.utoc",
+          "sha256": {
+            ".pak": "3f93ab7ca69afd86c398a990d4fbc268928cde0e9f63f1fac2333a46d6a15246",
+            ".ucas": "1fba24b9259018cb0756655c30df26a6288f7c88bc9c62394967f8adbcea7519",
+            ".utoc": "4f6400d3b936aefa062f37ae36cb289fd94ed1b21ca7bf811b56bfd76ae1a3c9"
+          },
+          "assets": [
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Lacra_Head_B/Textures/T_HFA_Lacra_Head_B_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyFeet/HFA_Lacra_BodyFeet_A/Textures/T_HFA_Lacra_BodyFeet_A_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HFA_Lacra_BodyHands_A/Textures/T_HFA_Lacra_BodyHands_A_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HFA_Lacra_BodyLegs_A/Textures/T_HFA_Lacra_BodyLegs_A_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HFA_Lacra_BodyTorso_A/Textures/T_HFA_Lacra_BodyTorso_A_D.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 445,
+      "file_id": 2454,
+      "title": "Lacra Gothic Vanilla Makeup",
+      "version": "2",
+      "archive": "Lacra Gothic Vanilla Makeup 445 2 2026-09-22T04-27Z 80d0asHN5.zip",
+      "selection_id": "chars_445_2454",
+      "mode": "textures",
+      "originals": [
+        {
+          "filename": "pakchunk7902-LacraGothicSkinVanillaMakeup_P.utoc",
+          "sha256": {
+            ".pak": "3f93ab7ca69afd86c398a990d4fbc268928cde0e9f63f1fac2333a46d6a15246",
+            ".ucas": "927ee94e5ca1855d05f8458825e434aa3aa10ef5b2dbebeb7786324770f2b90e",
+            ".utoc": "33f5c8d0f34f6d6a8ec1642d46494efa0c5ee0665eb741dbd16b7f08d4dadda8"
+          },
+          "assets": [
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Lacra_Head_B/Textures/T_HFA_Lacra_Head_B_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyFeet/HFA_Lacra_BodyFeet_A/Textures/T_HFA_Lacra_BodyFeet_A_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HFA_Lacra_BodyHands_A/Textures/T_HFA_Lacra_BodyHands_A_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HFA_Lacra_BodyLegs_A/Textures/T_HFA_Lacra_BodyLegs_A_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HFA_Lacra_BodyTorso_A/Textures/T_HFA_Lacra_BodyTorso_A_D.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 445,
+      "file_id": 2453,
+      "title": "Lacra Gothic Dead Skin Vanilla Makeup v2",
+      "version": "2",
+      "archive": "Lacra Gothic Dead Skin Vanilla Makeup v2 445 2 2026-09-22T02-44Z QqTq45eiL.zip",
+      "selection_id": "chars_445_2453",
+      "mode": "textures",
+      "originals": [
+        {
+          "filename": "pakchunk7902-LacraGothicSkinDeadSkinv2_P.utoc",
+          "sha256": {
+            ".pak": "3f93ab7ca69afd86c398a990d4fbc268928cde0e9f63f1fac2333a46d6a15246",
+            ".ucas": "b5ccfaa8eae54d6a58d3d7cab1d3915ba4cc096b7fe904be171ef97d3aee97fc",
+            ".utoc": "79437ea901c42ebd0948db784ce2b909bcd786d1dfc20e1887cac07d1a4be149"
+          },
+          "assets": [
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Lacra_Head_B/Textures/T_HFA_Lacra_Head_B_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyFeet/HFA_Lacra_BodyFeet_A/Textures/T_HFA_Lacra_BodyFeet_A_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HFA_Lacra_BodyHands_A/Textures/T_HFA_Lacra_BodyHands_A_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HFA_Lacra_BodyLegs_A/Textures/T_HFA_Lacra_BodyLegs_A_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HFA_Lacra_BodyTorso_A/Textures/T_HFA_Lacra_BodyTorso_A_D.uasset"
+          ]
+        }
+      ]
+    },
+    {
+      "mod_id": 445,
+      "file_id": 2448,
+      "title": "Lacra Gothic No Makeup",
+      "version": "2",
+      "archive": "Lacra Gothic No Makeup 445 2 2026-09-22T01-14Z sW7WJAgPF.zip",
+      "selection_id": "chars_445_2448",
+      "mode": "textures",
+      "originals": [
+        {
+          "filename": "pakchunk7902-GothicSkinv2_P.utoc",
+          "sha256": {
+            ".pak": "3f93ab7ca69afd86c398a990d4fbc268928cde0e9f63f1fac2333a46d6a15246",
+            ".ucas": "5547da81f9ffd2f423c3d4da3fbf543c6ccc682c3175bd432cc67c7ba81c9b4e",
+            ".utoc": "92c02bb232c1cf6eaa19ea5502b94988c852f86f3f06eff8fffc729500d432a4"
+          },
+          "assets": [
+            "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Lacra_Head_B/Textures/T_HFA_Lacra_Head_B_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyFeet/HFA_Lacra_BodyFeet_A/Textures/T_HFA_Lacra_BodyFeet_A_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HFA_Lacra_BodyHands_A/Textures/T_HFA_Lacra_BodyHands_A_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HFA_Lacra_BodyLegs_A/Textures/T_HFA_Lacra_BodyLegs_A_D.uasset",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HFA_Lacra_BodyTorso_A/Textures/T_HFA_Lacra_BodyTorso_A_D.uasset"
+          ]
+        }
+      ]
+    }
+  ],
+  "notes": "Source and cooked-asset checks. Body replacements are alternatives, not simultaneous shapes. Originals remain separate Vortex entries."
+}

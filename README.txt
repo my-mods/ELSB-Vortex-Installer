@@ -7,15 +7,23 @@ offer Vanilla, ELSB, or ELSB + Pussy Walker. Neither add-on body is selected
 by default on a fresh install. First-install suggestions reflect the saved
 toolkit preferences at preparation.
 
+Character compatibility choices cover the 31 reviewed Vortex Characters
+entries, including Lacra Beautiful Hair v4. Its hair patch keeps the selected
+ELSB body, outfit and scene choices. Face overlays, skin surface and wrinkles
+can be selected separately. Thicc/SlimThicc Lacra remain alternative Lacra
+body shapes while the other characters retain ELSB. See Compatibility.txt.
+
 The original ELSB module files are unchanged. The personal body add-on and
-Lacra hair/texture compatibility containers are separate additions. Original
-third-party mods are not bundled. You manage their activation in Vortex.
+character compatibility containers are separate additions. Original archives
+remain separate requirements; patches contain only their reviewed overrides.
+You manage the originals' activation in Vortex.
 No ELSB toolkit program, configuration or direct-copy operation is installed.
 
 Every wizard choice has a picture. Original ELSB previews are reused unchanged;
 the Lacra hair and chest patches use their Nexus images. The two personal body
 choices show a clearly identified ELSB body reference; their added geometry is
-not pictured. Preview images remain in the installer and are not game files.
+not pictured. New character choices use clearly labelled ELSB reference images.
+Preview images remain in the installer and are not game files.
 
 Each compatibility choice starts with an activation warning naming the Nexus
 mod and exact supported archive. Activate and deploy that original as its own

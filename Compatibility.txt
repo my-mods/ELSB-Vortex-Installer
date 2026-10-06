@@ -1,108 +1,213 @@
-ELSB compatibility catalogue
+ELSB character compatibility catalogue
 
-Patch selection never enables or disables an original mod. Enable the desired
-original in Vortex first, then choose its patch when reinstalling this entry.
-The audit's main list shows originals at supported hashes that are actually
-deployed. Mods merely present in staging appear separately.
+The Characters category review covers the 31 original entries listed below.
+Install only the originals for the choices you want. Each remains a separate
+Vortex entry; selecting a patch does not install or activate its original.
+The wizard names the supported archive and retains the previous choice names.
 
-Coen's Nude Mod -- Nexus 281, version 1.0.8
-Keep the original as its own Vortex entry. Coen fit requires Coen's ELSB body.
-The Marat fit requires Marat's ELSB body and is independent of Coen's choice.
-The original toolkit's imported duplicate is not shipped here. Source hashes
-match the staged original. Preserve Vortex-owned zCoenNude_P files.
+Lacra Beautiful Hair v4
+Select Lacra Beautiful Hair - clothing-table patch under Lacra hair. It keeps
+the selected ELSB/Pussy Walker body, outfit and scene settings and adds the
+physics-hair slot. All 928 ELSB clothing rows remain intact; its hair row is
+added separately. Eight appearance presets are merged for All scenes and
+Nude outfit. The downloaded v4 payload, current Vortex original and retained
+fixed-v2 payload match byte for byte. Keep just one hair original enabled.
 
-Revealing Anca -- Nexus 531, version 1.2.1
-Revealing Lacra -- Nexus 501, version 1.2
-Keep each selected original enabled. Select its outfit patch with that
-character's ELSB or ELSB + Pussy Walker body. The installer includes the
-required All scenes modules. Local staged originals match the upstream
-patch manifests. Package selection is verified; in-game fit remains pending.
+Body and outfit alternatives
+Thicc Lacra and SlimThicc Lacra are alternative Lacra body selections.
+They retain the chosen original Lacra shape while other characters keep ELSB.
+They do not combine two different Lacra body shapes. Their two clothing rows
+are merged into the selected ELSB table, with a separate physics-hair variant.
+Their different torso hide masks are preserved. Use one of these originals
+at a time; ELSB Lacra outfits and the ELSB Croft head route are unavailable
+with those alternative bodies.
+Coen Nude, Revealing Anca, Revealing Lacra, Loose Anca, Revealing Thicc Anca
+and Thicc Anca retain their existing ELSB fitted patches. Their required
+originals match the supplied fit manifests. Anca outfits remain alternatives.
+For Pussywalker, select the included ELSB + Pussy Walker body separately for
+Anca and/or Lacra and keep standalone VaginaMod disabled. That standalone
+shared-body replacement is not a dependency of the adapted personal bodies.
 
-Lacra Beautiful Hair (fixed) -- Nexus 570, version 2
-Keep the original enabled. Choose the Lacra hair clothing-table patch.
-The matching table variant preserves every one of the selected ELSB table's
-928 rows and adds the hair mod's HFA_Lacra_HairPhysics_A row (929 total).
-Coen hairstyle and Marat scene choices select the appropriate table copy.
-Both upstream originals remain unchanged. Retoc and CUE4Parse checks pass.
+Face, skin and hair choices
+Choose one original per skin/face category. Coen face and Lacra face, surface
+and wrinkle selections are separate, so they can accompany a body texture.
+Their narrow priority patches retain the original texture content. Anca Puffy
+Hair preserves the original cloth asset and replaces the ELSB hairstyle choice.
+Rise of Lacra Croft routes the ELSB presets to the original replacement head;
+the torso, limbs and selected story/scene materials remain unchanged.
+The personal Pussy Walker graft uses its own skin atlas. A full recolour such
+as Gothic Lacra does not recolour that private graft atlas; use the regular
+ELSB Lacra body for a consistent Gothic skin setup.
 
-Lacra Vrakhir Chest Texture -- Nexus 709, version 1.0.0
-Keep the original enabled. Choose the Lacra skin priority patch.
-The compatibility container retains the original three torso textures,
-including native data and mip payloads, at their intended paths. Its name
-places it before overlapping ELSB containers under ELSB's priority convention.
-No mesh or unrelated character texture is replaced by this patch.
+Reviewed originals and wizard selections
 
-Standalone VaginaMod / Pussywalker -- Nexus 370, version 1
-Not a dependency of the personal add-on. Keep it disabled for the supported
-ELSB + Pussy Walker setup. It replaces a shared female body and additional
-textures; combining it with this setup requires separate validation.
+Evil Twin Retexture v.1.3 Original Skin Tone -- version 1.3; Nexus 523
+Choice: Evil Twin Retexture v.1.3 Original Skin Tone - ELSB patch
+Archive: Evil Twin Retexture v.1.3 Original Skin Tone 523 1.3 2026-09-16T21-03Z QqTq45eIw.zip
+https://www.nexusmods.com/thebloodofdawnwalker/mods/523
 
-Other included upstream fitted patches
-Wrong Sized Tanktop For Thicc Anca (Loose Anca), Nexus 607;
-Revealing Thicc Anca by MM, Nexus 592; Thicc Anca by MM, Nexus 279.
-These original ELSB patches are retained unchanged with ELSB-family and
-All scenes conditions. Exact source hashes are in Audit/catalogue.json.
-Their originals are not locally available for combination validation; the
-wizard and package rules were tested, not their source/gameplay combination.
-
-Other body replacements
-Choose that replacement or the corresponding ELSB body unless a specific
-compatibility patch supports both. Unrelated mods can remain enabled.
-New mods remain separate Vortex entries; the catalogue is extended only
-after inspecting the specific combination.
-
-Conflict interpretation
-Different physical container names can contain the same Unreal asset path.
-Vortex's ordinary file-conflict display does not reveal every such overlap.
-Our patches use ELSB's earlier-name priority convention. Do not rename their
-containers. If another mod uses an earlier name for the same asset, its
-interaction needs review. A physical overwrite rule alone cannot merge
-Unreal meshes or tables. The audit reports overlaps, not guaranteed fit.
-
-Original ELSB checksums
-Original payload hashes are preserved. Of 276 original ELSB container
-variants, 261 have inherited retoc checksum failures. These have not been
-silently rewritten. The 24 personal add-on/new patch variants verify.
-This distinction is provenance and package evidence, not gameplay approval.
-
-Required originals: activate and deploy in Vortex
-These are exact supported archives, not instructions to activate every mod.
-Use only the original matching a compatibility choice you select. The wizard
-does not activate originals or detect their current enabled state.
-
-Activate and deploy in Vortex: Coen's Nude Mod
-Archive: Coen Nude 281 1.0.8 2026-09-27T15-48Z Y585g2wtS.rar
-https://www.nexusmods.com/thebloodofdawnwalker/mods/281
-
-Activate and deploy in Vortex: Revealing Anca
-Archive: Revealing Anca 531 1.2.1 2026-09-23T13-29Z tzYzjaIeC.zip
-https://www.nexusmods.com/thebloodofdawnwalker/mods/531
-
-Activate and deploy in Vortex: Revealing Lacra
-Archive: Revealing Lacra 501 1.2 2026-09-23T01-46Z kZ3Z1psoc.zip
-https://www.nexusmods.com/thebloodofdawnwalker/mods/501
-
-Activate and deploy in Vortex: Lacra Beautiful Hair with hair physics (and color options )
-Archive: Lacra Beautiful Hair (fixed) 570 2 2026-09-18T09-12Z Y585g2w0d.rar
-https://www.nexusmods.com/thebloodofdawnwalker/mods/570
-This patch targets the fixed v2 archive. Newer hair/physics versions and optional colours require separate compatibility review.
-
-Activate and deploy in Vortex: Lacra Chest Texture - Vrakhir Fix
+Lacra Vrakhir Chest Texture -- version 1.0.0; Nexus 709
+Choice: Lacra Chest Texture - Vrakhir Fix (existing ELSB option)
 Archive: Lacra Vrakhir Chest Texture 709 1.0.0 2026-10-03T09-06Z lfUfKoz4Q.zip
 https://www.nexusmods.com/thebloodofdawnwalker/mods/709
 
-Activate and deploy in Vortex: Wrong Sized Tanktop For Thicc Anca
-Archive: Loose Anca 607 1 2026-09-20T03-29Z XJrJvVqEZ.rar
-https://www.nexusmods.com/thebloodofdawnwalker/mods/607
+Makeup v2 (no Eye of Horus) -- version 2; Nexus 550
+Choice: Makeup v2 (no Eye of Horus) - original
+Archive: Makeup v2 (no Eye of Horus) 550 2 2026-09-21T22-38Z 3SxSDq7FQ.zip
+https://www.nexusmods.com/thebloodofdawnwalker/mods/550
 
-Activate and deploy in Vortex: Revealing Thicc Anca by MM
-Archive: Revealing Anca 592 1 2026-09-19T00-08Z mB9BLvDgW.rar
-https://www.nexusmods.com/thebloodofdawnwalker/mods/592
+Revealing Anca -- version 1.2.1; Nexus 531
+Choice: Revealing Anca (existing ELSB option)
+Archive: Revealing Anca 531 1.2.1 2026-09-23T13-29Z tzYzjaIeC.zip
+https://www.nexusmods.com/thebloodofdawnwalker/mods/531
 
-Activate and deploy in Vortex: Thicc Anca by MM
+Revealing Lacra -- version 1.2; Nexus 501
+Choice: Revealing Lacra (existing ELSB option)
+Archive: Revealing Lacra 501 1.2 2026-09-23T01-46Z kZ3Z1psoc.zip
+https://www.nexusmods.com/thebloodofdawnwalker/mods/501
+
+Coen Nude -- version 1.0.8; Nexus 281
+Choice: Coen's Nude Mod (existing ELSB option)
+Archive: Coen Nude 281 1.0.8 2026-09-27T15-48Z Y585g2wtS.rar
+https://www.nexusmods.com/thebloodofdawnwalker/mods/281
+
+VaginaMod -- version 1; Nexus 370
+Choice: Included ELSB + Pussy Walker body; standalone original disabled
+Archive: VaginaMod 370 1 2026-09-09T18-22Z cpQpRzh5N.7z
+https://www.nexusmods.com/thebloodofdawnwalker/mods/370
+
+Lacra Beautiful Hair -- version 4; Nexus 570
+Choice: Lacra Beautiful Hair with hair physics (and color options ) (existing ELSB option)
+Archive: Lacra Beautiful Hair 570 4 2026-10-04T23-28Z ODcDE4rb5.zip
+https://www.nexusmods.com/thebloodofdawnwalker/mods/570
+
+Youthful Coen -- version 1; Nexus 703
+Choice: Youthful Coen - original
+Archive: Youthful Coen 703 1 2026-10-01T18-39Z vhfhUIi0Z.zip
+https://www.nexusmods.com/thebloodofdawnwalker/mods/703
+
+Djrd Coen NOFACE Tats -- version 1; Nexus 618
+Choice: Djrd Coen NOFACE Tats - ELSB patch
+Archive: Djrd Coen NOFACE Tats 618 1 2026-09-23T02-06Z 3SxSDq7GA.zip
+https://www.nexusmods.com/thebloodofdawnwalker/mods/618
+
+V1 Djrd Coen Tats -- version 1; Nexus 618
+Choice: V1 Djrd Coen Tats - ELSB patch
+Archive: V1 Djrd Coen Tats 618 1 2026-09-22T23-18Z GHZH3FKIS.zip
+https://www.nexusmods.com/thebloodofdawnwalker/mods/618
+
+ThiccAnca -- version 1.1; Nexus 279
+Choice: Thicc Anca by MM (existing ELSB option)
 Archive: ThiccAnca 279 1.1 2026-09-07T04-54Z C2B29rxz2.zip
 https://www.nexusmods.com/thebloodofdawnwalker/mods/279
 
-Keep disabled in Vortex: Pussywalker
-Archive: VaginaMod 370 1 2026-09-09T18-22Z cpQpRzh5N.7z
-https://www.nexusmods.com/thebloodofdawnwalker/mods/370
+Revealing Anca -- version 1; Nexus 592
+Choice: Revealing Thicc Anca by MM (existing ELSB option)
+Archive: Revealing Anca 592 1 2026-09-19T00-08Z mB9BLvDgW.rar
+https://www.nexusmods.com/thebloodofdawnwalker/mods/592
+
+Loose Anca -- version 1; Nexus 607
+Choice: Wrong Sized Tanktop For Thicc Anca (existing ELSB option)
+Archive: Loose Anca 607 1 2026-09-20T03-29Z XJrJvVqEZ.rar
+https://www.nexusmods.com/thebloodofdawnwalker/mods/607
+
+SlimThiccLacrabyMM -- version 1; Nexus 311
+Choice: SlimThiccLacrabyMM - table patch
+Archive: SlimThiccLacrabyMM 311 1 2026-09-13T22-29Z KMWM7k8ap.zip
+https://www.nexusmods.com/thebloodofdawnwalker/mods/311
+
+ThiccLacrabyMM -- version 1; Nexus 311
+Choice: ThiccLacrabyMM - table patch
+Archive: ThiccLacrabyMM 311 1 2026-09-13T21-19Z nrvrlMTzv.zip
+https://www.nexusmods.com/thebloodofdawnwalker/mods/311
+
+Anca Puffy Hair -- version 1; Nexus 626
+Choice: Anca Puffy Hair - ELSB patch
+Archive: Anca Puffy Hair 626 1 2026-09-22T17-14Z 96X6nfpCd.rar
+https://www.nexusmods.com/thebloodofdawnwalker/mods/626
+
+Body Hair- chest pits and pubes -- version 2; Nexus 621
+Choice: Body Hair- chest pits and pubes - ELSB patch
+Archive: Body Hair- chest pits and pubes 621 2 2026-09-28T20-04Z owGwkxNTP.zip
+https://www.nexusmods.com/thebloodofdawnwalker/mods/621
+
+Lacra Natural Makeup -- version 1; Nexus 550
+Choice: Lacra Natural Makeup - original
+Archive: Lacra Natural Makeup 550 1 2026-09-21T23-19Z mB9BLvDX1.zip
+https://www.nexusmods.com/thebloodofdawnwalker/mods/550
+
+Lacra Makeup -- version 2; Nexus 550
+Choice: Lacra Makeup - original
+Archive: Lacra Makeup 550 2 2026-09-21T22-38Z DFpFQiuqO.zip
+https://www.nexusmods.com/thebloodofdawnwalker/mods/550
+
+Lacra LESS Wrinkles -- version 1; Nexus 550
+Choice: Lacra LESS Wrinkles - original
+Archive: Lacra LESS Wrinkles 550 1 2026-09-16T21-35Z qCmCin1EH.rar
+https://www.nexusmods.com/thebloodofdawnwalker/mods/550
+
+Lacra Smooth Skin -- version 1; Nexus 550
+Choice: Lacra Smooth Skin - ELSB patch
+Archive: Lacra Smooth Skin 550 1 2026-09-16T21-34Z owGwkxN6t.rar
+https://www.nexusmods.com/thebloodofdawnwalker/mods/550
+
+Rise Of Lacra Croft - Human Head Replacement -- version 1; Nexus 533
+Choice: Rise Of Lacra Croft - Human Head Replacement - ELSB routing
+Archive: Rise Of Lacra Croft - Human Head Replacement 533 1 2026-09-16T03-46Z JPuPhOCU0.zip
+https://www.nexusmods.com/thebloodofdawnwalker/mods/533
+
+Anca Young No Eyeliner -- version 2; Nexus 404
+Choice: Anca Young No Eyeliner - ELSB patch
+Archive: Anca Young No Eyeliner 404 2 2026-09-16T19-13Z kZ3Z1psro.zip
+https://www.nexusmods.com/thebloodofdawnwalker/mods/404
+
+Anca Young No Makeup -- version 2; Nexus 404
+Choice: Anca Young No Makeup - ELSB patch
+Archive: Anca Young No Makeup 404 2 2026-09-16T19-12Z Fgbgq9kOC.zip
+https://www.nexusmods.com/thebloodofdawnwalker/mods/404
+
+Anca Young Makeup -- version 2; Nexus 404
+Choice: Anca Young Makeup - ELSB patch
+Archive: Anca Young Makeup 404 2 2026-09-16T19-12Z 5n0ndKRSo.zip
+https://www.nexusmods.com/thebloodofdawnwalker/mods/404
+
+Anca Is Really Old -- version 1; Nexus 512
+Choice: Anca Is Really Old - ELSB patch
+Archive: Anca Is Really Old 512 1 2026-09-15T09-37Z QqTq45eCB.zip
+https://www.nexusmods.com/thebloodofdawnwalker/mods/512
+
+Lacra Gothic Makeup -- version 2; Nexus 445
+Choice: Lacra Gothic Makeup - ELSB patch
+Archive: Lacra Gothic Makeup 445 2 2026-09-22T07-55Z qCmCin19n.zip
+https://www.nexusmods.com/thebloodofdawnwalker/mods/445
+
+Lacra Gothic Vanilla Makeup -- version 2; Nexus 445
+Choice: Lacra Gothic Vanilla Makeup - ELSB patch
+Archive: Lacra Gothic Vanilla Makeup 445 2 2026-09-22T04-27Z 80d0asHN5.zip
+https://www.nexusmods.com/thebloodofdawnwalker/mods/445
+
+Lacra Gothic Dead Skin Vanilla Makeup v2 -- version 2; Nexus 445
+Choice: Lacra Gothic Dead Skin Vanilla Makeup v2 - ELSB patch
+Archive: Lacra Gothic Dead Skin Vanilla Makeup v2 445 2 2026-09-22T02-44Z QqTq45eiL.zip
+https://www.nexusmods.com/thebloodofdawnwalker/mods/445
+
+Lacra Gothic No Makeup -- version 2; Nexus 445
+Choice: Lacra Gothic No Makeup - ELSB patch
+Archive: Lacra Gothic No Makeup 445 2 2026-09-22T01-14Z sW7WJAgPF.zip
+https://www.nexusmods.com/thebloodofdawnwalker/mods/445
+
+Conflict interpretation
+Matching Unreal asset paths can conflict even when physical container names
+differ. Do not rename patch containers. Patches use the established ELSB name
+priority convention; the optional read-only audit lists deployed originals
+at known hashes and internal overlaps. It also recognizes different cooked
+project folder names that mount to the same /Game path.
+Original body/face alternatives are not automatically disabled by the wizard.
+New originals or different asset content require another review.
+
+Evidence and limits
+Native container checks, independent cooked-property comparisons and installer
+plans are documented in Verification.txt. Original ELSB files remain unchanged,
+including their inherited checksum failures. Animation, skin seams, head/neck
+alignment, hair physics, outfit clipping and scene transitions need gameplay
+acceptance. This catalogue does not claim every combination has been played.

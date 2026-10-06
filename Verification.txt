@@ -1,70 +1,60 @@
 Verification status -- personal development build, 2026-10-06
 
-Completed asset and package checks
-- All 828 original ELSB payload files (276 triples) match their local 1.1.1
-  inputs byte-for-byte. All 18 existing personal add-on files match their
-  previously verified inputs. Original toolkit files and settings are preserved.
-- All 24 personal/add-on container variants pass retoc verification: six
-  reused body/scope/outfit containers and eighteen new compatibility variants
-  (seventeen clothing tables and one chest texture container).
-- Each new hair table round-trips through UAssetAPI and independently through
-  CUE4Parse. All 928 original rows, including hard object/audio references,
-  remain equal; the donor hair row is the only addition. One of the seventeen
-  variants is a retained redundant upstream-table case; the wizard installs
-  only the effective winner's patch.
-- The chest patch round-trip retains the original texture properties/native
-  exports and bulk mip bytes. Its three asset paths are Lacra torso textures.
-- Reused personal meshes/materials/presets match the existing verified add-on.
-  Its original geometry checks covered four LODs, skin weights, waist seams,
-  unchanged geometry outside the graft, private texture/material paths and
-  unchanged torso assets. The new installer does not rebuild those meshes.
-- Actual installed Vortex 2.7.2 native FOMOD engine: 349 scenarios, including
-  all nine Anca/Lacra body combinations, every selectable option, paired beard
-  colours, scene/outfit rules, conditional fitted patches and hair-table winners.
-- All 185 choices reference packaged pictures: 181 unchanged ELSB previews,
-  two unchanged Nexus images, and two explicitly labelled ELSB body references
-  for the personal variants. Image bytes, decoding, native wizard paths and
-  per-patch Nexus-name/archive activation warnings are checked on source and ZIP.
-  Option identities, order, defaults and installed game files remain unchanged.
-- Saved installer choices reopen without changes when passed to the engine.
-  A separate ELSB choice-preservation extension covers Vortex's missing-preset
-  handoff on local replacements and version updates. Thirty-two additional native
-  engine scenarios cover existing choices, all nine body pairs, removal of the
-  old entry during replacement, partial/removed/invalid choices, reordered
-  options, changed recommendations, new groups, explicit presets, ambiguous
-  variants, other mods/games, and user edits followed by back navigation.
-  The same checks run against both delivered ZIPs. No game INI/menu is added.
-- Installed Dawnwalker extension 1.1.0 executed with disposable discovery
-  state: XML FOMOD takes precedence over its generic pak installer; explicit
-  dawnwalker-root routing resolves every selected triple to the correct path.
-- Fixture-only hardlink lifecycle checks cover repeat application, reinstall,
-  removal of options, disabling and restoration, with unrelated files retained.
-- The read-only auditor distinguishes active bytes from staged originals,
-  preserves managed ownership and rejects changed source hashes. The local
-  reapply workflow rejects missing, changed and duplicate upstream anchors.
-- Final archive contents and hashes are checked against the allowlist and
-  source files. The actual ZIP's extracted wizard is tested with the same
-  installed FOMOD engine and extension. The Latest Archives pickup is hash-matched.
+Completed checks
+- 31 Vortex Characters entries reviewed using their local original payloads.
+  The exact archives and hashes are recorded in the portable provenance files.
+  Lacra Beautiful Hair v4 was checked against its downloaded archive and the
+  staged original; these bytes also match the retained fixed-v2 payload.
+- 95 added compatibility containers pass retoc verification. All 119 personal
+  containers pass, including the 24 previously supplied variants.
+- Eight Lacra appearance presets independently round-trip through CUE4Parse:
+  only the physics-hair slot changes; ELSB body, outfit and scene properties
+  are retained. The hair table retains all 928 ELSB rows plus the hair row.
+- 68 separate table variants preserve all but the two intended Lacra clothing
+  mesh fields for Thicc/SlimThicc, with or without physics hair. Their different
+  torso hide masks are preserved. Object/audio references and other characters'
+  rows match the selected ELSB table through the independent cooked reader.
+- Eighteen texture priority patches retain 39 native texture exports and their
+  bulk mip bytes. Anca Puffy Hair retains its cloth properties/native data and
+  resolved imports. Six head-routing variants retain all non-head body data
+  across twelve ELSB/Pussy Walker body presets.
+- All 828 original ELSB payload files and 18 existing personal body files remain
+  byte-identical to their inputs. All six upstream fitted-outfit originals
+  match their corresponding source manifests.
+- Actual Vortex 2.7.2 native FOMOD engine: 566 scenarios on source and extracted
+  ZIP bytes, compared with an independent selection oracle. Coverage includes
+  all prior choices, new character options, alternative-body table variants,
+  hair/body/outfit/head combinations and unusable-combination restrictions.
+  Twelve forced stale-flag cases also enforce body/graft protection in the
+  file rules themselves, independently of wizard selection handling.
+- 38 groups and 212 choices. Previous option names, positions within their
+  groups and recommendations are preserved; new options/groups are appended.
+  All 212 pictures, captions and named-original warnings are checked using the
+  native wizard. Pictures and documentation never enter its game-file plans.
+- 34 saved-choice scenarios pass on source and archive, including migration
+  from the previous 33-group wizard, missing/new/removed choices, explicit
+  reset, changed defaults, other mods and manual edits/back navigation.
+- The installed Dawnwalker extension 1.1.0 routes the wizard to the game root.
+  XML FOMOD priority 10 precedes generic pak priority 30. Every selected triple
+  targets Dawnwalker/Content/Paks/~mods. Tests use disposable discovery only.
+- Fixture-only hardlink reinstall/removal/disable/restore checks preserve an
+  unrelated file. The auditor's deployed/staged distinction, ownership, source
+  hash rejection, path normalization and conflict checks pass.
+- Two builds replace the same ZIP path with identical bytes. The actual ZIP is
+  checked against an explicit allowlist and source hashes, and its extracted
+  installer is retested. The Latest Archives pickup matches its SHA-256.
 
-Inherited limitations
-261 of the 276 original ELSB container variants fail retoc verification with
-an inherited chunk hash mismatch. Their original hashes are recorded and
-their bytes have deliberately not been rewritten. The original fitted outfit
-patches carry this limitation. Preserving them is not a claim that the
-upstream checksums are valid.
-
-Local originals for Coen Nude, Revealing Anca 531 and Revealing Lacra 501
-match their patch-manifest hashes. The three other upstream Anca outfit
-originals were unavailable for combination checks. Their installer conditions
-are covered, but their full combinations remain unvalidated.
+Limits
+261 of the 276 unchanged original ELSB containers have inherited chunk-hash
+verification failures. Their exact bytes are preserved, not silently repaired.
+Thicc/SlimThicc Lacra are alternative body shapes, not ELSB Lacra overlays.
+Standalone VaginaMod remains disabled when using the included personal bodies.
+Gothic Lacra is unavailable with the personal Pussy Walker body because that
+body's private graft atlas is not recoloured by the original texture mod.
 
 Pending gameplay acceptance
-Animation and extreme poses; clothing fit and transitions; story scars,
-wounds, ritual/romance states; camera-distance and LOD transitions; final
-visual acceptance of hair and chest appearance. Offline reference/priority
-checks do not establish these results. No gameplay performance claim is made.
-
-The choice-preservation extension has not been installed into live Vortex.
-Its engine and callback checks use disposable fixtures; live UI acceptance
-remains pending, as does the live picture and warning layout. No public upload
-was performed.
+Hair physics; skin/neck seams; Croft head alignment and facial animation;
+clothing fit, extreme poses and clipping; scars, wounds and scene transitions;
+camera distance and LOD transitions. Offline checks do not prove these visual
+results. No installation, activation, deployment or public release is performed
+by this compatibility update. No performance claim is made.

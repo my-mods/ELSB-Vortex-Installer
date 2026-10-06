@@ -1662,6 +1662,576 @@
     "verify_exit_code": 0
   },
   {
+    "path": "Payload/Patches/characters/chars_404_2067/0ELSB_chars_404_2067_P.utoc",
+    "sha256": "1896adb565a95f4e75cabab1b4f7fc3732e9be6f62bcd237c091ab539ddf6740",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_404_2068/0ELSB_chars_404_2068_P.utoc",
+    "sha256": "9bb2c4218d56bb161f50837c56869f8a9a22d39b44a3ecc3d31c29da4b8148a6",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_404_2069/0ELSB_chars_404_2069_P.utoc",
+    "sha256": "c114fd0c69c5ad06b641d52980e3718e8daa70ffe57c7d152407eca91c8fe633",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_445_2448/0ELSB_chars_445_2448_P.utoc",
+    "sha256": "2b7bdd66d384b80a8f705ff852c4084965cdac718465c4f3cfe8880c6027b9e4",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_445_2453/0ELSB_chars_445_2453_P.utoc",
+    "sha256": "127dfece329f92571a91127f86cfcb4be497df699e7d3bac68205eb5b6e8020e",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_445_2454/0ELSB_chars_445_2454_P.utoc",
+    "sha256": "23299dc5dcaebf25d1b1b0a66340ebdb1e0812b148241b720fa8cbdd63efa42f",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_445_2457/0ELSB_chars_445_2457_P.utoc",
+    "sha256": "d028cb69f4fbebf91ee266ab2ebafe6342ec0ffea234283554df12b1452b7876",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_512_1957/0ELSB_chars_512_1957_P.utoc",
+    "sha256": "86580b824cb10246a1818b4c4220986f81761f346628a6db0fd6ff903a8fb5a6",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_523_2081/0ELSB_chars_523_2081_P.utoc",
+    "sha256": "929c2f9499aad370c80e3d0363f97c24e68654e026746f34eceec2c5c93851cd",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_550_2083/00ELSB_chars_550_2083_P.utoc",
+    "sha256": "3ad1ca70ccac0760f6457a50eab5e31f8fce778b352ff234fe7ef3394da7d5d6",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_550_2085/00ELSB_chars_550_2085_P.utoc",
+    "sha256": "30ae913d497b1faaa3f8223513346a04b64a456cba3cc5301a65ea657ca53a2d",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_550_2442/00ELSB_chars_550_2442_P.utoc",
+    "sha256": "e7b20d315e53e18bd970a6cccd756ec9ff7fd11ddf8f48d38d1e7bf2c5233b32",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_550_2443/00ELSB_chars_550_2443_P.utoc",
+    "sha256": "1da9789fa4530939bd4ff976bd2e87cbccd24d87e52cf272abdc2232aae2bf2a",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_550_2444/00ELSB_chars_550_2444_P.utoc",
+    "sha256": "8198b049464eea596da31813f636df2ed50ba82dd3324b3213596b4f10a30e5f",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_618_2495/0ELSB_chars_618_2495_P.utoc",
+    "sha256": "6497fe29fd79d741cd9d70d0394d6413463a3003d46164fcea497eabfadfc61a",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_618_2504/0ELSB_chars_618_2504_P.utoc",
+    "sha256": "b4f0b4f53c4d526377ccfb6fccd159cf9b27d7261b1c1b75c1c682fbe92c2b3a",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_621_2827/0ELSB_chars_621_2827_P.utoc",
+    "sha256": "8e004a26387ac74af4ebe3ebf9b004fd0768bca62db6b0655ee8828ebd7d9fa4",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_626_2488/0ELSB_chars_626_2488_P.utoc",
+    "sha256": "f94ef22946fe33467145e50e70d3176abce179a50b7e0888497eac557b8ef6f9",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_703_2986/00ELSB_chars_703_2986_P.utoc",
+    "sha256": "df270edfe6e684b4da0f869f64789d74cbf67d19eb6635955e3e6835cf157309",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/hair_outfit/0ELSB_CompatHair_ELSB_LacraOutfit_P.utoc",
+    "sha256": "da75a3f66732e7a7b02696bcaf50185a7ad1155937b0055f7633743585c3bed2",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/hair_scope/0ELSB_CompatHair_ELSB_LacraScope_P.utoc",
+    "sha256": "d3bf6604ebf637589e850c792d0a08f1f4f6ba976abef7be7aa3a747fab1f369",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_533_2024/0/00ELSB_Head_ELSB_LacraBodyBDP_P.utoc",
+    "sha256": "7b445e64ad5bab87420f89327291c4ada4eeb8b9915d598e27cd76c9703cf8be",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_533_2024/1/00ELSB_Head_ELSB_LacraOutfit_P.utoc",
+    "sha256": "b91b5acb9e6e0ac42c9dfb7deeed904b92e05beb5a1ccede8734d0af7173a1b2",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_533_2024/2/00ELSB_Head_ELSB_LacraScope_P.utoc",
+    "sha256": "940ee0b5e747f19fc6c7c351bdaf65312b552138eabfb6b877c21285f34bc2c5",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_533_2024/3/00ELSB_Head_ELSB_LacraOutfit0PW_P.utoc",
+    "sha256": "dce35f39abee0bea0b3175cd8f1dfdc9b43aadd6af83677d58f56c35c68be6aa",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_533_2024/4/00ELSB_Head_ELSB_LacraScope0PW_P.utoc",
+    "sha256": "617ac16cd367de027aaeabd966904b3d1c90e597b4afbe286942f719edde1c77",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_533_2024/5/00ELSB_Head_ELSB_LacraBody0PW_P.utoc",
+    "sha256": "664f92b65ed5ca054e626327b18d4f16ff5188975ceedf7d84a78bc4dd9ed8e5",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/0/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "0cb43b952187391b5ef766d57d89c177dab0504dd1b3837f938dc60c201c12d9",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/0/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "d00a02241e08c150dcc2b23a58d5a68d18db6135281152daef828e93db95e626",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/1/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "18dd7a4ecee4dffdc8c67dac36ebc8040136e4283680652d3379e802a06231e1",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/1/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "a59c3ae7e28698a7d640b1b21fb11fae6c8d9f7fa1a63e714e8aeedb4f953312",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/10/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "28875311c60ef2280305abcc14e4ceb0b364a38710732b1e32a675563ab63442",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/10/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "f97e7fff042804945d1b642a9aa298b7be0d65a4bb5dad6489e4cf69e22fd242",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/11/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "f41961dc90b0cacb98a54f2c72cd9100fd0d99da5a337a0ba9b5eb4a93512ae1",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/11/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "5dad821af12ca6d41f5fd29900f5e458a436a8e1f9b64050d2e753f9d264256d",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/12/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "b065468567f8fe18f8bfe8320ea48680ebb5b64ed0faed2dc6079dcab7d756e7",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/12/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "25fac8457223f01a9ca33a79885a8054e6c1bc32b12d3ab6758724c31538bba2",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/13/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "153c861e965ce4034b511c552c4e1191800b22236c6b6d78a1ab3e0a2beee0ce",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/13/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "7ce5f35f4f9d12b80dc7fbaf4e2c6b147f9295c2dcc2ac17d729b4f44cea9660",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/14/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "0cb43b952187391b5ef766d57d89c177dab0504dd1b3837f938dc60c201c12d9",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/14/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "d00a02241e08c150dcc2b23a58d5a68d18db6135281152daef828e93db95e626",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/15/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "0cb43b952187391b5ef766d57d89c177dab0504dd1b3837f938dc60c201c12d9",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/15/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "d00a02241e08c150dcc2b23a58d5a68d18db6135281152daef828e93db95e626",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/16/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "0cb43b952187391b5ef766d57d89c177dab0504dd1b3837f938dc60c201c12d9",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/16/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "d00a02241e08c150dcc2b23a58d5a68d18db6135281152daef828e93db95e626",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/2/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "ac9d5dcc69bed5b2d07d9d2a8a51e3cb10daef36241c77564e74c1550539132e",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/2/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "ac4393ced7fa048194dfc22ab8018acdb09c18cf83738aa729be01dbd6b9097e",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/3/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "93f3c2f2cac0aa3356913300140d6ea5b2b7a34a5929a32d23cb25060c0dba08",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/3/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "abaa05a059b1d41a13db66526d637618aed1d77e00b7eeb310843a841e42a973",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/4/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "3ff246e2bc96087468dc3c362993be60916705663fddf4a0aafff627c8949293",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/4/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "299626f9f0b3cf4cbf0b932cd72214135e5f22c7357d06a157d8cb06a8d9cdf5",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/5/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "ee86151a69bb4aae7cdbc52b7c36ceded00cdc6898232d84fd8c7a7dbf09b5e7",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/5/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "48bc42025577ed8d2d61a45f117d4e28edcf3924949b0dde358a3796c962cfaa",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/6/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "09e8ba1eeeca6fe4254333f566cc55b87fcc1182d2b25b237e86e6e57fbb455a",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/6/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "35d7a3d15ddb60aab24de2aa9a87d1dd4254f8220a1f12a267bf52ac8b551234",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/7/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "ed08df63e8d78f100e5a53b2e16e2a127b764460e9ee7a376af743b59fe27544",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/7/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "c481ec451756bcfd2f2f95ed6c44cdcca703f066207be154eb1c15eb64af07d9",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/8/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "5307a3fbefb2101ed2b61671f1f01b19a5e167dff14bd2a4c0e3f71cd08eff04",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/8/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "e2f753a057fa6f248845bb8ff12e2a2f7aa1e8cc498deada383b54491f180bc0",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/9/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "7f9d2f5bf7c9fc09365f95e26895861875aab4d253959e36a47aa1e3596164cc",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1805/9/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "90c54e8323fd1c1a8980783bc4c3170fbc18c6e2b14aabdf1bac0a2275e2100e",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/0/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "4c3a3eef1b2c919c2b95261b9c2c3f2b3890a9e57c43a85f5b77fce83ab8f08e",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/0/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "20bd417dfc7426520af6896314ed0e3f31357319f657ad5326e7264a8ab070f2",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/1/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "783de404d85e1b83c230439a88f5f29b4a211969f1dfc4469e5e00b906833377",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/1/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "69836bdda9dc0a511ba0ccd5da34c1a7c21f5e9547085ef61da770473e865cb1",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/10/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "cd81a9e5512ee88170e482d17532592dbe05f83c22ae5dca4af67dd6ed7b5ca6",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/10/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "355a4bce8e9e5c814d34e6a3902e55ebe972d7a929f72e2cda5e7768aa7d1cb3",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/11/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "59f6006d7d6d0340232175a6a52ef2bd597b005de0e7f9b2ca194cd1b7e08c24",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/11/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "81f4e4b9bc00a3962f42dab76ee3ed6015618a7b6f26b67ef91cb8233c76edf8",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/12/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "b791ee1ab96761c502b7da434d6230572a150558ca7b613bcbbb32ab7740ffef",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/12/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "e70b31dced988c652b641157b2cb7a54b15f0d96998c4d9f66c8e14e76b963f4",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/13/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "5d104d1765b8c33e9c98ef08b53f9512506dc678d1eb5ab45c118d32efa5e427",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/13/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "46e6de5bd32c4c986584abc41dd25b0c68cb9707f61b3a003bb0c439029b3c7d",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/14/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "4c3a3eef1b2c919c2b95261b9c2c3f2b3890a9e57c43a85f5b77fce83ab8f08e",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/14/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "20bd417dfc7426520af6896314ed0e3f31357319f657ad5326e7264a8ab070f2",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/15/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "4c3a3eef1b2c919c2b95261b9c2c3f2b3890a9e57c43a85f5b77fce83ab8f08e",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/15/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "20bd417dfc7426520af6896314ed0e3f31357319f657ad5326e7264a8ab070f2",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/16/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "4c3a3eef1b2c919c2b95261b9c2c3f2b3890a9e57c43a85f5b77fce83ab8f08e",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/16/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "20bd417dfc7426520af6896314ed0e3f31357319f657ad5326e7264a8ab070f2",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/2/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "06084718b254687fbd30af845d946c3354d812c425fec29e2562a8e58046f351",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/2/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "06764850b4d172ec07f0126326ce38711f1e7dddc10a4a8602ee70af4b00cb4c",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/3/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "eaf615ecbbc5eed253f4a6b7ea80aca251b3ef684b891df11defb810c70f6aea",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/3/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "d78ed94c7cf3dd06bdd195d91b7a4e49213f97b6cd914aa8c19b60bd7c47e23b",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/4/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "b8a2b4982f103e171d08767b74c1f3bdbc1c7240b78cea07b2fd97ea18ce3be5",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/4/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "f41b248422819b44a72c1a4ae1927a835b6bbfc0ef32b5ee18f0ef1a153ade5c",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/5/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "b0a0208af69e041ab7cd98bc82dd80de18a3bbbf4d2940a0eb168375e6839ac9",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/5/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "0433733224b9bc5919717e43415cfd0f0eb66553fd3655bc05e6758c6ef16561",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/6/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "1b8247dd7fe9c7152ee52332ee7695a36fac9923bb2e7f2ad9da9e6953bace01",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/6/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "5f169a67a6a9944323be94abb6e80b3bbb1f6dd4dff5ad34a6c0dad8a48105ed",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/7/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "ce1494df5f67bca0aa36725a7e7b834a1fb6d89a3e0c581c5ea6798cd0ad589e",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/7/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "3f0b47e0d7c40c07084e7ffcc93500ec0f7cf0f8943e6f3de767bcf0be5d3c3b",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/8/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "73abc4ded40c43aee869f133c7f747f60e3e19ebf124fb8046373ca813390e26",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/8/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "888d3f9f8d9581b1cd2661ff50e0229824661670626bf314aae25c467b02d11b",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/9/0/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "0a228004a1368934c5072787f6055e41aacc68df2d827be4d9396e8db232b98b",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/lacra_alternative_table/chars_311_1846/9/1/0ELSB_CompatLacraAlternativeTable_P.utoc",
+    "sha256": "397ab0d400789f4cf2bce3b6035cfdce6fc457e148291dddcea0e52de8e99d0e",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
     "path": "Payload/Patches/lacra_hair/0/0ELSB_CompatLacraHairTable_P.utoc",
     "sha256": "5341a97bdadf2426921846cb20484ac7c03b09b27b1b054994806b00b82130d5",
     "new_or_reused_personal": true,

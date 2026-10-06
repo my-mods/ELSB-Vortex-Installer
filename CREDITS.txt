@@ -35,3 +35,9 @@ they do not depict the added geometry. Per-choice sources, credits and image
 hashes are in Provenance/installer-previews.json. The images are included for
 this personal installer only; no new redistribution permission is implied.
 
+
+Character compatibility additions
+Original character assets remain the work of their credited Nexus authors.
+KickingWriter, LFAGM, MistrianMilker, PinkyDude, Rigas53, ScrumpChewie, christeeenith, dakyoz, drownjrdrown, gleb63, supergreatluffy.
+The compatibility changes merge selected appearance/table properties or
+retain original texture/cloth content. Original mods are required separately.

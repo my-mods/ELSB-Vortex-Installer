@@ -1,4 +1,7 @@
 Personal development build -- ELSB 1.1.1 base
+- Add character skin, face, hair and head patches for the reviewed Vortex Characters mods.
+- Keep Lacra Beautiful Hair v4 alongside the selected ELSB body, outfit and scene choices.
+- Offer Thicc and SlimThicc Lacra as alternatives while retaining ELSB for other characters.
 - Show a picture for every installer choice, using original ELSB and Nexus previews.
 - Identify the required Nexus mod and archive in each compatibility choice's Vortex activation warning.
 - Keep valid existing choices when rerunning or updating the installer with the ELSB Saved Installer Choices companion enabled.

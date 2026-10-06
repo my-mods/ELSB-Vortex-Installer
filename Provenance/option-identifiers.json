@@ -71,6 +71,26 @@
         "id": "vanilla",
         "name": "None",
         "recommended": true
+      },
+      {
+        "id": "compat_chars_523_2081",
+        "name": "Evil Twin Retexture v.1.3 Original Skin Tone - ELSB patch",
+        "recommended": false
+      },
+      {
+        "id": "compat_chars_618_2504",
+        "name": "Djrd Coen NOFACE Tats - ELSB patch",
+        "recommended": false
+      },
+      {
+        "id": "compat_chars_618_2495",
+        "name": "V1 Djrd Coen Tats - ELSB patch",
+        "recommended": false
+      },
+      {
+        "id": "compat_chars_621_2827",
+        "name": "Body Hair- chest pits and pubes - ELSB patch",
+        "recommended": false
       }
     ]
   },
@@ -379,6 +399,22 @@
       }
     ]
   },
+  "coen_face": {
+    "step": "Coen - Hair and eyes",
+    "name": "Face overlay",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": true
+      },
+      {
+        "id": "compat_chars_703_2986",
+        "name": "Youthful Coen - original",
+        "recommended": false
+      }
+    ]
+  },
   "anca_body": {
     "step": "Anca - Body and scenes",
     "name": "Anca's body",
@@ -460,6 +496,26 @@
         "id": "vanilla",
         "name": "None",
         "recommended": true
+      },
+      {
+        "id": "compat_chars_404_2069",
+        "name": "Anca Young No Eyeliner - ELSB patch",
+        "recommended": false
+      },
+      {
+        "id": "compat_chars_404_2068",
+        "name": "Anca Young No Makeup - ELSB patch",
+        "recommended": false
+      },
+      {
+        "id": "compat_chars_404_2067",
+        "name": "Anca Young Makeup - ELSB patch",
+        "recommended": false
+      },
+      {
+        "id": "compat_chars_512_1957",
+        "name": "Anca Is Really Old - ELSB patch",
+        "recommended": false
       }
     ]
   },
@@ -495,6 +551,11 @@
       {
         "id": "Yanna_H",
         "name": "Yanna's hair",
+        "recommended": false
+      },
+      {
+        "id": "compat_chars_626_2488",
+        "name": "Anca Puffy Hair - ELSB patch",
         "recommended": false
       }
     ]
@@ -583,6 +644,16 @@
         "id": "pussywalker",
         "name": "ELSB + Pussy Walker",
         "recommended": false
+      },
+      {
+        "id": "compat_chars_311_1846",
+        "name": "SlimThiccLacrabyMM - table patch",
+        "recommended": false
+      },
+      {
+        "id": "compat_chars_311_1805",
+        "name": "ThiccLacrabyMM - table patch",
+        "recommended": false
       }
     ]
   },
@@ -636,6 +707,26 @@
         "id": "compat_lacra_chest",
         "name": "Lacra Vrakhir Chest Texture - priority patch",
         "recommended": true
+      },
+      {
+        "id": "compat_chars_445_2457",
+        "name": "Lacra Gothic Makeup - ELSB patch",
+        "recommended": false
+      },
+      {
+        "id": "compat_chars_445_2454",
+        "name": "Lacra Gothic Vanilla Makeup - ELSB patch",
+        "recommended": false
+      },
+      {
+        "id": "compat_chars_445_2453",
+        "name": "Lacra Gothic Dead Skin Vanilla Makeup v2 - ELSB patch",
+        "recommended": false
+      },
+      {
+        "id": "compat_chars_445_2448",
+        "name": "Lacra Gothic No Makeup - ELSB patch",
+        "recommended": false
       }
     ]
   },
@@ -798,6 +889,80 @@
       {
         "id": "yellow",
         "name": "Yellow",
+        "recommended": false
+      }
+    ]
+  },
+  "lacra_face": {
+    "step": "Lacra - Hair and eyes",
+    "name": "Face and makeup overlay",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": true
+      },
+      {
+        "id": "compat_chars_550_2442",
+        "name": "Makeup v2 (no Eye of Horus) - original",
+        "recommended": false
+      },
+      {
+        "id": "compat_chars_550_2444",
+        "name": "Lacra Natural Makeup - original",
+        "recommended": false
+      },
+      {
+        "id": "compat_chars_550_2443",
+        "name": "Lacra Makeup - original",
+        "recommended": false
+      }
+    ]
+  },
+  "lacra_surface": {
+    "step": "Lacra - Hair and eyes",
+    "name": "Skin surface",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": true
+      },
+      {
+        "id": "compat_chars_550_2083",
+        "name": "Lacra Smooth Skin - ELSB patch",
+        "recommended": false
+      }
+    ]
+  },
+  "lacra_wrinkles": {
+    "step": "Lacra - Hair and eyes",
+    "name": "Expression wrinkles",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": true
+      },
+      {
+        "id": "compat_chars_550_2085",
+        "name": "Lacra LESS Wrinkles - original",
+        "recommended": false
+      }
+    ]
+  },
+  "lacra_head": {
+    "step": "Lacra - Hair and eyes",
+    "name": "Replacement head",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": true
+      },
+      {
+        "id": "compat_chars_533_2024",
+        "name": "Rise Of Lacra Croft - Human Head Replacement - ELSB routing",
         "recommended": false
       }
     ]

@@ -1,9 +1,16 @@
 ELSB - Saved Installer Choices
 
+The ELSB FOMOD works without this optional companion, using Vortex's normal
+radio buttons, previews, dependency checks and page navigation. Without the
+companion, review the wizard's choices when reinstalling or updating.
+
 This companion Vortex extension restores existing ELSB choices when its normal
 FOMOD wizard opens, including local ZIP replacements and version updates.
 It also gives the ELSB wizard a larger window, clearer option groups, readable
 descriptions and more space for pictures. Selected options are highlighted.
+Long option lists use two columns when the options pane has enough room,
+reducing scrolling while keeping every choice visible. Narrower panes return
+to one column. The native radio controls and their reading order stay intact.
 Keyboard focus previews an option without selecting it; image zoom remains
 available. Narrow windows stack the panes while keeping navigation visible.
 It uses choices saved in the existing Vortex entry. No game files are read or

@@ -13,6 +13,10 @@ reducing scrolling while keeping every choice visible. Narrower panes return
 to one column. The native radio controls and their reading order stay intact.
 Keyboard focus previews an option without selecting it; image zoom remains
 available. Narrow windows stack the panes while keeping navigation visible.
+Unavailable options show which earlier choices enable them when hovered.
+Their preview labels are reachable with Tab and announce the same requirement.
+The main installer's Availability text also appears in the normal description
+pane without this companion. Older archives retain Vortex's original reason.
 It uses choices saved in the existing Vortex entry. No game files are read or
 changed by the extension, and it does not activate or deactivate mods.
 

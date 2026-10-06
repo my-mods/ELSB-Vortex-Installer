@@ -45,9 +45,11 @@ retain original texture/cloth content. Original mods are required separately.
 
 Face preview screenshots: original Nexus authors LFAGM and Christeenith;
 ELSB head/body references: Akazonae36; Pussy Walker screenshot: supergreatluffy.
-Default head close-ups use the labelled AI-enhanced references. Other face
+Default head close-ups use the labelled AI-enhanced references. Unedited face
 framing and side-by-side layouts retain the embedded source image bytes.
-The Lacra Beautiful Hair preview uses AI to remove its subtitle and Skip prompt.
+The Lacra Beautiful Hair preview uses AI to remove its subtitle and Skip prompt,
+with a tighter face-and-hair frame. Nexus533 and Nexus427 face references use
+labelled AI brightness corrections and UI cleanup, with original sources kept.
 AI-edited references may differ in fine details; original raster sources remain
 included. Image edits do not change game assets or imply new authorship rights.
 Sources, credits and image hashes are in Provenance/installer-previews.json.

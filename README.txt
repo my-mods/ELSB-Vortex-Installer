@@ -26,6 +26,8 @@ Coen, Anca and Lacra's default head references use AI restoration, and the
 Lacra Beautiful Hair preview has its subtitle and Skip prompt removed with AI.
 These edited references are labelled: fine details can differ from the game.
 Compressed previews keep their size small; original source images are retained.
+The Beautiful Hair preview is framed around Lacra's face and hair.
+Two dim Lacra face references also use labelled AI brightness corrections.
 ELSB + Pussy Walker shows two labelled pictures side by side: the ELSB body
 and an original Pussy Walker mod image. They are source references, not a
 capture of the adapted combination. Preview images are installer-only.
@@ -35,10 +37,15 @@ Vrakhir chest textures. Gothic Lacra variants remain complete face-and-body
 skins and cannot be combined with separate makeup/chest selections or the
 Pussy Walker atlas. See Compatibility.txt for the exact supported originals.
 
-Each compatibility choice starts with an activation warning naming the Nexus
+Each compatibility choice includes an activation warning naming the Nexus
 mod and exact supported archive. Activate and deploy that original as its own
 Vortex entry when using the patch. The wizard does not check or change its
 activation state. See Compatibility.txt for the same archive names.
+
+Hover an unavailable choice to see its Availability requirement in the normal
+description pane. It names the earlier page, category and choices that enable
+the option. The optional companion also shows this text in the hover hint and
+lets keyboard users focus unavailable preview labels with Tab.
 
 Installation
 - Vortex: Complete Migration.txt, install ELSB - Vortex Installer.zip, choose options, enable this entry and deploy. Keep required third-party originals as separate entries.

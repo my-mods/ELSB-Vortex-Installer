@@ -83,7 +83,8 @@ body.elsb-fomod-active #fomod-installer-dialog {
     background: color-mix(in srgb, currentColor 10%, transparent);
     font-weight: 600;
   }
-  .radio label:has(input:focus-visible) { outline: 2px solid currentColor; outline-offset: -2px; }
+  .radio label:has(input:focus-visible),
+  .radio label:has(.fake-link:focus-visible) { outline: 2px solid currentColor; outline-offset: -2px; }
   .radio.disabled label { cursor: not-allowed; }
 
   .installer-image {

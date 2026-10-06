@@ -2267,20 +2267,31 @@
   {
     "group": "lacra_hair",
     "option": "compat_lacra_hair",
-    "image": "fomod/images/enhanced/lacra-hair-clean.jpg",
+    "image": "fomod/images/faces/lacra-beautiful-hair.svg",
     "source": "https://staticdelivery.nexusmods.com/mods/9719/images/570/570-1789726533-1432290282.png",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/570",
     "credit": "gleb63",
     "caption": "Preview: Nexus hair reference with AI UI cleanup; fine details may differ from the original screenshot. Other skin, makeup and eye changes pictured are not included.",
-    "sha256": "f9d342995d9193f2476985c159b695e2bcbcf122c8f204216512224a19e87359",
-    "width": 1280,
-    "height": 720,
+    "sha256": "958815554d90cff054eb61e823452981c18047ecf1c82feec3b55723d0fe48f9",
+    "width": 560,
+    "height": 590,
     "enhancement": {
       "method": "AI UI cleanup and JPEG compression",
       "original_image": "fomod/images/nexus/570.png",
       "original_sha256": "7f1a15dc088552790fcee27822b3379fe01fb2fdce17652b4aaf7f00e419ab62",
       "original_preserved": true,
       "reference_only": true
+    },
+    "framing": {
+      "method": "Lossless SVG viewport of the existing cleaned JPEG",
+      "viewBox": [
+        650,
+        0,
+        560,
+        590
+      ],
+      "source_image": "fomod/images/enhanced/lacra-hair-clean.jpg",
+      "source_sha256": "f9d342995d9193f2476985c159b695e2bcbcf122c8f204216512224a19e87359"
     }
   },
   {
@@ -2500,17 +2511,24 @@
     "source": "https://staticdelivery.nexusmods.com/mods/9719/images/533/533-1789530233-2102725856.jpg",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/533",
     "credit": "LFAGM",
-    "caption": "Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included.",
-    "sha256": "f73b39cb432a7ddaafa8764a779d3130438299d592c66e7bb4f82d7ec3e713ef",
+    "caption": "AI-brightened face reference; fine details may differ from the original screenshot; other hair, eye and outfit choices pictured are not included.",
+    "sha256": "f96eb624426696ca55a4d4f1130adeec94fae6d79d9c3b3a64ea73adcae680a2",
     "width": 850,
     "height": 920,
-    "embedded_source_sha256": "a95ade1b230b8b0641adbebab992a0e5efd6beb8f6a5efb761ff58c4d0a8637e",
+    "embedded_source_sha256": "92a38f5304386d9b9e97058545408aba25680c01b0c4d9225d6c0f606c67b101",
     "viewport": [
       650,
       20,
       850,
       920
-    ]
+    ],
+    "enhancement": {
+      "method": "AI exposure and UI cleanup; compressed embedded JPEG",
+      "original_image": "fomod/images/original/533.jpg",
+      "original_sha256": "a95ade1b230b8b0641adbebab992a0e5efd6beb8f6a5efb761ff58c4d0a8637e",
+      "original_preserved": true,
+      "reference_only": true
+    }
   },
   {
     "group": "anca_face",
@@ -2783,17 +2801,24 @@
     "source": "https://staticdelivery.nexusmods.com/mods/9719/images/427/427-1789177441-1693273482.jpg",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/427",
     "credit": "LFAGM",
-    "caption": "Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included. The page screenshot is a shared reference for its variants; it is not an exact preview of every makeup or wrinkle variant.",
-    "sha256": "9706688fa3f6bb371484e4940201708b69178e17e9bcc1ba410d0ab2c8ef99ba",
+    "caption": "AI-brightened face reference; fine details may differ from the original screenshot; other hair, eye and outfit choices pictured are not included. The page screenshot is a shared reference for its variants; it is not an exact preview of every makeup or wrinkle variant.",
+    "sha256": "a1f75a6b33c4d0bd501ccf9af27206e9748a9a04c96f083525299dac1d69db34",
     "width": 580,
     "height": 740,
-    "embedded_source_sha256": "d296a0a6d458613a477c429509a4202b4da8bb1e37c8bbe609abb86d9b2ce6c8",
+    "embedded_source_sha256": "5d24836cf69506001664e835f524658836d8d40b3fbb96634fec206692f748b7",
     "viewport": [
       780,
       20,
       580,
       740
-    ]
+    ],
+    "enhancement": {
+      "method": "AI exposure and UI cleanup; compressed embedded JPEG",
+      "original_image": "fomod/images/original/427.jpg",
+      "original_sha256": "d296a0a6d458613a477c429509a4202b4da8bb1e37c8bbe609abb86d9b2ce6c8",
+      "original_preserved": true,
+      "reference_only": true
+    }
   },
   {
     "group": "lacra_face",
@@ -2802,17 +2827,24 @@
     "source": "https://staticdelivery.nexusmods.com/mods/9719/images/427/427-1789177441-1693273482.jpg",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/427",
     "credit": "LFAGM",
-    "caption": "Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included. The page screenshot is a shared reference for its variants; it is not an exact preview of every makeup or wrinkle variant.",
-    "sha256": "9706688fa3f6bb371484e4940201708b69178e17e9bcc1ba410d0ab2c8ef99ba",
+    "caption": "AI-brightened face reference; fine details may differ from the original screenshot; other hair, eye and outfit choices pictured are not included. The page screenshot is a shared reference for its variants; it is not an exact preview of every makeup or wrinkle variant.",
+    "sha256": "a1f75a6b33c4d0bd501ccf9af27206e9748a9a04c96f083525299dac1d69db34",
     "width": 580,
     "height": 740,
-    "embedded_source_sha256": "d296a0a6d458613a477c429509a4202b4da8bb1e37c8bbe609abb86d9b2ce6c8",
+    "embedded_source_sha256": "5d24836cf69506001664e835f524658836d8d40b3fbb96634fec206692f748b7",
     "viewport": [
       780,
       20,
       580,
       740
-    ]
+    ],
+    "enhancement": {
+      "method": "AI exposure and UI cleanup; compressed embedded JPEG",
+      "original_image": "fomod/images/original/427.jpg",
+      "original_sha256": "d296a0a6d458613a477c429509a4202b4da8bb1e37c8bbe609abb86d9b2ce6c8",
+      "original_preserved": true,
+      "reference_only": true
+    }
   },
   {
     "group": "anca_head",

@@ -1,0 +1,250 @@
+[
+  {
+    "group": "genitals",
+    "option": "compat_coen_nude",
+    "requires_group": "body",
+    "allowed_options": [
+      "masculine"
+    ],
+    "message": "Choose \"ELSB\" in \"Body\" on \"Coen - Body and scenes\"."
+  },
+  {
+    "group": "anca_scope",
+    "option": "all",
+    "requires_group": "anca_body",
+    "allowed_options": [
+      "booty",
+      "pussywalker"
+    ],
+    "message": "Choose \"ELSB\" or \"ELSB + Pussy Walker\" in \"Anca's body\" on \"Anca - Body and scenes\"."
+  },
+  {
+    "group": "anca_outfit",
+    "option": "compat_loose_anca",
+    "requires_group": "anca_body",
+    "allowed_options": [
+      "booty",
+      "pussywalker"
+    ],
+    "message": "Choose \"ELSB\" or \"ELSB + Pussy Walker\" in \"Anca's body\" on \"Anca - Body and scenes\"."
+  },
+  {
+    "group": "anca_outfit",
+    "option": "compat_revealing_anca_531",
+    "requires_group": "anca_body",
+    "allowed_options": [
+      "booty",
+      "pussywalker"
+    ],
+    "message": "Choose \"ELSB\" or \"ELSB + Pussy Walker\" in \"Anca's body\" on \"Anca - Body and scenes\"."
+  },
+  {
+    "group": "anca_outfit",
+    "option": "compat_revealing_anca_592",
+    "requires_group": "anca_body",
+    "allowed_options": [
+      "booty",
+      "pussywalker"
+    ],
+    "message": "Choose \"ELSB\" or \"ELSB + Pussy Walker\" in \"Anca's body\" on \"Anca - Body and scenes\"."
+  },
+  {
+    "group": "anca_outfit",
+    "option": "compat_thicc_anca_279",
+    "requires_group": "anca_body",
+    "allowed_options": [
+      "booty",
+      "pussywalker"
+    ],
+    "message": "Choose \"ELSB\" or \"ELSB + Pussy Walker\" in \"Anca's body\" on \"Anca - Body and scenes\"."
+  },
+  {
+    "group": "anca_head",
+    "option": "compat_chars_534_2025",
+    "requires_group": "anca_body",
+    "allowed_options": [
+      "booty",
+      "pussywalker",
+      "vanilla"
+    ],
+    "message": "Choose \"Vanilla (unchanged)\" or \"ELSB\" or \"ELSB + Pussy Walker\" in \"Anca's body\" on \"Anca - Body and scenes\"."
+  },
+  {
+    "group": "lacra_scope",
+    "option": "all",
+    "requires_group": "lacra_body",
+    "allowed_options": [
+      "fitness",
+      "pussywalker"
+    ],
+    "message": "Choose \"ELSB\" or \"ELSB + Pussy Walker\" in \"Lacra's body\" on \"Lacra - Body and scenes\"."
+  },
+  {
+    "group": "lacra_outfit",
+    "option": "nude",
+    "requires_group": "lacra_body",
+    "allowed_options": [
+      "fitness",
+      "pussywalker",
+      "vanilla"
+    ],
+    "message": "Choose \"Vanilla (unchanged)\" or \"ELSB\" or \"ELSB + Pussy Walker\" in \"Lacra's body\" on \"Lacra - Body and scenes\"."
+  },
+  {
+    "group": "lacra_outfit",
+    "option": "compat_revealing_lacra",
+    "requires_group": "lacra_body",
+    "allowed_options": [
+      "fitness",
+      "pussywalker"
+    ],
+    "message": "Choose \"ELSB\" or \"ELSB + Pussy Walker\" in \"Lacra's body\" on \"Lacra - Body and scenes\"."
+  },
+  {
+    "group": "lacra_skin",
+    "option": "compat_chars_445_2457",
+    "requires_group": "lacra_body",
+    "allowed_options": [
+      "compat_chars_311_1805",
+      "compat_chars_311_1846",
+      "fitness",
+      "vanilla"
+    ],
+    "message": "Choose \"Vanilla (unchanged)\" or \"ELSB\" or \"SlimThiccLacrabyMM - table patch\" or \"ThiccLacrabyMM - table patch\" in \"Lacra's body\" on \"Lacra - Body and scenes\". This complete skin cannot use the Pussy Walker body atlas."
+  },
+  {
+    "group": "lacra_skin",
+    "option": "compat_chars_445_2454",
+    "requires_group": "lacra_body",
+    "allowed_options": [
+      "compat_chars_311_1805",
+      "compat_chars_311_1846",
+      "fitness",
+      "vanilla"
+    ],
+    "message": "Choose \"Vanilla (unchanged)\" or \"ELSB\" or \"SlimThiccLacrabyMM - table patch\" or \"ThiccLacrabyMM - table patch\" in \"Lacra's body\" on \"Lacra - Body and scenes\". This complete skin cannot use the Pussy Walker body atlas."
+  },
+  {
+    "group": "lacra_skin",
+    "option": "compat_chars_445_2453",
+    "requires_group": "lacra_body",
+    "allowed_options": [
+      "compat_chars_311_1805",
+      "compat_chars_311_1846",
+      "fitness",
+      "vanilla"
+    ],
+    "message": "Choose \"Vanilla (unchanged)\" or \"ELSB\" or \"SlimThiccLacrabyMM - table patch\" or \"ThiccLacrabyMM - table patch\" in \"Lacra's body\" on \"Lacra - Body and scenes\". This complete skin cannot use the Pussy Walker body atlas."
+  },
+  {
+    "group": "lacra_skin",
+    "option": "compat_chars_445_2448",
+    "requires_group": "lacra_body",
+    "allowed_options": [
+      "compat_chars_311_1805",
+      "compat_chars_311_1846",
+      "fitness",
+      "vanilla"
+    ],
+    "message": "Choose \"Vanilla (unchanged)\" or \"ELSB\" or \"SlimThiccLacrabyMM - table patch\" or \"ThiccLacrabyMM - table patch\" in \"Lacra's body\" on \"Lacra - Body and scenes\". This complete skin cannot use the Pussy Walker body atlas."
+  },
+  {
+    "group": "lacra_face",
+    "option": "compat_chars_550_2442",
+    "requires_group": "lacra_skin",
+    "allowed_options": [
+      "compat_lacra_chest",
+      "vanilla"
+    ],
+    "message": "Choose \"None\" or \"Lacra Vrakhir Chest Texture - priority patch\" in \"Lacra's skin, makeup and tattoos\" on \"Lacra - Body and scenes\". Complete Gothic skins already replace the face and cannot be combined with this separate face option."
+  },
+  {
+    "group": "lacra_face",
+    "option": "compat_chars_550_2444",
+    "requires_group": "lacra_skin",
+    "allowed_options": [
+      "compat_lacra_chest",
+      "vanilla"
+    ],
+    "message": "Choose \"None\" or \"Lacra Vrakhir Chest Texture - priority patch\" in \"Lacra's skin, makeup and tattoos\" on \"Lacra - Body and scenes\". Complete Gothic skins already replace the face and cannot be combined with this separate face option."
+  },
+  {
+    "group": "lacra_face",
+    "option": "compat_chars_550_2443",
+    "requires_group": "lacra_skin",
+    "allowed_options": [
+      "compat_lacra_chest",
+      "vanilla"
+    ],
+    "message": "Choose \"None\" or \"Lacra Vrakhir Chest Texture - priority patch\" in \"Lacra's skin, makeup and tattoos\" on \"Lacra - Body and scenes\". Complete Gothic skins already replace the face and cannot be combined with this separate face option."
+  },
+  {
+    "group": "lacra_face",
+    "option": "compat_chars_427_1588",
+    "requires_group": "lacra_skin",
+    "allowed_options": [
+      "compat_lacra_chest",
+      "vanilla"
+    ],
+    "message": "Choose \"None\" or \"Lacra Vrakhir Chest Texture - priority patch\" in \"Lacra's skin, makeup and tattoos\" on \"Lacra - Body and scenes\". Complete Gothic skins already replace the face and cannot be combined with this separate face option."
+  },
+  {
+    "group": "lacra_face",
+    "option": "compat_chars_427_1599",
+    "requires_group": "lacra_skin",
+    "allowed_options": [
+      "compat_lacra_chest",
+      "vanilla"
+    ],
+    "message": "Choose \"None\" or \"Lacra Vrakhir Chest Texture - priority patch\" in \"Lacra's skin, makeup and tattoos\" on \"Lacra - Body and scenes\". Complete Gothic skins already replace the face and cannot be combined with this separate face option."
+  },
+  {
+    "group": "lacra_surface",
+    "option": "compat_chars_550_2083",
+    "requires_group": "lacra_skin",
+    "allowed_options": [
+      "compat_lacra_chest",
+      "vanilla"
+    ],
+    "message": "Choose \"None\" or \"Lacra Vrakhir Chest Texture - priority patch\" in \"Lacra's skin, makeup and tattoos\" on \"Lacra - Body and scenes\". Complete Gothic skins already replace the face and cannot be combined with this separate face option."
+  },
+  {
+    "group": "lacra_wrinkles",
+    "option": "compat_chars_550_2085",
+    "requires_group": "lacra_skin",
+    "allowed_options": [
+      "compat_lacra_chest",
+      "vanilla"
+    ],
+    "message": "Choose \"None\" or \"Lacra Vrakhir Chest Texture - priority patch\" in \"Lacra's skin, makeup and tattoos\" on \"Lacra - Body and scenes\". Complete Gothic skins already replace the face and cannot be combined with this separate face option."
+  },
+  {
+    "group": "lacra_head",
+    "option": "compat_chars_533_2024",
+    "requires_group": "lacra_body",
+    "allowed_options": [
+      "fitness",
+      "pussywalker",
+      "vanilla"
+    ],
+    "message": "Choose \"Vanilla (unchanged)\" or \"ELSB\" or \"ELSB + Pussy Walker\" in \"Lacra's body\" on \"Lacra - Body and scenes\"."
+  },
+  {
+    "group": "marat_scope",
+    "option": "all",
+    "requires_group": "marat_body",
+    "allowed_options": [
+      "fitness"
+    ],
+    "message": "Choose \"ELSB\" in \"Marat's body\" on \"Marat - Body and scenes\"."
+  },
+  {
+    "group": "marat_genitals",
+    "option": "compat_coen_nude_marat",
+    "requires_group": "marat_body",
+    "allowed_options": [
+      "fitness"
+    ],
+    "message": "Choose \"ELSB\" in \"Marat's body\" on \"Marat - Body and scenes\"."
+  }
+]

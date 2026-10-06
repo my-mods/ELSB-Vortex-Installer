@@ -21,8 +21,14 @@ Completed asset and package checks
 - Actual installed Vortex 2.7.2 native FOMOD engine: 349 scenarios, including
   all nine Anca/Lacra body combinations, every selectable option, paired beard
   colours, scene/outfit rules, conditional fitted patches and hair-table winners.
-- Saved installer choices reopen without changes. Switching to Vanilla and
-  restoring the saved choices are covered. No runtime INI/menu is introduced.
+- Saved installer choices reopen without changes when passed to the engine.
+  A separate ELSB choice-preservation extension covers Vortex's missing-preset
+  handoff on local replacements and version updates. Thirty-two additional native
+  engine scenarios cover existing choices, all nine body pairs, removal of the
+  old entry during replacement, partial/removed/invalid choices, reordered
+  options, changed recommendations, new groups, explicit presets, ambiguous
+  variants, other mods/games, and user edits followed by back navigation.
+  The same checks run against both delivered ZIPs. No game INI/menu is added.
 - Installed Dawnwalker extension 1.1.0 executed with disposable discovery
   state: XML FOMOD takes precedence over its generic pak installer; explicit
   dawnwalker-root routing resolves every selected triple to the correct path.
@@ -53,5 +59,6 @@ wounds, ritual/romance states; camera-distance and LOD transitions; final
 visual acceptance of hair and chest appearance. Offline reference/priority
 checks do not establish these results. No gameplay performance claim is made.
 
-No live Vortex installation, activation, deactivation, deployment, migration
-or public upload was performed as part of this development work.
+The choice-preservation extension has not been installed into live Vortex.
+Its engine and callback checks use disposable fixtures; live UI acceptance
+remains pending. No public upload was performed.

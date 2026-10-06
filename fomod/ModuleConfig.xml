@@ -10,7 +10,7 @@
         <group name="Body" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. Suggested from the current toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="body">vanilla</flag>
               </conditionFlags>
@@ -32,7 +32,7 @@
         <group name="Romance scenes" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. Suggested from the current toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="romance">vanilla</flag>
               </conditionFlags>
@@ -63,7 +63,7 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Off (also in normal scenes)">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex. Suggested from the current toolkit settings.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="coen_uw">off</flag>
               </conditionFlags>
@@ -76,7 +76,7 @@
         <group name="Genitals" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="None (vanilla)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. Suggested from the current toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="genitals">vanilla</flag>
               </conditionFlags>
@@ -108,7 +108,7 @@
         <group name="Skin, makeup and tattoos" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="None">
-              <description>No built-in skin override. Manage other skin, makeup and tattoo mods separately in Vortex; only explicitly reviewed combinations receive patches here. Suggested from the current toolkit settings.</description>
+              <description>No built-in skin override. Manage other skin, makeup and tattoo mods separately in Vortex; only explicitly reviewed combinations receive patches here. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="skin">vanilla</flag>
               </conditionFlags>
@@ -125,7 +125,7 @@
         <group name="Hairstyle" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. Suggested from the current toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="hair">vanilla</flag>
               </conditionFlags>
@@ -255,7 +255,7 @@
         <group name="Hair color (and brows)" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. Suggested from the current toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="hair_color">vanilla</flag>
               </conditionFlags>
@@ -367,7 +367,7 @@
         <group name="Beard" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="None">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. Suggested from the current toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="beard">vanilla</flag>
               </conditionFlags>
@@ -461,7 +461,7 @@
         <group name="Beard color" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. Suggested from the current toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="beard_color">vanilla</flag>
               </conditionFlags>
@@ -573,7 +573,7 @@
         <group name="Vampire eye color" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. Suggested from the current toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="eyes">vanilla</flag>
               </conditionFlags>
@@ -653,7 +653,7 @@
               </typeDescriptor>
             </plugin>
             <plugin name="ELSB">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex. Suggested from the current toolkit settings.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="anca_body">booty</flag>
               </conditionFlags>
@@ -684,7 +684,7 @@
               </typeDescriptor>
             </plugin>
             <plugin name="All scenes">
-              <description>Use the ELSB body in all scenes. Requires the ELSB body (either variant for Anca/Lacra). Keeps the original scene and story-state assets. Suggested from the current toolkit settings.</description>
+              <description>Use the ELSB body in all scenes. Requires the ELSB body (either variant for Anca/Lacra). Keeps the original scene and story-state assets. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="anca_scope">all</flag>
               </conditionFlags>
@@ -708,7 +708,7 @@
         <group name="Anca's outfit" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. Suggested from the current toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="anca_outfit">vanilla</flag>
               </conditionFlags>
@@ -810,7 +810,7 @@
         <group name="Anca's skin, makeup and tattoos" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="None">
-              <description>No built-in skin override. Manage other skin, makeup and tattoo mods separately in Vortex; only explicitly reviewed combinations receive patches here. Suggested from the current toolkit settings.</description>
+              <description>No built-in skin override. Manage other skin, makeup and tattoo mods separately in Vortex; only explicitly reviewed combinations receive patches here. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="anca_skin">vanilla</flag>
               </conditionFlags>
@@ -827,7 +827,7 @@
         <group name="Anca's hairstyle" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. Suggested from the current toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="anca_hair">vanilla</flag>
               </conditionFlags>
@@ -885,7 +885,7 @@
         <group name="Anca's hair color (and brows)" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. Suggested from the current toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="anca_hair_color">vanilla</flag>
               </conditionFlags>
@@ -1010,7 +1010,7 @@
               </typeDescriptor>
             </plugin>
             <plugin name="ELSB">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex. Suggested from the current toolkit settings.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="lacra_body">fitness</flag>
               </conditionFlags>
@@ -1032,7 +1032,7 @@
         <group name="Lacra's body scenes" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Naked scenes only (default)">
-              <description>Use the chosen body in naked scenes only. Selecting a non-vanilla outfit below extends the body to all scenes, matching ELSB’s normal dependency handling. Suggested from the current toolkit settings.</description>
+              <description>Use the chosen body in naked scenes only. Selecting a non-vanilla outfit below extends the body to all scenes, matching ELSB’s normal dependency handling. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="lacra_scope">vanilla</flag>
               </conditionFlags>
@@ -1065,7 +1065,7 @@
         <group name="Lacra's outfit" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. Suggested from the current toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="lacra_outfit">vanilla</flag>
               </conditionFlags>
@@ -1116,7 +1116,7 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Lacra Vrakhir Chest Texture - priority patch">
-              <description>Requires Lacra Vrakhir Chest Texture 1.0.0 present and enabled separately. Preserves its original three torso textures and makes them take priority over ELSB. No body mesh is changed. Suggested from the current toolkit settings.</description>
+              <description>Requires Lacra Vrakhir Chest Texture 1.0.0 present and enabled separately. Preserves its original three torso textures and makes them take priority over ELSB. No body mesh is changed. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="lacra_skin">compat_lacra_chest</flag>
               </conditionFlags>
@@ -1214,7 +1214,7 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Lacra Beautiful Hair - clothing-table patch">
-              <description>Requires Lacra Beautiful Hair (fixed) v2 present and enabled separately. Adds its hair row to the selected ELSB table while preserving all 928 existing rows, including other characters’ options. Suggested from the current toolkit settings.</description>
+              <description>Requires Lacra Beautiful Hair (fixed) v2 present and enabled separately. Adds its hair row to the selected ELSB table while preserving all 928 existing rows, including other characters’ options. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="lacra_hair">compat_lacra_hair</flag>
               </conditionFlags>
@@ -1227,7 +1227,7 @@
         <group name="Lacra's hair color" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. Suggested from the current toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="lacra_hair_color">vanilla</flag>
               </conditionFlags>
@@ -1339,7 +1339,7 @@
         <group name="Lacra's eye glow (vampire)" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. Suggested from the current toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="lacra_eyes">vanilla</flag>
               </conditionFlags>
@@ -1419,7 +1419,7 @@
               </typeDescriptor>
             </plugin>
             <plugin name="ELSB">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex. Suggested from the current toolkit settings.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="marat_body">fitness</flag>
               </conditionFlags>
@@ -1432,7 +1432,7 @@
         <group name="Marat's body scenes" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Naked scenes only (default)">
-              <description>Use the chosen body in naked scenes only. Selecting a non-vanilla outfit below extends the body to all scenes, matching ELSB’s normal dependency handling. Suggested from the current toolkit settings.</description>
+              <description>Use the chosen body in naked scenes only. Selecting a non-vanilla outfit below extends the body to all scenes, matching ELSB’s normal dependency handling. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="marat_scope">vanilla</flag>
               </conditionFlags>
@@ -1464,7 +1464,7 @@
         <group name="Marat's romance scenes" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. Suggested from the current toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="marat_romance">vanilla</flag>
               </conditionFlags>
@@ -1486,7 +1486,7 @@
         <group name="Marat's outfit" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. Suggested from the current toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="marat_outfit">vanilla</flag>
               </conditionFlags>
@@ -1517,7 +1517,7 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Coen Nude - Marat fit">
-              <description>Optional Marat fit from ELSB. Requires Marat’s ELSB body and Coen Nude 1.0.8 present and enabled as its own Vortex entry. Independent of Coen’s body choice. Suggested from the current toolkit settings.</description>
+              <description>Optional Marat fit from ELSB. Requires Marat’s ELSB body and Coen Nude 1.0.8 present and enabled as its own Vortex entry. Independent of Coen’s body choice. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="marat_genitals">compat_coen_nude_marat</flag>
               </conditionFlags>
@@ -1540,7 +1540,7 @@
         <group name="Marat's skin, makeup and tattoos" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="None">
-              <description>No built-in skin override. Manage other skin, makeup and tattoo mods separately in Vortex; only explicitly reviewed combinations receive patches here. Suggested from the current toolkit settings.</description>
+              <description>No built-in skin override. Manage other skin, makeup and tattoo mods separately in Vortex; only explicitly reviewed combinations receive patches here. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="marat_skin">vanilla</flag>
               </conditionFlags>
@@ -1557,7 +1557,7 @@
         <group name="Marat's hairstyle" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. Suggested from the current toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="marat_hair">vanilla</flag>
               </conditionFlags>
@@ -1624,7 +1624,7 @@
         <group name="Marat's hair color (and brows)" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. Suggested from the current toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="marat_hair_color">vanilla</flag>
               </conditionFlags>
@@ -1736,7 +1736,7 @@
         <group name="Marat's beard" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. Suggested from the current toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="marat_beard">vanilla</flag>
               </conditionFlags>
@@ -1830,7 +1830,7 @@
         <group name="Marat's beard color" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. Suggested from the current toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
               <conditionFlags>
                 <flag name="marat_beard_color">vanilla</flag>
               </conditionFlags>

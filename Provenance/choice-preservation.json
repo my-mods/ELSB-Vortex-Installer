@@ -1,0 +1,15 @@
+{
+  "identity": "ELSBVortexInstaller",
+  "companion_extension": "elsb-choice-preservation",
+  "match": ["step name", "group name", "option name"],
+  "numeric_positions_are_not_identity": true,
+  "existing_valid_choices": "preselect, remaining editable",
+  "new_or_removed_choices": "current wizard defaults",
+  "unusable_choices": "current wizard dependency handling",
+  "ambiguous_previous_variant": "leave defaults and notify",
+  "explicit_native_presets": "take precedence",
+  "source_of_preferences": "existing Vortex mod entry",
+  "separate_history_or_game_files": false,
+  "required_host_capabilities": ["will-install-mod", "onStateChange", "instance-scoped FOMOD selection events"],
+  "scope": "The Blood of Dawnwalker, ELSB - Vortex Installer only"
+}

@@ -2,5 +2,11 @@
   {
     "type": "setmodtype",
     "value": "dawnwalker-root"
+  },
+  {
+    "type": "attribute",
+    "source": "ELSBVortexInstaller.identity",
+    "key": "elsbInstallerIdentity",
+    "value": "ELSBVortexInstaller"
   }
 ]

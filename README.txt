@@ -4,7 +4,8 @@ Personal development package based on ELSB 1.1.1
 Choose Coen, Anca, Lacra and Marat's existing ELSB body, hairstyle, colour,
 beard, eye, outfit and scene options in Vortex. Anca and Lacra independently
 offer Vanilla, ELSB, or ELSB + Pussy Walker. Neither add-on body is selected
-by default. Suggestions reflect the saved toolkit preferences at preparation.
+by default on a fresh install. First-install suggestions reflect the saved
+toolkit preferences at preparation.
 
 The original ELSB module files are unchanged. The personal body add-on and
 Lacra hair/texture compatibility containers are separate additions. Original
@@ -17,7 +18,18 @@ Installation
 
 Changing choices
 Use Reinstall on this same Vortex entry, adjust the wizard and deploy.
-Vortex can preselect saved choices; the wizard's identifiers remain stable.
+Install the companion ELSB - Saved Installer Choices.zip through Vortex's
+Extensions page once, then restart Vortex. With that helper enabled, rerunning
+the wizard or replacing/updating this entry keeps saved choices by default
+when the same options still exist and remain usable. New or removed choices
+use the wizard's defaults. You can change every preselection normally.
+The helper also supports the original personal installer entry. It is needed
+because Vortex 2.7.2 does not consistently forward saved choices for local ZIP
+replacements or different-version updates. XML alone cannot recover them.
+Keep the existing mod entry when starting its replacement; deleting it first
+deletes its saved choices. An ambiguous match between multiple variants asks
+you to review the wizard rather than choosing another variant's preferences.
+See the companion archive's README.txt for installation and diagnostics.
 Choosing Vanilla removes this entry's corresponding options on reinstall.
 Disabling this entry removes its managed files on deployment. It does not
 disable third-party originals. Avoid installing a second copy of this entry.

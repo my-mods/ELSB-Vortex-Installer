@@ -1,0 +1,143 @@
+/* Opt-in scope follows the active ELSB dialog. Theme colors and controls remain native. */
+body.elsb-fomod-active #fomod-installer-dialog {
+  --elsb-space-small: 8px;
+  --elsb-space-medium: 16px;
+  --elsb-space-large: 24px;
+  --elsb-line: color-mix(in srgb, currentColor 18%, transparent);
+  font-size: max(1rem, 14px);
+
+  .modal-dialog {
+    width: 94vw;
+    max-width: 1240px;
+    height: 92vh;
+    margin: 4vh auto;
+  }
+
+  .modal-content { min-height: 0; }
+  .modal-header, .modal-footer { flex: 0 0 auto; padding: 16px 24px; }
+  .modal-header { line-height: 1.5; }
+  .modal-title { font-size: 1.35em; font-weight: 600; margin-bottom: 4px; }
+  #fomod-cancel { min-width: 36px; min-height: 36px; }
+  .modal-body { min-height: 0; flex: 1 1 auto; padding: 0 24px; }
+
+  .modal-body > .layout-container-row {
+    display: grid;
+    grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
+    gap: var(--elsb-space-large);
+    min-height: 0;
+    height: 100%;
+  }
+
+  .modal-body > .layout-container-row > .layout-flex {
+    min-width: 0;
+    min-height: 0;
+  }
+
+  /* Override only the host's inline 40–60% limits on this grid child. */
+  .modal-body > .layout-container-row > .layout-fixed {
+    min-width: 0 !important;
+    max-width: none !important;
+    overflow-y: hidden !important;
+    min-height: 0;
+    border-left: 1px solid var(--elsb-line);
+    padding-left: var(--elsb-space-large);
+  }
+
+  .layout-fixed > .layout-container-column {
+    display: grid;
+    grid-template-rows: minmax(0, 44%) minmax(0, 1fr);
+    gap: var(--elsb-space-medium);
+    min-height: 0;
+  }
+
+  .layout-fixed .layout-flex { min-height: 0; min-width: 0; }
+  #fomod-installer-form { padding: 4px 12px 16px 0; }
+  #fomod-installer-form .form-group { margin: 0 0 24px; }
+  #fomod-installer-form .form-group > .control-label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 1em;
+    font-weight: 600;
+    line-height: 1.4;
+  }
+
+  .radio { margin: 2px 0; }
+  .radio label {
+    display: block;
+    min-height: 36px;
+    padding: 7px 12px 7px 32px;
+    border-radius: 4px;
+    line-height: 1.5;
+    overflow-wrap: anywhere;
+  }
+
+  .radio input[type="radio"] { margin-top: 4px; margin-left: -22px; }
+  .radio .fake-link { color: inherit; text-decoration: none; }
+  .radio:not(.disabled) label:hover {
+    background: color-mix(in srgb, currentColor 6%, transparent);
+  }
+  .radio label:has(input:checked) {
+    background: color-mix(in srgb, currentColor 10%, transparent);
+    font-weight: 600;
+  }
+  .radio label:has(input:focus-visible) { outline: 2px solid currentColor; outline-offset: -2px; }
+  .radio.disabled label { cursor: not-allowed; }
+
+  .installer-image {
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+  }
+  .installer-image .zoomable-image { width: 100%; height: 100%; object-fit: contain; cursor: zoom-in; }
+  .description { padding: 0 8px 16px 0; margin: 0; }
+  .description > .control-label {
+    display: block;
+    max-width: 72ch;
+    margin: 0;
+    font-size: 1em;
+    font-weight: 400;
+    line-height: 1.65;
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+    user-select: text;
+  }
+  .description ::selection { background: Highlight; color: HighlightText; }
+  .fomod-nav-buttons { gap: var(--elsb-space-medium); }
+  .fomod-nav-buttons > .fomod-progress { flex: 0 1 160px; }
+  .fomod-progress .progress { width: 100%; max-width: 160px; }
+  .fomod-nav-buttons .btn { min-height: 40px; padding: 8px 16px; line-height: 1.4; }
+  .btn:focus-visible { outline: 2px solid currentColor; outline-offset: 2px; }
+}
+
+/* Keep the original DOM/tab order at high zoom or very narrow desktop windows. */
+@media (max-width: 680px) {
+  body.elsb-fomod-active #fomod-installer-dialog {
+    .modal-dialog { width: 96vw; height: 96vh; margin: 2vh auto; }
+    .modal-header, .modal-footer { padding: 12px 16px; }
+    .modal-body { padding: 0 16px; overflow-y: auto; display: block; }
+    .modal-body > .layout-container-row {
+      display: flex;
+      flex-direction: column !important;
+      gap: 16px;
+      height: auto;
+    }
+    .modal-body > .layout-container-row > .layout-flex {
+      flex: 0 0 auto;
+      height: 36vh;
+      min-height: 180px;
+    }
+    .modal-body > .layout-container-row > .layout-fixed {
+      overflow-y: visible !important;
+      border-left: 0;
+      border-top: 1px solid var(--elsb-line);
+      padding: 16px 0 0;
+    }
+    .layout-fixed > .layout-container-column { height: auto; grid-template-rows: 240px auto; }
+    .layout-fixed .description-outer { overflow: visible; }
+    .layout-fixed .description { position: static; overflow: visible; }
+    .fomod-nav-buttons { gap: 8px; }
+    .fomod-nav-buttons > .fomod-progress { flex: 0 1 48px; }
+    .fomod-nav-buttons .btn { padding: 8px; }
+  }
+}

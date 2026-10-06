@@ -3,5 +3,5 @@
   "name": "ELSB - Saved Installer Choices",
   "author": "oOCamilleOo",
   "version": "1.1.1",
-  "description": "Prefills existing ELSB choices when its FOMOD wizard is reopened or updated."
+  "description": "Preserves saved ELSB choices and improves its installer layout, previews and keyboard browsing."
 }

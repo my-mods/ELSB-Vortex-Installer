@@ -139,6 +139,14 @@ function main(context) {
       return;
     }
     createController(api, log, debugLogging === true);
+    if (typeof document !== 'undefined' && typeof api.setStylesheet === 'function') {
+      try {
+        api.setStylesheet('elsb-fomod-presentation', path.join(__dirname, 'installer.scss'));
+        require('./presentation').createPresentation(api, document, log, debugLogging === true);
+      } catch (error) {
+        if (debugLogging) log('warn', 'ELSB installer layout unavailable', { message: error.message });
+      }
+    }
   });
   return true;
 }

@@ -1,4 +1,4 @@
-ELSB - Saved Installer Choices
+The Blood of Dawnwalker ELSB Extension
 
 The ELSB FOMOD works without this optional companion, using Vortex's normal
 radio buttons, previews, dependency checks and page navigation. Without the
@@ -26,10 +26,10 @@ It uses choices saved in the existing Vortex entry. No game files are read or
 changed by the extension, and it does not activate or deactivate mods.
 
 Installation
-- Vortex: Open Extensions, use Install From File with ELSB - Saved Installer Choices.zip to install or replace this extension, enable it and restart Vortex.
+- Vortex: Open Extensions, use Install From File with The Blood of Dawnwalker ELSB Extension.zip to install or replace this extension, enable it and restart Vortex.
 - Manual: Use Vortex's extension installer; do not copy this ZIP into the game or install it from the game's Mods page.
 
-The extension keeps its existing name and ID. Replacing it adds the layout
+The extension keeps its existing internal ID. Replacing it adds the layout
 improvements without requiring a replacement of the ELSB game-mod archive.
 The new layout is active only while the ELSB - Vortex Installer wizard is open.
 Other installers keep their normal appearance. Fonts, theme colors, controls,

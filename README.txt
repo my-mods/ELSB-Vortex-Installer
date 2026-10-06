@@ -7,7 +7,7 @@ offer Vanilla, ELSB, or ELSB + Pussy Walker. Neither add-on body is selected
 by default on a fresh install. First-install suggestions reflect the saved
 toolkit preferences at preparation.
 
-Character compatibility choices cover the 31 reviewed Vortex Characters
+Character compatibility choices cover the 34 reviewed Vortex Characters
 entries, including Lacra Beautiful Hair v4. Its hair patch keeps the selected
 ELSB body, outfit and scene choices. Face overlays, skin surface and wrinkles
 can be selected separately. Thicc/SlimThicc Lacra remain alternative Lacra
@@ -19,11 +19,17 @@ remain separate requirements; patches contain only their reviewed overrides.
 You manage the originals' activation in Vortex.
 No ELSB toolkit program, configuration or direct-copy operation is installed.
 
-Every wizard choice has a picture. Original ELSB previews are reused unchanged;
-the Lacra hair and chest patches use their Nexus images. The two personal body
-choices show a clearly identified ELSB body reference; their added geometry is
-not pictured. New character choices use clearly labelled ELSB reference images.
-Preview images remain in the installer and are not game files.
+Every wizard choice has a picture. Face/head options now show face details
+from the original ELSB previews or Nexus screenshots. Where the author uses
+one page screenshot for several makeup variants, the caption says so.
+ELSB + Pussy Walker shows two labelled pictures side by side: the ELSB body
+and an original Pussy Walker mod image. They are source references, not a
+capture of the adapted combination. Preview images are installer-only.
+
+Anca faces have their own category. Ordinary Lacra makeup can accompany
+Vrakhir chest textures. Gothic Lacra variants remain complete face-and-body
+skins and cannot be combined with separate makeup/chest selections or the
+Pussy Walker atlas. See Compatibility.txt for the exact supported originals.
 
 Each compatibility choice starts with an activation warning naming the Nexus
 mod and exact supported archive. Activate and deploy that original as its own

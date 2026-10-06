@@ -490,32 +490,12 @@
   },
   "anca_skin": {
     "step": "Anca - Body and scenes",
-    "name": "Anca's skin, makeup and tattoos",
+    "name": "Anca's body skin and tattoos",
     "options": [
       {
         "id": "vanilla",
         "name": "None",
         "recommended": true
-      },
-      {
-        "id": "compat_chars_404_2069",
-        "name": "Anca Young No Eyeliner - ELSB patch",
-        "recommended": false
-      },
-      {
-        "id": "compat_chars_404_2068",
-        "name": "Anca Young No Makeup - ELSB patch",
-        "recommended": false
-      },
-      {
-        "id": "compat_chars_404_2067",
-        "name": "Anca Young Makeup - ELSB patch",
-        "recommended": false
-      },
-      {
-        "id": "compat_chars_512_1957",
-        "name": "Anca Is Really Old - ELSB patch",
-        "recommended": false
       }
     ]
   },
@@ -626,6 +606,53 @@
       }
     ]
   },
+  "anca_face": {
+    "step": "Anca - Hair and eyes",
+    "name": "Face and makeup overlay",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": true
+      },
+      {
+        "id": "compat_chars_404_2069",
+        "name": "Anca Young No Eyeliner - ELSB patch",
+        "recommended": false
+      },
+      {
+        "id": "compat_chars_404_2068",
+        "name": "Anca Young No Makeup - ELSB patch",
+        "recommended": false
+      },
+      {
+        "id": "compat_chars_404_2067",
+        "name": "Anca Young Makeup - ELSB patch",
+        "recommended": false
+      },
+      {
+        "id": "compat_chars_512_1957",
+        "name": "Anca Is Really Old - ELSB patch",
+        "recommended": false
+      }
+    ]
+  },
+  "anca_head": {
+    "step": "Anca - Hair and eyes",
+    "name": "Replacement head",
+    "options": [
+      {
+        "id": "vanilla",
+        "name": "Vanilla (unchanged)",
+        "recommended": true
+      },
+      {
+        "id": "compat_chars_534_2025",
+        "name": "Rise of Anca Croft - ELSB routing",
+        "recommended": false
+      }
+    ]
+  },
   "lacra_body": {
     "step": "Lacra - Body and scenes",
     "name": "Lacra's body",
@@ -710,22 +737,22 @@
       },
       {
         "id": "compat_chars_445_2457",
-        "name": "Lacra Gothic Makeup - ELSB patch",
+        "name": "Lacra Gothic Makeup - complete face and body skin",
         "recommended": false
       },
       {
         "id": "compat_chars_445_2454",
-        "name": "Lacra Gothic Vanilla Makeup - ELSB patch",
+        "name": "Lacra Gothic Vanilla Makeup - complete face and body skin",
         "recommended": false
       },
       {
         "id": "compat_chars_445_2453",
-        "name": "Lacra Gothic Dead Skin Vanilla Makeup v2 - ELSB patch",
+        "name": "Lacra Gothic Dead Skin Vanilla Makeup v2 - complete face and body skin",
         "recommended": false
       },
       {
         "id": "compat_chars_445_2448",
-        "name": "Lacra Gothic No Makeup - ELSB patch",
+        "name": "Lacra Gothic No Makeup - complete face and body skin",
         "recommended": false
       }
     ]
@@ -916,12 +943,22 @@
         "id": "compat_chars_550_2443",
         "name": "Lacra Makeup - original",
         "recommended": false
+      },
+      {
+        "id": "compat_chars_427_1588",
+        "name": "Lacra Young Makeup - original",
+        "recommended": false
+      },
+      {
+        "id": "compat_chars_427_1599",
+        "name": "Lacra Young Makeup Alternative - original",
+        "recommended": false
       }
     ]
   },
   "lacra_surface": {
     "step": "Lacra - Hair and eyes",
-    "name": "Skin surface",
+    "name": "Face surface (normal map)",
     "options": [
       {
         "id": "vanilla",

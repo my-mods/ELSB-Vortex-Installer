@@ -924,10 +924,10 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
             <plugin name="Vanilla (unchanged)">
               <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
 
-No additional patch for this category.
+Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.
 
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
-              <image path="fomod/images/elsb/body/_vanilla.png" />
+              <image path="fomod/images/faces/coen-vanilla.svg" />
               <conditionFlags>
                 <flag name="coen_face">vanilla</flag>
               </conditionFlags>
@@ -945,10 +945,10 @@ Preserves the chosen ELSB body meshes. Keep this exact original enabled separate
 
 Preserves the chosen ELSB body meshes. Keep this exact original enabled separately. Select one original per skin/face category. Separate face overlays take priority over full skin packs.
 
-ELSB Coen reference only. This picture does not show Youthful Coen.
+Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included.
 
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
-              <image path="fomod/images/elsb/body/masculine/preview.png" />
+              <image path="fomod/images/faces/703.svg" />
               <conditionFlags>
                 <flag name="coen_face">compat_chars_703_2986</flag>
               </conditionFlags>
@@ -996,10 +996,10 @@ The personal add-on is included here and does not require that original.
 
 ELSB body with the personal lower-body add-on. Disable standalone VaginaMod for the supported setup. Keeps the original ELSB torso and story skin states. Gameplay acceptance is pending.
 
-Preview: original ELSB Anca body reference. The personal Pussy Walker geometry is not pictured.
+Side by side: original ELSB body reference and the original Pussy Walker mod screenshot. These show the two source mods, not an in-game capture of the adapted combination.
 
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
-              <image path="fomod/images/elsb/anca_body/booty/preview.png" />
+              <image path="fomod/images/faces/anca-pussywalker.svg" />
               <conditionFlags>
                 <flag name="anca_body">pussywalker</flag>
               </conditionFlags>
@@ -1192,7 +1192,7 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
             </plugin>
           </plugins>
         </group>
-        <group name="Anca's skin, makeup and tattoos" type="SelectExactlyOne">
+        <group name="Anca's body skin and tattoos" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="None">
               <description>No built-in skin override. Manage other skin, makeup and tattoo mods separately in Vortex; only explicitly reviewed combinations receive patches here. First-install suggestion from the saved toolkit settings.
@@ -1204,90 +1204,6 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
               </conditionFlags>
               <typeDescriptor>
                 <type name="Recommended" />
-              </typeDescriptor>
-            </plugin>
-            <plugin name="Anca Young No Eyeliner - ELSB patch">
-              <description>WARNING: Activate and deploy the required original in Vortex.
-Nexus mod: Anca Retexture
-Archive: Anca Young No Eyeliner 404 2 2026-09-16T19-13Z kZ3Z1psro.zip
-This choice configures this original with ELSB; it does not activate the original.
-https://www.nexusmods.com/thebloodofdawnwalker/mods/404
-Preserves the chosen ELSB body meshes. Keep this exact original enabled separately.
-
-Preserves the chosen ELSB body meshes. Keep this exact original enabled separately. Select one original per skin/face category. Separate face overlays take priority over full skin packs.
-
-ELSB Anca reference only. This picture does not show Anca Young No Eyeliner.
-
-After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
-              <image path="fomod/images/elsb/anca_body/booty/preview.png" />
-              <conditionFlags>
-                <flag name="anca_skin">compat_chars_404_2069</flag>
-              </conditionFlags>
-              <typeDescriptor>
-                <type name="Optional" />
-              </typeDescriptor>
-            </plugin>
-            <plugin name="Anca Young No Makeup - ELSB patch">
-              <description>WARNING: Activate and deploy the required original in Vortex.
-Nexus mod: Anca Retexture
-Archive: Anca Young No Makeup 404 2 2026-09-16T19-12Z Fgbgq9kOC.zip
-This choice configures this original with ELSB; it does not activate the original.
-https://www.nexusmods.com/thebloodofdawnwalker/mods/404
-Preserves the chosen ELSB body meshes. Keep this exact original enabled separately.
-
-Preserves the chosen ELSB body meshes. Keep this exact original enabled separately. Select one original per skin/face category. Separate face overlays take priority over full skin packs.
-
-ELSB Anca reference only. This picture does not show Anca Young No Makeup.
-
-After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
-              <image path="fomod/images/elsb/anca_body/booty/preview.png" />
-              <conditionFlags>
-                <flag name="anca_skin">compat_chars_404_2068</flag>
-              </conditionFlags>
-              <typeDescriptor>
-                <type name="Optional" />
-              </typeDescriptor>
-            </plugin>
-            <plugin name="Anca Young Makeup - ELSB patch">
-              <description>WARNING: Activate and deploy the required original in Vortex.
-Nexus mod: Anca Retexture
-Archive: Anca Young Makeup 404 2 2026-09-16T19-12Z 5n0ndKRSo.zip
-This choice configures this original with ELSB; it does not activate the original.
-https://www.nexusmods.com/thebloodofdawnwalker/mods/404
-Preserves the chosen ELSB body meshes. Keep this exact original enabled separately.
-
-Preserves the chosen ELSB body meshes. Keep this exact original enabled separately. Select one original per skin/face category. Separate face overlays take priority over full skin packs.
-
-ELSB Anca reference only. This picture does not show Anca Young Makeup.
-
-After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
-              <image path="fomod/images/elsb/anca_body/booty/preview.png" />
-              <conditionFlags>
-                <flag name="anca_skin">compat_chars_404_2067</flag>
-              </conditionFlags>
-              <typeDescriptor>
-                <type name="Optional" />
-              </typeDescriptor>
-            </plugin>
-            <plugin name="Anca Is Really Old - ELSB patch">
-              <description>WARNING: Activate and deploy the required original in Vortex.
-Nexus mod: Anca is Really Old
-Archive: Anca Is Really Old 512 1 2026-09-15T09-37Z QqTq45eCB.zip
-This choice configures this original with ELSB; it does not activate the original.
-https://www.nexusmods.com/thebloodofdawnwalker/mods/512
-Preserves the chosen ELSB body meshes. Keep this exact original enabled separately.
-
-Preserves the chosen ELSB body meshes. Keep this exact original enabled separately. Select one original per skin/face category. Separate face overlays take priority over full skin packs.
-
-ELSB Anca reference only. This picture does not show Anca Is Really Old.
-
-After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
-              <image path="fomod/images/elsb/anca_body/booty/preview.png" />
-              <conditionFlags>
-                <flag name="anca_skin">compat_chars_512_1957</flag>
-              </conditionFlags>
-              <typeDescriptor>
-                <type name="Optional" />
               </typeDescriptor>
             </plugin>
           </plugins>
@@ -1541,6 +1457,161 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
             </plugin>
           </plugins>
         </group>
+        <group name="Face and makeup overlay" type="SelectExactlyOne">
+          <plugins order="Explicit">
+            <plugin name="Vanilla (unchanged)">
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
+
+Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/faces/anca-vanilla.svg" />
+              <conditionFlags>
+                <flag name="anca_face">vanilla</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Recommended" />
+              </typeDescriptor>
+            </plugin>
+            <plugin name="Anca Young No Eyeliner - ELSB patch">
+              <description>WARNING: Activate and deploy the required original in Vortex.
+Nexus mod: Anca Retexture
+Archive: Anca Young No Eyeliner 404 2 2026-09-16T19-13Z kZ3Z1psro.zip
+This choice configures this original with ELSB; it does not activate the original.
+https://www.nexusmods.com/thebloodofdawnwalker/mods/404
+Preserves the chosen ELSB body meshes. Keep this exact original enabled separately.
+
+Preserves the chosen ELSB body meshes. Keep this exact original enabled separately. Select one original per skin/face category. Separate face overlays take priority over full skin packs.
+
+Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included. The page screenshot is a shared reference for its variants; it is not an exact preview of every makeup or wrinkle variant.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/faces/404.svg" />
+              <conditionFlags>
+                <flag name="anca_face">compat_chars_404_2069</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Optional" />
+              </typeDescriptor>
+            </plugin>
+            <plugin name="Anca Young No Makeup - ELSB patch">
+              <description>WARNING: Activate and deploy the required original in Vortex.
+Nexus mod: Anca Retexture
+Archive: Anca Young No Makeup 404 2 2026-09-16T19-12Z Fgbgq9kOC.zip
+This choice configures this original with ELSB; it does not activate the original.
+https://www.nexusmods.com/thebloodofdawnwalker/mods/404
+Preserves the chosen ELSB body meshes. Keep this exact original enabled separately.
+
+Preserves the chosen ELSB body meshes. Keep this exact original enabled separately. Select one original per skin/face category. Separate face overlays take priority over full skin packs.
+
+Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included. The page screenshot is a shared reference for its variants; it is not an exact preview of every makeup or wrinkle variant.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/faces/404.svg" />
+              <conditionFlags>
+                <flag name="anca_face">compat_chars_404_2068</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Optional" />
+              </typeDescriptor>
+            </plugin>
+            <plugin name="Anca Young Makeup - ELSB patch">
+              <description>WARNING: Activate and deploy the required original in Vortex.
+Nexus mod: Anca Retexture
+Archive: Anca Young Makeup 404 2 2026-09-16T19-12Z 5n0ndKRSo.zip
+This choice configures this original with ELSB; it does not activate the original.
+https://www.nexusmods.com/thebloodofdawnwalker/mods/404
+Preserves the chosen ELSB body meshes. Keep this exact original enabled separately.
+
+Preserves the chosen ELSB body meshes. Keep this exact original enabled separately. Select one original per skin/face category. Separate face overlays take priority over full skin packs.
+
+Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included. The page screenshot is a shared reference for its variants; it is not an exact preview of every makeup or wrinkle variant.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/faces/404.svg" />
+              <conditionFlags>
+                <flag name="anca_face">compat_chars_404_2067</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Optional" />
+              </typeDescriptor>
+            </plugin>
+            <plugin name="Anca Is Really Old - ELSB patch">
+              <description>WARNING: Activate and deploy the required original in Vortex.
+Nexus mod: Anca is Really Old
+Archive: Anca Is Really Old 512 1 2026-09-15T09-37Z QqTq45eCB.zip
+This choice configures this original with ELSB; it does not activate the original.
+https://www.nexusmods.com/thebloodofdawnwalker/mods/512
+Preserves the chosen ELSB body meshes. Keep this exact original enabled separately.
+
+Preserves the chosen ELSB body meshes. Keep this exact original enabled separately. Select one original per skin/face category. Separate face overlays take priority over full skin packs.
+
+Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/faces/512.svg" />
+              <conditionFlags>
+                <flag name="anca_face">compat_chars_512_1957</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Optional" />
+              </typeDescriptor>
+            </plugin>
+          </plugins>
+        </group>
+        <group name="Replacement head" type="SelectExactlyOne">
+          <plugins order="Explicit">
+            <plugin name="Vanilla (unchanged)">
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
+
+Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/faces/anca-vanilla.svg" />
+              <conditionFlags>
+                <flag name="anca_head">vanilla</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Recommended" />
+              </typeDescriptor>
+            </plugin>
+            <plugin name="Rise of Anca Croft - ELSB routing">
+              <description>WARNING: Activate and deploy the required original in Vortex.
+Nexus mod: Rise of Anca Croft
+Archive: Rise of Anca Croft 534 1 2026-09-16T03-55Z tzYzjaIp7.zip
+This choice configures this original with ELSB; it does not activate the original.
+https://www.nexusmods.com/thebloodofdawnwalker/mods/534
+Routes only Anca head references to the original Croft head, retaining selected ELSB/Pussy Walker body and story materials. Check neck alignment and facial animation in game.
+
+Routes only Anca head references to the original Croft head, retaining selected ELSB/Pussy Walker body and story materials. Check neck alignment and facial animation in game.
+
+Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/faces/534.svg" />
+              <conditionFlags>
+                <flag name="anca_head">compat_chars_534_2025</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <dependencyType>
+                  <defaultType name="NotUsable" />
+                  <patterns>
+                    <pattern>
+                      <dependencies operator="Or">
+                        <flagDependency flag="anca_body" value="vanilla" />
+                        <dependencies operator="Or">
+                          <flagDependency flag="anca_body" value="booty" />
+                          <flagDependency flag="anca_body" value="pussywalker" />
+                        </dependencies>
+                      </dependencies>
+                      <type name="Optional" />
+                    </pattern>
+                  </patterns>
+                </dependencyType>
+              </typeDescriptor>
+            </plugin>
+          </plugins>
+        </group>
       </optionalFileGroups>
     </installStep>
     <installStep name="Lacra - Body and scenes">
@@ -1579,10 +1650,10 @@ The personal add-on is included here and does not require that original.
 
 ELSB body with the personal lower-body add-on. Disable standalone VaginaMod for the supported setup. Keeps the original ELSB torso and story skin states. Gameplay acceptance is pending.
 
-Preview: original ELSB Lacra body reference. The personal Pussy Walker geometry is not pictured.
+Side by side: original ELSB body reference and the original Pussy Walker mod screenshot. These show the two source mods, not an in-game capture of the adapted combination.
 
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
-              <image path="fomod/images/elsb/lacra_body/fitness/preview.png" />
+              <image path="fomod/images/faces/lacra-pussywalker.svg" />
               <conditionFlags>
                 <flag name="lacra_body">pussywalker</flag>
               </conditionFlags>
@@ -1787,15 +1858,15 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
                 <type name="Recommended" />
               </typeDescriptor>
             </plugin>
-            <plugin name="Lacra Gothic Makeup - ELSB patch">
+            <plugin name="Lacra Gothic Makeup - complete face and body skin">
               <description>WARNING: Activate and deploy the required original in Vortex.
 Nexus mod: Goth Lacra
 Archive: Lacra Gothic Makeup 445 2 2026-09-22T07-55Z qCmCin19n.zip
 This choice configures this original with ELSB; it does not activate the original.
 https://www.nexusmods.com/thebloodofdawnwalker/mods/445
-Preserves the chosen ELSB body meshes. Keep this exact original enabled separately.
+Complete face-and-body skin replacement. Use the regular ELSB body and the matching Gothic original only; do not combine with separate makeup, chest colours or the Pussy Walker private atlas. All original face, torso, arm, leg and foot colours are kept together.
 
-Preserves the chosen ELSB body meshes. Keep this exact original enabled separately. Select one original per skin/face category. Separate face overlays take priority over full skin packs. Use the regular ELSB body for this full recolour; the personal Pussy Walker graft has a separate skin atlas.
+Complete face-and-body skin replacement. Use the regular ELSB body and the matching Gothic original only; do not combine with separate makeup, chest colours or the Pussy Walker private atlas. All original face, torso, arm, leg and foot colours are kept together. Select one original per skin/face category. Separate face overlays take priority over full skin packs. Use the regular ELSB body for this full recolour; the personal Pussy Walker graft has a separate skin atlas.
 
 ELSB Lacra reference only. This picture does not show Lacra Gothic Makeup.
 
@@ -1821,15 +1892,15 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
                 </dependencyType>
               </typeDescriptor>
             </plugin>
-            <plugin name="Lacra Gothic Vanilla Makeup - ELSB patch">
+            <plugin name="Lacra Gothic Vanilla Makeup - complete face and body skin">
               <description>WARNING: Activate and deploy the required original in Vortex.
 Nexus mod: Goth Lacra
 Archive: Lacra Gothic Vanilla Makeup 445 2 2026-09-22T04-27Z 80d0asHN5.zip
 This choice configures this original with ELSB; it does not activate the original.
 https://www.nexusmods.com/thebloodofdawnwalker/mods/445
-Preserves the chosen ELSB body meshes. Keep this exact original enabled separately.
+Complete face-and-body skin replacement. Use the regular ELSB body and the matching Gothic original only; do not combine with separate makeup, chest colours or the Pussy Walker private atlas. All original face, torso, arm, leg and foot colours are kept together.
 
-Preserves the chosen ELSB body meshes. Keep this exact original enabled separately. Select one original per skin/face category. Separate face overlays take priority over full skin packs. Use the regular ELSB body for this full recolour; the personal Pussy Walker graft has a separate skin atlas.
+Complete face-and-body skin replacement. Use the regular ELSB body and the matching Gothic original only; do not combine with separate makeup, chest colours or the Pussy Walker private atlas. All original face, torso, arm, leg and foot colours are kept together. Select one original per skin/face category. Separate face overlays take priority over full skin packs. Use the regular ELSB body for this full recolour; the personal Pussy Walker graft has a separate skin atlas.
 
 ELSB Lacra reference only. This picture does not show Lacra Gothic Vanilla Makeup.
 
@@ -1855,15 +1926,15 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
                 </dependencyType>
               </typeDescriptor>
             </plugin>
-            <plugin name="Lacra Gothic Dead Skin Vanilla Makeup v2 - ELSB patch">
+            <plugin name="Lacra Gothic Dead Skin Vanilla Makeup v2 - complete face and body skin">
               <description>WARNING: Activate and deploy the required original in Vortex.
 Nexus mod: Goth Lacra
 Archive: Lacra Gothic Dead Skin Vanilla Makeup v2 445 2 2026-09-22T02-44Z QqTq45eiL.zip
 This choice configures this original with ELSB; it does not activate the original.
 https://www.nexusmods.com/thebloodofdawnwalker/mods/445
-Preserves the chosen ELSB body meshes. Keep this exact original enabled separately.
+Complete face-and-body skin replacement. Use the regular ELSB body and the matching Gothic original only; do not combine with separate makeup, chest colours or the Pussy Walker private atlas. All original face, torso, arm, leg and foot colours are kept together.
 
-Preserves the chosen ELSB body meshes. Keep this exact original enabled separately. Select one original per skin/face category. Separate face overlays take priority over full skin packs. Use the regular ELSB body for this full recolour; the personal Pussy Walker graft has a separate skin atlas.
+Complete face-and-body skin replacement. Use the regular ELSB body and the matching Gothic original only; do not combine with separate makeup, chest colours or the Pussy Walker private atlas. All original face, torso, arm, leg and foot colours are kept together. Select one original per skin/face category. Separate face overlays take priority over full skin packs. Use the regular ELSB body for this full recolour; the personal Pussy Walker graft has a separate skin atlas.
 
 ELSB Lacra reference only. This picture does not show Lacra Gothic Dead Skin Vanilla Makeup v2.
 
@@ -1889,15 +1960,15 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
                 </dependencyType>
               </typeDescriptor>
             </plugin>
-            <plugin name="Lacra Gothic No Makeup - ELSB patch">
+            <plugin name="Lacra Gothic No Makeup - complete face and body skin">
               <description>WARNING: Activate and deploy the required original in Vortex.
 Nexus mod: Goth Lacra
 Archive: Lacra Gothic No Makeup 445 2 2026-09-22T01-14Z sW7WJAgPF.zip
 This choice configures this original with ELSB; it does not activate the original.
 https://www.nexusmods.com/thebloodofdawnwalker/mods/445
-Preserves the chosen ELSB body meshes. Keep this exact original enabled separately.
+Complete face-and-body skin replacement. Use the regular ELSB body and the matching Gothic original only; do not combine with separate makeup, chest colours or the Pussy Walker private atlas. All original face, torso, arm, leg and foot colours are kept together.
 
-Preserves the chosen ELSB body meshes. Keep this exact original enabled separately. Select one original per skin/face category. Separate face overlays take priority over full skin packs. Use the regular ELSB body for this full recolour; the personal Pussy Walker graft has a separate skin atlas.
+Complete face-and-body skin replacement. Use the regular ELSB body and the matching Gothic original only; do not combine with separate makeup, chest colours or the Pussy Walker private atlas. All original face, torso, arm, leg and foot colours are kept together. Select one original per skin/face category. Separate face overlays take priority over full skin packs. Use the regular ELSB body for this full recolour; the personal Pussy Walker graft has a separate skin atlas.
 
 ELSB Lacra reference only. This picture does not show Lacra Gothic No Makeup.
 
@@ -2303,10 +2374,10 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
             <plugin name="Vanilla (unchanged)">
               <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
 
-No additional patch for this category.
+Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.
 
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
-              <image path="fomod/images/elsb/lacra_body/_vanilla.png" />
+              <image path="fomod/images/faces/lacra-vanilla.svg" />
               <conditionFlags>
                 <flag name="lacra_face">vanilla</flag>
               </conditionFlags>
@@ -2324,15 +2395,26 @@ Preserves the chosen ELSB body meshes. Keep this exact original enabled separate
 
 Preserves the chosen ELSB body meshes. Keep this exact original enabled separately. Select one original per skin/face category. Separate face overlays take priority over full skin packs.
 
-ELSB Lacra reference only. This picture does not show Makeup v2 (no Eye of Horus).
+Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included. The page screenshot is a shared reference for its variants; it is not an exact preview of every makeup or wrinkle variant.
 
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
-              <image path="fomod/images/elsb/lacra_body/fitness/preview.png" />
+              <image path="fomod/images/faces/550.svg" />
               <conditionFlags>
                 <flag name="lacra_face">compat_chars_550_2442</flag>
               </conditionFlags>
               <typeDescriptor>
-                <type name="Optional" />
+                <dependencyType>
+                  <defaultType name="NotUsable" />
+                  <patterns>
+                    <pattern>
+                      <dependencies operator="Or">
+                        <flagDependency flag="lacra_skin" value="vanilla" />
+                        <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+                      </dependencies>
+                      <type name="Optional" />
+                    </pattern>
+                  </patterns>
+                </dependencyType>
               </typeDescriptor>
             </plugin>
             <plugin name="Lacra Natural Makeup - original">
@@ -2345,15 +2427,26 @@ Preserves the chosen ELSB body meshes. Keep this exact original enabled separate
 
 Preserves the chosen ELSB body meshes. Keep this exact original enabled separately. Select one original per skin/face category. Separate face overlays take priority over full skin packs.
 
-ELSB Lacra reference only. This picture does not show Lacra Natural Makeup.
+Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included. The page screenshot is a shared reference for its variants; it is not an exact preview of every makeup or wrinkle variant.
 
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
-              <image path="fomod/images/elsb/lacra_body/fitness/preview.png" />
+              <image path="fomod/images/faces/550.svg" />
               <conditionFlags>
                 <flag name="lacra_face">compat_chars_550_2444</flag>
               </conditionFlags>
               <typeDescriptor>
-                <type name="Optional" />
+                <dependencyType>
+                  <defaultType name="NotUsable" />
+                  <patterns>
+                    <pattern>
+                      <dependencies operator="Or">
+                        <flagDependency flag="lacra_skin" value="vanilla" />
+                        <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+                      </dependencies>
+                      <type name="Optional" />
+                    </pattern>
+                  </patterns>
+                </dependencyType>
               </typeDescriptor>
             </plugin>
             <plugin name="Lacra Makeup - original">
@@ -2366,28 +2459,103 @@ Preserves the chosen ELSB body meshes. Keep this exact original enabled separate
 
 Preserves the chosen ELSB body meshes. Keep this exact original enabled separately. Select one original per skin/face category. Separate face overlays take priority over full skin packs.
 
-ELSB Lacra reference only. This picture does not show Lacra Makeup.
+Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included. The page screenshot is a shared reference for its variants; it is not an exact preview of every makeup or wrinkle variant.
 
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
-              <image path="fomod/images/elsb/lacra_body/fitness/preview.png" />
+              <image path="fomod/images/faces/550.svg" />
               <conditionFlags>
                 <flag name="lacra_face">compat_chars_550_2443</flag>
               </conditionFlags>
               <typeDescriptor>
-                <type name="Optional" />
+                <dependencyType>
+                  <defaultType name="NotUsable" />
+                  <patterns>
+                    <pattern>
+                      <dependencies operator="Or">
+                        <flagDependency flag="lacra_skin" value="vanilla" />
+                        <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+                      </dependencies>
+                      <type name="Optional" />
+                    </pattern>
+                  </patterns>
+                </dependencyType>
+              </typeDescriptor>
+            </plugin>
+            <plugin name="Lacra Young Makeup - original">
+              <description>WARNING: Activate and deploy the required original in Vortex.
+Nexus mod: Lacra Retexture
+Archive: Lacra Young Makeup 427 1 2026-09-11T23-13Z 4iziYdyEg.zip
+This choice configures this original with ELSB; it does not activate the original.
+https://www.nexusmods.com/thebloodofdawnwalker/mods/427
+Face texture only; compatible with ELSB/Pussy Walker, chest textures, separate head normals and wrinkles. Enable only one Lacra face-colour original.
+
+Face texture only; compatible with ELSB/Pussy Walker, chest textures, separate head normals and wrinkles. Enable only one Lacra face-colour original. Select one original per skin/face category. Separate face overlays take priority over full skin packs.
+
+Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included. The page screenshot is a shared reference for its variants; it is not an exact preview of every makeup or wrinkle variant.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/faces/427.svg" />
+              <conditionFlags>
+                <flag name="lacra_face">compat_chars_427_1588</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <dependencyType>
+                  <defaultType name="NotUsable" />
+                  <patterns>
+                    <pattern>
+                      <dependencies operator="Or">
+                        <flagDependency flag="lacra_skin" value="vanilla" />
+                        <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+                      </dependencies>
+                      <type name="Optional" />
+                    </pattern>
+                  </patterns>
+                </dependencyType>
+              </typeDescriptor>
+            </plugin>
+            <plugin name="Lacra Young Makeup Alternative - original">
+              <description>WARNING: Activate and deploy the required original in Vortex.
+Nexus mod: Lacra Retexture
+Archive: Lacra Young Makeup Alternative 427 1 2026-09-12T01-37Z hAeAVE9Xc.zip
+This choice configures this original with ELSB; it does not activate the original.
+https://www.nexusmods.com/thebloodofdawnwalker/mods/427
+Face texture only; compatible with ELSB/Pussy Walker, chest textures, separate head normals and wrinkles. Enable only one Lacra face-colour original.
+
+Face texture only; compatible with ELSB/Pussy Walker, chest textures, separate head normals and wrinkles. Enable only one Lacra face-colour original. Select one original per skin/face category. Separate face overlays take priority over full skin packs.
+
+Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included. The page screenshot is a shared reference for its variants; it is not an exact preview of every makeup or wrinkle variant.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/faces/427.svg" />
+              <conditionFlags>
+                <flag name="lacra_face">compat_chars_427_1599</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <dependencyType>
+                  <defaultType name="NotUsable" />
+                  <patterns>
+                    <pattern>
+                      <dependencies operator="Or">
+                        <flagDependency flag="lacra_skin" value="vanilla" />
+                        <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+                      </dependencies>
+                      <type name="Optional" />
+                    </pattern>
+                  </patterns>
+                </dependencyType>
               </typeDescriptor>
             </plugin>
           </plugins>
         </group>
-        <group name="Skin surface" type="SelectExactlyOne">
+        <group name="Face surface (normal map)" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
               <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
 
-No additional patch for this category.
+Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.
 
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
-              <image path="fomod/images/elsb/lacra_body/_vanilla.png" />
+              <image path="fomod/images/faces/lacra-vanilla.svg" />
               <conditionFlags>
                 <flag name="lacra_surface">vanilla</flag>
               </conditionFlags>
@@ -2403,17 +2571,28 @@ This choice configures this original with ELSB; it does not activate the origina
 https://www.nexusmods.com/thebloodofdawnwalker/mods/550
 Preserves the chosen ELSB body meshes. Keep this exact original enabled separately.
 
-Preserves the chosen ELSB body meshes. Keep this exact original enabled separately. Select one original per skin/face category. Separate face overlays take priority over full skin packs.
+Head normal-map overlay only. Compatible with separate face colour, wrinkle, chest texture and ELSB/Pussy Walker body choices. Keep the original enabled. Select one original per skin/face category. Separate face overlays take priority over full skin packs.
 
-ELSB Lacra reference only. This picture does not show Lacra Smooth Skin.
+Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included. The page screenshot is a shared reference for its variants; it is not an exact preview of every makeup or wrinkle variant.
 
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
-              <image path="fomod/images/elsb/lacra_body/fitness/preview.png" />
+              <image path="fomod/images/faces/550.svg" />
               <conditionFlags>
                 <flag name="lacra_surface">compat_chars_550_2083</flag>
               </conditionFlags>
               <typeDescriptor>
-                <type name="Optional" />
+                <dependencyType>
+                  <defaultType name="NotUsable" />
+                  <patterns>
+                    <pattern>
+                      <dependencies operator="Or">
+                        <flagDependency flag="lacra_skin" value="vanilla" />
+                        <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+                      </dependencies>
+                      <type name="Optional" />
+                    </pattern>
+                  </patterns>
+                </dependencyType>
               </typeDescriptor>
             </plugin>
           </plugins>
@@ -2423,10 +2602,10 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
             <plugin name="Vanilla (unchanged)">
               <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
 
-No additional patch for this category.
+Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.
 
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
-              <image path="fomod/images/elsb/lacra_body/_vanilla.png" />
+              <image path="fomod/images/faces/lacra-vanilla.svg" />
               <conditionFlags>
                 <flag name="lacra_wrinkles">vanilla</flag>
               </conditionFlags>
@@ -2444,15 +2623,26 @@ Preserves the chosen ELSB body meshes. Keep this exact original enabled separate
 
 Preserves the chosen ELSB body meshes. Keep this exact original enabled separately. Select one original per skin/face category. Separate face overlays take priority over full skin packs.
 
-ELSB Lacra reference only. This picture does not show Lacra LESS Wrinkles.
+Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included. The page screenshot is a shared reference for its variants; it is not an exact preview of every makeup or wrinkle variant.
 
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
-              <image path="fomod/images/elsb/lacra_body/fitness/preview.png" />
+              <image path="fomod/images/faces/550.svg" />
               <conditionFlags>
                 <flag name="lacra_wrinkles">compat_chars_550_2085</flag>
               </conditionFlags>
               <typeDescriptor>
-                <type name="Optional" />
+                <dependencyType>
+                  <defaultType name="NotUsable" />
+                  <patterns>
+                    <pattern>
+                      <dependencies operator="Or">
+                        <flagDependency flag="lacra_skin" value="vanilla" />
+                        <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+                      </dependencies>
+                      <type name="Optional" />
+                    </pattern>
+                  </patterns>
+                </dependencyType>
               </typeDescriptor>
             </plugin>
           </plugins>
@@ -2462,10 +2652,10 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
             <plugin name="Vanilla (unchanged)">
               <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
 
-No additional patch for this category.
+Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.
 
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
-              <image path="fomod/images/elsb/lacra_body/_vanilla.png" />
+              <image path="fomod/images/faces/lacra-vanilla.svg" />
               <conditionFlags>
                 <flag name="lacra_head">vanilla</flag>
               </conditionFlags>
@@ -2483,10 +2673,10 @@ Uses the original replacement head with the ELSB body. Neck alignment and facial
 
 Uses the original replacement head with the ELSB body. Neck alignment and facial animation require an in-game check. Only the head reference is changed; all selected ELSB/Pussy Walker torso, limbs and scene materials remain intact.
 
-ELSB Lacra reference only. This picture does not show Rise Of Lacra Croft - Human Head Replacement.
+Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included.
 
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
-              <image path="fomod/images/elsb/lacra_body/fitness/preview.png" />
+              <image path="fomod/images/faces/533.svg" />
               <conditionFlags>
                 <flag name="lacra_head">compat_chars_533_2024</flag>
               </conditionFlags>
@@ -5947,6 +6137,10 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
       <pattern>
         <dependencies operator="And">
           <flagDependency flag="lacra_face" value="compat_chars_550_2442" />
+          <dependencies operator="Or">
+            <flagDependency flag="lacra_skin" value="vanilla" />
+            <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+          </dependencies>
         </dependencies>
         <files>
           <file source="Payload/Patches/characters/chars_550_2442/00ELSB_chars_550_2442_P.pak" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_550_2442_P.pak" priority="0" />
@@ -6007,6 +6201,10 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
       <pattern>
         <dependencies operator="And">
           <flagDependency flag="lacra_face" value="compat_chars_550_2444" />
+          <dependencies operator="Or">
+            <flagDependency flag="lacra_skin" value="vanilla" />
+            <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+          </dependencies>
         </dependencies>
         <files>
           <file source="Payload/Patches/characters/chars_550_2444/00ELSB_chars_550_2444_P.pak" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_550_2444_P.pak" priority="0" />
@@ -6017,6 +6215,10 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
       <pattern>
         <dependencies operator="And">
           <flagDependency flag="lacra_face" value="compat_chars_550_2443" />
+          <dependencies operator="Or">
+            <flagDependency flag="lacra_skin" value="vanilla" />
+            <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+          </dependencies>
         </dependencies>
         <files>
           <file source="Payload/Patches/characters/chars_550_2443/00ELSB_chars_550_2443_P.pak" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_550_2443_P.pak" priority="0" />
@@ -6027,6 +6229,10 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
       <pattern>
         <dependencies operator="And">
           <flagDependency flag="lacra_wrinkles" value="compat_chars_550_2085" />
+          <dependencies operator="Or">
+            <flagDependency flag="lacra_skin" value="vanilla" />
+            <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+          </dependencies>
         </dependencies>
         <files>
           <file source="Payload/Patches/characters/chars_550_2085/00ELSB_chars_550_2085_P.pak" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_550_2085_P.pak" priority="0" />
@@ -6037,6 +6243,10 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
       <pattern>
         <dependencies operator="And">
           <flagDependency flag="lacra_surface" value="compat_chars_550_2083" />
+          <dependencies operator="Or">
+            <flagDependency flag="lacra_skin" value="vanilla" />
+            <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+          </dependencies>
         </dependencies>
         <files>
           <file source="Payload/Patches/characters/chars_550_2083/00ELSB_chars_550_2083_P.pak" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_550_2083_P.pak" priority="0" />
@@ -6046,7 +6256,7 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
       </pattern>
       <pattern>
         <dependencies operator="And">
-          <flagDependency flag="anca_skin" value="compat_chars_404_2069" />
+          <flagDependency flag="anca_face" value="compat_chars_404_2069" />
         </dependencies>
         <files>
           <file source="Payload/Patches/characters/chars_404_2069/0ELSB_chars_404_2069_P.pak" destination="Dawnwalker/Content/Paks/~mods/0ELSB_chars_404_2069_P.pak" priority="0" />
@@ -6056,7 +6266,7 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
       </pattern>
       <pattern>
         <dependencies operator="And">
-          <flagDependency flag="anca_skin" value="compat_chars_404_2068" />
+          <flagDependency flag="anca_face" value="compat_chars_404_2068" />
         </dependencies>
         <files>
           <file source="Payload/Patches/characters/chars_404_2068/0ELSB_chars_404_2068_P.pak" destination="Dawnwalker/Content/Paks/~mods/0ELSB_chars_404_2068_P.pak" priority="0" />
@@ -6066,7 +6276,7 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
       </pattern>
       <pattern>
         <dependencies operator="And">
-          <flagDependency flag="anca_skin" value="compat_chars_404_2067" />
+          <flagDependency flag="anca_face" value="compat_chars_404_2067" />
         </dependencies>
         <files>
           <file source="Payload/Patches/characters/chars_404_2067/0ELSB_chars_404_2067_P.pak" destination="Dawnwalker/Content/Paks/~mods/0ELSB_chars_404_2067_P.pak" priority="0" />
@@ -6076,7 +6286,7 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
       </pattern>
       <pattern>
         <dependencies operator="And">
-          <flagDependency flag="anca_skin" value="compat_chars_512_1957" />
+          <flagDependency flag="anca_face" value="compat_chars_512_1957" />
         </dependencies>
         <files>
           <file source="Payload/Patches/characters/chars_512_1957/0ELSB_chars_512_1957_P.pak" destination="Dawnwalker/Content/Paks/~mods/0ELSB_chars_512_1957_P.pak" priority="0" />
@@ -6095,9 +6305,9 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
           </dependencies>
         </dependencies>
         <files>
-          <file source="Payload/Patches/characters/chars_445_2457/0ELSB_chars_445_2457_P.pak" destination="Dawnwalker/Content/Paks/~mods/0ELSB_chars_445_2457_P.pak" priority="0" />
-          <file source="Payload/Patches/characters/chars_445_2457/0ELSB_chars_445_2457_P.ucas" destination="Dawnwalker/Content/Paks/~mods/0ELSB_chars_445_2457_P.ucas" priority="0" />
-          <file source="Payload/Patches/characters/chars_445_2457/0ELSB_chars_445_2457_P.utoc" destination="Dawnwalker/Content/Paks/~mods/0ELSB_chars_445_2457_P.utoc" priority="0" />
+          <file source="Payload/Patches/characters/chars_445_2457_skin/00ELSB_chars_445_2457_skin_P.pak" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_445_2457_skin_P.pak" priority="0" />
+          <file source="Payload/Patches/characters/chars_445_2457_skin/00ELSB_chars_445_2457_skin_P.ucas" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_445_2457_skin_P.ucas" priority="0" />
+          <file source="Payload/Patches/characters/chars_445_2457_skin/00ELSB_chars_445_2457_skin_P.utoc" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_445_2457_skin_P.utoc" priority="0" />
         </files>
       </pattern>
       <pattern>
@@ -6111,9 +6321,9 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
           </dependencies>
         </dependencies>
         <files>
-          <file source="Payload/Patches/characters/chars_445_2454/0ELSB_chars_445_2454_P.pak" destination="Dawnwalker/Content/Paks/~mods/0ELSB_chars_445_2454_P.pak" priority="0" />
-          <file source="Payload/Patches/characters/chars_445_2454/0ELSB_chars_445_2454_P.ucas" destination="Dawnwalker/Content/Paks/~mods/0ELSB_chars_445_2454_P.ucas" priority="0" />
-          <file source="Payload/Patches/characters/chars_445_2454/0ELSB_chars_445_2454_P.utoc" destination="Dawnwalker/Content/Paks/~mods/0ELSB_chars_445_2454_P.utoc" priority="0" />
+          <file source="Payload/Patches/characters/chars_445_2454_skin/00ELSB_chars_445_2454_skin_P.pak" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_445_2454_skin_P.pak" priority="0" />
+          <file source="Payload/Patches/characters/chars_445_2454_skin/00ELSB_chars_445_2454_skin_P.ucas" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_445_2454_skin_P.ucas" priority="0" />
+          <file source="Payload/Patches/characters/chars_445_2454_skin/00ELSB_chars_445_2454_skin_P.utoc" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_445_2454_skin_P.utoc" priority="0" />
         </files>
       </pattern>
       <pattern>
@@ -6127,9 +6337,9 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
           </dependencies>
         </dependencies>
         <files>
-          <file source="Payload/Patches/characters/chars_445_2453/0ELSB_chars_445_2453_P.pak" destination="Dawnwalker/Content/Paks/~mods/0ELSB_chars_445_2453_P.pak" priority="0" />
-          <file source="Payload/Patches/characters/chars_445_2453/0ELSB_chars_445_2453_P.ucas" destination="Dawnwalker/Content/Paks/~mods/0ELSB_chars_445_2453_P.ucas" priority="0" />
-          <file source="Payload/Patches/characters/chars_445_2453/0ELSB_chars_445_2453_P.utoc" destination="Dawnwalker/Content/Paks/~mods/0ELSB_chars_445_2453_P.utoc" priority="0" />
+          <file source="Payload/Patches/characters/chars_445_2453_skin/00ELSB_chars_445_2453_skin_P.pak" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_445_2453_skin_P.pak" priority="0" />
+          <file source="Payload/Patches/characters/chars_445_2453_skin/00ELSB_chars_445_2453_skin_P.ucas" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_445_2453_skin_P.ucas" priority="0" />
+          <file source="Payload/Patches/characters/chars_445_2453_skin/00ELSB_chars_445_2453_skin_P.utoc" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_445_2453_skin_P.utoc" priority="0" />
         </files>
       </pattern>
       <pattern>
@@ -6143,9 +6353,37 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
           </dependencies>
         </dependencies>
         <files>
-          <file source="Payload/Patches/characters/chars_445_2448/0ELSB_chars_445_2448_P.pak" destination="Dawnwalker/Content/Paks/~mods/0ELSB_chars_445_2448_P.pak" priority="0" />
-          <file source="Payload/Patches/characters/chars_445_2448/0ELSB_chars_445_2448_P.ucas" destination="Dawnwalker/Content/Paks/~mods/0ELSB_chars_445_2448_P.ucas" priority="0" />
-          <file source="Payload/Patches/characters/chars_445_2448/0ELSB_chars_445_2448_P.utoc" destination="Dawnwalker/Content/Paks/~mods/0ELSB_chars_445_2448_P.utoc" priority="0" />
+          <file source="Payload/Patches/characters/chars_445_2448_skin/00ELSB_chars_445_2448_skin_P.pak" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_445_2448_skin_P.pak" priority="0" />
+          <file source="Payload/Patches/characters/chars_445_2448_skin/00ELSB_chars_445_2448_skin_P.ucas" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_445_2448_skin_P.ucas" priority="0" />
+          <file source="Payload/Patches/characters/chars_445_2448_skin/00ELSB_chars_445_2448_skin_P.utoc" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_445_2448_skin_P.utoc" priority="0" />
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <flagDependency flag="lacra_face" value="compat_chars_427_1588" />
+          <dependencies operator="Or">
+            <flagDependency flag="lacra_skin" value="vanilla" />
+            <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+          </dependencies>
+        </dependencies>
+        <files>
+          <file source="Payload/Patches/characters/chars_427_1588/00ELSB_chars_427_1588_P.pak" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_427_1588_P.pak" priority="0" />
+          <file source="Payload/Patches/characters/chars_427_1588/00ELSB_chars_427_1588_P.ucas" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_427_1588_P.ucas" priority="0" />
+          <file source="Payload/Patches/characters/chars_427_1588/00ELSB_chars_427_1588_P.utoc" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_427_1588_P.utoc" priority="0" />
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <flagDependency flag="lacra_face" value="compat_chars_427_1599" />
+          <dependencies operator="Or">
+            <flagDependency flag="lacra_skin" value="vanilla" />
+            <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+          </dependencies>
+        </dependencies>
+        <files>
+          <file source="Payload/Patches/characters/chars_427_1599/00ELSB_chars_427_1599_P.pak" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_427_1599_P.pak" priority="0" />
+          <file source="Payload/Patches/characters/chars_427_1599/00ELSB_chars_427_1599_P.ucas" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_427_1599_P.ucas" priority="0" />
+          <file source="Payload/Patches/characters/chars_427_1599/00ELSB_chars_427_1599_P.utoc" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_427_1599_P.utoc" priority="0" />
         </files>
       </pattern>
       <pattern>
@@ -6291,6 +6529,107 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
           <file source="Payload/Patches/characters/chars_533_2024/5/00ELSB_Head_ELSB_LacraBody0PW_P.pak" destination="Dawnwalker/Content/Paks/~mods/00ELSB_Head_ELSB_LacraBody0PW_P.pak" priority="0" />
           <file source="Payload/Patches/characters/chars_533_2024/5/00ELSB_Head_ELSB_LacraBody0PW_P.ucas" destination="Dawnwalker/Content/Paks/~mods/00ELSB_Head_ELSB_LacraBody0PW_P.ucas" priority="0" />
           <file source="Payload/Patches/characters/chars_533_2024/5/00ELSB_Head_ELSB_LacraBody0PW_P.utoc" destination="Dawnwalker/Content/Paks/~mods/00ELSB_Head_ELSB_LacraBody0PW_P.utoc" priority="0" />
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <flagDependency flag="anca_head" value="compat_chars_534_2025" />
+          <dependencies operator="Or">
+            <flagDependency flag="anca_body" value="booty" />
+            <flagDependency flag="anca_body" value="pussywalker" />
+          </dependencies>
+        </dependencies>
+        <files>
+          <file source="Payload/Patches/characters/chars_534_2025/0/00ELSB_Head_ELSB_AncaBodyBDP_P.pak" destination="Dawnwalker/Content/Paks/~mods/00ELSB_Head_ELSB_AncaBodyBDP_P.pak" priority="0" />
+          <file source="Payload/Patches/characters/chars_534_2025/0/00ELSB_Head_ELSB_AncaBodyBDP_P.ucas" destination="Dawnwalker/Content/Paks/~mods/00ELSB_Head_ELSB_AncaBodyBDP_P.ucas" priority="0" />
+          <file source="Payload/Patches/characters/chars_534_2025/0/00ELSB_Head_ELSB_AncaBodyBDP_P.utoc" destination="Dawnwalker/Content/Paks/~mods/00ELSB_Head_ELSB_AncaBodyBDP_P.utoc" priority="0" />
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <flagDependency flag="anca_head" value="compat_chars_534_2025" />
+          <flagDependency flag="anca_outfit" value="nude" />
+        </dependencies>
+        <files>
+          <file source="Payload/Patches/characters/chars_534_2025/1/00ELSB_Head_ELSB_AncaOutfit_P.pak" destination="Dawnwalker/Content/Paks/~mods/00ELSB_Head_ELSB_AncaOutfit_P.pak" priority="0" />
+          <file source="Payload/Patches/characters/chars_534_2025/1/00ELSB_Head_ELSB_AncaOutfit_P.ucas" destination="Dawnwalker/Content/Paks/~mods/00ELSB_Head_ELSB_AncaOutfit_P.ucas" priority="0" />
+          <file source="Payload/Patches/characters/chars_534_2025/1/00ELSB_Head_ELSB_AncaOutfit_P.utoc" destination="Dawnwalker/Content/Paks/~mods/00ELSB_Head_ELSB_AncaOutfit_P.utoc" priority="0" />
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <flagDependency flag="anca_head" value="compat_chars_534_2025" />
+          <dependencies operator="And">
+            <dependencies operator="Or">
+              <flagDependency flag="anca_body" value="booty" />
+              <flagDependency flag="anca_body" value="pussywalker" />
+            </dependencies>
+            <dependencies operator="Or">
+              <flagDependency flag="anca_scope" value="all" />
+              <flagDependency flag="anca_outfit" value="nude" />
+              <flagDependency flag="anca_outfit" value="compat_loose_anca" />
+              <flagDependency flag="anca_outfit" value="compat_revealing_anca_531" />
+              <flagDependency flag="anca_outfit" value="compat_revealing_anca_592" />
+              <flagDependency flag="anca_outfit" value="compat_thicc_anca_279" />
+            </dependencies>
+          </dependencies>
+        </dependencies>
+        <files>
+          <file source="Payload/Patches/characters/chars_534_2025/2/00ELSB_Head_ELSB_AncaScope_P.pak" destination="Dawnwalker/Content/Paks/~mods/00ELSB_Head_ELSB_AncaScope_P.pak" priority="0" />
+          <file source="Payload/Patches/characters/chars_534_2025/2/00ELSB_Head_ELSB_AncaScope_P.ucas" destination="Dawnwalker/Content/Paks/~mods/00ELSB_Head_ELSB_AncaScope_P.ucas" priority="0" />
+          <file source="Payload/Patches/characters/chars_534_2025/2/00ELSB_Head_ELSB_AncaScope_P.utoc" destination="Dawnwalker/Content/Paks/~mods/00ELSB_Head_ELSB_AncaScope_P.utoc" priority="0" />
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <flagDependency flag="anca_head" value="compat_chars_534_2025" />
+          <dependencies operator="And">
+            <flagDependency flag="anca_body" value="pussywalker" />
+            <flagDependency flag="anca_outfit" value="nude" />
+          </dependencies>
+        </dependencies>
+        <files>
+          <file source="Payload/Patches/characters/chars_534_2025/3/00ELSB_Head_ELSB_AncaOutfit0PW_P.pak" destination="Dawnwalker/Content/Paks/~mods/00ELSB_Head_ELSB_AncaOutfit0PW_P.pak" priority="0" />
+          <file source="Payload/Patches/characters/chars_534_2025/3/00ELSB_Head_ELSB_AncaOutfit0PW_P.ucas" destination="Dawnwalker/Content/Paks/~mods/00ELSB_Head_ELSB_AncaOutfit0PW_P.ucas" priority="0" />
+          <file source="Payload/Patches/characters/chars_534_2025/3/00ELSB_Head_ELSB_AncaOutfit0PW_P.utoc" destination="Dawnwalker/Content/Paks/~mods/00ELSB_Head_ELSB_AncaOutfit0PW_P.utoc" priority="0" />
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <flagDependency flag="anca_head" value="compat_chars_534_2025" />
+          <dependencies operator="And">
+            <flagDependency flag="anca_body" value="pussywalker" />
+            <dependencies operator="And">
+              <dependencies operator="Or">
+                <flagDependency flag="anca_body" value="booty" />
+                <flagDependency flag="anca_body" value="pussywalker" />
+              </dependencies>
+              <dependencies operator="Or">
+                <flagDependency flag="anca_scope" value="all" />
+                <flagDependency flag="anca_outfit" value="nude" />
+                <flagDependency flag="anca_outfit" value="compat_loose_anca" />
+                <flagDependency flag="anca_outfit" value="compat_revealing_anca_531" />
+                <flagDependency flag="anca_outfit" value="compat_revealing_anca_592" />
+                <flagDependency flag="anca_outfit" value="compat_thicc_anca_279" />
+              </dependencies>
+            </dependencies>
+          </dependencies>
+        </dependencies>
+        <files>
+          <file source="Payload/Patches/characters/chars_534_2025/4/00ELSB_Head_ELSB_AncaScope0PW_P.pak" destination="Dawnwalker/Content/Paks/~mods/00ELSB_Head_ELSB_AncaScope0PW_P.pak" priority="0" />
+          <file source="Payload/Patches/characters/chars_534_2025/4/00ELSB_Head_ELSB_AncaScope0PW_P.ucas" destination="Dawnwalker/Content/Paks/~mods/00ELSB_Head_ELSB_AncaScope0PW_P.ucas" priority="0" />
+          <file source="Payload/Patches/characters/chars_534_2025/4/00ELSB_Head_ELSB_AncaScope0PW_P.utoc" destination="Dawnwalker/Content/Paks/~mods/00ELSB_Head_ELSB_AncaScope0PW_P.utoc" priority="0" />
+        </files>
+      </pattern>
+      <pattern>
+        <dependencies operator="And">
+          <flagDependency flag="anca_head" value="compat_chars_534_2025" />
+          <flagDependency flag="anca_body" value="pussywalker" />
+        </dependencies>
+        <files>
+          <file source="Payload/Patches/characters/chars_534_2025/5/00ELSB_Head_ELSB_AncaBody0PW_P.pak" destination="Dawnwalker/Content/Paks/~mods/00ELSB_Head_ELSB_AncaBody0PW_P.pak" priority="0" />
+          <file source="Payload/Patches/characters/chars_534_2025/5/00ELSB_Head_ELSB_AncaBody0PW_P.ucas" destination="Dawnwalker/Content/Paks/~mods/00ELSB_Head_ELSB_AncaBody0PW_P.ucas" priority="0" />
+          <file source="Payload/Patches/characters/chars_534_2025/5/00ELSB_Head_ELSB_AncaBody0PW_P.utoc" destination="Dawnwalker/Content/Paks/~mods/00ELSB_Head_ELSB_AncaBody0PW_P.utoc" priority="0" />
         </files>
       </pattern>
       <pattern>
@@ -8395,20 +8734,50 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
           </dependencies>
           <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
           <flagDependency flag="skin" value="compat_chars_523_2081" />
-          <flagDependency flag="lacra_face" value="compat_chars_550_2442" />
+          <dependencies operator="And">
+            <flagDependency flag="lacra_face" value="compat_chars_550_2442" />
+            <dependencies operator="Or">
+              <flagDependency flag="lacra_skin" value="vanilla" />
+              <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+            </dependencies>
+          </dependencies>
           <flagDependency flag="coen_face" value="compat_chars_703_2986" />
           <flagDependency flag="skin" value="compat_chars_618_2504" />
           <flagDependency flag="skin" value="compat_chars_618_2495" />
           <flagDependency flag="anca_hair" value="compat_chars_626_2488" />
           <flagDependency flag="skin" value="compat_chars_621_2827" />
-          <flagDependency flag="lacra_face" value="compat_chars_550_2444" />
-          <flagDependency flag="lacra_face" value="compat_chars_550_2443" />
-          <flagDependency flag="lacra_wrinkles" value="compat_chars_550_2085" />
-          <flagDependency flag="lacra_surface" value="compat_chars_550_2083" />
-          <flagDependency flag="anca_skin" value="compat_chars_404_2069" />
-          <flagDependency flag="anca_skin" value="compat_chars_404_2068" />
-          <flagDependency flag="anca_skin" value="compat_chars_404_2067" />
-          <flagDependency flag="anca_skin" value="compat_chars_512_1957" />
+          <dependencies operator="And">
+            <flagDependency flag="lacra_face" value="compat_chars_550_2444" />
+            <dependencies operator="Or">
+              <flagDependency flag="lacra_skin" value="vanilla" />
+              <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+            </dependencies>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="lacra_face" value="compat_chars_550_2443" />
+            <dependencies operator="Or">
+              <flagDependency flag="lacra_skin" value="vanilla" />
+              <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+            </dependencies>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="lacra_wrinkles" value="compat_chars_550_2085" />
+            <dependencies operator="Or">
+              <flagDependency flag="lacra_skin" value="vanilla" />
+              <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+            </dependencies>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="lacra_surface" value="compat_chars_550_2083" />
+            <dependencies operator="Or">
+              <flagDependency flag="lacra_skin" value="vanilla" />
+              <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+            </dependencies>
+          </dependencies>
+          <flagDependency flag="anca_face" value="compat_chars_404_2069" />
+          <flagDependency flag="anca_face" value="compat_chars_404_2068" />
+          <flagDependency flag="anca_face" value="compat_chars_404_2067" />
+          <flagDependency flag="anca_face" value="compat_chars_512_1957" />
           <dependencies operator="And">
             <flagDependency flag="lacra_skin" value="compat_chars_445_2457" />
             <dependencies operator="Or">
@@ -8443,6 +8812,20 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
               <flagDependency flag="lacra_body" value="fitness" />
               <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
               <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
+            </dependencies>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="lacra_face" value="compat_chars_427_1588" />
+            <dependencies operator="Or">
+              <flagDependency flag="lacra_skin" value="vanilla" />
+              <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+            </dependencies>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="lacra_face" value="compat_chars_427_1599" />
+            <dependencies operator="Or">
+              <flagDependency flag="lacra_skin" value="vanilla" />
+              <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
             </dependencies>
           </dependencies>
           <dependencies operator="And">
@@ -8533,6 +8916,65 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
           <dependencies operator="And">
             <flagDependency flag="lacra_head" value="compat_chars_533_2024" />
             <flagDependency flag="lacra_body" value="pussywalker" />
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="anca_head" value="compat_chars_534_2025" />
+            <dependencies operator="Or">
+              <flagDependency flag="anca_body" value="booty" />
+              <flagDependency flag="anca_body" value="pussywalker" />
+            </dependencies>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="anca_head" value="compat_chars_534_2025" />
+            <flagDependency flag="anca_outfit" value="nude" />
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="anca_head" value="compat_chars_534_2025" />
+            <dependencies operator="And">
+              <dependencies operator="Or">
+                <flagDependency flag="anca_body" value="booty" />
+                <flagDependency flag="anca_body" value="pussywalker" />
+              </dependencies>
+              <dependencies operator="Or">
+                <flagDependency flag="anca_scope" value="all" />
+                <flagDependency flag="anca_outfit" value="nude" />
+                <flagDependency flag="anca_outfit" value="compat_loose_anca" />
+                <flagDependency flag="anca_outfit" value="compat_revealing_anca_531" />
+                <flagDependency flag="anca_outfit" value="compat_revealing_anca_592" />
+                <flagDependency flag="anca_outfit" value="compat_thicc_anca_279" />
+              </dependencies>
+            </dependencies>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="anca_head" value="compat_chars_534_2025" />
+            <dependencies operator="And">
+              <flagDependency flag="anca_body" value="pussywalker" />
+              <flagDependency flag="anca_outfit" value="nude" />
+            </dependencies>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="anca_head" value="compat_chars_534_2025" />
+            <dependencies operator="And">
+              <flagDependency flag="anca_body" value="pussywalker" />
+              <dependencies operator="And">
+                <dependencies operator="Or">
+                  <flagDependency flag="anca_body" value="booty" />
+                  <flagDependency flag="anca_body" value="pussywalker" />
+                </dependencies>
+                <dependencies operator="Or">
+                  <flagDependency flag="anca_scope" value="all" />
+                  <flagDependency flag="anca_outfit" value="nude" />
+                  <flagDependency flag="anca_outfit" value="compat_loose_anca" />
+                  <flagDependency flag="anca_outfit" value="compat_revealing_anca_531" />
+                  <flagDependency flag="anca_outfit" value="compat_revealing_anca_592" />
+                  <flagDependency flag="anca_outfit" value="compat_thicc_anca_279" />
+                </dependencies>
+              </dependencies>
+            </dependencies>
+          </dependencies>
+          <dependencies operator="And">
+            <flagDependency flag="anca_head" value="compat_chars_534_2025" />
+            <flagDependency flag="anca_body" value="pussywalker" />
           </dependencies>
           <dependencies operator="And">
             <flagDependency flag="lacra_hair" value="compat_lacra_hair" />

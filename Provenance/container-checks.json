@@ -1680,8 +1680,26 @@
     "verify_exit_code": 0
   },
   {
+    "path": "Payload/Patches/characters/chars_427_1588/00ELSB_chars_427_1588_P.utoc",
+    "sha256": "7ef5a784a6891411da6f0ddd1c2164b45f0bf8f4c99b8b19ea2b95de55455e55",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_427_1599/00ELSB_chars_427_1599_P.utoc",
+    "sha256": "07d33ff58f2baf8811e3a2d63324d95f000c8534a84c89982d37a0c32a8a6dfe",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
     "path": "Payload/Patches/characters/chars_445_2448/0ELSB_chars_445_2448_P.utoc",
     "sha256": "2b7bdd66d384b80a8f705ff852c4084965cdac718465c4f3cfe8880c6027b9e4",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_445_2448_skin/00ELSB_chars_445_2448_skin_P.utoc",
+    "sha256": "ff99e1d3260ada4ca4d5dd884285f6e0ca416b4c9380c9e934ac65a0d2d025dc",
     "new_or_reused_personal": true,
     "verify_exit_code": 0
   },
@@ -1692,14 +1710,32 @@
     "verify_exit_code": 0
   },
   {
+    "path": "Payload/Patches/characters/chars_445_2453_skin/00ELSB_chars_445_2453_skin_P.utoc",
+    "sha256": "5245e373530e354c4207e9daad6eb8dad483a39b8dca9770ee96b49e56f1de54",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
     "path": "Payload/Patches/characters/chars_445_2454/0ELSB_chars_445_2454_P.utoc",
     "sha256": "23299dc5dcaebf25d1b1b0a66340ebdb1e0812b148241b720fa8cbdd63efa42f",
     "new_or_reused_personal": true,
     "verify_exit_code": 0
   },
   {
+    "path": "Payload/Patches/characters/chars_445_2454_skin/00ELSB_chars_445_2454_skin_P.utoc",
+    "sha256": "96ccedfd62a9b8cd8ac11d9ceb8c4f585d5db126b055956e08c8f170d93e5f79",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
     "path": "Payload/Patches/characters/chars_445_2457/0ELSB_chars_445_2457_P.utoc",
     "sha256": "d028cb69f4fbebf91ee266ab2ebafe6342ec0ffea234283554df12b1452b7876",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_445_2457_skin/00ELSB_chars_445_2457_skin_P.utoc",
+    "sha256": "c5cdf9e4cc0662988a25c26d27c197429cf315c7ccfec29514369c0efe922b6f",
     "new_or_reused_personal": true,
     "verify_exit_code": 0
   },
@@ -1820,6 +1856,42 @@
   {
     "path": "Payload/Patches/characters/chars_533_2024/5/00ELSB_Head_ELSB_LacraBody0PW_P.utoc",
     "sha256": "664f92b65ed5ca054e626327b18d4f16ff5188975ceedf7d84a78bc4dd9ed8e5",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_534_2025/0/00ELSB_Head_ELSB_AncaBodyBDP_P.utoc",
+    "sha256": "51693553a7b25c7b3a4e4525580cc7d2b79e4b13ea50f11457f95e92055734aa",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_534_2025/1/00ELSB_Head_ELSB_AncaOutfit_P.utoc",
+    "sha256": "1718b9faa53de2debbce9ec208d6c257b49f5b929038e8b18e1ecf2a2e0c0ec7",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_534_2025/2/00ELSB_Head_ELSB_AncaScope_P.utoc",
+    "sha256": "3afe9640ee1bc138714fa494c50ff7ac8f804deb823b905afc6613c9d7de932d",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_534_2025/3/00ELSB_Head_ELSB_AncaOutfit0PW_P.utoc",
+    "sha256": "6a1d28f39fb11122a9fe46dfe4076bad9ad08e60884c45914d5a445716d96277",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_534_2025/4/00ELSB_Head_ELSB_AncaScope0PW_P.utoc",
+    "sha256": "9cc449e2ebfe447c8e1169871c58cf8048eb510c15e5824a2a0c05b92550785f",
+    "new_or_reused_personal": true,
+    "verify_exit_code": 0
+  },
+  {
+    "path": "Payload/Patches/characters/chars_534_2025/5/00ELSB_Head_ELSB_AncaBody0PW_P.utoc",
+    "sha256": "471b79bed0e13eedd33bdc1b8daa6ebca3baebe21715bd084ceb97148d253bbd",
     "new_or_reused_personal": true,
     "verify_exit_code": 0
   },

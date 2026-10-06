@@ -41,3 +41,8 @@ Original character assets remain the work of their credited Nexus authors.
 KickingWriter, LFAGM, MistrianMilker, PinkyDude, Rigas53, ScrumpChewie, christeeenith, dakyoz, drownjrdrown, gleb63, supergreatluffy.
 The compatibility changes merge selected appearance/table properties or
 retain original texture/cloth content. Original mods are required separately.
+
+Face preview screenshots: original Nexus authors LFAGM and Christeenith;
+ELSB head/body references: Akazonae36; Pussy Walker screenshot: supergreatluffy.
+Framing and side-by-side layouts retain the embedded source image bytes.
+Sources, credits and image hashes are in Provenance/installer-previews.json.

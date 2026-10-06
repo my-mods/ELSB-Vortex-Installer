@@ -2174,26 +2174,46 @@
   {
     "group": "anca_body",
     "option": "pussywalker",
-    "image": "fomod/images/elsb/anca_body/booty/preview.png",
-    "source": "ELSB 1.1.1/modules/anca_body/booty/preview.png",
+    "image": "fomod/images/faces/anca-pussywalker.svg",
+    "source": "Unretouched ELSB and Nexus 370 images in an SVG layout",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
-    "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "Preview: original ELSB Anca body reference. The personal Pussy Walker geometry is not pictured.",
-    "sha256": "9a59ca3154ba030b9cb118d07d866723b9662e295035378251bc62c818422cdc",
-    "width": 480,
-    "height": 552
+    "credit": "Akazonae36 / supergreatluffy",
+    "caption": "Side by side: original ELSB body reference and the original Pussy Walker mod screenshot. These show the two source mods, not an in-game capture of the adapted combination.",
+    "sha256": "884cb77d04c0b90e4d55a152be374e72dfb199109983e507b2666de560ecbaa9",
+    "width": 1440,
+    "height": 850,
+    "sources": [
+      {
+        "url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
+        "sha256": "9a59ca3154ba030b9cb118d07d866723b9662e295035378251bc62c818422cdc"
+      },
+      {
+        "url": "https://staticdelivery.nexusmods.com/mods/9719/images/370/370-1788977950-140129196.jpg",
+        "sha256": "9d8ea3ffb71085818979d0e1065883ceb8818af2e642a229d79e17c1df38af0e"
+      }
+    ]
   },
   {
     "group": "lacra_body",
     "option": "pussywalker",
-    "image": "fomod/images/elsb/lacra_body/fitness/preview.png",
-    "source": "ELSB 1.1.1/modules/lacra_body/fitness/preview.png",
+    "image": "fomod/images/faces/lacra-pussywalker.svg",
+    "source": "Unretouched ELSB and Nexus 370 images in an SVG layout",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
-    "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "Preview: original ELSB Lacra body reference. The personal Pussy Walker geometry is not pictured.",
-    "sha256": "240452ea84314cfd11ec212eb62cc2654e883df1d9fe8903b7a87043801b7c7b",
-    "width": 480,
-    "height": 552
+    "credit": "Akazonae36 / supergreatluffy",
+    "caption": "Side by side: original ELSB body reference and the original Pussy Walker mod screenshot. These show the two source mods, not an in-game capture of the adapted combination.",
+    "sha256": "a0e980ebf99b548ae43e86f1fc09f9d8149ec32b294a5f1a2cd3f5628ebfbcb2",
+    "width": 1440,
+    "height": 850,
+    "sources": [
+      {
+        "url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
+        "sha256": "240452ea84314cfd11ec212eb62cc2654e883df1d9fe8903b7a87043801b7c7b"
+      },
+      {
+        "url": "https://staticdelivery.nexusmods.com/mods/9719/images/370/370-1788977950-140129196.jpg",
+        "sha256": "9d8ea3ffb71085818979d0e1065883ceb8818af2e642a229d79e17c1df38af0e"
+      }
+    ]
   },
   {
     "group": "lacra_hair",
@@ -2234,26 +2254,40 @@
   {
     "group": "lacra_face",
     "option": "compat_chars_550_2442",
-    "image": "fomod/images/elsb/lacra_body/fitness/preview.png",
-    "source": "ELSB 1.1.1/modules/lacra_body/fitness/preview.png",
-    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
-    "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "ELSB Lacra reference only. This picture does not show Makeup v2 (no Eye of Horus).",
-    "sha256": "240452ea84314cfd11ec212eb62cc2654e883df1d9fe8903b7a87043801b7c7b",
-    "width": 480,
-    "height": 552
+    "image": "fomod/images/faces/550.svg",
+    "source": "https://staticdelivery.nexusmods.com/mods/9719/images/550/550-1789594131-750249889.png",
+    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/550",
+    "credit": "gleb63",
+    "caption": "Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included. The page screenshot is a shared reference for its variants; it is not an exact preview of every makeup or wrinkle variant.",
+    "sha256": "01b1c382aa4468cc6b8115db3c75ba6adf6ae577cb043034c58a5a9adbf737de",
+    "width": 310,
+    "height": 400,
+    "embedded_source_sha256": "0a48559225695dc7ef5b798289c460575d66c230c3b32b79742691bb684606a9",
+    "viewport": [
+      830,
+      50,
+      310,
+      400
+    ]
   },
   {
     "group": "coen_face",
     "option": "compat_chars_703_2986",
-    "image": "fomod/images/elsb/body/masculine/preview.png",
-    "source": "ELSB 1.1.1/modules/body/masculine/preview.png",
-    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
-    "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "ELSB Coen reference only. This picture does not show Youthful Coen.",
-    "sha256": "e3bb6248d59cc2c9271fedf7737be0aea57d9fbd5bbcc9735827dddc10abcb88",
-    "width": 480,
-    "height": 552
+    "image": "fomod/images/faces/703.svg",
+    "source": "https://staticdelivery.nexusmods.com/mods/9719/images/703/703-1790881537-1046260217.png",
+    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/703",
+    "credit": "christeeenith",
+    "caption": "Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included.",
+    "sha256": "a9beafb48596c22beee08ae306b873593b2ca7446ae933200781d22e39868284",
+    "width": 740,
+    "height": 880,
+    "embedded_source_sha256": "f5a44d68393a06b3b23421c692a9d76e3394d857bee138616a38895cc8fc2646",
+    "viewport": [
+      20,
+      25,
+      740,
+      880
+    ]
   },
   {
     "group": "skin",
@@ -2330,110 +2364,173 @@
   {
     "group": "lacra_face",
     "option": "compat_chars_550_2444",
-    "image": "fomod/images/elsb/lacra_body/fitness/preview.png",
-    "source": "ELSB 1.1.1/modules/lacra_body/fitness/preview.png",
-    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
-    "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "ELSB Lacra reference only. This picture does not show Lacra Natural Makeup.",
-    "sha256": "240452ea84314cfd11ec212eb62cc2654e883df1d9fe8903b7a87043801b7c7b",
-    "width": 480,
-    "height": 552
+    "image": "fomod/images/faces/550.svg",
+    "source": "https://staticdelivery.nexusmods.com/mods/9719/images/550/550-1789594131-750249889.png",
+    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/550",
+    "credit": "gleb63",
+    "caption": "Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included. The page screenshot is a shared reference for its variants; it is not an exact preview of every makeup or wrinkle variant.",
+    "sha256": "01b1c382aa4468cc6b8115db3c75ba6adf6ae577cb043034c58a5a9adbf737de",
+    "width": 310,
+    "height": 400,
+    "embedded_source_sha256": "0a48559225695dc7ef5b798289c460575d66c230c3b32b79742691bb684606a9",
+    "viewport": [
+      830,
+      50,
+      310,
+      400
+    ]
   },
   {
     "group": "lacra_face",
     "option": "compat_chars_550_2443",
-    "image": "fomod/images/elsb/lacra_body/fitness/preview.png",
-    "source": "ELSB 1.1.1/modules/lacra_body/fitness/preview.png",
-    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
-    "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "ELSB Lacra reference only. This picture does not show Lacra Makeup.",
-    "sha256": "240452ea84314cfd11ec212eb62cc2654e883df1d9fe8903b7a87043801b7c7b",
-    "width": 480,
-    "height": 552
+    "image": "fomod/images/faces/550.svg",
+    "source": "https://staticdelivery.nexusmods.com/mods/9719/images/550/550-1789594131-750249889.png",
+    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/550",
+    "credit": "gleb63",
+    "caption": "Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included. The page screenshot is a shared reference for its variants; it is not an exact preview of every makeup or wrinkle variant.",
+    "sha256": "01b1c382aa4468cc6b8115db3c75ba6adf6ae577cb043034c58a5a9adbf737de",
+    "width": 310,
+    "height": 400,
+    "embedded_source_sha256": "0a48559225695dc7ef5b798289c460575d66c230c3b32b79742691bb684606a9",
+    "viewport": [
+      830,
+      50,
+      310,
+      400
+    ]
   },
   {
     "group": "lacra_wrinkles",
     "option": "compat_chars_550_2085",
-    "image": "fomod/images/elsb/lacra_body/fitness/preview.png",
-    "source": "ELSB 1.1.1/modules/lacra_body/fitness/preview.png",
-    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
-    "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "ELSB Lacra reference only. This picture does not show Lacra LESS Wrinkles.",
-    "sha256": "240452ea84314cfd11ec212eb62cc2654e883df1d9fe8903b7a87043801b7c7b",
-    "width": 480,
-    "height": 552
+    "image": "fomod/images/faces/550.svg",
+    "source": "https://staticdelivery.nexusmods.com/mods/9719/images/550/550-1789594131-750249889.png",
+    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/550",
+    "credit": "gleb63",
+    "caption": "Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included. The page screenshot is a shared reference for its variants; it is not an exact preview of every makeup or wrinkle variant.",
+    "sha256": "01b1c382aa4468cc6b8115db3c75ba6adf6ae577cb043034c58a5a9adbf737de",
+    "width": 310,
+    "height": 400,
+    "embedded_source_sha256": "0a48559225695dc7ef5b798289c460575d66c230c3b32b79742691bb684606a9",
+    "viewport": [
+      830,
+      50,
+      310,
+      400
+    ]
   },
   {
     "group": "lacra_surface",
     "option": "compat_chars_550_2083",
-    "image": "fomod/images/elsb/lacra_body/fitness/preview.png",
-    "source": "ELSB 1.1.1/modules/lacra_body/fitness/preview.png",
-    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
-    "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "ELSB Lacra reference only. This picture does not show Lacra Smooth Skin.",
-    "sha256": "240452ea84314cfd11ec212eb62cc2654e883df1d9fe8903b7a87043801b7c7b",
-    "width": 480,
-    "height": 552
+    "image": "fomod/images/faces/550.svg",
+    "source": "https://staticdelivery.nexusmods.com/mods/9719/images/550/550-1789594131-750249889.png",
+    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/550",
+    "credit": "gleb63",
+    "caption": "Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included. The page screenshot is a shared reference for its variants; it is not an exact preview of every makeup or wrinkle variant.",
+    "sha256": "01b1c382aa4468cc6b8115db3c75ba6adf6ae577cb043034c58a5a9adbf737de",
+    "width": 310,
+    "height": 400,
+    "embedded_source_sha256": "0a48559225695dc7ef5b798289c460575d66c230c3b32b79742691bb684606a9",
+    "viewport": [
+      830,
+      50,
+      310,
+      400
+    ]
   },
   {
     "group": "lacra_head",
     "option": "compat_chars_533_2024",
-    "image": "fomod/images/elsb/lacra_body/fitness/preview.png",
-    "source": "ELSB 1.1.1/modules/lacra_body/fitness/preview.png",
-    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
-    "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "ELSB Lacra reference only. This picture does not show Rise Of Lacra Croft - Human Head Replacement.",
-    "sha256": "240452ea84314cfd11ec212eb62cc2654e883df1d9fe8903b7a87043801b7c7b",
-    "width": 480,
-    "height": 552
+    "image": "fomod/images/faces/533.svg",
+    "source": "https://staticdelivery.nexusmods.com/mods/9719/images/533/533-1789530233-2102725856.jpg",
+    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/533",
+    "credit": "LFAGM",
+    "caption": "Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included.",
+    "sha256": "f73b39cb432a7ddaafa8764a779d3130438299d592c66e7bb4f82d7ec3e713ef",
+    "width": 850,
+    "height": 920,
+    "embedded_source_sha256": "a95ade1b230b8b0641adbebab992a0e5efd6beb8f6a5efb761ff58c4d0a8637e",
+    "viewport": [
+      650,
+      20,
+      850,
+      920
+    ]
   },
   {
-    "group": "anca_skin",
+    "group": "anca_face",
     "option": "compat_chars_404_2069",
-    "image": "fomod/images/elsb/anca_body/booty/preview.png",
-    "source": "ELSB 1.1.1/modules/anca_body/booty/preview.png",
-    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
-    "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "ELSB Anca reference only. This picture does not show Anca Young No Eyeliner.",
-    "sha256": "9a59ca3154ba030b9cb118d07d866723b9662e295035378251bc62c818422cdc",
+    "image": "fomod/images/faces/404.svg",
+    "source": "https://staticdelivery.nexusmods.com/mods/9719/images/404/404-1789585649-1670543257.jpg",
+    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/404",
+    "credit": "LFAGM",
+    "caption": "Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included. The page screenshot is a shared reference for its variants; it is not an exact preview of every makeup or wrinkle variant.",
+    "sha256": "f3860900ce1a318b9e2ad7f9ea43da622f67a6f03100a9c72558bb600d422840",
     "width": 480,
-    "height": 552
+    "height": 600,
+    "embedded_source_sha256": "ddd12c3489505a22e7dab6925b49926883aee70bb054f9c361714862dcf820f7",
+    "viewport": [
+      690,
+      75,
+      480,
+      600
+    ]
   },
   {
-    "group": "anca_skin",
+    "group": "anca_face",
     "option": "compat_chars_404_2068",
-    "image": "fomod/images/elsb/anca_body/booty/preview.png",
-    "source": "ELSB 1.1.1/modules/anca_body/booty/preview.png",
-    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
-    "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "ELSB Anca reference only. This picture does not show Anca Young No Makeup.",
-    "sha256": "9a59ca3154ba030b9cb118d07d866723b9662e295035378251bc62c818422cdc",
+    "image": "fomod/images/faces/404.svg",
+    "source": "https://staticdelivery.nexusmods.com/mods/9719/images/404/404-1789585649-1670543257.jpg",
+    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/404",
+    "credit": "LFAGM",
+    "caption": "Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included. The page screenshot is a shared reference for its variants; it is not an exact preview of every makeup or wrinkle variant.",
+    "sha256": "f3860900ce1a318b9e2ad7f9ea43da622f67a6f03100a9c72558bb600d422840",
     "width": 480,
-    "height": 552
+    "height": 600,
+    "embedded_source_sha256": "ddd12c3489505a22e7dab6925b49926883aee70bb054f9c361714862dcf820f7",
+    "viewport": [
+      690,
+      75,
+      480,
+      600
+    ]
   },
   {
-    "group": "anca_skin",
+    "group": "anca_face",
     "option": "compat_chars_404_2067",
-    "image": "fomod/images/elsb/anca_body/booty/preview.png",
-    "source": "ELSB 1.1.1/modules/anca_body/booty/preview.png",
-    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
-    "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "ELSB Anca reference only. This picture does not show Anca Young Makeup.",
-    "sha256": "9a59ca3154ba030b9cb118d07d866723b9662e295035378251bc62c818422cdc",
+    "image": "fomod/images/faces/404.svg",
+    "source": "https://staticdelivery.nexusmods.com/mods/9719/images/404/404-1789585649-1670543257.jpg",
+    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/404",
+    "credit": "LFAGM",
+    "caption": "Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included. The page screenshot is a shared reference for its variants; it is not an exact preview of every makeup or wrinkle variant.",
+    "sha256": "f3860900ce1a318b9e2ad7f9ea43da622f67a6f03100a9c72558bb600d422840",
     "width": 480,
-    "height": 552
+    "height": 600,
+    "embedded_source_sha256": "ddd12c3489505a22e7dab6925b49926883aee70bb054f9c361714862dcf820f7",
+    "viewport": [
+      690,
+      75,
+      480,
+      600
+    ]
   },
   {
-    "group": "anca_skin",
+    "group": "anca_face",
     "option": "compat_chars_512_1957",
-    "image": "fomod/images/elsb/anca_body/booty/preview.png",
-    "source": "ELSB 1.1.1/modules/anca_body/booty/preview.png",
-    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
-    "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "ELSB Anca reference only. This picture does not show Anca Is Really Old.",
-    "sha256": "9a59ca3154ba030b9cb118d07d866723b9662e295035378251bc62c818422cdc",
-    "width": 480,
-    "height": 552
+    "image": "fomod/images/faces/512.svg",
+    "source": "https://staticdelivery.nexusmods.com/mods/9719/images/512/512-1789465818-285554945.jpg",
+    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/512",
+    "credit": "LFAGM",
+    "caption": "Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included.",
+    "sha256": "244f6c5bb324cb1110a35ca5045f3d8c9b64963280407516681f1e1c93f16624",
+    "width": 500,
+    "height": 650,
+    "embedded_source_sha256": "a5d5952eed6171b4e12874b1175b1af71cbba6a3b7db3df911627d0acd77b9db",
+    "viewport": [
+      740,
+      80,
+      500,
+      650
+    ]
   },
   {
     "group": "lacra_skin",
@@ -2486,61 +2583,191 @@
   {
     "group": "coen_face",
     "option": "vanilla",
-    "image": "fomod/images/elsb/body/_vanilla.png",
-    "source": "ELSB 1.1.1/modules/body/_vanilla.png",
+    "image": "fomod/images/faces/coen-vanilla.svg",
+    "source": "ELSB 1.1.1/modules/hair/_vanilla.png",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
     "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "No additional patch for this category.",
-    "sha256": "5b8a55a632a70405a079f4a7d677152b8e3cd4b9d41faaa75c403639ab2966b5",
-    "width": 480,
-    "height": 552
+    "caption": "Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.",
+    "sha256": "e8538f539f33a8e0ceac25b57c13fdb5ea7f90d0c78f19dddc42ecd40a4b0ec9",
+    "width": 135,
+    "height": 190,
+    "embedded_source_sha256": "021ba28b1e3f468448fa44da4fcaee1fb84090acf4fc9688fc4fa6b04ec1898b",
+    "viewport": [
+      37,
+      38,
+      135,
+      190
+    ]
   },
   {
     "group": "lacra_face",
     "option": "vanilla",
-    "image": "fomod/images/elsb/lacra_body/_vanilla.png",
-    "source": "ELSB 1.1.1/modules/lacra_body/_vanilla.png",
+    "image": "fomod/images/faces/lacra-vanilla.svg",
+    "source": "ELSB 1.1.1/modules/lacra_hair/_vanilla.png",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
     "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "No additional patch for this category.",
-    "sha256": "1d04a7567c920035331dc72b8a2e9a7728f3e5e7efde59bc7110e91a70f8b75a",
-    "width": 480,
-    "height": 552
+    "caption": "Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.",
+    "sha256": "1dc1faf0b488d324f260f33691f98d89f5c48ccc5ad80149152f47e99fcc7fa5",
+    "width": 140,
+    "height": 200,
+    "embedded_source_sha256": "0122a4ae0694af5925cef35c9e34654f54237f7b7a9f2e37acfa12433f64dd3a",
+    "viewport": [
+      38,
+      35,
+      140,
+      200
+    ]
   },
   {
     "group": "lacra_surface",
     "option": "vanilla",
-    "image": "fomod/images/elsb/lacra_body/_vanilla.png",
-    "source": "ELSB 1.1.1/modules/lacra_body/_vanilla.png",
+    "image": "fomod/images/faces/lacra-vanilla.svg",
+    "source": "ELSB 1.1.1/modules/lacra_hair/_vanilla.png",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
     "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "No additional patch for this category.",
-    "sha256": "1d04a7567c920035331dc72b8a2e9a7728f3e5e7efde59bc7110e91a70f8b75a",
-    "width": 480,
-    "height": 552
+    "caption": "Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.",
+    "sha256": "1dc1faf0b488d324f260f33691f98d89f5c48ccc5ad80149152f47e99fcc7fa5",
+    "width": 140,
+    "height": 200,
+    "embedded_source_sha256": "0122a4ae0694af5925cef35c9e34654f54237f7b7a9f2e37acfa12433f64dd3a",
+    "viewport": [
+      38,
+      35,
+      140,
+      200
+    ]
   },
   {
     "group": "lacra_wrinkles",
     "option": "vanilla",
-    "image": "fomod/images/elsb/lacra_body/_vanilla.png",
-    "source": "ELSB 1.1.1/modules/lacra_body/_vanilla.png",
+    "image": "fomod/images/faces/lacra-vanilla.svg",
+    "source": "ELSB 1.1.1/modules/lacra_hair/_vanilla.png",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
     "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "No additional patch for this category.",
-    "sha256": "1d04a7567c920035331dc72b8a2e9a7728f3e5e7efde59bc7110e91a70f8b75a",
-    "width": 480,
-    "height": 552
+    "caption": "Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.",
+    "sha256": "1dc1faf0b488d324f260f33691f98d89f5c48ccc5ad80149152f47e99fcc7fa5",
+    "width": 140,
+    "height": 200,
+    "embedded_source_sha256": "0122a4ae0694af5925cef35c9e34654f54237f7b7a9f2e37acfa12433f64dd3a",
+    "viewport": [
+      38,
+      35,
+      140,
+      200
+    ]
   },
   {
     "group": "lacra_head",
     "option": "vanilla",
-    "image": "fomod/images/elsb/lacra_body/_vanilla.png",
-    "source": "ELSB 1.1.1/modules/lacra_body/_vanilla.png",
+    "image": "fomod/images/faces/lacra-vanilla.svg",
+    "source": "ELSB 1.1.1/modules/lacra_hair/_vanilla.png",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
     "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "No additional patch for this category.",
-    "sha256": "1d04a7567c920035331dc72b8a2e9a7728f3e5e7efde59bc7110e91a70f8b75a",
-    "width": 480,
-    "height": 552
+    "caption": "Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.",
+    "sha256": "1dc1faf0b488d324f260f33691f98d89f5c48ccc5ad80149152f47e99fcc7fa5",
+    "width": 140,
+    "height": 200,
+    "embedded_source_sha256": "0122a4ae0694af5925cef35c9e34654f54237f7b7a9f2e37acfa12433f64dd3a",
+    "viewport": [
+      38,
+      35,
+      140,
+      200
+    ]
+  },
+  {
+    "group": "lacra_face",
+    "option": "compat_chars_427_1588",
+    "image": "fomod/images/faces/427.svg",
+    "source": "https://staticdelivery.nexusmods.com/mods/9719/images/427/427-1789177441-1693273482.jpg",
+    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/427",
+    "credit": "LFAGM",
+    "caption": "Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included. The page screenshot is a shared reference for its variants; it is not an exact preview of every makeup or wrinkle variant.",
+    "sha256": "9706688fa3f6bb371484e4940201708b69178e17e9bcc1ba410d0ab2c8ef99ba",
+    "width": 580,
+    "height": 740,
+    "embedded_source_sha256": "d296a0a6d458613a477c429509a4202b4da8bb1e37c8bbe609abb86d9b2ce6c8",
+    "viewport": [
+      780,
+      20,
+      580,
+      740
+    ]
+  },
+  {
+    "group": "lacra_face",
+    "option": "compat_chars_427_1599",
+    "image": "fomod/images/faces/427.svg",
+    "source": "https://staticdelivery.nexusmods.com/mods/9719/images/427/427-1789177441-1693273482.jpg",
+    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/427",
+    "credit": "LFAGM",
+    "caption": "Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included. The page screenshot is a shared reference for its variants; it is not an exact preview of every makeup or wrinkle variant.",
+    "sha256": "9706688fa3f6bb371484e4940201708b69178e17e9bcc1ba410d0ab2c8ef99ba",
+    "width": 580,
+    "height": 740,
+    "embedded_source_sha256": "d296a0a6d458613a477c429509a4202b4da8bb1e37c8bbe609abb86d9b2ce6c8",
+    "viewport": [
+      780,
+      20,
+      580,
+      740
+    ]
+  },
+  {
+    "group": "anca_head",
+    "option": "compat_chars_534_2025",
+    "image": "fomod/images/faces/534.svg",
+    "source": "https://staticdelivery.nexusmods.com/mods/9719/images/534/534-1789586908-1606115452.jpg",
+    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/534",
+    "credit": "LFAGM",
+    "caption": "Face close-up from the original mod page; other hair, eye and outfit choices pictured are not included.",
+    "sha256": "483249e5d5eea28489634fade833c838f4a97621908d0d5c102b1d03bdd7e621",
+    "width": 750,
+    "height": 870,
+    "embedded_source_sha256": "271bbd0d79ee3ef574fd73e803de0df515fe42f4a9d6a6beaf82ee48d6d7a3f9",
+    "viewport": [
+      720,
+      10,
+      750,
+      870
+    ]
+  },
+  {
+    "group": "anca_face",
+    "option": "vanilla",
+    "image": "fomod/images/faces/anca-vanilla.svg",
+    "source": "ELSB 1.1.1/modules/anca_hair/_vanilla.png",
+    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
+    "credit": "Akazonae36 / ELSB 1.1.1",
+    "caption": "Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.",
+    "sha256": "7609a8744899d9eb87cfb81cf457be3bc5993df157710e33a427b08215563258",
+    "width": 140,
+    "height": 200,
+    "embedded_source_sha256": "d4beb7dc55ff6a9241447006de734aa3def066b5b20b9292f0e699866b5db775",
+    "viewport": [
+      38,
+      35,
+      140,
+      200
+    ]
+  },
+  {
+    "group": "anca_head",
+    "option": "vanilla",
+    "image": "fomod/images/faces/anca-vanilla.svg",
+    "source": "ELSB 1.1.1/modules/anca_hair/_vanilla.png",
+    "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
+    "credit": "Akazonae36 / ELSB 1.1.1",
+    "caption": "Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.",
+    "sha256": "7609a8744899d9eb87cfb81cf457be3bc5993df157710e33a427b08215563258",
+    "width": 140,
+    "height": 200,
+    "embedded_source_sha256": "d4beb7dc55ff6a9241447006de734aa3def066b5b20b9292f0e699866b5db775",
+    "viewport": [
+      38,
+      35,
+      140,
+      200
+    ]
   }
 ]

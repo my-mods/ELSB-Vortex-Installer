@@ -363,7 +363,7 @@
     "version": "2",
     "archive": "Lacra Gothic Makeup 445 2 2026-09-22T07-55Z qCmCin19n.zip",
     "action": "Activate and deploy",
-    "note": "Preserves the chosen ELSB body meshes. Keep this exact original enabled separately.",
+    "note": "Complete face-and-body skin replacement. Use the regular ELSB body and the matching Gothic original only; do not combine with separate makeup, chest colours or the Pussy Walker private atlas. All original face, torso, arm, leg and foot colours are kept together.",
     "mode": "textures"
   },
   {
@@ -376,7 +376,7 @@
     "version": "2",
     "archive": "Lacra Gothic Vanilla Makeup 445 2 2026-09-22T04-27Z 80d0asHN5.zip",
     "action": "Activate and deploy",
-    "note": "Preserves the chosen ELSB body meshes. Keep this exact original enabled separately.",
+    "note": "Complete face-and-body skin replacement. Use the regular ELSB body and the matching Gothic original only; do not combine with separate makeup, chest colours or the Pussy Walker private atlas. All original face, torso, arm, leg and foot colours are kept together.",
     "mode": "textures"
   },
   {
@@ -389,7 +389,7 @@
     "version": "2",
     "archive": "Lacra Gothic Dead Skin Vanilla Makeup v2 445 2 2026-09-22T02-44Z QqTq45eiL.zip",
     "action": "Activate and deploy",
-    "note": "Preserves the chosen ELSB body meshes. Keep this exact original enabled separately.",
+    "note": "Complete face-and-body skin replacement. Use the regular ELSB body and the matching Gothic original only; do not combine with separate makeup, chest colours or the Pussy Walker private atlas. All original face, torso, arm, leg and foot colours are kept together.",
     "mode": "textures"
   },
   {
@@ -402,7 +402,46 @@
     "version": "2",
     "archive": "Lacra Gothic No Makeup 445 2 2026-09-22T01-14Z sW7WJAgPF.zip",
     "action": "Activate and deploy",
-    "note": "Preserves the chosen ELSB body meshes. Keep this exact original enabled separately.",
+    "note": "Complete face-and-body skin replacement. Use the regular ELSB body and the matching Gothic original only; do not combine with separate makeup, chest colours or the Pussy Walker private atlas. All original face, torso, arm, leg and foot colours are kept together.",
     "mode": "textures"
+  },
+  {
+    "id": "chars_427_1588",
+    "nexus_mod_name": "Lacra Retexture",
+    "nexus_mod_id": 427,
+    "url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/427",
+    "file_id": 1588,
+    "file_title": "Lacra Young Makeup",
+    "version": "1",
+    "archive": "Lacra Young Makeup 427 1 2026-09-11T23-13Z 4iziYdyEg.zip",
+    "action": "Activate and deploy",
+    "note": "Face texture only; compatible with ELSB/Pussy Walker, chest textures, separate head normals and wrinkles. Enable only one Lacra face-colour original.",
+    "mode": "direct"
+  },
+  {
+    "id": "chars_427_1599",
+    "nexus_mod_name": "Lacra Retexture",
+    "nexus_mod_id": 427,
+    "url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/427",
+    "file_id": 1599,
+    "file_title": "Lacra Young Makeup Alternative",
+    "version": "1",
+    "archive": "Lacra Young Makeup Alternative 427 1 2026-09-12T01-37Z hAeAVE9Xc.zip",
+    "action": "Activate and deploy",
+    "note": "Face texture only; compatible with ELSB/Pussy Walker, chest textures, separate head normals and wrinkles. Enable only one Lacra face-colour original.",
+    "mode": "direct"
+  },
+  {
+    "id": "chars_534_2025",
+    "nexus_mod_name": "Rise of Anca Croft",
+    "nexus_mod_id": 534,
+    "url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/534",
+    "file_id": 2025,
+    "file_title": "Rise of Anca Croft",
+    "version": "1",
+    "archive": "Rise of Anca Croft 534 1 2026-09-16T03-55Z tzYzjaIp7.zip",
+    "action": "Activate and deploy",
+    "note": "Routes only Anca head references to the original Croft head, retaining selected ELSB/Pussy Walker body and story materials. Check neck alignment and facial animation in game.",
+    "mode": "head_anca"
   }
 ]

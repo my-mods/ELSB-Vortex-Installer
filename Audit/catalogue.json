@@ -4956,6 +4956,32 @@
       ]
     },
     {
+      "id": "Payload/Patches/characters/chars_427_1588/00ELSB_chars_427_1588_P.utoc",
+      "title": "ELSB optional compatibility patch",
+      "kind": "patch",
+      "files": {
+        ".pak": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+        ".ucas": "5d84eb30b7fecae4b20c201c1c684b6b04893348dc3f27c3fbc15a494d6903db",
+        ".utoc": "7ef5a784a6891411da6f0ddd1c2164b45f0bf8f4c99b8b19ea2b95de55455e55"
+      },
+      "assets": [
+        "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Lacra_Head_B/Textures/T_HFA_Lacra_Head_B_D.uasset"
+      ]
+    },
+    {
+      "id": "Payload/Patches/characters/chars_427_1599/00ELSB_chars_427_1599_P.utoc",
+      "title": "ELSB optional compatibility patch",
+      "kind": "patch",
+      "files": {
+        ".pak": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+        ".ucas": "6f20f16ee22a0d0d4706eddae65de9f8365d3ac182b40e18aa36f6a9d37f4c02",
+        ".utoc": "07d33ff58f2baf8811e3a2d63324d95f000c8534a84c89982d37a0c32a8a6dfe"
+      },
+      "assets": [
+        "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Lacra_Head_B/Textures/T_HFA_Lacra_Head_B_D.uasset"
+      ]
+    },
+    {
       "id": "Payload/Patches/characters/chars_445_2448/0ELSB_chars_445_2448_P.utoc",
       "title": "ELSB optional compatibility patch",
       "kind": "patch",
@@ -4966,6 +4992,23 @@
       },
       "assets": [
         "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyFeet/HFA_Lacra_BodyFeet_A/Textures/T_HFA_Lacra_BodyFeet_A_D.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HFA_Lacra_BodyLegs_A/Textures/T_HFA_Lacra_BodyLegs_A_D.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HFA_Lacra_BodyTorso_A/Textures/T_HFA_Lacra_BodyTorso_A_D.uasset"
+      ]
+    },
+    {
+      "id": "Payload/Patches/characters/chars_445_2448_skin/00ELSB_chars_445_2448_skin_P.utoc",
+      "title": "ELSB optional compatibility patch",
+      "kind": "patch",
+      "files": {
+        ".pak": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+        ".ucas": "86b413c6fe8bee9e0754f6abf7bd38f5a9b74e546e010787ab1dda3e65d57055",
+        ".utoc": "ff99e1d3260ada4ca4d5dd884285f6e0ca416b4c9380c9e934ac65a0d2d025dc"
+      },
+      "assets": [
+        "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Lacra_Head_B/Textures/T_HFA_Lacra_Head_B_D.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyFeet/HFA_Lacra_BodyFeet_A/Textures/T_HFA_Lacra_BodyFeet_A_D.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HFA_Lacra_BodyHands_A/Textures/T_HFA_Lacra_BodyHands_A_D.uasset",
         "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HFA_Lacra_BodyLegs_A/Textures/T_HFA_Lacra_BodyLegs_A_D.uasset",
         "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HFA_Lacra_BodyTorso_A/Textures/T_HFA_Lacra_BodyTorso_A_D.uasset"
       ]
@@ -4986,6 +5029,23 @@
       ]
     },
     {
+      "id": "Payload/Patches/characters/chars_445_2453_skin/00ELSB_chars_445_2453_skin_P.utoc",
+      "title": "ELSB optional compatibility patch",
+      "kind": "patch",
+      "files": {
+        ".pak": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+        ".ucas": "7b7cd1b790b4f03808e5ca22f48b421f8f5f02e52691a9c0e08e4e0f6be95df2",
+        ".utoc": "5245e373530e354c4207e9daad6eb8dad483a39b8dca9770ee96b49e56f1de54"
+      },
+      "assets": [
+        "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Lacra_Head_B/Textures/T_HFA_Lacra_Head_B_D.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyFeet/HFA_Lacra_BodyFeet_A/Textures/T_HFA_Lacra_BodyFeet_A_D.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HFA_Lacra_BodyHands_A/Textures/T_HFA_Lacra_BodyHands_A_D.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HFA_Lacra_BodyLegs_A/Textures/T_HFA_Lacra_BodyLegs_A_D.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HFA_Lacra_BodyTorso_A/Textures/T_HFA_Lacra_BodyTorso_A_D.uasset"
+      ]
+    },
+    {
       "id": "Payload/Patches/characters/chars_445_2454/0ELSB_chars_445_2454_P.utoc",
       "title": "ELSB optional compatibility patch",
       "kind": "patch",
@@ -5001,6 +5061,23 @@
       ]
     },
     {
+      "id": "Payload/Patches/characters/chars_445_2454_skin/00ELSB_chars_445_2454_skin_P.utoc",
+      "title": "ELSB optional compatibility patch",
+      "kind": "patch",
+      "files": {
+        ".pak": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+        ".ucas": "5cbbc72dcf351b48dd18e8d740fb24bbf5461310b8dbc256dc86b60eb51f6bcd",
+        ".utoc": "96ccedfd62a9b8cd8ac11d9ceb8c4f585d5db126b055956e08c8f170d93e5f79"
+      },
+      "assets": [
+        "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Lacra_Head_B/Textures/T_HFA_Lacra_Head_B_D.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyFeet/HFA_Lacra_BodyFeet_A/Textures/T_HFA_Lacra_BodyFeet_A_D.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HFA_Lacra_BodyHands_A/Textures/T_HFA_Lacra_BodyHands_A_D.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HFA_Lacra_BodyLegs_A/Textures/T_HFA_Lacra_BodyLegs_A_D.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HFA_Lacra_BodyTorso_A/Textures/T_HFA_Lacra_BodyTorso_A_D.uasset"
+      ]
+    },
+    {
       "id": "Payload/Patches/characters/chars_445_2457/0ELSB_chars_445_2457_P.utoc",
       "title": "ELSB optional compatibility patch",
       "kind": "patch",
@@ -5011,6 +5088,23 @@
       },
       "assets": [
         "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyFeet/HFA_Lacra_BodyFeet_A/Textures/T_HFA_Lacra_BodyFeet_A_D.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HFA_Lacra_BodyLegs_A/Textures/T_HFA_Lacra_BodyLegs_A_D.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HFA_Lacra_BodyTorso_A/Textures/T_HFA_Lacra_BodyTorso_A_D.uasset"
+      ]
+    },
+    {
+      "id": "Payload/Patches/characters/chars_445_2457_skin/00ELSB_chars_445_2457_skin_P.utoc",
+      "title": "ELSB optional compatibility patch",
+      "kind": "patch",
+      "files": {
+        ".pak": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+        ".ucas": "e9273789cc0d91408b9bcc87d6dfb9cf44a21d8b71f751aee8fdcd89bc6e86da",
+        ".utoc": "c5cdf9e4cc0662988a25c26d27c197429cf315c7ccfec29514369c0efe922b6f"
+      },
+      "assets": [
+        "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Lacra_Head_B/Textures/T_HFA_Lacra_Head_B_D.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyFeet/HFA_Lacra_BodyFeet_A/Textures/T_HFA_Lacra_BodyFeet_A_D.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyHands/HFA_Lacra_BodyHands_A/Textures/T_HFA_Lacra_BodyHands_A_D.uasset",
         "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HFA_Lacra_BodyLegs_A/Textures/T_HFA_Lacra_BodyLegs_A_D.uasset",
         "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HFA_Lacra_BodyTorso_A/Textures/T_HFA_Lacra_BodyTorso_A_D.uasset"
       ]
@@ -5292,6 +5386,96 @@
       "assets": [
         "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Lacra_A_ELSBNude.uasset",
         "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Lacra_A_Naked.uasset"
+      ]
+    },
+    {
+      "id": "Payload/Patches/characters/chars_534_2025/0/00ELSB_Head_ELSB_AncaBodyBDP_P.utoc",
+      "title": "ELSB optional compatibility patch",
+      "kind": "patch",
+      "files": {
+        ".pak": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+        ".ucas": "1c9cf52f3d13b235be8b3fe29af76c7864cdcc3eac167f2f131bfe33d48ae540",
+        ".utoc": "51693553a7b25c7b3a4e4525580cc7d2b79e4b13ea50f11457f95e92055734aa"
+      },
+      "assets": [
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Anca_D_after_ritual_ELSBNude.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Anca_NoScars_Naked.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Anca_Scars_Naked.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Anca_Scars_Wound_Naked.uasset"
+      ]
+    },
+    {
+      "id": "Payload/Patches/characters/chars_534_2025/1/00ELSB_Head_ELSB_AncaOutfit_P.utoc",
+      "title": "ELSB optional compatibility patch",
+      "kind": "patch",
+      "files": {
+        ".pak": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+        ".ucas": "0b639eb0c49c2d54b1b162102ad3d99dee02cd06029442907632f9254d94382a",
+        ".utoc": "1718b9faa53de2debbce9ec208d6c257b49f5b929038e8b18e1ecf2a2e0c0ec7"
+      },
+      "assets": [
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Anca_D_after_ritual_ELSBNude.uasset"
+      ]
+    },
+    {
+      "id": "Payload/Patches/characters/chars_534_2025/2/00ELSB_Head_ELSB_AncaScope_P.utoc",
+      "title": "ELSB optional compatibility patch",
+      "kind": "patch",
+      "files": {
+        ".pak": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+        ".ucas": "4583ff366d16f5c595efb0be460e3e17f4a39f82bd56b49747d9943d839bf2cf",
+        ".utoc": "3afe9640ee1bc138714fa494c50ff7ac8f804deb823b905afc6613c9d7de932d"
+      },
+      "assets": [
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Anca_A.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Anca_A_FullHealed.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Anca_A_Scar.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Anca_D_after_ritual.uasset"
+      ]
+    },
+    {
+      "id": "Payload/Patches/characters/chars_534_2025/3/00ELSB_Head_ELSB_AncaOutfit0PW_P.utoc",
+      "title": "ELSB optional compatibility patch",
+      "kind": "patch",
+      "files": {
+        ".pak": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+        ".ucas": "e194c80b2f3e88858109316fa46aa26d958acdd9dc3374f41d5286933afcfc6e",
+        ".utoc": "6a1d28f39fb11122a9fe46dfe4076bad9ad08e60884c45914d5a445716d96277"
+      },
+      "assets": [
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Anca_D_after_ritual_ELSBNude.uasset"
+      ]
+    },
+    {
+      "id": "Payload/Patches/characters/chars_534_2025/4/00ELSB_Head_ELSB_AncaScope0PW_P.utoc",
+      "title": "ELSB optional compatibility patch",
+      "kind": "patch",
+      "files": {
+        ".pak": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+        ".ucas": "b15e66b071a6d8cc3b486622a7e5e50178f9ff92e3ad2af8301feafbaefed571",
+        ".utoc": "9cc449e2ebfe447c8e1169871c58cf8048eb510c15e5824a2a0c05b92550785f"
+      },
+      "assets": [
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Anca_A.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Anca_A_FullHealed.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Anca_A_Scar.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Anca_D_after_ritual.uasset"
+      ]
+    },
+    {
+      "id": "Payload/Patches/characters/chars_534_2025/5/00ELSB_Head_ELSB_AncaBody0PW_P.utoc",
+      "title": "ELSB optional compatibility patch",
+      "kind": "patch",
+      "files": {
+        ".pak": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+        ".ucas": "ee990edb26cba86592c56a32ad78867a2a16cc8fcfc21e36ab32faf9e6fdb1e7",
+        ".utoc": "471b79bed0e13eedd33bdc1b8daa6ebca3baebe21715bd084ceb97148d253bbd"
+      },
+      "assets": [
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Anca_D_after_ritual_ELSBNude.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Anca_NoScars_Naked.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Anca_Scars_Naked.uasset",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/BDP_HFA_Anca_Scars_Wound_Naked.uasset"
       ]
     },
     {
@@ -7028,6 +7212,45 @@
         "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HFA_Lacra_BodyLegs_A/Textures/T_HFA_Lacra_BodyLegs_A_D.uasset",
         "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HFA_Lacra_BodyTorso_A/Textures/T_HFA_Lacra_BodyTorso_A_D.uasset"
       ]
+    },
+    {
+      "id": "external/chars_427_1588/pakchunk7902-LacraYoungMakeup_P",
+      "title": "Lacra Young Makeup",
+      "kind": "external",
+      "files": {
+        ".pak": "3f93ab7ca69afd86c398a990d4fbc268928cde0e9f63f1fac2333a46d6a15246",
+        ".ucas": "f87fb90cd4812d25f7a9764f596e4543aca28f5723802590c44a4fd3f68cda0c",
+        ".utoc": "0ac3c124fa73dc03dc00c2e0e48c276001a0d45d213f0031a096cd6afdf4d3c5"
+      },
+      "assets": [
+        "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Lacra_Head_B/Textures/T_HFA_Lacra_Head_B_D.uasset"
+      ]
+    },
+    {
+      "id": "external/chars_427_1599/pakchunk7902-LacraYoungMakeupAlt_P",
+      "title": "Lacra Young Makeup Alternative",
+      "kind": "external",
+      "files": {
+        ".pak": "3f93ab7ca69afd86c398a990d4fbc268928cde0e9f63f1fac2333a46d6a15246",
+        ".ucas": "acb9c53ad1edc1c325ed370407a089d17759440d6efa4dcbc4acd2c9e0b21b43",
+        ".utoc": "16924246b4965826a175c810b4fb0b7a0239c991158e7895abcce7b83fbdb506"
+      },
+      "assets": [
+        "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Lacra_Head_B/Textures/T_HFA_Lacra_Head_B_D.uasset"
+      ]
+    },
+    {
+      "id": "external/chars_534_2025/pakchunck7905-RiseOfAncaCroft_P",
+      "title": "Rise of Anca Croft",
+      "kind": "external",
+      "files": {
+        ".pak": "258b8a4fda2bb8f31a199f2035e25319abc4f8ca7e37ed6bf6d6f473bb92d909",
+        ".ucas": "b3afe3d13453cfb538f1394e3f47433cc02c87a4b0e272840e7439b1acb2abba",
+        ".utoc": "e1b5e544f63bb9cfcf3fd865c0f990b3e050803cff7bcd34d0bc9fee08a9ffc4"
+      },
+      "assets": [
+        "Dawnwalker/Content/_Dawnwalker/Characters/Heads/HFA_Anca_Head_A/SK_HFA_Anca_Head_A.uasset"
+      ]
     }
   ],
   "dependencies": [
@@ -7431,7 +7654,7 @@
         "pakchunk9996-LacraSmoothSkin_P.utoc"
       ],
       "requires": [],
-      "selection": "Lacra Smooth Skin - ELSB patch. Preserves the chosen ELSB body meshes. Keep this exact original enabled separately."
+      "selection": "Lacra Smooth Skin - ELSB patch. Head normal-map overlay only. Compatible with separate face colour, wrinkle, chest texture and ELSB/Pussy Walker body choices. Keep the original enabled."
     },
     {
       "id": "chars_533_2024",
@@ -7539,7 +7762,7 @@
         "pakchunk7902-LacraGothicSkinGothMakeupv2_P.utoc"
       ],
       "requires": [],
-      "selection": "Lacra Gothic Makeup - ELSB patch. Preserves the chosen ELSB body meshes. Keep this exact original enabled separately."
+      "selection": "Lacra Gothic Makeup - complete face and body skin. Complete face-and-body skin replacement. Use the regular ELSB body and the matching Gothic original only; do not combine with separate makeup, chest colours or the Pussy Walker private atlas. All original face, torso, arm, leg and foot colours are kept together."
     },
     {
       "id": "chars_445_2454",
@@ -7555,7 +7778,7 @@
         "pakchunk7902-LacraGothicSkinVanillaMakeup_P.utoc"
       ],
       "requires": [],
-      "selection": "Lacra Gothic Vanilla Makeup - ELSB patch. Preserves the chosen ELSB body meshes. Keep this exact original enabled separately."
+      "selection": "Lacra Gothic Vanilla Makeup - complete face and body skin. Complete face-and-body skin replacement. Use the regular ELSB body and the matching Gothic original only; do not combine with separate makeup, chest colours or the Pussy Walker private atlas. All original face, torso, arm, leg and foot colours are kept together."
     },
     {
       "id": "chars_445_2453",
@@ -7571,7 +7794,7 @@
         "pakchunk7902-LacraGothicSkinDeadSkinv2_P.utoc"
       ],
       "requires": [],
-      "selection": "Lacra Gothic Dead Skin Vanilla Makeup v2 - ELSB patch. Preserves the chosen ELSB body meshes. Keep this exact original enabled separately."
+      "selection": "Lacra Gothic Dead Skin Vanilla Makeup v2 - complete face and body skin. Complete face-and-body skin replacement. Use the regular ELSB body and the matching Gothic original only; do not combine with separate makeup, chest colours or the Pussy Walker private atlas. All original face, torso, arm, leg and foot colours are kept together."
     },
     {
       "id": "chars_445_2448",
@@ -7587,7 +7810,55 @@
         "pakchunk7902-GothicSkinv2_P.utoc"
       ],
       "requires": [],
-      "selection": "Lacra Gothic No Makeup - ELSB patch. Preserves the chosen ELSB body meshes. Keep this exact original enabled separately."
+      "selection": "Lacra Gothic No Makeup - complete face and body skin. Complete face-and-body skin replacement. Use the regular ELSB body and the matching Gothic original only; do not combine with separate makeup, chest colours or the Pussy Walker private atlas. All original face, torso, arm, leg and foot colours are kept together."
+    },
+    {
+      "id": "chars_427_1588",
+      "title": "Lacra Young Makeup",
+      "version": "1",
+      "url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/427",
+      "required_containers": [
+        "external/chars_427_1588/pakchunk7902-LacraYoungMakeup_P"
+      ],
+      "original_filenames": [
+        "pakchunk7902-LacraYoungMakeup_P.pak",
+        "pakchunk7902-LacraYoungMakeup_P.ucas",
+        "pakchunk7902-LacraYoungMakeup_P.utoc"
+      ],
+      "requires": [],
+      "selection": "Lacra Young Makeup - original. Face texture only; compatible with ELSB/Pussy Walker, chest textures, separate head normals and wrinkles. Enable only one Lacra face-colour original."
+    },
+    {
+      "id": "chars_427_1599",
+      "title": "Lacra Young Makeup Alternative",
+      "version": "1",
+      "url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/427",
+      "required_containers": [
+        "external/chars_427_1599/pakchunk7902-LacraYoungMakeupAlt_P"
+      ],
+      "original_filenames": [
+        "pakchunk7902-LacraYoungMakeupAlt_P.pak",
+        "pakchunk7902-LacraYoungMakeupAlt_P.ucas",
+        "pakchunk7902-LacraYoungMakeupAlt_P.utoc"
+      ],
+      "requires": [],
+      "selection": "Lacra Young Makeup Alternative - original. Face texture only; compatible with ELSB/Pussy Walker, chest textures, separate head normals and wrinkles. Enable only one Lacra face-colour original."
+    },
+    {
+      "id": "chars_534_2025",
+      "title": "Rise of Anca Croft",
+      "version": "1",
+      "url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/534",
+      "required_containers": [
+        "external/chars_534_2025/pakchunck7905-RiseOfAncaCroft_P"
+      ],
+      "original_filenames": [
+        "pakchunck7905-RiseOfAncaCroft_P.pak",
+        "pakchunck7905-RiseOfAncaCroft_P.ucas",
+        "pakchunck7905-RiseOfAncaCroft_P.utoc"
+      ],
+      "requires": [],
+      "selection": "Rise of Anca Croft - ELSB routing. Routes only Anca head references to the original Croft head, retaining selected ELSB/Pussy Walker body and story materials. Check neck alignment and facial animation in game."
     }
   ],
   "limitations": "Known combinations are identified by full triple hashes. Unreal /Game paths are normalized across cooked project names. Unknown asset overlaps require --retoc; no automated mesh-fit or gameplay validation."

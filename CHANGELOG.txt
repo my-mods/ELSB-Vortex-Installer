@@ -1,4 +1,8 @@
 Personal development build -- ELSB 1.1.1 base
+- Add face close-ups and side-by-side ELSB/Pussy Walker source previews.
+- Separate Anca faces from body textures; add both Lacra Young Makeup variants and Anca Croft head routing.
+- Keep Gothic variants as complete face/body skins and prevent partial face/chest combinations.
+- Preserve moved face choices and renamed complete-skin choices with the companion extension.
 - Add character skin, face, hair and head patches for the reviewed Vortex Characters mods.
 - Keep Lacra Beautiful Hair v4 alongside the selected ELSB body, outfit and scene choices.
 - Offer Thicc and SlimThicc Lacra as alternatives while retaining ELSB for other characters.

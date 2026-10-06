@@ -88,9 +88,36 @@ function createController(api, log = () => {}, debugLogging = false) {
       session.done.add(key);
       // Native presets (including explicit collection choices) take precedence.
       if (group.options?.some(o => o.preset)) continue;
-      const oldGroup = unique(oldStep?.groups, g => g.name === group.name);
+      let oldGroup = unique(oldStep?.groups, g => g.name === group.name);
+      if (!oldGroup && current.name === 'Lacra - Hair and eyes'
+          && group.name === 'Face surface (normal map)') {
+        oldGroup = unique(oldStep?.groups, g => g.name === 'Skin surface');
+      }
+      // Anca face packs moved out of the body/skin page. Match their exact names
+      // across the old pages, never a numeric position or a generic Vanilla entry.
+      if (!oldGroup && current.name === 'Anca - Hair and eyes'
+          && group.name === 'Face and makeup overlay') {
+        const moved = new Set([
+          'Anca Young No Eyeliner - ELSB patch',
+          'Anca Young No Makeup - ELSB patch',
+          'Anca Young Makeup - ELSB patch',
+          'Anca Is Really Old - ELSB patch',
+        ]);
+        const oldBody = unique(session.source.choices.options, s => s.name === 'Anca - Body and scenes');
+        oldGroup = unique(oldBody?.groups, g => g.choices?.length === 1
+          && moved.has(g.choices[0].name));
+      }
       if (!oldGroup || oldGroup.choices.length !== 1 || group.type !== 'SelectExactlyOne') continue;
-      const option = unique(group.options, o => o.name === oldGroup.choices[0].name);
+      let choiceName = oldGroup.choices[0].name;
+      if (current.name === 'Lacra - Body and scenes') {
+        const fullSkins = [
+          'Lacra Gothic Makeup', 'Lacra Gothic Vanilla Makeup',
+          'Lacra Gothic Dead Skin Vanilla Makeup v2', 'Lacra Gothic No Makeup',
+        ];
+        const renamed = fullSkins.find(name => choiceName === name + ' - ELSB patch');
+        if (renamed) choiceName = renamed + ' - complete face and body skin';
+      }
+      const option = unique(group.options, o => o.name === choiceName);
       if (!option || !['Optional', 'Recommended', 'Required'].includes(option.type)) {
         session.unavailable++;
         continue;

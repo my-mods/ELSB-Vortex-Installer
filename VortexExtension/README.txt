@@ -33,6 +33,11 @@ groups also use their defaults. You can change any preselection normally;
 going back to an earlier page will not undo your changes in that wizard run.
 Explicit presets already supplied by Vortex take precedence.
 
+Moved Anca face selections, the renamed Lacra face-surface category and
+renamed complete Gothic skin choices are migrated from the previous wizard.
+Replace this companion and restart Vortex before updating the main installer
+to retain those selections automatically.
+
 Choices are matched by names, never by a stale numeric position. If multiple
 ELSB variants exist and the previous entry cannot be identified uniquely,
 the extension leaves the wizard alone and asks you to review its selections.

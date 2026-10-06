@@ -64,6 +64,42 @@ body.elsb-fomod-active #fomod-installer-dialog {
     line-height: 1.4;
   }
 
+  #fomod-installer-form .form-group.elsb-group {
+    margin-bottom: 8px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--elsb-line);
+
+    > .control-label { display: none; }
+    > .elsb-group-toggle { grid-column: 1 / -1; }
+    &.elsb-group-collapsed > .radio { display: none; }
+  }
+
+  .elsb-group-toggle {
+    display: grid;
+    grid-template-columns: 16px minmax(0, 1fr);
+    column-gap: 10px;
+    row-gap: 2px;
+    width: 100%;
+    min-height: 56px;
+    padding: 10px 8px;
+    border: 0;
+    border-radius: 4px;
+    background: transparent;
+    color: inherit;
+    font: inherit;
+    text-align: left;
+    line-height: 1.45;
+    cursor: pointer;
+    overflow-wrap: anywhere;
+
+    &:hover { background: color-mix(in srgb, currentColor 6%, transparent); }
+    &:focus-visible { outline: 2px solid currentColor; outline-offset: -2px; }
+    > svg { grid-row: 1 / span 2; width: 16px; height: 16px; margin-top: 2px; fill: none; stroke: currentColor; stroke-width: 1.5; }
+    &[aria-expanded="true"] > svg { transform: rotate(90deg); }
+    > .elsb-group-name { font-weight: 600; }
+    > .elsb-group-value { grid-column: 2; font-weight: 400; }
+  }
+
   .radio { margin: 2px 0; }
   .radio label {
     display: block;
@@ -114,7 +150,7 @@ body.elsb-fomod-active #fomod-installer-dialog {
   .btn:focus-visible { outline: 2px solid currentColor; outline-offset: 2px; }
 }
 
-/* Long lists stay visible and keep their native row-major keyboard order.
+/* Expanded long lists keep their native row-major keyboard order.
    Use the actual options-pane width so theme scale and narrow windows can
    fall back to one column without replacing any native installer control. */
 @container (min-width: 440px) {

@@ -7,10 +7,15 @@ companion, review the wizard's choices when reinstalling or updating.
 This companion Vortex extension restores existing ELSB choices when its normal
 FOMOD wizard opens, including local ZIP replacements and version updates.
 It also gives the ELSB wizard a larger window, clearer option groups, readable
-descriptions and more space for pictures. Selected options are highlighted.
-Long option lists use two columns when the options pane has enough room,
-reducing scrolling while keeping every choice visible. Narrower panes return
-to one column. The native radio controls and their reading order stay intact.
+descriptions and more space for pictures. Each group header shows its current
+choice. Hover or focus a header to preview that choice's image and description,
+even while the group is closed. Click the header, or press Enter or Space, to
+open or close the group. The first group starts open; your open groups are
+remembered while moving between pages in the same wizard. Groups that need a
+valid choice stay open until corrected.
+Expanded long lists use two columns when the options pane has enough room.
+Narrower panes return to one column. Selected options are highlighted, and
+the native radio controls and their reading order stay intact.
 Keyboard focus previews an option without selecting it; image zoom remains
 available. Narrow windows stack the panes while keeping navigation visible.
 Unavailable options show which earlier choices enable them when hovered.

@@ -2224,11 +2224,11 @@
     "group": "anca_body",
     "option": "pussywalker",
     "image": "fomod/images/faces/anca-pussywalker.svg",
-    "source": "Unretouched ELSB and Nexus 370 images in an SVG layout",
+    "source": "ELSB source image and user-supplied Pussy Walker preview in an SVG layout",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
     "credit": "Akazonae36 / supergreatluffy",
     "caption": "Preview: ELSB and Pussy Walker source images; the combined body is not pictured.\nPreview credit: Akazonae36 (ELSB) and supergreatluffy (Pussy Walker).",
-    "sha256": "884cb77d04c0b90e4d55a152be374e72dfb199109983e507b2666de560ecbaa9",
+    "sha256": "394efcc112b6cf4d153bbee6da0c168176940ecd1d86987ba9c4cab9e2cd6fc7",
     "width": 1440,
     "height": 850,
     "sources": [
@@ -2240,17 +2240,26 @@
         "url": "https://staticdelivery.nexusmods.com/mods/9719/images/370/370-1788977950-140129196.jpg",
         "sha256": "9d8ea3ffb71085818979d0e1065883ceb8818af2e642a229d79e17c1df38af0e"
       }
-    ]
+    ],
+    "supplied_preview": {
+      "source": "User-supplied image",
+      "source_sha256": "d342dd9dd6e81f0220b8ff1d4f37336535de44e2144eadaddbaea89beb1f5da6",
+      "embedded_sha256": "52832c29bbcab729bd71cd56fa6375a8c98b5174885133366a25e4252aab1b7c",
+      "encoding": "WebP quality 95",
+      "width": 2048,
+      "height": 1152,
+      "dimensions_unchanged": true
+    }
   },
   {
     "group": "lacra_body",
     "option": "pussywalker",
     "image": "fomod/images/faces/lacra-pussywalker.svg",
-    "source": "Unretouched ELSB and Nexus 370 images in an SVG layout",
+    "source": "ELSB source image and user-supplied Pussy Walker preview in an SVG layout",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
     "credit": "Akazonae36 / supergreatluffy",
     "caption": "Preview: ELSB and Pussy Walker source images; the combined body is not pictured.\nPreview credit: Akazonae36 (ELSB) and supergreatluffy (Pussy Walker).",
-    "sha256": "a0e980ebf99b548ae43e86f1fc09f9d8149ec32b294a5f1a2cd3f5628ebfbcb2",
+    "sha256": "314385968bf96e85aeb6a44d9b023db929480eb67664619c83143363752c1def",
     "width": 1440,
     "height": 850,
     "sources": [
@@ -2262,7 +2271,16 @@
         "url": "https://staticdelivery.nexusmods.com/mods/9719/images/370/370-1788977950-140129196.jpg",
         "sha256": "9d8ea3ffb71085818979d0e1065883ceb8818af2e642a229d79e17c1df38af0e"
       }
-    ]
+    ],
+    "supplied_preview": {
+      "source": "User-supplied image",
+      "source_sha256": "d342dd9dd6e81f0220b8ff1d4f37336535de44e2144eadaddbaea89beb1f5da6",
+      "embedded_sha256": "52832c29bbcab729bd71cd56fa6375a8c98b5174885133366a25e4252aab1b7c",
+      "encoding": "WebP quality 95",
+      "width": 2048,
+      "height": 1152,
+      "dimensions_unchanged": true
+    }
   },
   {
     "group": "lacra_hair",

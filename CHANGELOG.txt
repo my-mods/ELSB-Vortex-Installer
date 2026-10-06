@@ -1,4 +1,5 @@
 Personal development build -- ELSB 1.1.1 base
+- Use the supplied full-resolution Pussy Walker preview, compressed below 1 MB.
 - Move all four Gothic variants into Lacra's body choices, with complete face/body skins and migration of previous selections.
 - Simplify installer descriptions to explain each choice, required originals and compatibility, with concise preview credits.
 - Explain unavailable choices on hover, frame Lacra Beautiful Hair around the face and hair, and brighten two dim Lacra face references.

@@ -1,0 +1,1087 @@
+[
+  {
+    "group": "body",
+    "option": "vanilla",
+    "description": "Keep Coen's original body."
+  },
+  {
+    "group": "body",
+    "option": "masculine",
+    "description": "Use Coen's ELSB body."
+  },
+  {
+    "group": "romance",
+    "option": "vanilla",
+    "description": "Keep underwear as shown in the original romance scenes."
+  },
+  {
+    "group": "romance",
+    "option": "undress",
+    "description": "Remove underwear in romance scenes that normally show it."
+  },
+  {
+    "group": "coen_uw",
+    "option": "vanilla",
+    "description": "Keep underwear in normal scenes."
+  },
+  {
+    "group": "coen_uw",
+    "option": "off",
+    "description": "Remove Coen's underwear in normal scenes as well."
+  },
+  {
+    "group": "genitals",
+    "option": "vanilla",
+    "description": "Add no genital replacement."
+  },
+  {
+    "group": "genitals",
+    "option": "compat_coen_nude",
+    "description": "Fit Coen's Nude Mod to Coen's ELSB body."
+  },
+  {
+    "group": "skin",
+    "option": "vanilla",
+    "description": "Add no skin, makeup or tattoos from this category. Other enabled skin mods can still affect the character."
+  },
+  {
+    "group": "skin",
+    "option": "compat_chars_523_2081",
+    "description": "Apply the Evil Twin retexture in its Original Skin Tone variant, keeping your selected Coen body. A separate face overlay takes priority over this skin's face textures."
+  },
+  {
+    "group": "skin",
+    "option": "compat_chars_618_2504",
+    "description": "Apply Coen's body tattoos without face tattoos, keeping your selected body."
+  },
+  {
+    "group": "skin",
+    "option": "compat_chars_618_2495",
+    "description": "Apply Coen's tattoos, keeping your selected body. A separate face overlay takes priority over this skin's face textures."
+  },
+  {
+    "group": "skin",
+    "option": "compat_chars_621_2827",
+    "description": "Add Coen's chest, underarm and pubic hair, keeping your selected body."
+  },
+  {
+    "group": "hair",
+    "option": "vanilla",
+    "description": "Keep Coen's original hairstyle."
+  },
+  {
+    "group": "hair",
+    "option": "Ambrus_A",
+    "description": "Change Coen's hairstyle to the pictured style."
+  },
+  {
+    "group": "hair",
+    "option": "Andrei_A",
+    "description": "Change Coen's hairstyle to the pictured style."
+  },
+  {
+    "group": "hair",
+    "option": "Commoner_B",
+    "description": "Change Coen's hairstyle to the pictured style."
+  },
+  {
+    "group": "hair",
+    "option": "Commoner_C",
+    "description": "Change Coen's hairstyle to the pictured style."
+  },
+  {
+    "group": "hair",
+    "option": "Commoner_D",
+    "description": "Change Coen's hairstyle to the pictured style."
+  },
+  {
+    "group": "hair",
+    "option": "Commoner_E",
+    "description": "Change Coen's hairstyle to the pictured style."
+  },
+  {
+    "group": "hair",
+    "option": "Commoner_F",
+    "description": "Change Coen's hairstyle to the pictured style."
+  },
+  {
+    "group": "hair",
+    "option": "Florin_A",
+    "description": "Change Coen's hairstyle to the pictured style."
+  },
+  {
+    "group": "hair",
+    "option": "Isbrand_A",
+    "description": "Change Coen's hairstyle to the pictured style."
+  },
+  {
+    "group": "hair",
+    "option": "Marat_B",
+    "description": "Change Coen's hairstyle to the pictured style."
+  },
+  {
+    "group": "hair",
+    "option": "Marat_C",
+    "description": "Change Coen's hairstyle to the pictured style."
+  },
+  {
+    "group": "hair",
+    "option": "Mihai_A",
+    "description": "Change Coen's hairstyle to the pictured style."
+  },
+  {
+    "group": "hair",
+    "option": "Vicho_A",
+    "description": "Change Coen's hairstyle to the pictured style."
+  },
+  {
+    "group": "hair_color",
+    "option": "vanilla",
+    "description": "Keep Coen's original hair and eyebrow color."
+  },
+  {
+    "group": "hair_color",
+    "option": "01_black",
+    "description": "Change Coen's hair and eyebrow color to black."
+  },
+  {
+    "group": "hair_color",
+    "option": "02_darkbrown",
+    "description": "Change Coen's hair and eyebrow color to dark brown."
+  },
+  {
+    "group": "hair_color",
+    "option": "03_brown",
+    "description": "Change Coen's hair and eyebrow color to brown."
+  },
+  {
+    "group": "hair_color",
+    "option": "04_lightbrown",
+    "description": "Change Coen's hair and eyebrow color to light brown."
+  },
+  {
+    "group": "hair_color",
+    "option": "05_auburn",
+    "description": "Change Coen's hair and eyebrow color to auburn."
+  },
+  {
+    "group": "hair_color",
+    "option": "06_ginger",
+    "description": "Change Coen's hair and eyebrow color to ginger."
+  },
+  {
+    "group": "hair_color",
+    "option": "07_darkblonde",
+    "description": "Change Coen's hair and eyebrow color to dark blonde."
+  },
+  {
+    "group": "hair_color",
+    "option": "08_blonde",
+    "description": "Change Coen's hair and eyebrow color to blonde."
+  },
+  {
+    "group": "hair_color",
+    "option": "09_platinum",
+    "description": "Change Coen's hair and eyebrow color to platinum blonde."
+  },
+  {
+    "group": "hair_color",
+    "option": "10_saltpepper",
+    "description": "Change Coen's hair and eyebrow color to salt and pepper."
+  },
+  {
+    "group": "hair_color",
+    "option": "11_white",
+    "description": "Change Coen's hair and eyebrow color to white."
+  },
+  {
+    "group": "beard",
+    "option": "vanilla",
+    "description": "Add no beard to Coen."
+  },
+  {
+    "group": "beard",
+    "option": "Andrei_A",
+    "description": "Change Coen's beard to the pictured style."
+  },
+  {
+    "group": "beard",
+    "option": "Commoner_B",
+    "description": "Change Coen's beard to the pictured style."
+  },
+  {
+    "group": "beard",
+    "option": "Commoner_C",
+    "description": "Change Coen's beard to the pictured style."
+  },
+  {
+    "group": "beard",
+    "option": "Commoner_D",
+    "description": "Change Coen's beard to the pictured style."
+  },
+  {
+    "group": "beard",
+    "option": "Commoner_E",
+    "description": "Change Coen's beard to the pictured style."
+  },
+  {
+    "group": "beard",
+    "option": "Marat_A",
+    "description": "Change Coen's beard to the pictured style."
+  },
+  {
+    "group": "beard",
+    "option": "Neberu_A",
+    "description": "Change Coen's beard to the pictured style."
+  },
+  {
+    "group": "beard",
+    "option": "Pieter_A",
+    "description": "Change Coen's beard to the pictured style."
+  },
+  {
+    "group": "beard",
+    "option": "Villager_A",
+    "description": "Change Coen's beard to the pictured style."
+  },
+  {
+    "group": "beard_color",
+    "option": "vanilla",
+    "description": "Keep Coen's original beard color."
+  },
+  {
+    "group": "beard_color",
+    "option": "01_black",
+    "description": "Change Coen's beard color to black."
+  },
+  {
+    "group": "beard_color",
+    "option": "02_darkbrown",
+    "description": "Change Coen's beard color to dark brown."
+  },
+  {
+    "group": "beard_color",
+    "option": "03_brown",
+    "description": "Change Coen's beard color to brown."
+  },
+  {
+    "group": "beard_color",
+    "option": "04_lightbrown",
+    "description": "Change Coen's beard color to light brown."
+  },
+  {
+    "group": "beard_color",
+    "option": "05_auburn",
+    "description": "Change Coen's beard color to auburn."
+  },
+  {
+    "group": "beard_color",
+    "option": "06_ginger",
+    "description": "Change Coen's beard color to ginger."
+  },
+  {
+    "group": "beard_color",
+    "option": "07_darkblonde",
+    "description": "Change Coen's beard color to dark blonde."
+  },
+  {
+    "group": "beard_color",
+    "option": "08_blonde",
+    "description": "Change Coen's beard color to blonde."
+  },
+  {
+    "group": "beard_color",
+    "option": "09_platinum",
+    "description": "Change Coen's beard color to platinum blonde."
+  },
+  {
+    "group": "beard_color",
+    "option": "10_saltpepper",
+    "description": "Change Coen's beard color to salt and pepper."
+  },
+  {
+    "group": "beard_color",
+    "option": "11_white",
+    "description": "Change Coen's beard color to white."
+  },
+  {
+    "group": "eyes",
+    "option": "vanilla",
+    "description": "Keep Coen's original vampire eye color."
+  },
+  {
+    "group": "eyes",
+    "option": "blue",
+    "description": "Change Coen's vampire eye color to blue."
+  },
+  {
+    "group": "eyes",
+    "option": "green",
+    "description": "Change Coen's vampire eye color to green."
+  },
+  {
+    "group": "eyes",
+    "option": "orange",
+    "description": "Change Coen's vampire eye color to orange."
+  },
+  {
+    "group": "eyes",
+    "option": "purple",
+    "description": "Change Coen's vampire eye color to purple."
+  },
+  {
+    "group": "eyes",
+    "option": "red",
+    "description": "Change Coen's vampire eye color to red."
+  },
+  {
+    "group": "eyes",
+    "option": "yellow",
+    "description": "Change Coen's vampire eye color to yellow."
+  },
+  {
+    "group": "coen_face",
+    "option": "vanilla",
+    "description": "Add no separate face or makeup overlay. A selected skin pack can still change the face."
+  },
+  {
+    "group": "coen_face",
+    "option": "compat_chars_703_2986",
+    "description": "Apply the Youthful Coen face. This takes priority over face textures from a skin pack."
+  },
+  {
+    "group": "anca_body",
+    "option": "vanilla",
+    "description": "Keep Anca's original body."
+  },
+  {
+    "group": "anca_body",
+    "option": "booty",
+    "description": "Use Anca's ELSB body."
+  },
+  {
+    "group": "anca_body",
+    "option": "pussywalker",
+    "description": "Use Anca's ELSB body with the included Pussy Walker add-on."
+  },
+  {
+    "group": "anca_scope",
+    "option": "vanilla",
+    "description": "Use Anca's ELSB body in naked scenes only. Choosing a non-vanilla outfit also applies the body to all scenes."
+  },
+  {
+    "group": "anca_scope",
+    "option": "all",
+    "description": "Use Anca's ELSB body in both clothed and naked scenes."
+  },
+  {
+    "group": "anca_outfit",
+    "option": "vanilla",
+    "description": "Keep Anca's original outfit."
+  },
+  {
+    "group": "anca_outfit",
+    "option": "nude",
+    "description": "Make Anca naked. With an ELSB body selected, this also applies that body to all scenes."
+  },
+  {
+    "group": "anca_outfit",
+    "option": "compat_loose_anca",
+    "description": "Fit Wrong Sized Tanktop For Thicc Anca to Anca's ELSB body. Selecting this outfit uses the body in all scenes."
+  },
+  {
+    "group": "anca_outfit",
+    "option": "compat_revealing_anca_531",
+    "description": "Fit Revealing Anca to Anca's ELSB body. Selecting this outfit uses the body in all scenes."
+  },
+  {
+    "group": "anca_outfit",
+    "option": "compat_revealing_anca_592",
+    "description": "Fit Revealing Thicc Anca by MM to Anca's ELSB body. Selecting this outfit uses the body in all scenes."
+  },
+  {
+    "group": "anca_outfit",
+    "option": "compat_thicc_anca_279",
+    "description": "Fit Thicc Anca by MM to Anca's ELSB body. Selecting this outfit uses the body in all scenes."
+  },
+  {
+    "group": "anca_skin",
+    "option": "vanilla",
+    "description": "Add no skin, makeup or tattoos from this category. Other enabled skin mods can still affect the character."
+  },
+  {
+    "group": "anca_hair",
+    "option": "vanilla",
+    "description": "Keep Anca's original hairstyle."
+  },
+  {
+    "group": "anca_hair",
+    "option": "Anca_B",
+    "description": "Change Anca's hairstyle to the pictured style."
+  },
+  {
+    "group": "anca_hair",
+    "option": "Commoner_C",
+    "description": "Change Anca's hairstyle to the pictured style."
+  },
+  {
+    "group": "anca_hair",
+    "option": "Commoner_E",
+    "description": "Change Anca's hairstyle to the pictured style."
+  },
+  {
+    "group": "anca_hair",
+    "option": "Esme_A",
+    "description": "Change Anca's hairstyle to the pictured style."
+  },
+  {
+    "group": "anca_hair",
+    "option": "Yanna_H",
+    "description": "Change Anca's hairstyle to the pictured style."
+  },
+  {
+    "group": "anca_hair",
+    "option": "compat_chars_626_2488",
+    "description": "Use Anca Puffy Hair with your selected Anca body."
+  },
+  {
+    "group": "anca_hair_color",
+    "option": "vanilla",
+    "description": "Keep Anca's original hair and eyebrow color."
+  },
+  {
+    "group": "anca_hair_color",
+    "option": "01_black",
+    "description": "Change Anca's hair and eyebrow color to black."
+  },
+  {
+    "group": "anca_hair_color",
+    "option": "02_darkbrown",
+    "description": "Change Anca's hair and eyebrow color to dark brown."
+  },
+  {
+    "group": "anca_hair_color",
+    "option": "03_brown",
+    "description": "Change Anca's hair and eyebrow color to brown."
+  },
+  {
+    "group": "anca_hair_color",
+    "option": "04_lightbrown",
+    "description": "Change Anca's hair and eyebrow color to light brown."
+  },
+  {
+    "group": "anca_hair_color",
+    "option": "05_auburn",
+    "description": "Change Anca's hair and eyebrow color to auburn."
+  },
+  {
+    "group": "anca_hair_color",
+    "option": "06_ginger",
+    "description": "Change Anca's hair and eyebrow color to ginger."
+  },
+  {
+    "group": "anca_hair_color",
+    "option": "07_darkblonde",
+    "description": "Change Anca's hair and eyebrow color to dark blonde."
+  },
+  {
+    "group": "anca_hair_color",
+    "option": "08_blonde",
+    "description": "Change Anca's hair and eyebrow color to blonde."
+  },
+  {
+    "group": "anca_hair_color",
+    "option": "09_platinum",
+    "description": "Change Anca's hair and eyebrow color to platinum blonde."
+  },
+  {
+    "group": "anca_hair_color",
+    "option": "10_saltpepper",
+    "description": "Change Anca's hair and eyebrow color to salt and pepper."
+  },
+  {
+    "group": "anca_hair_color",
+    "option": "11_white",
+    "description": "Change Anca's hair and eyebrow color to white."
+  },
+  {
+    "group": "anca_face",
+    "option": "vanilla",
+    "description": "Add no separate face or makeup overlay. A selected skin pack can still change the face."
+  },
+  {
+    "group": "anca_face",
+    "option": "compat_chars_404_2069",
+    "description": "Give Anca a younger face without eyeliner, keeping your selected body."
+  },
+  {
+    "group": "anca_face",
+    "option": "compat_chars_404_2068",
+    "description": "Give Anca a younger face without makeup, keeping your selected body."
+  },
+  {
+    "group": "anca_face",
+    "option": "compat_chars_404_2067",
+    "description": "Give Anca a younger face with makeup, keeping your selected body."
+  },
+  {
+    "group": "anca_face",
+    "option": "compat_chars_512_1957",
+    "description": "Give Anca the aged face from Anca Is Really Old, keeping your selected body."
+  },
+  {
+    "group": "anca_head",
+    "option": "vanilla",
+    "description": "Keep Anca's original head."
+  },
+  {
+    "group": "anca_head",
+    "option": "compat_chars_534_2025",
+    "description": "Use the Rise of Anca Croft replacement head with your selected body."
+  },
+  {
+    "group": "lacra_body",
+    "option": "vanilla",
+    "description": "Keep Lacra's original body."
+  },
+  {
+    "group": "lacra_body",
+    "option": "fitness",
+    "description": "Use Lacra's ELSB body."
+  },
+  {
+    "group": "lacra_body",
+    "option": "pussywalker",
+    "description": "Use Lacra's ELSB body with the included Pussy Walker add-on."
+  },
+  {
+    "group": "lacra_body",
+    "option": "compat_chars_311_1846",
+    "description": "Use the SlimThicc Lacra body. Enable only the SlimThicc original, not the Thicc variant. Other characters keep their selected bodies."
+  },
+  {
+    "group": "lacra_body",
+    "option": "compat_chars_311_1805",
+    "description": "Use the Thicc Lacra body. Enable only the Thicc original, not the SlimThicc variant. Other characters keep their selected bodies."
+  },
+  {
+    "group": "lacra_scope",
+    "option": "vanilla",
+    "description": "Use Lacra's ELSB body in naked scenes only. Choosing a non-vanilla outfit also applies the body to all scenes."
+  },
+  {
+    "group": "lacra_scope",
+    "option": "all",
+    "description": "Use Lacra's ELSB body in both clothed and naked scenes."
+  },
+  {
+    "group": "lacra_outfit",
+    "option": "vanilla",
+    "description": "Keep Lacra's original outfit."
+  },
+  {
+    "group": "lacra_outfit",
+    "option": "nude",
+    "description": "Make Lacra naked. With an ELSB body selected, this also applies that body to all scenes."
+  },
+  {
+    "group": "lacra_outfit",
+    "option": "compat_revealing_lacra",
+    "description": "Fit Revealing Lacra to Lacra's ELSB body. Selecting this outfit uses the body in all scenes."
+  },
+  {
+    "group": "lacra_skin",
+    "option": "vanilla",
+    "description": "Add no skin, makeup or tattoos from this category. Other enabled skin mods can still affect the character."
+  },
+  {
+    "group": "lacra_skin",
+    "option": "compat_lacra_chest",
+    "description": "Use the Vrakhir chest texture fix with your selected Lacra body. Separate face and makeup choices can be combined with it."
+  },
+  {
+    "group": "lacra_skin",
+    "option": "compat_chars_445_2457",
+    "description": "Apply Lacra Gothic Makeup to Lacra's face and body. Enable only the matching Gothic original. Do not combine it with separate face, makeup, chest texture or Pussy Walker body choices."
+  },
+  {
+    "group": "lacra_skin",
+    "option": "compat_chars_445_2454",
+    "description": "Apply Lacra Gothic Vanilla Makeup to Lacra's face and body. Enable only the matching Gothic original. Do not combine it with separate face, makeup, chest texture or Pussy Walker body choices."
+  },
+  {
+    "group": "lacra_skin",
+    "option": "compat_chars_445_2453",
+    "description": "Apply Lacra Gothic Dead Skin Vanilla Makeup v2 to Lacra's face and body. Enable only the matching Gothic original. Do not combine it with separate face, makeup, chest texture or Pussy Walker body choices."
+  },
+  {
+    "group": "lacra_skin",
+    "option": "compat_chars_445_2448",
+    "description": "Apply Lacra Gothic No Makeup to Lacra's face and body. Enable only the matching Gothic original. Do not combine it with separate face, makeup, chest texture or Pussy Walker body choices."
+  },
+  {
+    "group": "lacra_hair",
+    "option": "vanilla",
+    "description": "Keep Lacra's original hairstyle."
+  },
+  {
+    "group": "lacra_hair",
+    "option": "Commoner_A",
+    "description": "Change Lacra's hairstyle to the pictured style."
+  },
+  {
+    "group": "lacra_hair",
+    "option": "Commoner_B",
+    "description": "Change Lacra's hairstyle to the pictured style."
+  },
+  {
+    "group": "lacra_hair",
+    "option": "Commoner_C",
+    "description": "Change Lacra's hairstyle to the pictured style."
+  },
+  {
+    "group": "lacra_hair",
+    "option": "Commoner_E",
+    "description": "Change Lacra's hairstyle to the pictured style."
+  },
+  {
+    "group": "lacra_hair",
+    "option": "Esme_A",
+    "description": "Change Lacra's hairstyle to the pictured style."
+  },
+  {
+    "group": "lacra_hair",
+    "option": "Sarah_A",
+    "description": "Change Lacra's hairstyle to the pictured style."
+  },
+  {
+    "group": "lacra_hair",
+    "option": "XanthesDaughter_A",
+    "description": "Change Lacra's hairstyle to the pictured style."
+  },
+  {
+    "group": "lacra_hair",
+    "option": "Yanna_H",
+    "description": "Change Lacra's hairstyle to the pictured style."
+  },
+  {
+    "group": "lacra_hair",
+    "option": "compat_lacra_hair",
+    "description": "Use Lacra Beautiful Hair with hair physics, keeping your selected body, outfit and scene choices."
+  },
+  {
+    "group": "lacra_hair_color",
+    "option": "vanilla",
+    "description": "Keep Lacra's original hair color."
+  },
+  {
+    "group": "lacra_hair_color",
+    "option": "01_black",
+    "description": "Change Lacra's hair color to black."
+  },
+  {
+    "group": "lacra_hair_color",
+    "option": "02_darkbrown",
+    "description": "Change Lacra's hair color to dark brown."
+  },
+  {
+    "group": "lacra_hair_color",
+    "option": "03_brown",
+    "description": "Change Lacra's hair color to brown."
+  },
+  {
+    "group": "lacra_hair_color",
+    "option": "04_lightbrown",
+    "description": "Change Lacra's hair color to light brown."
+  },
+  {
+    "group": "lacra_hair_color",
+    "option": "05_auburn",
+    "description": "Change Lacra's hair color to auburn."
+  },
+  {
+    "group": "lacra_hair_color",
+    "option": "06_ginger",
+    "description": "Change Lacra's hair color to ginger."
+  },
+  {
+    "group": "lacra_hair_color",
+    "option": "07_darkblonde",
+    "description": "Change Lacra's hair color to dark blonde."
+  },
+  {
+    "group": "lacra_hair_color",
+    "option": "08_blonde",
+    "description": "Change Lacra's hair color to blonde."
+  },
+  {
+    "group": "lacra_hair_color",
+    "option": "09_platinum",
+    "description": "Change Lacra's hair color to platinum blonde."
+  },
+  {
+    "group": "lacra_hair_color",
+    "option": "10_saltpepper",
+    "description": "Change Lacra's hair color to salt and pepper."
+  },
+  {
+    "group": "lacra_hair_color",
+    "option": "11_white",
+    "description": "Change Lacra's hair color to white."
+  },
+  {
+    "group": "lacra_eyes",
+    "option": "vanilla",
+    "description": "Keep Lacra's original vampire eye color."
+  },
+  {
+    "group": "lacra_eyes",
+    "option": "blue",
+    "description": "Change Lacra's vampire eye color to blue."
+  },
+  {
+    "group": "lacra_eyes",
+    "option": "green",
+    "description": "Change Lacra's vampire eye color to green."
+  },
+  {
+    "group": "lacra_eyes",
+    "option": "orange",
+    "description": "Change Lacra's vampire eye color to orange."
+  },
+  {
+    "group": "lacra_eyes",
+    "option": "purple",
+    "description": "Change Lacra's vampire eye color to purple."
+  },
+  {
+    "group": "lacra_eyes",
+    "option": "red",
+    "description": "Change Lacra's vampire eye color to red."
+  },
+  {
+    "group": "lacra_eyes",
+    "option": "yellow",
+    "description": "Change Lacra's vampire eye color to yellow."
+  },
+  {
+    "group": "lacra_face",
+    "option": "vanilla",
+    "description": "Add no separate face or makeup overlay. A selected skin pack can still change the face."
+  },
+  {
+    "group": "lacra_face",
+    "option": "compat_chars_550_2442",
+    "description": "Apply Lacra's Makeup v2 without the Eye of Horus. Enable only one Lacra face or makeup original."
+  },
+  {
+    "group": "lacra_face",
+    "option": "compat_chars_550_2444",
+    "description": "Apply Lacra Natural Makeup. Enable only one Lacra face or makeup original."
+  },
+  {
+    "group": "lacra_face",
+    "option": "compat_chars_550_2443",
+    "description": "Apply Lacra Makeup. Enable only one Lacra face or makeup original."
+  },
+  {
+    "group": "lacra_face",
+    "option": "compat_chars_427_1588",
+    "description": "Apply Lacra Young Makeup. Enable only one Lacra face or makeup original."
+  },
+  {
+    "group": "lacra_face",
+    "option": "compat_chars_427_1599",
+    "description": "Apply the alternative Lacra Young Makeup. Enable only one Lacra face or makeup original."
+  },
+  {
+    "group": "lacra_surface",
+    "option": "vanilla",
+    "description": "Add no separate face smoothing. A selected skin pack can still change Lacra's face surface."
+  },
+  {
+    "group": "lacra_surface",
+    "option": "compat_chars_550_2083",
+    "description": "Smooth Lacra's face surface. Can be combined with separate face makeup, expression wrinkles and chest textures."
+  },
+  {
+    "group": "lacra_wrinkles",
+    "option": "vanilla",
+    "description": "Add no separate expression wrinkle changes. A selected skin pack can still change Lacra's wrinkles."
+  },
+  {
+    "group": "lacra_wrinkles",
+    "option": "compat_chars_550_2085",
+    "description": "Reduce Lacra's expression wrinkles. Can be combined with separate face makeup, smooth skin and chest textures."
+  },
+  {
+    "group": "lacra_head",
+    "option": "vanilla",
+    "description": "Keep Lacra's original head."
+  },
+  {
+    "group": "lacra_head",
+    "option": "compat_chars_533_2024",
+    "description": "Use the Rise of Lacra Croft human head with your selected body."
+  },
+  {
+    "group": "marat_body",
+    "option": "vanilla",
+    "description": "Keep Marat's original body."
+  },
+  {
+    "group": "marat_body",
+    "option": "fitness",
+    "description": "Use Marat's ELSB body."
+  },
+  {
+    "group": "marat_scope",
+    "option": "vanilla",
+    "description": "Use Marat's ELSB body in naked scenes only. Choosing a non-vanilla outfit also applies the body to all scenes."
+  },
+  {
+    "group": "marat_scope",
+    "option": "all",
+    "description": "Use Marat's ELSB body in both clothed and naked scenes."
+  },
+  {
+    "group": "marat_romance",
+    "option": "vanilla",
+    "description": "Keep underwear as shown in the original romance scenes."
+  },
+  {
+    "group": "marat_romance",
+    "option": "undress",
+    "description": "Remove underwear in romance scenes that normally show it."
+  },
+  {
+    "group": "marat_outfit",
+    "option": "vanilla",
+    "description": "Keep Marat's original outfit."
+  },
+  {
+    "group": "marat_outfit",
+    "option": "nude",
+    "description": "Make Marat naked. With an ELSB body selected, this also applies that body to all scenes."
+  },
+  {
+    "group": "marat_genitals",
+    "option": "vanilla",
+    "description": "Add no genital replacement."
+  },
+  {
+    "group": "marat_genitals",
+    "option": "compat_coen_nude_marat",
+    "description": "Fit Coen's Nude Mod to Marat's ELSB body. Coen's body choice is independent."
+  },
+  {
+    "group": "marat_skin",
+    "option": "vanilla",
+    "description": "Add no skin, makeup or tattoos from this category. Other enabled skin mods can still affect the character."
+  },
+  {
+    "group": "marat_hair",
+    "option": "vanilla",
+    "description": "Keep Marat's original hairstyle."
+  },
+  {
+    "group": "marat_hair",
+    "option": "Ambrus_A",
+    "description": "Change Marat's hairstyle to the pictured style."
+  },
+  {
+    "group": "marat_hair",
+    "option": "Commoner_B",
+    "description": "Change Marat's hairstyle to the pictured style."
+  },
+  {
+    "group": "marat_hair",
+    "option": "Commoner_D",
+    "description": "Change Marat's hairstyle to the pictured style."
+  },
+  {
+    "group": "marat_hair",
+    "option": "Commoner_F",
+    "description": "Change Marat's hairstyle to the pictured style."
+  },
+  {
+    "group": "marat_hair",
+    "option": "Isbrand_A",
+    "description": "Change Marat's hairstyle to the pictured style."
+  },
+  {
+    "group": "marat_hair",
+    "option": "Mihai_A",
+    "description": "Change Marat's hairstyle to the pictured style."
+  },
+  {
+    "group": "marat_hair_color",
+    "option": "vanilla",
+    "description": "Keep Marat's original hair and eyebrow color."
+  },
+  {
+    "group": "marat_hair_color",
+    "option": "01_black",
+    "description": "Change Marat's hair and eyebrow color to black."
+  },
+  {
+    "group": "marat_hair_color",
+    "option": "02_darkbrown",
+    "description": "Change Marat's hair and eyebrow color to dark brown."
+  },
+  {
+    "group": "marat_hair_color",
+    "option": "03_brown",
+    "description": "Change Marat's hair and eyebrow color to brown."
+  },
+  {
+    "group": "marat_hair_color",
+    "option": "04_lightbrown",
+    "description": "Change Marat's hair and eyebrow color to light brown."
+  },
+  {
+    "group": "marat_hair_color",
+    "option": "05_auburn",
+    "description": "Change Marat's hair and eyebrow color to auburn."
+  },
+  {
+    "group": "marat_hair_color",
+    "option": "06_ginger",
+    "description": "Change Marat's hair and eyebrow color to ginger."
+  },
+  {
+    "group": "marat_hair_color",
+    "option": "07_darkblonde",
+    "description": "Change Marat's hair and eyebrow color to dark blonde."
+  },
+  {
+    "group": "marat_hair_color",
+    "option": "08_blonde",
+    "description": "Change Marat's hair and eyebrow color to blonde."
+  },
+  {
+    "group": "marat_hair_color",
+    "option": "09_platinum",
+    "description": "Change Marat's hair and eyebrow color to platinum blonde."
+  },
+  {
+    "group": "marat_hair_color",
+    "option": "10_saltpepper",
+    "description": "Change Marat's hair and eyebrow color to salt and pepper."
+  },
+  {
+    "group": "marat_hair_color",
+    "option": "11_white",
+    "description": "Change Marat's hair and eyebrow color to white."
+  },
+  {
+    "group": "marat_beard",
+    "option": "vanilla",
+    "description": "Keep Marat's original beard."
+  },
+  {
+    "group": "marat_beard",
+    "option": "0_none",
+    "description": "Make Marat clean-shaven."
+  },
+  {
+    "group": "marat_beard",
+    "option": "Andrei_A",
+    "description": "Change Marat's beard to the pictured style."
+  },
+  {
+    "group": "marat_beard",
+    "option": "Commoner_B",
+    "description": "Change Marat's beard to the pictured style."
+  },
+  {
+    "group": "marat_beard",
+    "option": "Commoner_C",
+    "description": "Change Marat's beard to the pictured style."
+  },
+  {
+    "group": "marat_beard",
+    "option": "Commoner_D",
+    "description": "Change Marat's beard to the pictured style."
+  },
+  {
+    "group": "marat_beard",
+    "option": "Commoner_E",
+    "description": "Change Marat's beard to the pictured style."
+  },
+  {
+    "group": "marat_beard",
+    "option": "Neberu_A",
+    "description": "Change Marat's beard to the pictured style."
+  },
+  {
+    "group": "marat_beard",
+    "option": "Pieter_A",
+    "description": "Change Marat's beard to the pictured style."
+  },
+  {
+    "group": "marat_beard",
+    "option": "Villager_A",
+    "description": "Change Marat's beard to the pictured style."
+  },
+  {
+    "group": "marat_beard_color",
+    "option": "vanilla",
+    "description": "Keep Marat's original beard color."
+  },
+  {
+    "group": "marat_beard_color",
+    "option": "01_black",
+    "description": "Change Marat's beard color to black."
+  },
+  {
+    "group": "marat_beard_color",
+    "option": "02_darkbrown",
+    "description": "Change Marat's beard color to dark brown."
+  },
+  {
+    "group": "marat_beard_color",
+    "option": "03_brown",
+    "description": "Change Marat's beard color to brown."
+  },
+  {
+    "group": "marat_beard_color",
+    "option": "04_lightbrown",
+    "description": "Change Marat's beard color to light brown."
+  },
+  {
+    "group": "marat_beard_color",
+    "option": "05_auburn",
+    "description": "Change Marat's beard color to auburn."
+  },
+  {
+    "group": "marat_beard_color",
+    "option": "06_ginger",
+    "description": "Change Marat's beard color to ginger."
+  },
+  {
+    "group": "marat_beard_color",
+    "option": "07_darkblonde",
+    "description": "Change Marat's beard color to dark blonde."
+  },
+  {
+    "group": "marat_beard_color",
+    "option": "08_blonde",
+    "description": "Change Marat's beard color to blonde."
+  },
+  {
+    "group": "marat_beard_color",
+    "option": "09_platinum",
+    "description": "Change Marat's beard color to platinum blonde."
+  },
+  {
+    "group": "marat_beard_color",
+    "option": "10_saltpepper",
+    "description": "Change Marat's beard color to salt and pepper."
+  },
+  {
+    "group": "marat_beard_color",
+    "option": "11_white",
+    "description": "Change Marat's beard color to white."
+  }
+]

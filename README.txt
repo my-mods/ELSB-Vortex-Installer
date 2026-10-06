@@ -19,25 +19,18 @@ remain separate requirements; patches contain only their reviewed overrides.
 You manage the originals' activation in Vortex.
 No ELSB toolkit program, configuration or direct-copy operation is installed.
 
-Every wizard choice has a picture. Face/head options now show face details
-from the original ELSB previews or Nexus screenshots. Where the author uses
-one page screenshot for several makeup variants, the caption says so.
-Coen, Anca and Lacra's default head references use AI restoration, and the
-Lacra Beautiful Hair preview has its subtitle and Skip prompt removed with AI.
-These edited references are labelled: fine details can differ from the game.
-Compressed previews keep their size small; original source images are retained.
-The Beautiful Hair preview is framed around Lacra's face and hair.
-Two dim Lacra face references also use labelled AI brightness corrections.
-ELSB + Pussy Walker shows two labelled pictures side by side: the ELSB body
-and an original Pussy Walker mod image. They are source references, not a
-capture of the adapted combination. Preview images are installer-only.
+Every wizard choice has a picture with source credits. Captions identify
+shared previews and options that are not pictured. Required downloads and
+compatibility instructions appear beside the choices that need them.
+ELSB + Pussy Walker shows the two source mods side by side; the combined
+body is not pictured. Preview images are used only in the installer.
 
 Anca faces have their own category. Ordinary Lacra makeup can accompany
 Vrakhir chest textures. Gothic Lacra variants remain complete face-and-body
 skins and cannot be combined with separate makeup/chest selections or the
-Pussy Walker atlas. See Compatibility.txt for the exact supported originals.
+Pussy Walker body. See Compatibility.txt for the exact supported originals.
 
-Each compatibility choice includes an activation warning naming the Nexus
+Each compatibility choice names the required Nexus
 mod and exact supported archive. Activate and deploy that original as its own
 Vortex entry when using the patch. The wizard does not check or change its
 activation state. See Compatibility.txt for the same archive names.

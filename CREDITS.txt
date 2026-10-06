@@ -27,12 +27,11 @@ Asset inspection/build tools: retoc, CUE4Parse and UAssetAPI contributors.
 This local package does not imply endorsement or public redistribution rights.
 
 Installer preview images:
-- Original ELSB option previews by Akazonae36, retained alongside the labelled
-  AI-enhanced Coen, Anca and Lacra default head references.
+- ELSB option previews by Akazonae36.
 - Lacra Beautiful Hair Nexus preview by gleb63 (Nexus 570).
 - Lacra Chest Texture - Vrakhir Fix Nexus illustration by PinkyDude (Nexus 709).
-The personal body choices reuse the corresponding ELSB body reference pictures;
-they do not depict the added geometry. Per-choice sources, credits and image
+The combined body choices show ELSB and Pussy Walker source images side by
+side; the combined body is not pictured. Per-choice sources, credits and image
 hashes are in Provenance/installer-previews.json. The images are included for
 this personal installer only; no new redistribution permission is implied.
 
@@ -45,11 +44,5 @@ retain original texture/cloth content. Original mods are required separately.
 
 Face preview screenshots: original Nexus authors LFAGM and Christeenith;
 ELSB head/body references: Akazonae36; Pussy Walker screenshot: supergreatluffy.
-Default head close-ups use the labelled AI-enhanced references. Unedited face
-framing and side-by-side layouts retain the embedded source image bytes.
-The Lacra Beautiful Hair preview uses AI to remove its subtitle and Skip prompt,
-with a tighter face-and-hair frame. Nexus533 and Nexus427 face references use
-labelled AI brightness corrections and UI cleanup, with original sources kept.
-AI-edited references may differ in fine details; original raster sources remain
-included. Image edits do not change game assets or imply new authorship rights.
-Sources, credits and image hashes are in Provenance/installer-previews.json.
+Original source images are retained. Per-image source, framing and editing
+records are in Provenance/installer-previews.json.

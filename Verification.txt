@@ -21,6 +21,11 @@ Completed asset and package checks
 - Actual installed Vortex 2.7.2 native FOMOD engine: 349 scenarios, including
   all nine Anca/Lacra body combinations, every selectable option, paired beard
   colours, scene/outfit rules, conditional fitted patches and hair-table winners.
+- All 185 choices reference packaged pictures: 181 unchanged ELSB previews,
+  two unchanged Nexus images, and two explicitly labelled ELSB body references
+  for the personal variants. Image bytes, decoding, native wizard paths and
+  per-patch Nexus-name/archive activation warnings are checked on source and ZIP.
+  Option identities, order, defaults and installed game files remain unchanged.
 - Saved installer choices reopen without changes when passed to the engine.
   A separate ELSB choice-preservation extension covers Vortex's missing-preset
   handoff on local replacements and version updates. Thirty-two additional native
@@ -61,4 +66,5 @@ checks do not establish these results. No gameplay performance claim is made.
 
 The choice-preservation extension has not been installed into live Vortex.
 Its engine and callback checks use disposable fixtures; live UI acceptance
-remains pending. No public upload was performed.
+remains pending, as does the live picture and warning layout. No public upload
+was performed.

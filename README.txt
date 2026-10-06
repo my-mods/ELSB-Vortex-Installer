@@ -12,6 +12,16 @@ Lacra hair/texture compatibility containers are separate additions. Original
 third-party mods are not bundled. You manage their activation in Vortex.
 No ELSB toolkit program, configuration or direct-copy operation is installed.
 
+Every wizard choice has a picture. Original ELSB previews are reused unchanged;
+the Lacra hair and chest patches use their Nexus images. The two personal body
+choices show a clearly identified ELSB body reference; their added geometry is
+not pictured. Preview images remain in the installer and are not game files.
+
+Each compatibility choice starts with an activation warning naming the Nexus
+mod and exact supported archive. Activate and deploy that original as its own
+Vortex entry when using the patch. The wizard does not check or change its
+activation state. See Compatibility.txt for the same archive names.
+
 Installation
 - Vortex: Complete Migration.txt, install ELSB - Vortex Installer.zip, choose options, enable this entry and deploy. Keep required third-party originals as separate entries.
 - Manual: This archive contains alternative payloads and requires its FOMOD wizard. Do not copy the whole Payload directory into the game.

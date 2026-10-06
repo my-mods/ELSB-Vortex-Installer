@@ -65,3 +65,44 @@ variants, 261 have inherited retoc checksum failures. These have not been
 silently rewritten. The 24 personal add-on/new patch variants verify.
 This distinction is provenance and package evidence, not gameplay approval.
 
+Required originals: activate and deploy in Vortex
+These are exact supported archives, not instructions to activate every mod.
+Use only the original matching a compatibility choice you select. The wizard
+does not activate originals or detect their current enabled state.
+
+Activate and deploy in Vortex: Coen's Nude Mod
+Archive: Coen Nude 281 1.0.8 2026-09-27T15-48Z Y585g2wtS.rar
+https://www.nexusmods.com/thebloodofdawnwalker/mods/281
+
+Activate and deploy in Vortex: Revealing Anca
+Archive: Revealing Anca 531 1.2.1 2026-09-23T13-29Z tzYzjaIeC.zip
+https://www.nexusmods.com/thebloodofdawnwalker/mods/531
+
+Activate and deploy in Vortex: Revealing Lacra
+Archive: Revealing Lacra 501 1.2 2026-09-23T01-46Z kZ3Z1psoc.zip
+https://www.nexusmods.com/thebloodofdawnwalker/mods/501
+
+Activate and deploy in Vortex: Lacra Beautiful Hair with hair physics (and color options )
+Archive: Lacra Beautiful Hair (fixed) 570 2 2026-09-18T09-12Z Y585g2w0d.rar
+https://www.nexusmods.com/thebloodofdawnwalker/mods/570
+This patch targets the fixed v2 archive. Newer hair/physics versions and optional colours require separate compatibility review.
+
+Activate and deploy in Vortex: Lacra Chest Texture - Vrakhir Fix
+Archive: Lacra Vrakhir Chest Texture 709 1.0.0 2026-10-03T09-06Z lfUfKoz4Q.zip
+https://www.nexusmods.com/thebloodofdawnwalker/mods/709
+
+Activate and deploy in Vortex: Wrong Sized Tanktop For Thicc Anca
+Archive: Loose Anca 607 1 2026-09-20T03-29Z XJrJvVqEZ.rar
+https://www.nexusmods.com/thebloodofdawnwalker/mods/607
+
+Activate and deploy in Vortex: Revealing Thicc Anca by MM
+Archive: Revealing Anca 592 1 2026-09-19T00-08Z mB9BLvDgW.rar
+https://www.nexusmods.com/thebloodofdawnwalker/mods/592
+
+Activate and deploy in Vortex: Thicc Anca by MM
+Archive: ThiccAnca 279 1.1 2026-09-07T04-54Z C2B29rxz2.zip
+https://www.nexusmods.com/thebloodofdawnwalker/mods/279
+
+Keep disabled in Vortex: Pussywalker
+Archive: VaginaMod 370 1 2026-09-09T18-22Z cpQpRzh5N.7z
+https://www.nexusmods.com/thebloodofdawnwalker/mods/370

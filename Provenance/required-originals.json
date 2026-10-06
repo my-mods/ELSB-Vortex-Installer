@@ -1,0 +1,122 @@
+[
+  {
+    "id": "coen_nude",
+    "nexus_mod_name": "Coen's Nude Mod",
+    "nexus_mod_id": 281,
+    "url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/281",
+    "file_id": 2748,
+    "file_title": "Coen Nude",
+    "version": "1.0.8",
+    "archive": "Coen Nude 281 1.0.8 2026-09-27T15-48Z Y585g2wtS.rar",
+    "action": "Activate and deploy",
+    "note": ""
+  },
+  {
+    "id": "coen_nude_marat",
+    "nexus_mod_name": "Coen's Nude Mod",
+    "nexus_mod_id": 281,
+    "url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/281",
+    "file_id": 2748,
+    "file_title": "Coen Nude",
+    "version": "1.0.8",
+    "archive": "Coen Nude 281 1.0.8 2026-09-27T15-48Z Y585g2wtS.rar",
+    "action": "Activate and deploy",
+    "note": ""
+  },
+  {
+    "id": "revealing_anca_531",
+    "nexus_mod_name": "Revealing Anca",
+    "nexus_mod_id": 531,
+    "url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/531",
+    "file_id": 2521,
+    "file_title": "Revealing Anca",
+    "version": "1.2.1",
+    "archive": "Revealing Anca 531 1.2.1 2026-09-23T13-29Z tzYzjaIeC.zip",
+    "action": "Activate and deploy",
+    "note": ""
+  },
+  {
+    "id": "revealing_lacra",
+    "nexus_mod_name": "Revealing Lacra",
+    "nexus_mod_id": 501,
+    "url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/501",
+    "file_id": 2503,
+    "file_title": "Revealing Lacra",
+    "version": "1.2",
+    "archive": "Revealing Lacra 501 1.2 2026-09-23T01-46Z kZ3Z1psoc.zip",
+    "action": "Activate and deploy",
+    "note": ""
+  },
+  {
+    "id": "lacra_hair",
+    "nexus_mod_name": "Lacra Beautiful Hair with hair physics (and color options )",
+    "nexus_mod_id": 570,
+    "url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/570",
+    "file_id": 2190,
+    "file_title": "Lacra Beautiful Hair (fixed)",
+    "version": "2",
+    "archive": "Lacra Beautiful Hair (fixed) 570 2 2026-09-18T09-12Z Y585g2w0d.rar",
+    "action": "Activate and deploy",
+    "note": "This patch targets the fixed v2 archive. Newer hair/physics versions and optional colours require separate compatibility review."
+  },
+  {
+    "id": "lacra_chest",
+    "nexus_mod_name": "Lacra Chest Texture - Vrakhir Fix",
+    "nexus_mod_id": 709,
+    "url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/709",
+    "file_id": 3031,
+    "file_title": "Lacra Vrakhir Chest Texture",
+    "version": "1.0.0",
+    "archive": "Lacra Vrakhir Chest Texture 709 1.0.0 2026-10-03T09-06Z lfUfKoz4Q.zip",
+    "action": "Activate and deploy",
+    "note": ""
+  },
+  {
+    "id": "loose_anca",
+    "nexus_mod_name": "Wrong Sized Tanktop For Thicc Anca",
+    "nexus_mod_id": 607,
+    "url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/607",
+    "file_id": 2337,
+    "file_title": "Loose Anca",
+    "version": "1",
+    "archive": "Loose Anca 607 1 2026-09-20T03-29Z XJrJvVqEZ.rar",
+    "action": "Activate and deploy",
+    "note": ""
+  },
+  {
+    "id": "revealing_anca_592",
+    "nexus_mod_name": "Revealing Thicc Anca by MM",
+    "nexus_mod_id": 592,
+    "url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/592",
+    "file_id": 2258,
+    "file_title": "Revealing Anca",
+    "version": "1",
+    "archive": "Revealing Anca 592 1 2026-09-19T00-08Z mB9BLvDgW.rar",
+    "action": "Activate and deploy",
+    "note": ""
+  },
+  {
+    "id": "thicc_anca_279",
+    "nexus_mod_name": "Thicc Anca by MM",
+    "nexus_mod_id": 279,
+    "url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/279",
+    "file_id": 825,
+    "file_title": "ThiccAnca",
+    "version": "1.1",
+    "archive": "ThiccAnca 279 1.1 2026-09-07T04-54Z C2B29rxz2.zip",
+    "action": "Activate and deploy",
+    "note": ""
+  },
+  {
+    "id": "pussywalker_conflict",
+    "nexus_mod_name": "Pussywalker",
+    "nexus_mod_id": 370,
+    "url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/370",
+    "file_id": 1236,
+    "file_title": "VaginaMod",
+    "version": "1",
+    "archive": "VaginaMod 370 1 2026-09-09T18-22Z cpQpRzh5N.7z",
+    "action": "Keep disabled",
+    "note": ""
+  }
+]

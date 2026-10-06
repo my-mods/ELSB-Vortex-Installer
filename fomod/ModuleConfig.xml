@@ -10,7 +10,10 @@
         <group name="Body" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/body/_vanilla.png" />
               <conditionFlags>
                 <flag name="body">vanilla</flag>
               </conditionFlags>
@@ -19,7 +22,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="ELSB">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/body/masculine/preview.png" />
               <conditionFlags>
                 <flag name="body">masculine</flag>
               </conditionFlags>
@@ -32,7 +38,10 @@
         <group name="Romance scenes" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/romance/_vanilla.png" />
               <conditionFlags>
                 <flag name="romance">vanilla</flag>
               </conditionFlags>
@@ -41,7 +50,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Undress (scenes where vanilla shows underwear)">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/romance/undress/preview.png" />
               <conditionFlags>
                 <flag name="romance">undress</flag>
               </conditionFlags>
@@ -54,7 +66,10 @@
         <group name="Underwear (normal scenes)" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="On (vanilla)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/coen_uw/_vanilla.png" />
               <conditionFlags>
                 <flag name="coen_uw">vanilla</flag>
               </conditionFlags>
@@ -63,7 +78,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Off (also in normal scenes)">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex. First-install suggestion from the saved toolkit settings.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/coen_uw/off/preview.png" />
               <conditionFlags>
                 <flag name="coen_uw">off</flag>
               </conditionFlags>
@@ -76,7 +94,10 @@
         <group name="Genitals" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="None (vanilla)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/genitals/_vanilla.png" />
               <conditionFlags>
                 <flag name="genitals">vanilla</flag>
               </conditionFlags>
@@ -85,7 +106,16 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Coen's Nude Mod (ELSB fit)">
-              <description>Optional compatibility patch only. Keep the matching original mod present and enabled in Vortex. See Compatibility.txt and the read-only audit for exact supported source hashes. Requires Coen’s ELSB body. </description>
+              <description>WARNING: Activate and deploy the required original in Vortex.
+Nexus mod: Coen's Nude Mod
+Archive: Coen Nude 281 1.0.8 2026-09-27T15-48Z Y585g2wtS.rar
+This choice installs a compatibility patch; it does not activate the original.
+https://www.nexusmods.com/thebloodofdawnwalker/mods/281
+
+Optional compatibility patch only. Keep the matching original mod present and enabled in Vortex. See Compatibility.txt and the read-only audit for exact supported source hashes. Requires Coen’s ELSB body.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/compat/coen_nude/preview.png" />
               <conditionFlags>
                 <flag name="genitals">compat_coen_nude</flag>
               </conditionFlags>
@@ -108,7 +138,10 @@
         <group name="Skin, makeup and tattoos" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="None">
-              <description>No built-in skin override. Manage other skin, makeup and tattoo mods separately in Vortex; only explicitly reviewed combinations receive patches here. First-install suggestion from the saved toolkit settings.</description>
+              <description>No built-in skin override. Manage other skin, makeup and tattoo mods separately in Vortex; only explicitly reviewed combinations receive patches here. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/skin/_vanilla.png" />
               <conditionFlags>
                 <flag name="skin">vanilla</flag>
               </conditionFlags>
@@ -125,7 +158,10 @@
         <group name="Hairstyle" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/hair/_vanilla.png" />
               <conditionFlags>
                 <flag name="hair">vanilla</flag>
               </conditionFlags>
@@ -134,7 +170,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Ambrus's hair">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/hair/Ambrus_A/preview.png" />
               <conditionFlags>
                 <flag name="hair">Ambrus_A</flag>
               </conditionFlags>
@@ -143,7 +182,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Andrei's hair">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/hair/Andrei_A/preview.png" />
               <conditionFlags>
                 <flag name="hair">Andrei_A</flag>
               </conditionFlags>
@@ -152,7 +194,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Villager hair B">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/hair/Commoner_B/preview.png" />
               <conditionFlags>
                 <flag name="hair">Commoner_B</flag>
               </conditionFlags>
@@ -161,7 +206,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Villager hair C">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/hair/Commoner_C/preview.png" />
               <conditionFlags>
                 <flag name="hair">Commoner_C</flag>
               </conditionFlags>
@@ -170,7 +218,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Villager hair D">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/hair/Commoner_D/preview.png" />
               <conditionFlags>
                 <flag name="hair">Commoner_D</flag>
               </conditionFlags>
@@ -179,7 +230,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Villager hair E (braids)">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/hair/Commoner_E/preview.png" />
               <conditionFlags>
                 <flag name="hair">Commoner_E</flag>
               </conditionFlags>
@@ -188,7 +242,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Villager hair F">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/hair/Commoner_F/preview.png" />
               <conditionFlags>
                 <flag name="hair">Commoner_F</flag>
               </conditionFlags>
@@ -197,7 +254,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Florin's hair">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/hair/Florin_A/preview.png" />
               <conditionFlags>
                 <flag name="hair">Florin_A</flag>
               </conditionFlags>
@@ -206,7 +266,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Isbrand's hair">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/hair/Isbrand_A/preview.png" />
               <conditionFlags>
                 <flag name="hair">Isbrand_A</flag>
               </conditionFlags>
@@ -215,7 +278,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Marat's hair (tied)">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/hair/Marat_B/preview.png" />
               <conditionFlags>
                 <flag name="hair">Marat_B</flag>
               </conditionFlags>
@@ -224,7 +290,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Marat's hair (loose)">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/hair/Marat_C/preview.png" />
               <conditionFlags>
                 <flag name="hair">Marat_C</flag>
               </conditionFlags>
@@ -233,7 +302,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Mihai's hair">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/hair/Mihai_A/preview.png" />
               <conditionFlags>
                 <flag name="hair">Mihai_A</flag>
               </conditionFlags>
@@ -242,7 +314,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Vicho's hair">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/hair/Vicho_A/preview.png" />
               <conditionFlags>
                 <flag name="hair">Vicho_A</flag>
               </conditionFlags>
@@ -255,7 +330,10 @@
         <group name="Hair color (and brows)" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/hair_color/_vanilla.png" />
               <conditionFlags>
                 <flag name="hair_color">vanilla</flag>
               </conditionFlags>
@@ -264,7 +342,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Black">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/hair_color/01_black/preview.png" />
               <conditionFlags>
                 <flag name="hair_color">01_black</flag>
               </conditionFlags>
@@ -273,7 +354,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Dark brown">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/hair_color/02_darkbrown/preview.png" />
               <conditionFlags>
                 <flag name="hair_color">02_darkbrown</flag>
               </conditionFlags>
@@ -282,7 +366,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Brown">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/hair_color/03_brown/preview.png" />
               <conditionFlags>
                 <flag name="hair_color">03_brown</flag>
               </conditionFlags>
@@ -291,7 +378,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Light brown">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/hair_color/04_lightbrown/preview.png" />
               <conditionFlags>
                 <flag name="hair_color">04_lightbrown</flag>
               </conditionFlags>
@@ -300,7 +390,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Auburn">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/hair_color/05_auburn/preview.png" />
               <conditionFlags>
                 <flag name="hair_color">05_auburn</flag>
               </conditionFlags>
@@ -309,7 +402,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Ginger">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/hair_color/06_ginger/preview.png" />
               <conditionFlags>
                 <flag name="hair_color">06_ginger</flag>
               </conditionFlags>
@@ -318,7 +414,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Dark blonde">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/hair_color/07_darkblonde/preview.png" />
               <conditionFlags>
                 <flag name="hair_color">07_darkblonde</flag>
               </conditionFlags>
@@ -327,7 +426,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Blonde">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/hair_color/08_blonde/preview.png" />
               <conditionFlags>
                 <flag name="hair_color">08_blonde</flag>
               </conditionFlags>
@@ -336,7 +438,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Platinum blonde">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/hair_color/09_platinum/preview.png" />
               <conditionFlags>
                 <flag name="hair_color">09_platinum</flag>
               </conditionFlags>
@@ -345,7 +450,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Salt and pepper">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/hair_color/10_saltpepper/preview.png" />
               <conditionFlags>
                 <flag name="hair_color">10_saltpepper</flag>
               </conditionFlags>
@@ -354,7 +462,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="White">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/hair_color/11_white/preview.png" />
               <conditionFlags>
                 <flag name="hair_color">11_white</flag>
               </conditionFlags>
@@ -367,7 +478,10 @@
         <group name="Beard" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="None">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/beard/_vanilla.png" />
               <conditionFlags>
                 <flag name="beard">vanilla</flag>
               </conditionFlags>
@@ -376,7 +490,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Andrei's beard">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/beard/Andrei_A/preview.png" />
               <conditionFlags>
                 <flag name="beard">Andrei_A</flag>
               </conditionFlags>
@@ -385,7 +502,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Villager beard B">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/beard/Commoner_B/preview.png" />
               <conditionFlags>
                 <flag name="beard">Commoner_B</flag>
               </conditionFlags>
@@ -394,7 +514,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Villager beard C">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/beard/Commoner_C/preview.png" />
               <conditionFlags>
                 <flag name="beard">Commoner_C</flag>
               </conditionFlags>
@@ -403,7 +526,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Villager beard D">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/beard/Commoner_D/preview.png" />
               <conditionFlags>
                 <flag name="beard">Commoner_D</flag>
               </conditionFlags>
@@ -412,7 +538,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Villager beard E">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/beard/Commoner_E/preview.png" />
               <conditionFlags>
                 <flag name="beard">Commoner_E</flag>
               </conditionFlags>
@@ -421,7 +550,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Marat's beard">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/beard/Marat_A/preview.png" />
               <conditionFlags>
                 <flag name="beard">Marat_A</flag>
               </conditionFlags>
@@ -430,7 +562,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Neberu's beard A">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/beard/Neberu_A/preview.png" />
               <conditionFlags>
                 <flag name="beard">Neberu_A</flag>
               </conditionFlags>
@@ -439,7 +574,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Pieter's beard">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/beard/Pieter_A/preview.png" />
               <conditionFlags>
                 <flag name="beard">Pieter_A</flag>
               </conditionFlags>
@@ -448,7 +586,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Villager beard (other)">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/beard/Villager_A/preview.png" />
               <conditionFlags>
                 <flag name="beard">Villager_A</flag>
               </conditionFlags>
@@ -461,7 +602,10 @@
         <group name="Beard color" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/beard_color/_vanilla.png" />
               <conditionFlags>
                 <flag name="beard_color">vanilla</flag>
               </conditionFlags>
@@ -470,7 +614,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Black">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/beard_color/01_black/preview.png" />
               <conditionFlags>
                 <flag name="beard_color">01_black</flag>
               </conditionFlags>
@@ -479,7 +626,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Dark brown">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/beard_color/02_darkbrown/preview.png" />
               <conditionFlags>
                 <flag name="beard_color">02_darkbrown</flag>
               </conditionFlags>
@@ -488,7 +638,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Brown">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/beard_color/03_brown/preview.png" />
               <conditionFlags>
                 <flag name="beard_color">03_brown</flag>
               </conditionFlags>
@@ -497,7 +650,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Light brown">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/beard_color/04_lightbrown/preview.png" />
               <conditionFlags>
                 <flag name="beard_color">04_lightbrown</flag>
               </conditionFlags>
@@ -506,7 +662,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Auburn">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/beard_color/05_auburn/preview.png" />
               <conditionFlags>
                 <flag name="beard_color">05_auburn</flag>
               </conditionFlags>
@@ -515,7 +674,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Ginger">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/beard_color/06_ginger/preview.png" />
               <conditionFlags>
                 <flag name="beard_color">06_ginger</flag>
               </conditionFlags>
@@ -524,7 +686,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Dark blonde">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/beard_color/07_darkblonde/preview.png" />
               <conditionFlags>
                 <flag name="beard_color">07_darkblonde</flag>
               </conditionFlags>
@@ -533,7 +698,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Blonde">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/beard_color/08_blonde/preview.png" />
               <conditionFlags>
                 <flag name="beard_color">08_blonde</flag>
               </conditionFlags>
@@ -542,7 +710,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Platinum blonde">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/beard_color/09_platinum/preview.png" />
               <conditionFlags>
                 <flag name="beard_color">09_platinum</flag>
               </conditionFlags>
@@ -551,7 +722,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Salt and pepper">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/beard_color/10_saltpepper/preview.png" />
               <conditionFlags>
                 <flag name="beard_color">10_saltpepper</flag>
               </conditionFlags>
@@ -560,7 +734,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="White">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/beard_color/11_white/preview.png" />
               <conditionFlags>
                 <flag name="beard_color">11_white</flag>
               </conditionFlags>
@@ -573,7 +750,10 @@
         <group name="Vampire eye color" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/eyes/_vanilla.png" />
               <conditionFlags>
                 <flag name="eyes">vanilla</flag>
               </conditionFlags>
@@ -582,7 +762,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Blue">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/eyes/blue/preview.png" />
               <conditionFlags>
                 <flag name="eyes">blue</flag>
               </conditionFlags>
@@ -591,7 +774,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Green">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/eyes/green/preview.png" />
               <conditionFlags>
                 <flag name="eyes">green</flag>
               </conditionFlags>
@@ -600,7 +786,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Orange">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/eyes/orange/preview.png" />
               <conditionFlags>
                 <flag name="eyes">orange</flag>
               </conditionFlags>
@@ -609,7 +798,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Purple">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/eyes/purple/preview.png" />
               <conditionFlags>
                 <flag name="eyes">purple</flag>
               </conditionFlags>
@@ -618,7 +810,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Red">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/eyes/red/preview.png" />
               <conditionFlags>
                 <flag name="eyes">red</flag>
               </conditionFlags>
@@ -627,7 +822,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Yellow">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/eyes/yellow/preview.png" />
               <conditionFlags>
                 <flag name="eyes">yellow</flag>
               </conditionFlags>
@@ -644,7 +842,10 @@
         <group name="Anca's body" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/anca_body/_vanilla.png" />
               <conditionFlags>
                 <flag name="anca_body">vanilla</flag>
               </conditionFlags>
@@ -653,7 +854,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="ELSB">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex. First-install suggestion from the saved toolkit settings.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/anca_body/booty/preview.png" />
               <conditionFlags>
                 <flag name="anca_body">booty</flag>
               </conditionFlags>
@@ -662,7 +866,17 @@
               </typeDescriptor>
             </plugin>
             <plugin name="ELSB + Pussy Walker">
-              <description>ELSB body with the personal lower-body add-on. Disable standalone VaginaMod for the supported setup. Keeps the original ELSB torso and story skin states. Gameplay acceptance is pending.</description>
+              <description>WARNING: Keep the standalone original disabled in Vortex for this body.
+Nexus mod: Pussywalker
+Archive: VaginaMod 370 1 2026-09-09T18-22Z cpQpRzh5N.7z
+The personal add-on is included here and does not require that original.
+
+ELSB body with the personal lower-body add-on. Disable standalone VaginaMod for the supported setup. Keeps the original ELSB torso and story skin states. Gameplay acceptance is pending.
+
+Preview: original ELSB Anca body reference. The personal Pussy Walker geometry is not pictured.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/anca_body/booty/preview.png" />
               <conditionFlags>
                 <flag name="anca_body">pussywalker</flag>
               </conditionFlags>
@@ -675,7 +889,10 @@
         <group name="Anca's body scenes" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Naked scenes only (default)">
-              <description>Use the chosen body in naked scenes only. Selecting a non-vanilla outfit below extends the body to all scenes, matching ELSB’s normal dependency handling.</description>
+              <description>Use the chosen body in naked scenes only. Selecting a non-vanilla outfit below extends the body to all scenes, matching ELSB’s normal dependency handling.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/anca_scope/_vanilla.png" />
               <conditionFlags>
                 <flag name="anca_scope">vanilla</flag>
               </conditionFlags>
@@ -684,7 +901,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="All scenes">
-              <description>Use the ELSB body in all scenes. Requires the ELSB body (either variant for Anca/Lacra). Keeps the original scene and story-state assets. First-install suggestion from the saved toolkit settings.</description>
+              <description>Use the ELSB body in all scenes. Requires the ELSB body (either variant for Anca/Lacra). Keeps the original scene and story-state assets. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/anca_scope/all/preview.png" />
               <conditionFlags>
                 <flag name="anca_scope">all</flag>
               </conditionFlags>
@@ -708,7 +928,10 @@
         <group name="Anca's outfit" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/anca_outfit/_vanilla.png" />
               <conditionFlags>
                 <flag name="anca_outfit">vanilla</flag>
               </conditionFlags>
@@ -717,7 +940,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Naked">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex. Selecting this outfit extends an ELSB body to all scenes, as in the toolkit. With a Vanilla body, the original outfit option still applies.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex. Selecting this outfit extends an ELSB body to all scenes, as in the toolkit. With a Vanilla body, the original outfit option still applies.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/anca_outfit/nude/preview.png" />
               <conditionFlags>
                 <flag name="anca_outfit">nude</flag>
               </conditionFlags>
@@ -726,7 +952,16 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Wrong Sized Tanktop For Thicc Anca (ELSB fit)">
-              <description>Optional compatibility patch only. Keep the matching original mod present and enabled in Vortex. See Compatibility.txt and the read-only audit for exact supported source hashes. Requires this character’s ELSB body (either variant). Selecting this outfit extends the body to all scenes. Upstream patch retained; the matching original is not available locally for combination validation.</description>
+              <description>WARNING: Activate and deploy the required original in Vortex.
+Nexus mod: Wrong Sized Tanktop For Thicc Anca
+Archive: Loose Anca 607 1 2026-09-20T03-29Z XJrJvVqEZ.rar
+This choice installs a compatibility patch; it does not activate the original.
+https://www.nexusmods.com/thebloodofdawnwalker/mods/607
+
+Optional compatibility patch only. Keep the matching original mod present and enabled in Vortex. See Compatibility.txt and the read-only audit for exact supported source hashes. Requires this character’s ELSB body (either variant). Selecting this outfit extends the body to all scenes. Upstream patch retained; the matching original is not available locally for combination validation.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/compat/loose_anca/preview.png" />
               <conditionFlags>
                 <flag name="anca_outfit">compat_loose_anca</flag>
               </conditionFlags>
@@ -746,7 +981,16 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Revealing Anca (ELSB fit)">
-              <description>Optional compatibility patch only. Keep the matching original mod present and enabled in Vortex. See Compatibility.txt and the read-only audit for exact supported source hashes. Requires this character’s ELSB body (either variant). Selecting this outfit extends the body to all scenes. </description>
+              <description>WARNING: Activate and deploy the required original in Vortex.
+Nexus mod: Revealing Anca
+Archive: Revealing Anca 531 1.2.1 2026-09-23T13-29Z tzYzjaIeC.zip
+This choice installs a compatibility patch; it does not activate the original.
+https://www.nexusmods.com/thebloodofdawnwalker/mods/531
+
+Optional compatibility patch only. Keep the matching original mod present and enabled in Vortex. See Compatibility.txt and the read-only audit for exact supported source hashes. Requires this character’s ELSB body (either variant). Selecting this outfit extends the body to all scenes.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/compat/revealing_anca_531/preview.png" />
               <conditionFlags>
                 <flag name="anca_outfit">compat_revealing_anca_531</flag>
               </conditionFlags>
@@ -766,7 +1010,16 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Revealing Thicc Anca by MM (ELSB fit)">
-              <description>Optional compatibility patch only. Keep the matching original mod present and enabled in Vortex. See Compatibility.txt and the read-only audit for exact supported source hashes. Requires this character’s ELSB body (either variant). Selecting this outfit extends the body to all scenes. Upstream patch retained; the matching original is not available locally for combination validation.</description>
+              <description>WARNING: Activate and deploy the required original in Vortex.
+Nexus mod: Revealing Thicc Anca by MM
+Archive: Revealing Anca 592 1 2026-09-19T00-08Z mB9BLvDgW.rar
+This choice installs a compatibility patch; it does not activate the original.
+https://www.nexusmods.com/thebloodofdawnwalker/mods/592
+
+Optional compatibility patch only. Keep the matching original mod present and enabled in Vortex. See Compatibility.txt and the read-only audit for exact supported source hashes. Requires this character’s ELSB body (either variant). Selecting this outfit extends the body to all scenes. Upstream patch retained; the matching original is not available locally for combination validation.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/compat/revealing_anca_592/preview.png" />
               <conditionFlags>
                 <flag name="anca_outfit">compat_revealing_anca_592</flag>
               </conditionFlags>
@@ -786,7 +1039,16 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Thicc Anca by MM (ELSB fit)">
-              <description>Optional compatibility patch only. Keep the matching original mod present and enabled in Vortex. See Compatibility.txt and the read-only audit for exact supported source hashes. Requires this character’s ELSB body (either variant). Selecting this outfit extends the body to all scenes. Upstream patch retained; the matching original is not available locally for combination validation.</description>
+              <description>WARNING: Activate and deploy the required original in Vortex.
+Nexus mod: Thicc Anca by MM
+Archive: ThiccAnca 279 1.1 2026-09-07T04-54Z C2B29rxz2.zip
+This choice installs a compatibility patch; it does not activate the original.
+https://www.nexusmods.com/thebloodofdawnwalker/mods/279
+
+Optional compatibility patch only. Keep the matching original mod present and enabled in Vortex. See Compatibility.txt and the read-only audit for exact supported source hashes. Requires this character’s ELSB body (either variant). Selecting this outfit extends the body to all scenes. Upstream patch retained; the matching original is not available locally for combination validation.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/compat/thicc_anca_279/preview.png" />
               <conditionFlags>
                 <flag name="anca_outfit">compat_thicc_anca_279</flag>
               </conditionFlags>
@@ -810,7 +1072,10 @@
         <group name="Anca's skin, makeup and tattoos" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="None">
-              <description>No built-in skin override. Manage other skin, makeup and tattoo mods separately in Vortex; only explicitly reviewed combinations receive patches here. First-install suggestion from the saved toolkit settings.</description>
+              <description>No built-in skin override. Manage other skin, makeup and tattoo mods separately in Vortex; only explicitly reviewed combinations receive patches here. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/anca_skin/_vanilla.png" />
               <conditionFlags>
                 <flag name="anca_skin">vanilla</flag>
               </conditionFlags>
@@ -827,7 +1092,10 @@
         <group name="Anca's hairstyle" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/anca_hair/_vanilla.png" />
               <conditionFlags>
                 <flag name="anca_hair">vanilla</flag>
               </conditionFlags>
@@ -836,7 +1104,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Anca's hair B (tied up)">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/anca_hair/Anca_B/preview.png" />
               <conditionFlags>
                 <flag name="anca_hair">Anca_B</flag>
               </conditionFlags>
@@ -845,7 +1116,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Village woman hair C">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/anca_hair/Commoner_C/preview.png" />
               <conditionFlags>
                 <flag name="anca_hair">Commoner_C</flag>
               </conditionFlags>
@@ -854,7 +1128,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Village woman hair E">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/anca_hair/Commoner_E/preview.png" />
               <conditionFlags>
                 <flag name="anca_hair">Commoner_E</flag>
               </conditionFlags>
@@ -863,7 +1140,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Esme's hair">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/anca_hair/Esme_A/preview.png" />
               <conditionFlags>
                 <flag name="anca_hair">Esme_A</flag>
               </conditionFlags>
@@ -872,7 +1152,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Yanna's hair">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/anca_hair/Yanna_H/preview.png" />
               <conditionFlags>
                 <flag name="anca_hair">Yanna_H</flag>
               </conditionFlags>
@@ -885,7 +1168,10 @@
         <group name="Anca's hair color (and brows)" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/anca_hair_color/_vanilla.png" />
               <conditionFlags>
                 <flag name="anca_hair_color">vanilla</flag>
               </conditionFlags>
@@ -894,7 +1180,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Black">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/anca_hair_color/01_black/preview.png" />
               <conditionFlags>
                 <flag name="anca_hair_color">01_black</flag>
               </conditionFlags>
@@ -903,7 +1192,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Dark brown">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/anca_hair_color/02_darkbrown/preview.png" />
               <conditionFlags>
                 <flag name="anca_hair_color">02_darkbrown</flag>
               </conditionFlags>
@@ -912,7 +1204,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Brown">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/anca_hair_color/03_brown/preview.png" />
               <conditionFlags>
                 <flag name="anca_hair_color">03_brown</flag>
               </conditionFlags>
@@ -921,7 +1216,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Light brown">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/anca_hair_color/04_lightbrown/preview.png" />
               <conditionFlags>
                 <flag name="anca_hair_color">04_lightbrown</flag>
               </conditionFlags>
@@ -930,7 +1228,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Auburn">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/anca_hair_color/05_auburn/preview.png" />
               <conditionFlags>
                 <flag name="anca_hair_color">05_auburn</flag>
               </conditionFlags>
@@ -939,7 +1240,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Ginger">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/anca_hair_color/06_ginger/preview.png" />
               <conditionFlags>
                 <flag name="anca_hair_color">06_ginger</flag>
               </conditionFlags>
@@ -948,7 +1252,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Dark blonde">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/anca_hair_color/07_darkblonde/preview.png" />
               <conditionFlags>
                 <flag name="anca_hair_color">07_darkblonde</flag>
               </conditionFlags>
@@ -957,7 +1264,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Blonde">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/anca_hair_color/08_blonde/preview.png" />
               <conditionFlags>
                 <flag name="anca_hair_color">08_blonde</flag>
               </conditionFlags>
@@ -966,7 +1276,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Platinum blonde">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/anca_hair_color/09_platinum/preview.png" />
               <conditionFlags>
                 <flag name="anca_hair_color">09_platinum</flag>
               </conditionFlags>
@@ -975,7 +1288,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Salt and pepper">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/anca_hair_color/10_saltpepper/preview.png" />
               <conditionFlags>
                 <flag name="anca_hair_color">10_saltpepper</flag>
               </conditionFlags>
@@ -984,7 +1300,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="White">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/anca_hair_color/11_white/preview.png" />
               <conditionFlags>
                 <flag name="anca_hair_color">11_white</flag>
               </conditionFlags>
@@ -1001,7 +1320,10 @@
         <group name="Lacra's body" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_body/_vanilla.png" />
               <conditionFlags>
                 <flag name="lacra_body">vanilla</flag>
               </conditionFlags>
@@ -1010,7 +1332,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="ELSB">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex. First-install suggestion from the saved toolkit settings.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_body/fitness/preview.png" />
               <conditionFlags>
                 <flag name="lacra_body">fitness</flag>
               </conditionFlags>
@@ -1019,7 +1344,17 @@
               </typeDescriptor>
             </plugin>
             <plugin name="ELSB + Pussy Walker">
-              <description>ELSB body with the personal lower-body add-on. Disable standalone VaginaMod for the supported setup. Keeps the original ELSB torso and story skin states. Gameplay acceptance is pending.</description>
+              <description>WARNING: Keep the standalone original disabled in Vortex for this body.
+Nexus mod: Pussywalker
+Archive: VaginaMod 370 1 2026-09-09T18-22Z cpQpRzh5N.7z
+The personal add-on is included here and does not require that original.
+
+ELSB body with the personal lower-body add-on. Disable standalone VaginaMod for the supported setup. Keeps the original ELSB torso and story skin states. Gameplay acceptance is pending.
+
+Preview: original ELSB Lacra body reference. The personal Pussy Walker geometry is not pictured.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_body/fitness/preview.png" />
               <conditionFlags>
                 <flag name="lacra_body">pussywalker</flag>
               </conditionFlags>
@@ -1032,7 +1367,10 @@
         <group name="Lacra's body scenes" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Naked scenes only (default)">
-              <description>Use the chosen body in naked scenes only. Selecting a non-vanilla outfit below extends the body to all scenes, matching ELSB’s normal dependency handling. First-install suggestion from the saved toolkit settings.</description>
+              <description>Use the chosen body in naked scenes only. Selecting a non-vanilla outfit below extends the body to all scenes, matching ELSB’s normal dependency handling. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_scope/_vanilla.png" />
               <conditionFlags>
                 <flag name="lacra_scope">vanilla</flag>
               </conditionFlags>
@@ -1041,7 +1379,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="All scenes">
-              <description>Use the ELSB body in all scenes. Requires the ELSB body (either variant for Anca/Lacra). Keeps the original scene and story-state assets.</description>
+              <description>Use the ELSB body in all scenes. Requires the ELSB body (either variant for Anca/Lacra). Keeps the original scene and story-state assets.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_scope/all/preview.png" />
               <conditionFlags>
                 <flag name="lacra_scope">all</flag>
               </conditionFlags>
@@ -1065,7 +1406,10 @@
         <group name="Lacra's outfit" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_outfit/_vanilla.png" />
               <conditionFlags>
                 <flag name="lacra_outfit">vanilla</flag>
               </conditionFlags>
@@ -1074,7 +1418,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Naked">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex. Selecting this outfit extends an ELSB body to all scenes, as in the toolkit. With a Vanilla body, the original outfit option still applies.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex. Selecting this outfit extends an ELSB body to all scenes, as in the toolkit. With a Vanilla body, the original outfit option still applies.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_outfit/nude/preview.png" />
               <conditionFlags>
                 <flag name="lacra_outfit">nude</flag>
               </conditionFlags>
@@ -1083,7 +1430,16 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Revealing Lacra (ELSB fit)">
-              <description>Optional compatibility patch only. Keep the matching original mod present and enabled in Vortex. See Compatibility.txt and the read-only audit for exact supported source hashes. Requires this character’s ELSB body (either variant). Selecting this outfit extends the body to all scenes. </description>
+              <description>WARNING: Activate and deploy the required original in Vortex.
+Nexus mod: Revealing Lacra
+Archive: Revealing Lacra 501 1.2 2026-09-23T01-46Z kZ3Z1psoc.zip
+This choice installs a compatibility patch; it does not activate the original.
+https://www.nexusmods.com/thebloodofdawnwalker/mods/501
+
+Optional compatibility patch only. Keep the matching original mod present and enabled in Vortex. See Compatibility.txt and the read-only audit for exact supported source hashes. Requires this character’s ELSB body (either variant). Selecting this outfit extends the body to all scenes.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/compat/revealing_lacra/preview.png" />
               <conditionFlags>
                 <flag name="lacra_outfit">compat_revealing_lacra</flag>
               </conditionFlags>
@@ -1107,7 +1463,10 @@
         <group name="Lacra's skin, makeup and tattoos" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="None">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_skin/_vanilla.png" />
               <conditionFlags>
                 <flag name="lacra_skin">vanilla</flag>
               </conditionFlags>
@@ -1116,7 +1475,18 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Lacra Vrakhir Chest Texture - priority patch">
-              <description>Requires Lacra Vrakhir Chest Texture 1.0.0 present and enabled separately. Preserves its original three torso textures and makes them take priority over ELSB. No body mesh is changed. First-install suggestion from the saved toolkit settings.</description>
+              <description>WARNING: Activate and deploy the required original in Vortex.
+Nexus mod: Lacra Chest Texture - Vrakhir Fix
+Archive: Lacra Vrakhir Chest Texture 709 1.0.0 2026-10-03T09-06Z lfUfKoz4Q.zip
+This choice installs a compatibility patch; it does not activate the original.
+https://www.nexusmods.com/thebloodofdawnwalker/mods/709
+
+Requires Lacra Vrakhir Chest Texture 1.0.0 present and enabled separately. Preserves its original three torso textures and makes them take priority over ELSB. No body mesh is changed. First-install suggestion from the saved toolkit settings.
+
+Preview: the original Nexus texture-fix illustration. The patch preserves that mod's textures.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/nexus/709.jpg" />
               <conditionFlags>
                 <flag name="lacra_skin">compat_lacra_chest</flag>
               </conditionFlags>
@@ -1133,7 +1503,10 @@
         <group name="Lacra's hairstyle" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_hair/_vanilla.png" />
               <conditionFlags>
                 <flag name="lacra_hair">vanilla</flag>
               </conditionFlags>
@@ -1142,7 +1515,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Village woman hair A">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_hair/Commoner_A/preview.png" />
               <conditionFlags>
                 <flag name="lacra_hair">Commoner_A</flag>
               </conditionFlags>
@@ -1151,7 +1527,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Village woman hair B">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_hair/Commoner_B/preview.png" />
               <conditionFlags>
                 <flag name="lacra_hair">Commoner_B</flag>
               </conditionFlags>
@@ -1160,7 +1539,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Village woman hair C">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_hair/Commoner_C/preview.png" />
               <conditionFlags>
                 <flag name="lacra_hair">Commoner_C</flag>
               </conditionFlags>
@@ -1169,7 +1551,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Village woman hair E">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_hair/Commoner_E/preview.png" />
               <conditionFlags>
                 <flag name="lacra_hair">Commoner_E</flag>
               </conditionFlags>
@@ -1178,7 +1563,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Esme's hair">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_hair/Esme_A/preview.png" />
               <conditionFlags>
                 <flag name="lacra_hair">Esme_A</flag>
               </conditionFlags>
@@ -1187,7 +1575,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Sarah's hair">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_hair/Sarah_A/preview.png" />
               <conditionFlags>
                 <flag name="lacra_hair">Sarah_A</flag>
               </conditionFlags>
@@ -1196,7 +1587,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Xanthe's daughter's hair">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_hair/XanthesDaughter_A/preview.png" />
               <conditionFlags>
                 <flag name="lacra_hair">XanthesDaughter_A</flag>
               </conditionFlags>
@@ -1205,7 +1599,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Yanna's hair">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_hair/Yanna_H/preview.png" />
               <conditionFlags>
                 <flag name="lacra_hair">Yanna_H</flag>
               </conditionFlags>
@@ -1214,7 +1611,19 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Lacra Beautiful Hair - clothing-table patch">
-              <description>Requires Lacra Beautiful Hair (fixed) v2 present and enabled separately. Adds its hair row to the selected ELSB table while preserving all 928 existing rows, including other characters’ options. First-install suggestion from the saved toolkit settings.</description>
+              <description>WARNING: Activate and deploy the required original in Vortex.
+Nexus mod: Lacra Beautiful Hair with hair physics (and color options )
+Archive: Lacra Beautiful Hair (fixed) 570 2 2026-09-18T09-12Z Y585g2w0d.rar
+This choice installs a compatibility patch; it does not activate the original.
+https://www.nexusmods.com/thebloodofdawnwalker/mods/570
+This patch targets the fixed v2 archive. Newer hair/physics versions and optional colours require separate compatibility review.
+
+Requires Lacra Beautiful Hair (fixed) v2 present and enabled separately. Adds its hair row to the selected ELSB table while preserving all 928 existing rows, including other characters’ options. First-install suggestion from the saved toolkit settings.
+
+Preview: original Nexus hair screenshot; other skin, makeup and eye changes pictured are not included.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/nexus/570.png" />
               <conditionFlags>
                 <flag name="lacra_hair">compat_lacra_hair</flag>
               </conditionFlags>
@@ -1227,7 +1636,10 @@
         <group name="Lacra's hair color" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_hair_color/_vanilla.png" />
               <conditionFlags>
                 <flag name="lacra_hair_color">vanilla</flag>
               </conditionFlags>
@@ -1236,7 +1648,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Black">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_hair_color/01_black/preview.png" />
               <conditionFlags>
                 <flag name="lacra_hair_color">01_black</flag>
               </conditionFlags>
@@ -1245,7 +1660,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Dark brown">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_hair_color/02_darkbrown/preview.png" />
               <conditionFlags>
                 <flag name="lacra_hair_color">02_darkbrown</flag>
               </conditionFlags>
@@ -1254,7 +1672,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Brown">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_hair_color/03_brown/preview.png" />
               <conditionFlags>
                 <flag name="lacra_hair_color">03_brown</flag>
               </conditionFlags>
@@ -1263,7 +1684,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Light brown">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_hair_color/04_lightbrown/preview.png" />
               <conditionFlags>
                 <flag name="lacra_hair_color">04_lightbrown</flag>
               </conditionFlags>
@@ -1272,7 +1696,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Auburn">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_hair_color/05_auburn/preview.png" />
               <conditionFlags>
                 <flag name="lacra_hair_color">05_auburn</flag>
               </conditionFlags>
@@ -1281,7 +1708,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Ginger">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_hair_color/06_ginger/preview.png" />
               <conditionFlags>
                 <flag name="lacra_hair_color">06_ginger</flag>
               </conditionFlags>
@@ -1290,7 +1720,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Dark blonde">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_hair_color/07_darkblonde/preview.png" />
               <conditionFlags>
                 <flag name="lacra_hair_color">07_darkblonde</flag>
               </conditionFlags>
@@ -1299,7 +1732,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Blonde">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_hair_color/08_blonde/preview.png" />
               <conditionFlags>
                 <flag name="lacra_hair_color">08_blonde</flag>
               </conditionFlags>
@@ -1308,7 +1744,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Platinum blonde">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_hair_color/09_platinum/preview.png" />
               <conditionFlags>
                 <flag name="lacra_hair_color">09_platinum</flag>
               </conditionFlags>
@@ -1317,7 +1756,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Salt and pepper">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_hair_color/10_saltpepper/preview.png" />
               <conditionFlags>
                 <flag name="lacra_hair_color">10_saltpepper</flag>
               </conditionFlags>
@@ -1326,7 +1768,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="White">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_hair_color/11_white/preview.png" />
               <conditionFlags>
                 <flag name="lacra_hair_color">11_white</flag>
               </conditionFlags>
@@ -1339,7 +1784,10 @@
         <group name="Lacra's eye glow (vampire)" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_eyes/_vanilla.png" />
               <conditionFlags>
                 <flag name="lacra_eyes">vanilla</flag>
               </conditionFlags>
@@ -1348,7 +1796,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Blue">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_eyes/blue/preview.png" />
               <conditionFlags>
                 <flag name="lacra_eyes">blue</flag>
               </conditionFlags>
@@ -1357,7 +1808,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Green">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_eyes/green/preview.png" />
               <conditionFlags>
                 <flag name="lacra_eyes">green</flag>
               </conditionFlags>
@@ -1366,7 +1820,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Orange">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_eyes/orange/preview.png" />
               <conditionFlags>
                 <flag name="lacra_eyes">orange</flag>
               </conditionFlags>
@@ -1375,7 +1832,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Purple">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_eyes/purple/preview.png" />
               <conditionFlags>
                 <flag name="lacra_eyes">purple</flag>
               </conditionFlags>
@@ -1384,7 +1844,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Red">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_eyes/red/preview.png" />
               <conditionFlags>
                 <flag name="lacra_eyes">red</flag>
               </conditionFlags>
@@ -1393,7 +1856,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Yellow">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/lacra_eyes/yellow/preview.png" />
               <conditionFlags>
                 <flag name="lacra_eyes">yellow</flag>
               </conditionFlags>
@@ -1410,7 +1876,10 @@
         <group name="Marat's body" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_body/_vanilla.png" />
               <conditionFlags>
                 <flag name="marat_body">vanilla</flag>
               </conditionFlags>
@@ -1419,7 +1888,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="ELSB">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex. First-install suggestion from the saved toolkit settings.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_body/fitness/preview.png" />
               <conditionFlags>
                 <flag name="marat_body">fitness</flag>
               </conditionFlags>
@@ -1432,7 +1904,10 @@
         <group name="Marat's body scenes" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Naked scenes only (default)">
-              <description>Use the chosen body in naked scenes only. Selecting a non-vanilla outfit below extends the body to all scenes, matching ELSB’s normal dependency handling. First-install suggestion from the saved toolkit settings.</description>
+              <description>Use the chosen body in naked scenes only. Selecting a non-vanilla outfit below extends the body to all scenes, matching ELSB’s normal dependency handling. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_scope/_vanilla.png" />
               <conditionFlags>
                 <flag name="marat_scope">vanilla</flag>
               </conditionFlags>
@@ -1441,7 +1916,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="All scenes">
-              <description>Use the ELSB body in all scenes. Requires the ELSB body (either variant for Anca/Lacra). Keeps the original scene and story-state assets.</description>
+              <description>Use the ELSB body in all scenes. Requires the ELSB body (either variant for Anca/Lacra). Keeps the original scene and story-state assets.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_scope/all/preview.png" />
               <conditionFlags>
                 <flag name="marat_scope">all</flag>
               </conditionFlags>
@@ -1464,7 +1942,10 @@
         <group name="Marat's romance scenes" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_romance/_vanilla.png" />
               <conditionFlags>
                 <flag name="marat_romance">vanilla</flag>
               </conditionFlags>
@@ -1473,7 +1954,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Undress (scenes where vanilla shows underwear)">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_romance/undress/preview.png" />
               <conditionFlags>
                 <flag name="marat_romance">undress</flag>
               </conditionFlags>
@@ -1486,7 +1970,10 @@
         <group name="Marat's outfit" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_outfit/_vanilla.png" />
               <conditionFlags>
                 <flag name="marat_outfit">vanilla</flag>
               </conditionFlags>
@@ -1495,7 +1982,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Naked">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex. Selecting this outfit extends an ELSB body to all scenes, as in the toolkit. With a Vanilla body, the original outfit option still applies.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex. Selecting this outfit extends an ELSB body to all scenes, as in the toolkit. With a Vanilla body, the original outfit option still applies.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_outfit/nude/preview.png" />
               <conditionFlags>
                 <flag name="marat_outfit">nude</flag>
               </conditionFlags>
@@ -1508,7 +1998,10 @@
         <group name="Marat's genitals" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="None (vanilla)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_genitals/_vanilla.png" />
               <conditionFlags>
                 <flag name="marat_genitals">vanilla</flag>
               </conditionFlags>
@@ -1517,7 +2010,16 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Coen Nude - Marat fit">
-              <description>Optional Marat fit from ELSB. Requires Marat’s ELSB body and Coen Nude 1.0.8 present and enabled as its own Vortex entry. Independent of Coen’s body choice. First-install suggestion from the saved toolkit settings.</description>
+              <description>WARNING: Activate and deploy the required original in Vortex.
+Nexus mod: Coen's Nude Mod
+Archive: Coen Nude 281 1.0.8 2026-09-27T15-48Z Y585g2wtS.rar
+This choice installs a compatibility patch; it does not activate the original.
+https://www.nexusmods.com/thebloodofdawnwalker/mods/281
+
+Optional Marat fit from ELSB. Requires Marat’s ELSB body and Coen Nude 1.0.8 present and enabled as its own Vortex entry. Independent of Coen’s body choice. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/compat/coen_nude/preview_marat.png" />
               <conditionFlags>
                 <flag name="marat_genitals">compat_coen_nude_marat</flag>
               </conditionFlags>
@@ -1540,7 +2042,10 @@
         <group name="Marat's skin, makeup and tattoos" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="None">
-              <description>No built-in skin override. Manage other skin, makeup and tattoo mods separately in Vortex; only explicitly reviewed combinations receive patches here. First-install suggestion from the saved toolkit settings.</description>
+              <description>No built-in skin override. Manage other skin, makeup and tattoo mods separately in Vortex; only explicitly reviewed combinations receive patches here. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_skin/_vanilla.png" />
               <conditionFlags>
                 <flag name="marat_skin">vanilla</flag>
               </conditionFlags>
@@ -1557,7 +2062,10 @@
         <group name="Marat's hairstyle" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_hair/_vanilla.png" />
               <conditionFlags>
                 <flag name="marat_hair">vanilla</flag>
               </conditionFlags>
@@ -1566,7 +2074,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Ambrus's hair">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_hair/Ambrus_A/preview.png" />
               <conditionFlags>
                 <flag name="marat_hair">Ambrus_A</flag>
               </conditionFlags>
@@ -1575,7 +2086,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Villager hair B">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_hair/Commoner_B/preview.png" />
               <conditionFlags>
                 <flag name="marat_hair">Commoner_B</flag>
               </conditionFlags>
@@ -1584,7 +2098,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Villager hair D">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_hair/Commoner_D/preview.png" />
               <conditionFlags>
                 <flag name="marat_hair">Commoner_D</flag>
               </conditionFlags>
@@ -1593,7 +2110,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Villager hair F">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_hair/Commoner_F/preview.png" />
               <conditionFlags>
                 <flag name="marat_hair">Commoner_F</flag>
               </conditionFlags>
@@ -1602,7 +2122,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Isbrand's hair">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_hair/Isbrand_A/preview.png" />
               <conditionFlags>
                 <flag name="marat_hair">Isbrand_A</flag>
               </conditionFlags>
@@ -1611,7 +2134,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Mihai's hair">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_hair/Mihai_A/preview.png" />
               <conditionFlags>
                 <flag name="marat_hair">Mihai_A</flag>
               </conditionFlags>
@@ -1624,7 +2150,10 @@
         <group name="Marat's hair color (and brows)" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_hair_color/_vanilla.png" />
               <conditionFlags>
                 <flag name="marat_hair_color">vanilla</flag>
               </conditionFlags>
@@ -1633,7 +2162,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Black">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_hair_color/01_black/preview.png" />
               <conditionFlags>
                 <flag name="marat_hair_color">01_black</flag>
               </conditionFlags>
@@ -1642,7 +2174,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Dark brown">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_hair_color/02_darkbrown/preview.png" />
               <conditionFlags>
                 <flag name="marat_hair_color">02_darkbrown</flag>
               </conditionFlags>
@@ -1651,7 +2186,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Brown">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_hair_color/03_brown/preview.png" />
               <conditionFlags>
                 <flag name="marat_hair_color">03_brown</flag>
               </conditionFlags>
@@ -1660,7 +2198,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Light brown">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_hair_color/04_lightbrown/preview.png" />
               <conditionFlags>
                 <flag name="marat_hair_color">04_lightbrown</flag>
               </conditionFlags>
@@ -1669,7 +2210,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Auburn">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_hair_color/05_auburn/preview.png" />
               <conditionFlags>
                 <flag name="marat_hair_color">05_auburn</flag>
               </conditionFlags>
@@ -1678,7 +2222,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Ginger">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_hair_color/06_ginger/preview.png" />
               <conditionFlags>
                 <flag name="marat_hair_color">06_ginger</flag>
               </conditionFlags>
@@ -1687,7 +2234,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Dark blonde">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_hair_color/07_darkblonde/preview.png" />
               <conditionFlags>
                 <flag name="marat_hair_color">07_darkblonde</flag>
               </conditionFlags>
@@ -1696,7 +2246,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Blonde">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_hair_color/08_blonde/preview.png" />
               <conditionFlags>
                 <flag name="marat_hair_color">08_blonde</flag>
               </conditionFlags>
@@ -1705,7 +2258,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Platinum blonde">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_hair_color/09_platinum/preview.png" />
               <conditionFlags>
                 <flag name="marat_hair_color">09_platinum</flag>
               </conditionFlags>
@@ -1714,7 +2270,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Salt and pepper">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_hair_color/10_saltpepper/preview.png" />
               <conditionFlags>
                 <flag name="marat_hair_color">10_saltpepper</flag>
               </conditionFlags>
@@ -1723,7 +2282,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="White">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_hair_color/11_white/preview.png" />
               <conditionFlags>
                 <flag name="marat_hair_color">11_white</flag>
               </conditionFlags>
@@ -1736,7 +2298,10 @@
         <group name="Marat's beard" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_beard/_vanilla.png" />
               <conditionFlags>
                 <flag name="marat_beard">vanilla</flag>
               </conditionFlags>
@@ -1745,7 +2310,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="None (clean-shaven)">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_beard/0_none/preview.png" />
               <conditionFlags>
                 <flag name="marat_beard">0_none</flag>
               </conditionFlags>
@@ -1754,7 +2322,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Andrei's beard (light stubble)">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_beard/Andrei_A/preview.png" />
               <conditionFlags>
                 <flag name="marat_beard">Andrei_A</flag>
               </conditionFlags>
@@ -1763,7 +2334,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Villager beard B">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_beard/Commoner_B/preview.png" />
               <conditionFlags>
                 <flag name="marat_beard">Commoner_B</flag>
               </conditionFlags>
@@ -1772,7 +2346,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Villager beard C">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_beard/Commoner_C/preview.png" />
               <conditionFlags>
                 <flag name="marat_beard">Commoner_C</flag>
               </conditionFlags>
@@ -1781,7 +2358,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Villager beard D">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_beard/Commoner_D/preview.png" />
               <conditionFlags>
                 <flag name="marat_beard">Commoner_D</flag>
               </conditionFlags>
@@ -1790,7 +2370,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Villager beard E">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_beard/Commoner_E/preview.png" />
               <conditionFlags>
                 <flag name="marat_beard">Commoner_E</flag>
               </conditionFlags>
@@ -1799,7 +2382,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Neberu's beard A">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_beard/Neberu_A/preview.png" />
               <conditionFlags>
                 <flag name="marat_beard">Neberu_A</flag>
               </conditionFlags>
@@ -1808,7 +2394,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Pieter's beard">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_beard/Pieter_A/preview.png" />
               <conditionFlags>
                 <flag name="marat_beard">Pieter_A</flag>
               </conditionFlags>
@@ -1817,7 +2406,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Villager beard (other)">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_beard/Villager_A/preview.png" />
               <conditionFlags>
                 <flag name="marat_beard">Villager_A</flag>
               </conditionFlags>
@@ -1830,7 +2422,10 @@
         <group name="Marat's beard color" type="SelectExactlyOne">
           <plugins order="Explicit">
             <plugin name="Vanilla (unchanged)">
-              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.</description>
+              <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_beard_color/_vanilla.png" />
               <conditionFlags>
                 <flag name="marat_beard_color">vanilla</flag>
               </conditionFlags>
@@ -1839,7 +2434,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Black">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_beard_color/01_black/preview.png" />
               <conditionFlags>
                 <flag name="marat_beard_color">01_black</flag>
               </conditionFlags>
@@ -1848,7 +2446,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Dark brown">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_beard_color/02_darkbrown/preview.png" />
               <conditionFlags>
                 <flag name="marat_beard_color">02_darkbrown</flag>
               </conditionFlags>
@@ -1857,7 +2458,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Brown">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_beard_color/03_brown/preview.png" />
               <conditionFlags>
                 <flag name="marat_beard_color">03_brown</flag>
               </conditionFlags>
@@ -1866,7 +2470,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Light brown">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_beard_color/04_lightbrown/preview.png" />
               <conditionFlags>
                 <flag name="marat_beard_color">04_lightbrown</flag>
               </conditionFlags>
@@ -1875,7 +2482,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Auburn">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_beard_color/05_auburn/preview.png" />
               <conditionFlags>
                 <flag name="marat_beard_color">05_auburn</flag>
               </conditionFlags>
@@ -1884,7 +2494,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Ginger">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_beard_color/06_ginger/preview.png" />
               <conditionFlags>
                 <flag name="marat_beard_color">06_ginger</flag>
               </conditionFlags>
@@ -1893,7 +2506,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Dark blonde">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_beard_color/07_darkblonde/preview.png" />
               <conditionFlags>
                 <flag name="marat_beard_color">07_darkblonde</flag>
               </conditionFlags>
@@ -1902,7 +2518,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Blonde">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_beard_color/08_blonde/preview.png" />
               <conditionFlags>
                 <flag name="marat_beard_color">08_blonde</flag>
               </conditionFlags>
@@ -1911,7 +2530,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Platinum blonde">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_beard_color/09_platinum/preview.png" />
               <conditionFlags>
                 <flag name="marat_beard_color">09_platinum</flag>
               </conditionFlags>
@@ -1920,7 +2542,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="Salt and pepper">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_beard_color/10_saltpepper/preview.png" />
               <conditionFlags>
                 <flag name="marat_beard_color">10_saltpepper</flag>
               </conditionFlags>
@@ -1929,7 +2554,10 @@
               </typeDescriptor>
             </plugin>
             <plugin name="White">
-              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.</description>
+              <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
+
+After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
+              <image path="fomod/images/elsb/marat_beard_color/11_white/preview.png" />
               <conditionFlags>
                 <flag name="marat_beard_color">11_white</flag>
               </conditionFlags>

@@ -2607,7 +2607,7 @@
     ]
   },
   {
-    "group": "lacra_skin",
+    "group": "lacra_body",
     "option": "compat_chars_445_2457",
     "image": "fomod/images/elsb/lacra_body/fitness/preview.png",
     "source": "ELSB 1.1.1/modules/lacra_body/fitness/preview.png",
@@ -2619,7 +2619,7 @@
     "height": 552
   },
   {
-    "group": "lacra_skin",
+    "group": "lacra_body",
     "option": "compat_chars_445_2454",
     "image": "fomod/images/elsb/lacra_body/fitness/preview.png",
     "source": "ELSB 1.1.1/modules/lacra_body/fitness/preview.png",
@@ -2631,7 +2631,7 @@
     "height": 552
   },
   {
-    "group": "lacra_skin",
+    "group": "lacra_body",
     "option": "compat_chars_445_2453",
     "image": "fomod/images/elsb/lacra_body/fitness/preview.png",
     "source": "ELSB 1.1.1/modules/lacra_body/fitness/preview.png",
@@ -2643,7 +2643,7 @@
     "height": 552
   },
   {
-    "group": "lacra_skin",
+    "group": "lacra_body",
     "option": "compat_chars_445_2448",
     "image": "fomod/images/elsb/lacra_body/fitness/preview.png",
     "source": "ELSB 1.1.1/modules/lacra_body/fitness/preview.png",

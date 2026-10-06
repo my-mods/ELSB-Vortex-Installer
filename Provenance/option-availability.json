@@ -75,9 +75,13 @@
     "requires_group": "lacra_body",
     "allowed_options": [
       "fitness",
-      "pussywalker"
+      "pussywalker",
+      "compat_chars_445_2457",
+      "compat_chars_445_2454",
+      "compat_chars_445_2453",
+      "compat_chars_445_2448"
     ],
-    "message": "Choose \"ELSB\" or \"ELSB + Pussy Walker\" in \"Lacra's body\" on \"Lacra - Body and scenes\"."
+    "message": "Choose \"ELSB\" or \"ELSB + Pussy Walker\" or a Gothic body in \"Lacra's body\" on \"Lacra - Body and scenes\"."
   },
   {
     "group": "lacra_outfit",
@@ -86,9 +90,13 @@
     "allowed_options": [
       "fitness",
       "pussywalker",
-      "vanilla"
+      "vanilla",
+      "compat_chars_445_2457",
+      "compat_chars_445_2454",
+      "compat_chars_445_2453",
+      "compat_chars_445_2448"
     ],
-    "message": "Choose \"Vanilla (unchanged)\" or \"ELSB\" or \"ELSB + Pussy Walker\" in \"Lacra's body\" on \"Lacra - Body and scenes\"."
+    "message": "Choose \"Vanilla (unchanged)\" or \"ELSB\" or \"ELSB + Pussy Walker\" or a Gothic body in \"Lacra's body\" on \"Lacra - Body and scenes\"."
   },
   {
     "group": "lacra_outfit",
@@ -96,127 +104,104 @@
     "requires_group": "lacra_body",
     "allowed_options": [
       "fitness",
-      "pussywalker"
+      "pussywalker",
+      "compat_chars_445_2457",
+      "compat_chars_445_2454",
+      "compat_chars_445_2453",
+      "compat_chars_445_2448"
     ],
-    "message": "Choose \"ELSB\" or \"ELSB + Pussy Walker\" in \"Lacra's body\" on \"Lacra - Body and scenes\"."
-  },
-  {
-    "group": "lacra_skin",
-    "option": "compat_chars_445_2457",
-    "requires_group": "lacra_body",
-    "allowed_options": [
-      "compat_chars_311_1805",
-      "compat_chars_311_1846",
-      "fitness",
-      "vanilla"
-    ],
-    "message": "Choose \"Vanilla (unchanged)\" or \"ELSB\" or \"SlimThiccLacrabyMM - table patch\" or \"ThiccLacrabyMM - table patch\" in \"Lacra's body\" on \"Lacra - Body and scenes\". This complete skin cannot be combined with ELSB + Pussy Walker."
-  },
-  {
-    "group": "lacra_skin",
-    "option": "compat_chars_445_2454",
-    "requires_group": "lacra_body",
-    "allowed_options": [
-      "compat_chars_311_1805",
-      "compat_chars_311_1846",
-      "fitness",
-      "vanilla"
-    ],
-    "message": "Choose \"Vanilla (unchanged)\" or \"ELSB\" or \"SlimThiccLacrabyMM - table patch\" or \"ThiccLacrabyMM - table patch\" in \"Lacra's body\" on \"Lacra - Body and scenes\". This complete skin cannot be combined with ELSB + Pussy Walker."
-  },
-  {
-    "group": "lacra_skin",
-    "option": "compat_chars_445_2453",
-    "requires_group": "lacra_body",
-    "allowed_options": [
-      "compat_chars_311_1805",
-      "compat_chars_311_1846",
-      "fitness",
-      "vanilla"
-    ],
-    "message": "Choose \"Vanilla (unchanged)\" or \"ELSB\" or \"SlimThiccLacrabyMM - table patch\" or \"ThiccLacrabyMM - table patch\" in \"Lacra's body\" on \"Lacra - Body and scenes\". This complete skin cannot be combined with ELSB + Pussy Walker."
-  },
-  {
-    "group": "lacra_skin",
-    "option": "compat_chars_445_2448",
-    "requires_group": "lacra_body",
-    "allowed_options": [
-      "compat_chars_311_1805",
-      "compat_chars_311_1846",
-      "fitness",
-      "vanilla"
-    ],
-    "message": "Choose \"Vanilla (unchanged)\" or \"ELSB\" or \"SlimThiccLacrabyMM - table patch\" or \"ThiccLacrabyMM - table patch\" in \"Lacra's body\" on \"Lacra - Body and scenes\". This complete skin cannot be combined with ELSB + Pussy Walker."
+    "message": "Choose \"ELSB\" or \"ELSB + Pussy Walker\" or a Gothic body in \"Lacra's body\" on \"Lacra - Body and scenes\"."
   },
   {
     "group": "lacra_face",
     "option": "compat_chars_550_2442",
-    "requires_group": "lacra_skin",
+    "requires_group": "lacra_body",
     "allowed_options": [
-      "compat_lacra_chest",
-      "vanilla"
+      "vanilla",
+      "fitness",
+      "pussywalker",
+      "compat_chars_311_1846",
+      "compat_chars_311_1805"
     ],
-    "message": "Choose \"None\" or \"Lacra Vrakhir Chest Texture - priority patch\" in \"Lacra's skin, makeup and tattoos\" on \"Lacra - Body and scenes\". Complete Gothic skins already replace the face and cannot be combined with this separate face option."
+    "message": "Choose a non-Gothic option in \"Lacra's body\" on \"Lacra - Body and scenes\". Gothic bodies include their own face and body skin and cannot use this separate face option."
   },
   {
     "group": "lacra_face",
     "option": "compat_chars_550_2444",
-    "requires_group": "lacra_skin",
+    "requires_group": "lacra_body",
     "allowed_options": [
-      "compat_lacra_chest",
-      "vanilla"
+      "vanilla",
+      "fitness",
+      "pussywalker",
+      "compat_chars_311_1846",
+      "compat_chars_311_1805"
     ],
-    "message": "Choose \"None\" or \"Lacra Vrakhir Chest Texture - priority patch\" in \"Lacra's skin, makeup and tattoos\" on \"Lacra - Body and scenes\". Complete Gothic skins already replace the face and cannot be combined with this separate face option."
+    "message": "Choose a non-Gothic option in \"Lacra's body\" on \"Lacra - Body and scenes\". Gothic bodies include their own face and body skin and cannot use this separate face option."
   },
   {
     "group": "lacra_face",
     "option": "compat_chars_550_2443",
-    "requires_group": "lacra_skin",
+    "requires_group": "lacra_body",
     "allowed_options": [
-      "compat_lacra_chest",
-      "vanilla"
+      "vanilla",
+      "fitness",
+      "pussywalker",
+      "compat_chars_311_1846",
+      "compat_chars_311_1805"
     ],
-    "message": "Choose \"None\" or \"Lacra Vrakhir Chest Texture - priority patch\" in \"Lacra's skin, makeup and tattoos\" on \"Lacra - Body and scenes\". Complete Gothic skins already replace the face and cannot be combined with this separate face option."
+    "message": "Choose a non-Gothic option in \"Lacra's body\" on \"Lacra - Body and scenes\". Gothic bodies include their own face and body skin and cannot use this separate face option."
   },
   {
     "group": "lacra_face",
     "option": "compat_chars_427_1588",
-    "requires_group": "lacra_skin",
+    "requires_group": "lacra_body",
     "allowed_options": [
-      "compat_lacra_chest",
-      "vanilla"
+      "vanilla",
+      "fitness",
+      "pussywalker",
+      "compat_chars_311_1846",
+      "compat_chars_311_1805"
     ],
-    "message": "Choose \"None\" or \"Lacra Vrakhir Chest Texture - priority patch\" in \"Lacra's skin, makeup and tattoos\" on \"Lacra - Body and scenes\". Complete Gothic skins already replace the face and cannot be combined with this separate face option."
+    "message": "Choose a non-Gothic option in \"Lacra's body\" on \"Lacra - Body and scenes\". Gothic bodies include their own face and body skin and cannot use this separate face option."
   },
   {
     "group": "lacra_face",
     "option": "compat_chars_427_1599",
-    "requires_group": "lacra_skin",
+    "requires_group": "lacra_body",
     "allowed_options": [
-      "compat_lacra_chest",
-      "vanilla"
+      "vanilla",
+      "fitness",
+      "pussywalker",
+      "compat_chars_311_1846",
+      "compat_chars_311_1805"
     ],
-    "message": "Choose \"None\" or \"Lacra Vrakhir Chest Texture - priority patch\" in \"Lacra's skin, makeup and tattoos\" on \"Lacra - Body and scenes\". Complete Gothic skins already replace the face and cannot be combined with this separate face option."
+    "message": "Choose a non-Gothic option in \"Lacra's body\" on \"Lacra - Body and scenes\". Gothic bodies include their own face and body skin and cannot use this separate face option."
   },
   {
     "group": "lacra_surface",
     "option": "compat_chars_550_2083",
-    "requires_group": "lacra_skin",
+    "requires_group": "lacra_body",
     "allowed_options": [
-      "compat_lacra_chest",
-      "vanilla"
+      "vanilla",
+      "fitness",
+      "pussywalker",
+      "compat_chars_311_1846",
+      "compat_chars_311_1805"
     ],
-    "message": "Choose \"None\" or \"Lacra Vrakhir Chest Texture - priority patch\" in \"Lacra's skin, makeup and tattoos\" on \"Lacra - Body and scenes\". Complete Gothic skins already replace the face and cannot be combined with this separate face option."
+    "message": "Choose a non-Gothic option in \"Lacra's body\" on \"Lacra - Body and scenes\". Gothic bodies include their own face and body skin and cannot use this separate face option."
   },
   {
     "group": "lacra_wrinkles",
     "option": "compat_chars_550_2085",
-    "requires_group": "lacra_skin",
+    "requires_group": "lacra_body",
     "allowed_options": [
-      "compat_lacra_chest",
-      "vanilla"
+      "vanilla",
+      "fitness",
+      "pussywalker",
+      "compat_chars_311_1846",
+      "compat_chars_311_1805"
     ],
-    "message": "Choose \"None\" or \"Lacra Vrakhir Chest Texture - priority patch\" in \"Lacra's skin, makeup and tattoos\" on \"Lacra - Body and scenes\". Complete Gothic skins already replace the face and cannot be combined with this separate face option."
+    "message": "Choose a non-Gothic option in \"Lacra's body\" on \"Lacra - Body and scenes\". Gothic bodies include their own face and body skin and cannot use this separate face option."
   },
   {
     "group": "lacra_head",
@@ -225,9 +210,13 @@
     "allowed_options": [
       "fitness",
       "pussywalker",
-      "vanilla"
+      "vanilla",
+      "compat_chars_445_2457",
+      "compat_chars_445_2454",
+      "compat_chars_445_2453",
+      "compat_chars_445_2448"
     ],
-    "message": "Choose \"Vanilla (unchanged)\" or \"ELSB\" or \"ELSB + Pussy Walker\" in \"Lacra's body\" on \"Lacra - Body and scenes\"."
+    "message": "Choose \"Vanilla (unchanged)\" or \"ELSB\" or \"ELSB + Pussy Walker\" or a Gothic body in \"Lacra's body\" on \"Lacra - Body and scenes\"."
   },
   {
     "group": "marat_scope",
@@ -246,5 +235,18 @@
       "fitness"
     ],
     "message": "Choose \"ELSB\" in \"Marat's body\" on \"Marat - Body and scenes\"."
+  },
+  {
+    "group": "lacra_skin",
+    "option": "compat_lacra_chest",
+    "requires_group": "lacra_body",
+    "allowed_options": [
+      "vanilla",
+      "fitness",
+      "pussywalker",
+      "compat_chars_311_1846",
+      "compat_chars_311_1805"
+    ],
+    "message": "Choose a non-Gothic option in \"Lacra's body\" on \"Lacra - Body and scenes\". Gothic bodies include their own chest skin."
   }
 ]

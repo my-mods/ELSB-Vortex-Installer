@@ -600,24 +600,24 @@
     "description": "Use the Vrakhir chest texture fix with your selected Lacra body. Separate face and makeup choices can be combined with it."
   },
   {
-    "group": "lacra_skin",
+    "group": "lacra_body",
     "option": "compat_chars_445_2457",
-    "description": "Apply Lacra Gothic Makeup to Lacra's face and body. Enable only the matching Gothic original. Do not combine it with separate face, makeup, chest texture or Pussy Walker body choices."
+    "description": "Use the ELSB body with Lacra Gothic Makeup across Lacra's face and body. Enable only the matching Gothic original. Do not combine it with separate face, makeup, chest texture or Pussy Walker body choices."
   },
   {
-    "group": "lacra_skin",
+    "group": "lacra_body",
     "option": "compat_chars_445_2454",
-    "description": "Apply Lacra Gothic Vanilla Makeup to Lacra's face and body. Enable only the matching Gothic original. Do not combine it with separate face, makeup, chest texture or Pussy Walker body choices."
+    "description": "Use the ELSB body with Lacra Gothic Vanilla Makeup across Lacra's face and body. Enable only the matching Gothic original. Do not combine it with separate face, makeup, chest texture or Pussy Walker body choices."
   },
   {
-    "group": "lacra_skin",
+    "group": "lacra_body",
     "option": "compat_chars_445_2453",
-    "description": "Apply Lacra Gothic Dead Skin Vanilla Makeup v2 to Lacra's face and body. Enable only the matching Gothic original. Do not combine it with separate face, makeup, chest texture or Pussy Walker body choices."
+    "description": "Use the ELSB body with Lacra Gothic Dead Skin Vanilla Makeup v2 across Lacra's face and body. Enable only the matching Gothic original. Do not combine it with separate face, makeup, chest texture or Pussy Walker body choices."
   },
   {
-    "group": "lacra_skin",
+    "group": "lacra_body",
     "option": "compat_chars_445_2448",
-    "description": "Apply Lacra Gothic No Makeup to Lacra's face and body. Enable only the matching Gothic original. Do not combine it with separate face, makeup, chest texture or Pussy Walker body choices."
+    "description": "Use the ELSB body with Lacra Gothic No Makeup across Lacra's face and body. Enable only the matching Gothic original. Do not combine it with separate face, makeup, chest texture or Pussy Walker body choices."
   },
   {
     "group": "lacra_hair",

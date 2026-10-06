@@ -1661,6 +1661,78 @@ Preview credit: Akazonae36 (ELSB).</description>
                 <type name="Optional" />
               </typeDescriptor>
             </plugin>
+            <plugin name="Lacra Gothic Makeup - complete face and body skin">
+              <description>Use the ELSB body with Lacra Gothic Makeup across Lacra's face and body. Enable only the matching Gothic original. Do not combine it with separate face, makeup, chest texture or Pussy Walker body choices.
+
+Required original: Goth Lacra (version 2).
+Enable and deploy this original separately in Vortex.
+Archive: Lacra Gothic Makeup 445 2 2026-09-22T07-55Z qCmCin19n.zip
+Nexus Mods: mod 445, file 2457.
+
+Preview: base ELSB appearance; this option is not pictured.
+Preview credit: Akazonae36 (ELSB).</description>
+              <image path="fomod/images/elsb/lacra_body/fitness/preview.png" />
+              <conditionFlags>
+                <flag name="lacra_body">compat_chars_445_2457</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Optional" />
+              </typeDescriptor>
+            </plugin>
+            <plugin name="Lacra Gothic Vanilla Makeup - complete face and body skin">
+              <description>Use the ELSB body with Lacra Gothic Vanilla Makeup across Lacra's face and body. Enable only the matching Gothic original. Do not combine it with separate face, makeup, chest texture or Pussy Walker body choices.
+
+Required original: Goth Lacra (version 2).
+Enable and deploy this original separately in Vortex.
+Archive: Lacra Gothic Vanilla Makeup 445 2 2026-09-22T04-27Z 80d0asHN5.zip
+Nexus Mods: mod 445, file 2454.
+
+Preview: base ELSB appearance; this option is not pictured.
+Preview credit: Akazonae36 (ELSB).</description>
+              <image path="fomod/images/elsb/lacra_body/fitness/preview.png" />
+              <conditionFlags>
+                <flag name="lacra_body">compat_chars_445_2454</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Optional" />
+              </typeDescriptor>
+            </plugin>
+            <plugin name="Lacra Gothic Dead Skin Vanilla Makeup v2 - complete face and body skin">
+              <description>Use the ELSB body with Lacra Gothic Dead Skin Vanilla Makeup v2 across Lacra's face and body. Enable only the matching Gothic original. Do not combine it with separate face, makeup, chest texture or Pussy Walker body choices.
+
+Required original: Goth Lacra (version 2).
+Enable and deploy this original separately in Vortex.
+Archive: Lacra Gothic Dead Skin Vanilla Makeup v2 445 2 2026-09-22T02-44Z QqTq45eiL.zip
+Nexus Mods: mod 445, file 2453.
+
+Preview: base ELSB appearance; this option is not pictured.
+Preview credit: Akazonae36 (ELSB).</description>
+              <image path="fomod/images/elsb/lacra_body/fitness/preview.png" />
+              <conditionFlags>
+                <flag name="lacra_body">compat_chars_445_2453</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Optional" />
+              </typeDescriptor>
+            </plugin>
+            <plugin name="Lacra Gothic No Makeup - complete face and body skin">
+              <description>Use the ELSB body with Lacra Gothic No Makeup across Lacra's face and body. Enable only the matching Gothic original. Do not combine it with separate face, makeup, chest texture or Pussy Walker body choices.
+
+Required original: Goth Lacra (version 2).
+Enable and deploy this original separately in Vortex.
+Archive: Lacra Gothic No Makeup 445 2 2026-09-22T01-14Z sW7WJAgPF.zip
+Nexus Mods: mod 445, file 2448.
+
+Preview: base ELSB appearance; this option is not pictured.
+Preview credit: Akazonae36 (ELSB).</description>
+              <image path="fomod/images/elsb/lacra_body/fitness/preview.png" />
+              <conditionFlags>
+                <flag name="lacra_body">compat_chars_445_2448</flag>
+              </conditionFlags>
+              <typeDescriptor>
+                <type name="Optional" />
+              </typeDescriptor>
+            </plugin>
           </plugins>
         </group>
         <group name="Lacra's body scenes" type="SelectExactlyOne">
@@ -1678,7 +1750,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               </typeDescriptor>
             </plugin>
             <plugin name="All scenes">
-              <description>Availability: Choose "ELSB" or "ELSB + Pussy Walker" in "Lacra's body" on "Lacra - Body and scenes".
+              <description>Availability: Choose "ELSB" or "ELSB + Pussy Walker" or a Gothic body in "Lacra's body" on "Lacra - Body and scenes".
 
 Use Lacra's ELSB body in both clothed and naked scenes.
 
@@ -1695,6 +1767,10 @@ Preview credit: Akazonae36 (ELSB).</description>
                       <dependencies operator="Or">
                         <flagDependency flag="lacra_body" value="fitness" />
                         <flagDependency flag="lacra_body" value="pussywalker" />
+                        <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+                        <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+                        <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+                        <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
                       </dependencies>
                       <type name="Optional" />
                     </pattern>
@@ -1719,7 +1795,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               </typeDescriptor>
             </plugin>
             <plugin name="Naked">
-              <description>Availability: Choose "Vanilla (unchanged)" or "ELSB" or "ELSB + Pussy Walker" in "Lacra's body" on "Lacra - Body and scenes".
+              <description>Availability: Choose "Vanilla (unchanged)" or "ELSB" or "ELSB + Pussy Walker" or a Gothic body in "Lacra's body" on "Lacra - Body and scenes".
 
 Make Lacra naked. With an ELSB body selected, this also applies that body to all scenes.
 
@@ -1738,6 +1814,10 @@ Preview credit: Akazonae36 (ELSB).</description>
                         <dependencies operator="Or">
                           <flagDependency flag="lacra_body" value="fitness" />
                           <flagDependency flag="lacra_body" value="pussywalker" />
+                          <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+                          <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+                          <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+                          <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
                         </dependencies>
                       </dependencies>
                       <type name="Optional" />
@@ -1747,7 +1827,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               </typeDescriptor>
             </plugin>
             <plugin name="Revealing Lacra (ELSB fit)">
-              <description>Availability: Choose "ELSB" or "ELSB + Pussy Walker" in "Lacra's body" on "Lacra - Body and scenes".
+              <description>Availability: Choose "ELSB" or "ELSB + Pussy Walker" or a Gothic body in "Lacra's body" on "Lacra - Body and scenes".
 
 Fit Revealing Lacra to Lacra's ELSB body. Selecting this outfit uses the body in all scenes.
 
@@ -1770,12 +1850,20 @@ Preview credit: Akazonae36 (ELSB).</description>
                         <dependencies operator="Or">
                           <flagDependency flag="lacra_body" value="fitness" />
                           <flagDependency flag="lacra_body" value="pussywalker" />
+                          <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+                          <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+                          <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+                          <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
                         </dependencies>
                         <dependencies operator="Or">
                           <flagDependency flag="lacra_body" value="vanilla" />
                           <dependencies operator="Or">
                             <flagDependency flag="lacra_body" value="fitness" />
                             <flagDependency flag="lacra_body" value="pussywalker" />
+                            <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+                            <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+                            <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+                            <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
                           </dependencies>
                         </dependencies>
                       </dependencies>
@@ -1802,7 +1890,9 @@ Preview credit: Akazonae36 (ELSB).</description>
               </typeDescriptor>
             </plugin>
             <plugin name="Lacra Vrakhir Chest Texture - priority patch">
-              <description>Use the Vrakhir chest texture fix with your selected Lacra body. Separate face and makeup choices can be combined with it.
+              <description>Availability: Choose a non-Gothic option in "Lacra's body" on "Lacra - Body and scenes". Gothic bodies include their own chest skin.
+
+Use the Vrakhir chest texture fix with your selected Lacra body. Separate face and makeup choices can be combined with it.
 
 Required original: Lacra Chest Texture - Vrakhir Fix (version 1.0.0).
 Enable and deploy this original separately in Vortex.
@@ -1815,26 +1905,6 @@ Preview credit: PinkyDude.</description>
                 <flag name="lacra_skin">compat_lacra_chest</flag>
               </conditionFlags>
               <typeDescriptor>
-                <type name="Recommended" />
-              </typeDescriptor>
-            </plugin>
-            <plugin name="Lacra Gothic Makeup - complete face and body skin">
-              <description>Availability: Choose "Vanilla (unchanged)" or "ELSB" or "SlimThiccLacrabyMM - table patch" or "ThiccLacrabyMM - table patch" in "Lacra's body" on "Lacra - Body and scenes". This complete skin cannot be combined with ELSB + Pussy Walker.
-
-Apply Lacra Gothic Makeup to Lacra's face and body. Enable only the matching Gothic original. Do not combine it with separate face, makeup, chest texture or Pussy Walker body choices.
-
-Required original: Goth Lacra (version 2).
-Enable and deploy this original separately in Vortex.
-Archive: Lacra Gothic Makeup 445 2 2026-09-22T07-55Z qCmCin19n.zip
-Nexus Mods: mod 445, file 2457.
-
-Preview: base ELSB appearance; this option is not pictured.
-Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_body/fitness/preview.png" />
-              <conditionFlags>
-                <flag name="lacra_skin">compat_chars_445_2457</flag>
-              </conditionFlags>
-              <typeDescriptor>
                 <dependencyType>
                   <defaultType name="NotUsable" />
                   <patterns>
@@ -1842,109 +1912,11 @@ Preview credit: Akazonae36 (ELSB).</description>
                       <dependencies operator="Or">
                         <flagDependency flag="lacra_body" value="vanilla" />
                         <flagDependency flag="lacra_body" value="fitness" />
+                        <flagDependency flag="lacra_body" value="pussywalker" />
                         <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
                         <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
                       </dependencies>
-                      <type name="Optional" />
-                    </pattern>
-                  </patterns>
-                </dependencyType>
-              </typeDescriptor>
-            </plugin>
-            <plugin name="Lacra Gothic Vanilla Makeup - complete face and body skin">
-              <description>Availability: Choose "Vanilla (unchanged)" or "ELSB" or "SlimThiccLacrabyMM - table patch" or "ThiccLacrabyMM - table patch" in "Lacra's body" on "Lacra - Body and scenes". This complete skin cannot be combined with ELSB + Pussy Walker.
-
-Apply Lacra Gothic Vanilla Makeup to Lacra's face and body. Enable only the matching Gothic original. Do not combine it with separate face, makeup, chest texture or Pussy Walker body choices.
-
-Required original: Goth Lacra (version 2).
-Enable and deploy this original separately in Vortex.
-Archive: Lacra Gothic Vanilla Makeup 445 2 2026-09-22T04-27Z 80d0asHN5.zip
-Nexus Mods: mod 445, file 2454.
-
-Preview: base ELSB appearance; this option is not pictured.
-Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_body/fitness/preview.png" />
-              <conditionFlags>
-                <flag name="lacra_skin">compat_chars_445_2454</flag>
-              </conditionFlags>
-              <typeDescriptor>
-                <dependencyType>
-                  <defaultType name="NotUsable" />
-                  <patterns>
-                    <pattern>
-                      <dependencies operator="Or">
-                        <flagDependency flag="lacra_body" value="vanilla" />
-                        <flagDependency flag="lacra_body" value="fitness" />
-                        <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
-                        <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
-                      </dependencies>
-                      <type name="Optional" />
-                    </pattern>
-                  </patterns>
-                </dependencyType>
-              </typeDescriptor>
-            </plugin>
-            <plugin name="Lacra Gothic Dead Skin Vanilla Makeup v2 - complete face and body skin">
-              <description>Availability: Choose "Vanilla (unchanged)" or "ELSB" or "SlimThiccLacrabyMM - table patch" or "ThiccLacrabyMM - table patch" in "Lacra's body" on "Lacra - Body and scenes". This complete skin cannot be combined with ELSB + Pussy Walker.
-
-Apply Lacra Gothic Dead Skin Vanilla Makeup v2 to Lacra's face and body. Enable only the matching Gothic original. Do not combine it with separate face, makeup, chest texture or Pussy Walker body choices.
-
-Required original: Goth Lacra (version 2).
-Enable and deploy this original separately in Vortex.
-Archive: Lacra Gothic Dead Skin Vanilla Makeup v2 445 2 2026-09-22T02-44Z QqTq45eiL.zip
-Nexus Mods: mod 445, file 2453.
-
-Preview: base ELSB appearance; this option is not pictured.
-Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_body/fitness/preview.png" />
-              <conditionFlags>
-                <flag name="lacra_skin">compat_chars_445_2453</flag>
-              </conditionFlags>
-              <typeDescriptor>
-                <dependencyType>
-                  <defaultType name="NotUsable" />
-                  <patterns>
-                    <pattern>
-                      <dependencies operator="Or">
-                        <flagDependency flag="lacra_body" value="vanilla" />
-                        <flagDependency flag="lacra_body" value="fitness" />
-                        <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
-                        <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
-                      </dependencies>
-                      <type name="Optional" />
-                    </pattern>
-                  </patterns>
-                </dependencyType>
-              </typeDescriptor>
-            </plugin>
-            <plugin name="Lacra Gothic No Makeup - complete face and body skin">
-              <description>Availability: Choose "Vanilla (unchanged)" or "ELSB" or "SlimThiccLacrabyMM - table patch" or "ThiccLacrabyMM - table patch" in "Lacra's body" on "Lacra - Body and scenes". This complete skin cannot be combined with ELSB + Pussy Walker.
-
-Apply Lacra Gothic No Makeup to Lacra's face and body. Enable only the matching Gothic original. Do not combine it with separate face, makeup, chest texture or Pussy Walker body choices.
-
-Required original: Goth Lacra (version 2).
-Enable and deploy this original separately in Vortex.
-Archive: Lacra Gothic No Makeup 445 2 2026-09-22T01-14Z sW7WJAgPF.zip
-Nexus Mods: mod 445, file 2448.
-
-Preview: base ELSB appearance; this option is not pictured.
-Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_body/fitness/preview.png" />
-              <conditionFlags>
-                <flag name="lacra_skin">compat_chars_445_2448</flag>
-              </conditionFlags>
-              <typeDescriptor>
-                <dependencyType>
-                  <defaultType name="NotUsable" />
-                  <patterns>
-                    <pattern>
-                      <dependencies operator="Or">
-                        <flagDependency flag="lacra_body" value="vanilla" />
-                        <flagDependency flag="lacra_body" value="fitness" />
-                        <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
-                        <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
-                      </dependencies>
-                      <type name="Optional" />
+                      <type name="Recommended" />
                     </pattern>
                   </patterns>
                 </dependencyType>
@@ -2337,7 +2309,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               </typeDescriptor>
             </plugin>
             <plugin name="Makeup v2 (no Eye of Horus) - original">
-              <description>Availability: Choose "None" or "Lacra Vrakhir Chest Texture - priority patch" in "Lacra's skin, makeup and tattoos" on "Lacra - Body and scenes". Complete Gothic skins already replace the face and cannot be combined with this separate face option.
+              <description>Availability: Choose a non-Gothic option in "Lacra's body" on "Lacra - Body and scenes". Gothic bodies include their own face and body skin and cannot use this separate face option.
 
 Apply Lacra's Makeup v2 without the Eye of Horus. Enable only one Lacra face or makeup original.
 
@@ -2358,8 +2330,11 @@ Preview credit: gleb63.</description>
                   <patterns>
                     <pattern>
                       <dependencies operator="Or">
-                        <flagDependency flag="lacra_skin" value="vanilla" />
-                        <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+                        <flagDependency flag="lacra_body" value="vanilla" />
+                        <flagDependency flag="lacra_body" value="fitness" />
+                        <flagDependency flag="lacra_body" value="pussywalker" />
+                        <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
+                        <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
                       </dependencies>
                       <type name="Optional" />
                     </pattern>
@@ -2368,7 +2343,7 @@ Preview credit: gleb63.</description>
               </typeDescriptor>
             </plugin>
             <plugin name="Lacra Natural Makeup - original">
-              <description>Availability: Choose "None" or "Lacra Vrakhir Chest Texture - priority patch" in "Lacra's skin, makeup and tattoos" on "Lacra - Body and scenes". Complete Gothic skins already replace the face and cannot be combined with this separate face option.
+              <description>Availability: Choose a non-Gothic option in "Lacra's body" on "Lacra - Body and scenes". Gothic bodies include their own face and body skin and cannot use this separate face option.
 
 Apply Lacra Natural Makeup. Enable only one Lacra face or makeup original.
 
@@ -2389,8 +2364,11 @@ Preview credit: gleb63.</description>
                   <patterns>
                     <pattern>
                       <dependencies operator="Or">
-                        <flagDependency flag="lacra_skin" value="vanilla" />
-                        <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+                        <flagDependency flag="lacra_body" value="vanilla" />
+                        <flagDependency flag="lacra_body" value="fitness" />
+                        <flagDependency flag="lacra_body" value="pussywalker" />
+                        <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
+                        <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
                       </dependencies>
                       <type name="Optional" />
                     </pattern>
@@ -2399,7 +2377,7 @@ Preview credit: gleb63.</description>
               </typeDescriptor>
             </plugin>
             <plugin name="Lacra Makeup - original">
-              <description>Availability: Choose "None" or "Lacra Vrakhir Chest Texture - priority patch" in "Lacra's skin, makeup and tattoos" on "Lacra - Body and scenes". Complete Gothic skins already replace the face and cannot be combined with this separate face option.
+              <description>Availability: Choose a non-Gothic option in "Lacra's body" on "Lacra - Body and scenes". Gothic bodies include their own face and body skin and cannot use this separate face option.
 
 Apply Lacra Makeup. Enable only one Lacra face or makeup original.
 
@@ -2420,8 +2398,11 @@ Preview credit: gleb63.</description>
                   <patterns>
                     <pattern>
                       <dependencies operator="Or">
-                        <flagDependency flag="lacra_skin" value="vanilla" />
-                        <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+                        <flagDependency flag="lacra_body" value="vanilla" />
+                        <flagDependency flag="lacra_body" value="fitness" />
+                        <flagDependency flag="lacra_body" value="pussywalker" />
+                        <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
+                        <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
                       </dependencies>
                       <type name="Optional" />
                     </pattern>
@@ -2430,7 +2411,7 @@ Preview credit: gleb63.</description>
               </typeDescriptor>
             </plugin>
             <plugin name="Lacra Young Makeup - original">
-              <description>Availability: Choose "None" or "Lacra Vrakhir Chest Texture - priority patch" in "Lacra's skin, makeup and tattoos" on "Lacra - Body and scenes". Complete Gothic skins already replace the face and cannot be combined with this separate face option.
+              <description>Availability: Choose a non-Gothic option in "Lacra's body" on "Lacra - Body and scenes". Gothic bodies include their own face and body skin and cannot use this separate face option.
 
 Apply Lacra Young Makeup. Enable only one Lacra face or makeup original.
 
@@ -2451,8 +2432,11 @@ Preview credit: LFAGM.</description>
                   <patterns>
                     <pattern>
                       <dependencies operator="Or">
-                        <flagDependency flag="lacra_skin" value="vanilla" />
-                        <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+                        <flagDependency flag="lacra_body" value="vanilla" />
+                        <flagDependency flag="lacra_body" value="fitness" />
+                        <flagDependency flag="lacra_body" value="pussywalker" />
+                        <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
+                        <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
                       </dependencies>
                       <type name="Optional" />
                     </pattern>
@@ -2461,7 +2445,7 @@ Preview credit: LFAGM.</description>
               </typeDescriptor>
             </plugin>
             <plugin name="Lacra Young Makeup Alternative - original">
-              <description>Availability: Choose "None" or "Lacra Vrakhir Chest Texture - priority patch" in "Lacra's skin, makeup and tattoos" on "Lacra - Body and scenes". Complete Gothic skins already replace the face and cannot be combined with this separate face option.
+              <description>Availability: Choose a non-Gothic option in "Lacra's body" on "Lacra - Body and scenes". Gothic bodies include their own face and body skin and cannot use this separate face option.
 
 Apply the alternative Lacra Young Makeup. Enable only one Lacra face or makeup original.
 
@@ -2482,8 +2466,11 @@ Preview credit: LFAGM.</description>
                   <patterns>
                     <pattern>
                       <dependencies operator="Or">
-                        <flagDependency flag="lacra_skin" value="vanilla" />
-                        <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+                        <flagDependency flag="lacra_body" value="vanilla" />
+                        <flagDependency flag="lacra_body" value="fitness" />
+                        <flagDependency flag="lacra_body" value="pussywalker" />
+                        <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
+                        <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
                       </dependencies>
                       <type name="Optional" />
                     </pattern>
@@ -2508,7 +2495,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               </typeDescriptor>
             </plugin>
             <plugin name="Lacra Smooth Skin - ELSB patch">
-              <description>Availability: Choose "None" or "Lacra Vrakhir Chest Texture - priority patch" in "Lacra's skin, makeup and tattoos" on "Lacra - Body and scenes". Complete Gothic skins already replace the face and cannot be combined with this separate face option.
+              <description>Availability: Choose a non-Gothic option in "Lacra's body" on "Lacra - Body and scenes". Gothic bodies include their own face and body skin and cannot use this separate face option.
 
 Smooth Lacra's face surface. Can be combined with separate face makeup, expression wrinkles and chest textures.
 
@@ -2529,8 +2516,11 @@ Preview credit: gleb63.</description>
                   <patterns>
                     <pattern>
                       <dependencies operator="Or">
-                        <flagDependency flag="lacra_skin" value="vanilla" />
-                        <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+                        <flagDependency flag="lacra_body" value="vanilla" />
+                        <flagDependency flag="lacra_body" value="fitness" />
+                        <flagDependency flag="lacra_body" value="pussywalker" />
+                        <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
+                        <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
                       </dependencies>
                       <type name="Optional" />
                     </pattern>
@@ -2555,7 +2545,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               </typeDescriptor>
             </plugin>
             <plugin name="Lacra LESS Wrinkles - original">
-              <description>Availability: Choose "None" or "Lacra Vrakhir Chest Texture - priority patch" in "Lacra's skin, makeup and tattoos" on "Lacra - Body and scenes". Complete Gothic skins already replace the face and cannot be combined with this separate face option.
+              <description>Availability: Choose a non-Gothic option in "Lacra's body" on "Lacra - Body and scenes". Gothic bodies include their own face and body skin and cannot use this separate face option.
 
 Reduce Lacra's expression wrinkles. Can be combined with separate face makeup, smooth skin and chest textures.
 
@@ -2576,8 +2566,11 @@ Preview credit: gleb63.</description>
                   <patterns>
                     <pattern>
                       <dependencies operator="Or">
-                        <flagDependency flag="lacra_skin" value="vanilla" />
-                        <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+                        <flagDependency flag="lacra_body" value="vanilla" />
+                        <flagDependency flag="lacra_body" value="fitness" />
+                        <flagDependency flag="lacra_body" value="pussywalker" />
+                        <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
+                        <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
                       </dependencies>
                       <type name="Optional" />
                     </pattern>
@@ -2602,7 +2595,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               </typeDescriptor>
             </plugin>
             <plugin name="Rise Of Lacra Croft - Human Head Replacement - ELSB routing">
-              <description>Availability: Choose "Vanilla (unchanged)" or "ELSB" or "ELSB + Pussy Walker" in "Lacra's body" on "Lacra - Body and scenes".
+              <description>Availability: Choose "Vanilla (unchanged)" or "ELSB" or "ELSB + Pussy Walker" or a Gothic body in "Lacra's body" on "Lacra - Body and scenes".
 
 Use the Rise of Lacra Croft human head with your selected body.
 
@@ -2627,6 +2620,10 @@ Preview credit: LFAGM.</description>
                         <dependencies operator="Or">
                           <flagDependency flag="lacra_body" value="fitness" />
                           <flagDependency flag="lacra_body" value="pussywalker" />
+                          <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+                          <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+                          <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+                          <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
                         </dependencies>
                       </dependencies>
                       <type name="Optional" />
@@ -4103,6 +4100,10 @@ Preview credit: Akazonae36 (ELSB).</description>
         <dependencies operator="Or">
           <flagDependency flag="lacra_body" value="fitness" />
           <flagDependency flag="lacra_body" value="pussywalker" />
+          <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+          <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+          <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+          <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
         </dependencies>
         <files>
           <file source="Payload/ELSB/lacra_body/fitness/ELSB_LacraBodyBDP_P.pak" destination="Dawnwalker/Content/Paks/~mods/ELSB_LacraBodyBDP_P.pak" priority="0" />
@@ -4398,6 +4399,10 @@ Preview credit: Akazonae36 (ELSB).</description>
           <dependencies operator="Or">
             <flagDependency flag="lacra_body" value="fitness" />
             <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
           </dependencies>
           <dependencies operator="Or">
             <flagDependency flag="lacra_scope" value="all" />
@@ -4425,6 +4430,10 @@ Preview credit: Akazonae36 (ELSB).</description>
             <dependencies operator="Or">
               <flagDependency flag="lacra_body" value="fitness" />
               <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
             </dependencies>
           </dependencies>
         </dependencies>
@@ -5931,6 +5940,10 @@ Preview credit: Akazonae36 (ELSB).</description>
             <dependencies operator="Or">
               <flagDependency flag="lacra_body" value="fitness" />
               <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
             </dependencies>
             <dependencies operator="Or">
               <flagDependency flag="lacra_scope" value="all" />
@@ -6032,6 +6045,10 @@ Preview credit: Akazonae36 (ELSB).</description>
           <dependencies operator="Or">
             <flagDependency flag="lacra_body" value="fitness" />
             <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
           </dependencies>
         </dependencies>
         <files>
@@ -6057,6 +6074,13 @@ Preview credit: Akazonae36 (ELSB).</description>
       <pattern>
         <dependencies operator="And">
           <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+          <dependencies operator="Or">
+            <flagDependency flag="lacra_body" value="vanilla" />
+            <flagDependency flag="lacra_body" value="fitness" />
+            <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
+            <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
+          </dependencies>
         </dependencies>
         <files>
           <file source="Payload/Patches/lacra_chest/0ELSB_CompatLacraChest_P.pak" destination="Dawnwalker/Content/Paks/~mods/0ELSB_CompatLacraChest_P.pak" priority="0" />
@@ -6078,8 +6102,11 @@ Preview credit: Akazonae36 (ELSB).</description>
         <dependencies operator="And">
           <flagDependency flag="lacra_face" value="compat_chars_550_2442" />
           <dependencies operator="Or">
-            <flagDependency flag="lacra_skin" value="vanilla" />
-            <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+            <flagDependency flag="lacra_body" value="vanilla" />
+            <flagDependency flag="lacra_body" value="fitness" />
+            <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
+            <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
           </dependencies>
         </dependencies>
         <files>
@@ -6142,8 +6169,11 @@ Preview credit: Akazonae36 (ELSB).</description>
         <dependencies operator="And">
           <flagDependency flag="lacra_face" value="compat_chars_550_2444" />
           <dependencies operator="Or">
-            <flagDependency flag="lacra_skin" value="vanilla" />
-            <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+            <flagDependency flag="lacra_body" value="vanilla" />
+            <flagDependency flag="lacra_body" value="fitness" />
+            <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
+            <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
           </dependencies>
         </dependencies>
         <files>
@@ -6156,8 +6186,11 @@ Preview credit: Akazonae36 (ELSB).</description>
         <dependencies operator="And">
           <flagDependency flag="lacra_face" value="compat_chars_550_2443" />
           <dependencies operator="Or">
-            <flagDependency flag="lacra_skin" value="vanilla" />
-            <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+            <flagDependency flag="lacra_body" value="vanilla" />
+            <flagDependency flag="lacra_body" value="fitness" />
+            <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
+            <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
           </dependencies>
         </dependencies>
         <files>
@@ -6170,8 +6203,11 @@ Preview credit: Akazonae36 (ELSB).</description>
         <dependencies operator="And">
           <flagDependency flag="lacra_wrinkles" value="compat_chars_550_2085" />
           <dependencies operator="Or">
-            <flagDependency flag="lacra_skin" value="vanilla" />
-            <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+            <flagDependency flag="lacra_body" value="vanilla" />
+            <flagDependency flag="lacra_body" value="fitness" />
+            <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
+            <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
           </dependencies>
         </dependencies>
         <files>
@@ -6184,8 +6220,11 @@ Preview credit: Akazonae36 (ELSB).</description>
         <dependencies operator="And">
           <flagDependency flag="lacra_surface" value="compat_chars_550_2083" />
           <dependencies operator="Or">
-            <flagDependency flag="lacra_skin" value="vanilla" />
-            <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+            <flagDependency flag="lacra_body" value="vanilla" />
+            <flagDependency flag="lacra_body" value="fitness" />
+            <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
+            <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
           </dependencies>
         </dependencies>
         <files>
@@ -6236,13 +6275,7 @@ Preview credit: Akazonae36 (ELSB).</description>
       </pattern>
       <pattern>
         <dependencies operator="And">
-          <flagDependency flag="lacra_skin" value="compat_chars_445_2457" />
-          <dependencies operator="Or">
-            <flagDependency flag="lacra_body" value="vanilla" />
-            <flagDependency flag="lacra_body" value="fitness" />
-            <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
-            <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
-          </dependencies>
+          <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
         </dependencies>
         <files>
           <file source="Payload/Patches/characters/chars_445_2457_skin/00ELSB_chars_445_2457_skin_P.pak" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_445_2457_skin_P.pak" priority="0" />
@@ -6252,13 +6285,7 @@ Preview credit: Akazonae36 (ELSB).</description>
       </pattern>
       <pattern>
         <dependencies operator="And">
-          <flagDependency flag="lacra_skin" value="compat_chars_445_2454" />
-          <dependencies operator="Or">
-            <flagDependency flag="lacra_body" value="vanilla" />
-            <flagDependency flag="lacra_body" value="fitness" />
-            <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
-            <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
-          </dependencies>
+          <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
         </dependencies>
         <files>
           <file source="Payload/Patches/characters/chars_445_2454_skin/00ELSB_chars_445_2454_skin_P.pak" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_445_2454_skin_P.pak" priority="0" />
@@ -6268,13 +6295,7 @@ Preview credit: Akazonae36 (ELSB).</description>
       </pattern>
       <pattern>
         <dependencies operator="And">
-          <flagDependency flag="lacra_skin" value="compat_chars_445_2453" />
-          <dependencies operator="Or">
-            <flagDependency flag="lacra_body" value="vanilla" />
-            <flagDependency flag="lacra_body" value="fitness" />
-            <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
-            <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
-          </dependencies>
+          <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
         </dependencies>
         <files>
           <file source="Payload/Patches/characters/chars_445_2453_skin/00ELSB_chars_445_2453_skin_P.pak" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_445_2453_skin_P.pak" priority="0" />
@@ -6284,13 +6305,7 @@ Preview credit: Akazonae36 (ELSB).</description>
       </pattern>
       <pattern>
         <dependencies operator="And">
-          <flagDependency flag="lacra_skin" value="compat_chars_445_2448" />
-          <dependencies operator="Or">
-            <flagDependency flag="lacra_body" value="vanilla" />
-            <flagDependency flag="lacra_body" value="fitness" />
-            <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
-            <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
-          </dependencies>
+          <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
         </dependencies>
         <files>
           <file source="Payload/Patches/characters/chars_445_2448_skin/00ELSB_chars_445_2448_skin_P.pak" destination="Dawnwalker/Content/Paks/~mods/00ELSB_chars_445_2448_skin_P.pak" priority="0" />
@@ -6302,8 +6317,11 @@ Preview credit: Akazonae36 (ELSB).</description>
         <dependencies operator="And">
           <flagDependency flag="lacra_face" value="compat_chars_427_1588" />
           <dependencies operator="Or">
-            <flagDependency flag="lacra_skin" value="vanilla" />
-            <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+            <flagDependency flag="lacra_body" value="vanilla" />
+            <flagDependency flag="lacra_body" value="fitness" />
+            <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
+            <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
           </dependencies>
         </dependencies>
         <files>
@@ -6316,8 +6334,11 @@ Preview credit: Akazonae36 (ELSB).</description>
         <dependencies operator="And">
           <flagDependency flag="lacra_face" value="compat_chars_427_1599" />
           <dependencies operator="Or">
-            <flagDependency flag="lacra_skin" value="vanilla" />
-            <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+            <flagDependency flag="lacra_body" value="vanilla" />
+            <flagDependency flag="lacra_body" value="fitness" />
+            <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
+            <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
           </dependencies>
         </dependencies>
         <files>
@@ -6333,6 +6354,10 @@ Preview credit: Akazonae36 (ELSB).</description>
             <dependencies operator="Or">
               <flagDependency flag="lacra_body" value="fitness" />
               <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
             </dependencies>
             <dependencies operator="Or">
               <flagDependency flag="lacra_scope" value="all" />
@@ -6357,6 +6382,10 @@ Preview credit: Akazonae36 (ELSB).</description>
               <dependencies operator="Or">
                 <flagDependency flag="lacra_body" value="fitness" />
                 <flagDependency flag="lacra_body" value="pussywalker" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
               </dependencies>
             </dependencies>
           </dependencies>
@@ -6373,6 +6402,10 @@ Preview credit: Akazonae36 (ELSB).</description>
           <dependencies operator="Or">
             <flagDependency flag="lacra_body" value="fitness" />
             <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
           </dependencies>
         </dependencies>
         <files>
@@ -6391,6 +6424,10 @@ Preview credit: Akazonae36 (ELSB).</description>
               <dependencies operator="Or">
                 <flagDependency flag="lacra_body" value="fitness" />
                 <flagDependency flag="lacra_body" value="pussywalker" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
               </dependencies>
             </dependencies>
           </dependencies>
@@ -6408,6 +6445,10 @@ Preview credit: Akazonae36 (ELSB).</description>
             <dependencies operator="Or">
               <flagDependency flag="lacra_body" value="fitness" />
               <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
             </dependencies>
             <dependencies operator="Or">
               <flagDependency flag="lacra_scope" value="all" />
@@ -6445,6 +6486,10 @@ Preview credit: Akazonae36 (ELSB).</description>
               <dependencies operator="Or">
                 <flagDependency flag="lacra_body" value="fitness" />
                 <flagDependency flag="lacra_body" value="pussywalker" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
               </dependencies>
               <dependencies operator="Or">
                 <flagDependency flag="lacra_scope" value="all" />
@@ -6579,6 +6624,10 @@ Preview credit: Akazonae36 (ELSB).</description>
             <flagDependency flag="lacra_body" value="vanilla" />
             <flagDependency flag="lacra_body" value="fitness" />
             <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
           </dependencies>
           <dependencies operator="And">
             <flagDependency flag="hair" value="vanilla" />
@@ -6678,6 +6727,10 @@ Preview credit: Akazonae36 (ELSB).</description>
             <flagDependency flag="lacra_body" value="vanilla" />
             <flagDependency flag="lacra_body" value="fitness" />
             <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
           </dependencies>
           <flagDependency flag="hair" value="Ambrus_A" />
         </dependencies>
@@ -6762,6 +6815,10 @@ Preview credit: Akazonae36 (ELSB).</description>
             <flagDependency flag="lacra_body" value="vanilla" />
             <flagDependency flag="lacra_body" value="fitness" />
             <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
           </dependencies>
           <flagDependency flag="hair" value="Andrei_A" />
         </dependencies>
@@ -6846,6 +6903,10 @@ Preview credit: Akazonae36 (ELSB).</description>
             <flagDependency flag="lacra_body" value="vanilla" />
             <flagDependency flag="lacra_body" value="fitness" />
             <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
           </dependencies>
           <flagDependency flag="hair" value="Commoner_B" />
         </dependencies>
@@ -6930,6 +6991,10 @@ Preview credit: Akazonae36 (ELSB).</description>
             <flagDependency flag="lacra_body" value="vanilla" />
             <flagDependency flag="lacra_body" value="fitness" />
             <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
           </dependencies>
           <flagDependency flag="hair" value="Commoner_C" />
         </dependencies>
@@ -7014,6 +7079,10 @@ Preview credit: Akazonae36 (ELSB).</description>
             <flagDependency flag="lacra_body" value="vanilla" />
             <flagDependency flag="lacra_body" value="fitness" />
             <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
           </dependencies>
           <flagDependency flag="hair" value="Commoner_D" />
         </dependencies>
@@ -7098,6 +7167,10 @@ Preview credit: Akazonae36 (ELSB).</description>
             <flagDependency flag="lacra_body" value="vanilla" />
             <flagDependency flag="lacra_body" value="fitness" />
             <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
           </dependencies>
           <flagDependency flag="hair" value="Commoner_E" />
         </dependencies>
@@ -7182,6 +7255,10 @@ Preview credit: Akazonae36 (ELSB).</description>
             <flagDependency flag="lacra_body" value="vanilla" />
             <flagDependency flag="lacra_body" value="fitness" />
             <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
           </dependencies>
           <flagDependency flag="hair" value="Commoner_F" />
         </dependencies>
@@ -7266,6 +7343,10 @@ Preview credit: Akazonae36 (ELSB).</description>
             <flagDependency flag="lacra_body" value="vanilla" />
             <flagDependency flag="lacra_body" value="fitness" />
             <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
           </dependencies>
           <flagDependency flag="hair" value="Florin_A" />
         </dependencies>
@@ -7350,6 +7431,10 @@ Preview credit: Akazonae36 (ELSB).</description>
             <flagDependency flag="lacra_body" value="vanilla" />
             <flagDependency flag="lacra_body" value="fitness" />
             <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
           </dependencies>
           <flagDependency flag="hair" value="Isbrand_A" />
         </dependencies>
@@ -7434,6 +7519,10 @@ Preview credit: Akazonae36 (ELSB).</description>
             <flagDependency flag="lacra_body" value="vanilla" />
             <flagDependency flag="lacra_body" value="fitness" />
             <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
           </dependencies>
           <flagDependency flag="hair" value="Marat_B" />
         </dependencies>
@@ -7518,6 +7607,10 @@ Preview credit: Akazonae36 (ELSB).</description>
             <flagDependency flag="lacra_body" value="vanilla" />
             <flagDependency flag="lacra_body" value="fitness" />
             <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
           </dependencies>
           <flagDependency flag="hair" value="Marat_C" />
         </dependencies>
@@ -7602,6 +7695,10 @@ Preview credit: Akazonae36 (ELSB).</description>
             <flagDependency flag="lacra_body" value="vanilla" />
             <flagDependency flag="lacra_body" value="fitness" />
             <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
           </dependencies>
           <flagDependency flag="hair" value="Mihai_A" />
         </dependencies>
@@ -7686,6 +7783,10 @@ Preview credit: Akazonae36 (ELSB).</description>
             <flagDependency flag="lacra_body" value="vanilla" />
             <flagDependency flag="lacra_body" value="fitness" />
             <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
           </dependencies>
           <flagDependency flag="hair" value="Vicho_A" />
         </dependencies>
@@ -7770,6 +7871,10 @@ Preview credit: Akazonae36 (ELSB).</description>
             <flagDependency flag="lacra_body" value="vanilla" />
             <flagDependency flag="lacra_body" value="fitness" />
             <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
           </dependencies>
           <dependencies operator="And">
             <flagDependency flag="hair" value="vanilla" />
@@ -7889,6 +7994,10 @@ Preview credit: Akazonae36 (ELSB).</description>
             <flagDependency flag="lacra_body" value="vanilla" />
             <flagDependency flag="lacra_body" value="fitness" />
             <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
           </dependencies>
           <dependencies operator="And">
             <flagDependency flag="hair" value="vanilla" />
@@ -8104,6 +8213,10 @@ Preview credit: Akazonae36 (ELSB).</description>
           <dependencies operator="Or">
             <flagDependency flag="lacra_body" value="fitness" />
             <flagDependency flag="lacra_body" value="pussywalker" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+            <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
           </dependencies>
           <flagDependency flag="lacra_hair" value="Commoner_A" />
           <flagDependency flag="lacra_hair" value="Commoner_B" />
@@ -8134,6 +8247,10 @@ Preview credit: Akazonae36 (ELSB).</description>
             <dependencies operator="Or">
               <flagDependency flag="lacra_body" value="fitness" />
               <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
             </dependencies>
             <dependencies operator="Or">
               <flagDependency flag="lacra_scope" value="all" />
@@ -8148,6 +8265,10 @@ Preview credit: Akazonae36 (ELSB).</description>
               <dependencies operator="Or">
                 <flagDependency flag="lacra_body" value="fitness" />
                 <flagDependency flag="lacra_body" value="pussywalker" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
               </dependencies>
             </dependencies>
           </dependencies>
@@ -8617,6 +8738,10 @@ Preview credit: Akazonae36 (ELSB).</description>
               <dependencies operator="Or">
                 <flagDependency flag="lacra_body" value="fitness" />
                 <flagDependency flag="lacra_body" value="pussywalker" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
               </dependencies>
               <dependencies operator="Or">
                 <flagDependency flag="lacra_scope" value="all" />
@@ -8663,6 +8788,10 @@ Preview credit: Akazonae36 (ELSB).</description>
             <dependencies operator="Or">
               <flagDependency flag="lacra_body" value="fitness" />
               <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
             </dependencies>
           </dependencies>
           <dependencies operator="And">
@@ -8672,13 +8801,25 @@ Preview credit: Akazonae36 (ELSB).</description>
               <flagDependency flag="anca_body" value="pussywalker" />
             </dependencies>
           </dependencies>
-          <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+          <dependencies operator="And">
+            <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+            <dependencies operator="Or">
+              <flagDependency flag="lacra_body" value="vanilla" />
+              <flagDependency flag="lacra_body" value="fitness" />
+              <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
+              <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
+            </dependencies>
+          </dependencies>
           <flagDependency flag="skin" value="compat_chars_523_2081" />
           <dependencies operator="And">
             <flagDependency flag="lacra_face" value="compat_chars_550_2442" />
             <dependencies operator="Or">
-              <flagDependency flag="lacra_skin" value="vanilla" />
-              <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+              <flagDependency flag="lacra_body" value="vanilla" />
+              <flagDependency flag="lacra_body" value="fitness" />
+              <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
+              <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
             </dependencies>
           </dependencies>
           <flagDependency flag="coen_face" value="compat_chars_703_2986" />
@@ -8689,83 +8830,69 @@ Preview credit: Akazonae36 (ELSB).</description>
           <dependencies operator="And">
             <flagDependency flag="lacra_face" value="compat_chars_550_2444" />
             <dependencies operator="Or">
-              <flagDependency flag="lacra_skin" value="vanilla" />
-              <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+              <flagDependency flag="lacra_body" value="vanilla" />
+              <flagDependency flag="lacra_body" value="fitness" />
+              <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
+              <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
             </dependencies>
           </dependencies>
           <dependencies operator="And">
             <flagDependency flag="lacra_face" value="compat_chars_550_2443" />
             <dependencies operator="Or">
-              <flagDependency flag="lacra_skin" value="vanilla" />
-              <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+              <flagDependency flag="lacra_body" value="vanilla" />
+              <flagDependency flag="lacra_body" value="fitness" />
+              <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
+              <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
             </dependencies>
           </dependencies>
           <dependencies operator="And">
             <flagDependency flag="lacra_wrinkles" value="compat_chars_550_2085" />
             <dependencies operator="Or">
-              <flagDependency flag="lacra_skin" value="vanilla" />
-              <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+              <flagDependency flag="lacra_body" value="vanilla" />
+              <flagDependency flag="lacra_body" value="fitness" />
+              <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
+              <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
             </dependencies>
           </dependencies>
           <dependencies operator="And">
             <flagDependency flag="lacra_surface" value="compat_chars_550_2083" />
             <dependencies operator="Or">
-              <flagDependency flag="lacra_skin" value="vanilla" />
-              <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+              <flagDependency flag="lacra_body" value="vanilla" />
+              <flagDependency flag="lacra_body" value="fitness" />
+              <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
+              <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
             </dependencies>
           </dependencies>
           <flagDependency flag="anca_face" value="compat_chars_404_2069" />
           <flagDependency flag="anca_face" value="compat_chars_404_2068" />
           <flagDependency flag="anca_face" value="compat_chars_404_2067" />
           <flagDependency flag="anca_face" value="compat_chars_512_1957" />
-          <dependencies operator="And">
-            <flagDependency flag="lacra_skin" value="compat_chars_445_2457" />
-            <dependencies operator="Or">
-              <flagDependency flag="lacra_body" value="vanilla" />
-              <flagDependency flag="lacra_body" value="fitness" />
-              <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
-              <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
-            </dependencies>
-          </dependencies>
-          <dependencies operator="And">
-            <flagDependency flag="lacra_skin" value="compat_chars_445_2454" />
-            <dependencies operator="Or">
-              <flagDependency flag="lacra_body" value="vanilla" />
-              <flagDependency flag="lacra_body" value="fitness" />
-              <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
-              <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
-            </dependencies>
-          </dependencies>
-          <dependencies operator="And">
-            <flagDependency flag="lacra_skin" value="compat_chars_445_2453" />
-            <dependencies operator="Or">
-              <flagDependency flag="lacra_body" value="vanilla" />
-              <flagDependency flag="lacra_body" value="fitness" />
-              <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
-              <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
-            </dependencies>
-          </dependencies>
-          <dependencies operator="And">
-            <flagDependency flag="lacra_skin" value="compat_chars_445_2448" />
-            <dependencies operator="Or">
-              <flagDependency flag="lacra_body" value="vanilla" />
-              <flagDependency flag="lacra_body" value="fitness" />
-              <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
-              <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
-            </dependencies>
-          </dependencies>
+          <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+          <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+          <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+          <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
           <dependencies operator="And">
             <flagDependency flag="lacra_face" value="compat_chars_427_1588" />
             <dependencies operator="Or">
-              <flagDependency flag="lacra_skin" value="vanilla" />
-              <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+              <flagDependency flag="lacra_body" value="vanilla" />
+              <flagDependency flag="lacra_body" value="fitness" />
+              <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
+              <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
             </dependencies>
           </dependencies>
           <dependencies operator="And">
             <flagDependency flag="lacra_face" value="compat_chars_427_1599" />
             <dependencies operator="Or">
-              <flagDependency flag="lacra_skin" value="vanilla" />
-              <flagDependency flag="lacra_skin" value="compat_lacra_chest" />
+              <flagDependency flag="lacra_body" value="vanilla" />
+              <flagDependency flag="lacra_body" value="fitness" />
+              <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
+              <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
             </dependencies>
           </dependencies>
           <dependencies operator="And">
@@ -8774,6 +8901,10 @@ Preview credit: Akazonae36 (ELSB).</description>
               <dependencies operator="Or">
                 <flagDependency flag="lacra_body" value="fitness" />
                 <flagDependency flag="lacra_body" value="pussywalker" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
               </dependencies>
               <dependencies operator="Or">
                 <flagDependency flag="lacra_scope" value="all" />
@@ -8791,6 +8922,10 @@ Preview credit: Akazonae36 (ELSB).</description>
                 <dependencies operator="Or">
                   <flagDependency flag="lacra_body" value="fitness" />
                   <flagDependency flag="lacra_body" value="pussywalker" />
+                  <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+                  <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+                  <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+                  <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
                 </dependencies>
               </dependencies>
             </dependencies>
@@ -8800,6 +8935,10 @@ Preview credit: Akazonae36 (ELSB).</description>
             <dependencies operator="Or">
               <flagDependency flag="lacra_body" value="fitness" />
               <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
             </dependencies>
           </dependencies>
           <dependencies operator="And">
@@ -8811,6 +8950,10 @@ Preview credit: Akazonae36 (ELSB).</description>
                 <dependencies operator="Or">
                   <flagDependency flag="lacra_body" value="fitness" />
                   <flagDependency flag="lacra_body" value="pussywalker" />
+                  <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+                  <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+                  <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+                  <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
                 </dependencies>
               </dependencies>
             </dependencies>
@@ -8821,6 +8964,10 @@ Preview credit: Akazonae36 (ELSB).</description>
               <dependencies operator="Or">
                 <flagDependency flag="lacra_body" value="fitness" />
                 <flagDependency flag="lacra_body" value="pussywalker" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+                <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
               </dependencies>
               <dependencies operator="Or">
                 <flagDependency flag="lacra_scope" value="all" />
@@ -8844,6 +8991,10 @@ Preview credit: Akazonae36 (ELSB).</description>
                 <dependencies operator="Or">
                   <flagDependency flag="lacra_body" value="fitness" />
                   <flagDependency flag="lacra_body" value="pussywalker" />
+                  <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+                  <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+                  <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+                  <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
                 </dependencies>
                 <dependencies operator="Or">
                   <flagDependency flag="lacra_scope" value="all" />
@@ -8922,6 +9073,10 @@ Preview credit: Akazonae36 (ELSB).</description>
               <flagDependency flag="lacra_body" value="vanilla" />
               <flagDependency flag="lacra_body" value="fitness" />
               <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
             </dependencies>
             <dependencies operator="And">
               <flagDependency flag="hair" value="vanilla" />
@@ -8986,6 +9141,10 @@ Preview credit: Akazonae36 (ELSB).</description>
               <flagDependency flag="lacra_body" value="vanilla" />
               <flagDependency flag="lacra_body" value="fitness" />
               <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
             </dependencies>
             <flagDependency flag="hair" value="Ambrus_A" />
           </dependencies>
@@ -9035,6 +9194,10 @@ Preview credit: Akazonae36 (ELSB).</description>
               <flagDependency flag="lacra_body" value="vanilla" />
               <flagDependency flag="lacra_body" value="fitness" />
               <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
             </dependencies>
             <flagDependency flag="hair" value="Andrei_A" />
           </dependencies>
@@ -9084,6 +9247,10 @@ Preview credit: Akazonae36 (ELSB).</description>
               <flagDependency flag="lacra_body" value="vanilla" />
               <flagDependency flag="lacra_body" value="fitness" />
               <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
             </dependencies>
             <flagDependency flag="hair" value="Commoner_B" />
           </dependencies>
@@ -9133,6 +9300,10 @@ Preview credit: Akazonae36 (ELSB).</description>
               <flagDependency flag="lacra_body" value="vanilla" />
               <flagDependency flag="lacra_body" value="fitness" />
               <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
             </dependencies>
             <flagDependency flag="hair" value="Commoner_C" />
           </dependencies>
@@ -9182,6 +9353,10 @@ Preview credit: Akazonae36 (ELSB).</description>
               <flagDependency flag="lacra_body" value="vanilla" />
               <flagDependency flag="lacra_body" value="fitness" />
               <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
             </dependencies>
             <flagDependency flag="hair" value="Commoner_D" />
           </dependencies>
@@ -9231,6 +9406,10 @@ Preview credit: Akazonae36 (ELSB).</description>
               <flagDependency flag="lacra_body" value="vanilla" />
               <flagDependency flag="lacra_body" value="fitness" />
               <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
             </dependencies>
             <flagDependency flag="hair" value="Commoner_E" />
           </dependencies>
@@ -9280,6 +9459,10 @@ Preview credit: Akazonae36 (ELSB).</description>
               <flagDependency flag="lacra_body" value="vanilla" />
               <flagDependency flag="lacra_body" value="fitness" />
               <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
             </dependencies>
             <flagDependency flag="hair" value="Commoner_F" />
           </dependencies>
@@ -9329,6 +9512,10 @@ Preview credit: Akazonae36 (ELSB).</description>
               <flagDependency flag="lacra_body" value="vanilla" />
               <flagDependency flag="lacra_body" value="fitness" />
               <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
             </dependencies>
             <flagDependency flag="hair" value="Florin_A" />
           </dependencies>
@@ -9378,6 +9565,10 @@ Preview credit: Akazonae36 (ELSB).</description>
               <flagDependency flag="lacra_body" value="vanilla" />
               <flagDependency flag="lacra_body" value="fitness" />
               <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
             </dependencies>
             <flagDependency flag="hair" value="Isbrand_A" />
           </dependencies>
@@ -9427,6 +9618,10 @@ Preview credit: Akazonae36 (ELSB).</description>
               <flagDependency flag="lacra_body" value="vanilla" />
               <flagDependency flag="lacra_body" value="fitness" />
               <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
             </dependencies>
             <flagDependency flag="hair" value="Marat_B" />
           </dependencies>
@@ -9476,6 +9671,10 @@ Preview credit: Akazonae36 (ELSB).</description>
               <flagDependency flag="lacra_body" value="vanilla" />
               <flagDependency flag="lacra_body" value="fitness" />
               <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
             </dependencies>
             <flagDependency flag="hair" value="Marat_C" />
           </dependencies>
@@ -9525,6 +9724,10 @@ Preview credit: Akazonae36 (ELSB).</description>
               <flagDependency flag="lacra_body" value="vanilla" />
               <flagDependency flag="lacra_body" value="fitness" />
               <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
             </dependencies>
             <flagDependency flag="hair" value="Mihai_A" />
           </dependencies>
@@ -9574,6 +9777,10 @@ Preview credit: Akazonae36 (ELSB).</description>
               <flagDependency flag="lacra_body" value="vanilla" />
               <flagDependency flag="lacra_body" value="fitness" />
               <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
             </dependencies>
             <flagDependency flag="hair" value="Vicho_A" />
           </dependencies>
@@ -9623,6 +9830,10 @@ Preview credit: Akazonae36 (ELSB).</description>
               <flagDependency flag="lacra_body" value="vanilla" />
               <flagDependency flag="lacra_body" value="fitness" />
               <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
             </dependencies>
             <dependencies operator="And">
               <flagDependency flag="hair" value="vanilla" />
@@ -9707,6 +9918,10 @@ Preview credit: Akazonae36 (ELSB).</description>
               <flagDependency flag="lacra_body" value="vanilla" />
               <flagDependency flag="lacra_body" value="fitness" />
               <flagDependency flag="lacra_body" value="pussywalker" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2457" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2454" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2453" />
+              <flagDependency flag="lacra_body" value="compat_chars_445_2448" />
             </dependencies>
             <dependencies operator="And">
               <flagDependency flag="hair" value="vanilla" />

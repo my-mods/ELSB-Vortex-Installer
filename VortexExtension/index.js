@@ -89,6 +89,21 @@ function createController(api, log = () => {}, debugLogging = false) {
       // Native presets (including explicit collection choices) take precedence.
       if (group.options?.some(o => o.preset)) continue;
       let oldGroup = unique(oldStep?.groups, g => g.name === group.name);
+      if (current.name === 'Lacra - Body and scenes') {
+        const gothicNames = [
+          'Lacra Gothic Makeup', 'Lacra Gothic Vanilla Makeup',
+          'Lacra Gothic Dead Skin Vanilla Makeup v2', 'Lacra Gothic No Makeup',
+        ];
+        const oldSkin = unique(oldStep?.groups, g => g.name === "Lacra's skin, makeup and tattoos");
+        const savedSkin = oldSkin?.choices?.length === 1 ? oldSkin.choices[0].name : undefined;
+        const moved = gothicNames.find(name => savedSkin === name + ' - complete face and body skin'
+          || savedSkin === name + ' - ELSB patch');
+        if (moved && group.name === "Lacra's body") {
+          oldGroup = { choices: [{ name: moved + ' - complete face and body skin' }] };
+        } else if (moved && group.name === "Lacra's skin, makeup and tattoos") {
+          oldGroup = { choices: [{ name: 'None' }] };
+        }
+      }
       if (!oldGroup && current.name === 'Lacra - Hair and eyes'
           && group.name === 'Face surface (normal map)') {
         oldGroup = unique(oldStep?.groups, g => g.name === 'Skin surface');

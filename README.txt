@@ -26,9 +26,10 @@ ELSB + Pussy Walker shows the two source mods side by side; the combined
 body is not pictured. Preview images are used only in the installer.
 
 Anca faces have their own category. Ordinary Lacra makeup can accompany
-Vrakhir chest textures. Gothic Lacra variants remain complete face-and-body
-skins and cannot be combined with separate makeup/chest selections or the
-Pussy Walker body. See Compatibility.txt for the exact supported originals.
+Vrakhir chest textures. Select Gothic variants directly in "Lacra's body",
+alongside ELSB, Thicc and SlimThicc. Each Gothic choice includes the ELSB body
+and the complete matching face-and-body skin. Separate makeup, chest textures
+and other body models cannot be selected with a Gothic body. See Compatibility.txt for the exact supported originals.
 
 Each compatibility choice names the required Nexus
 mod and exact supported archive. Activate and deploy that original as its own
@@ -46,7 +47,7 @@ Installation
 
 Changing choices
 Use Reinstall on this same Vortex entry, adjust the wizard and deploy.
-Install the companion ELSB - Saved Installer Choices.zip through Vortex's
+Install the companion The Blood of Dawnwalker ELSB Extension.zip through Vortex's
 Extensions page once, then restart Vortex. With that helper enabled, rerunning
 the wizard or replacing/updating this entry keeps saved choices by default
 when the same options still exist and remain usable. New or removed choices

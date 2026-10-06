@@ -46,6 +46,7 @@ Explicit presets already supplied by Vortex take precedence.
 
 Moved Anca face selections, the renamed Lacra face-surface category and
 renamed complete Gothic skin choices are migrated from the previous wizard.
+Previous Gothic skin selections now select the matching Gothic body option.
 Replace this companion and restart Vortex before updating the main installer
 to retain those selections automatically.
 

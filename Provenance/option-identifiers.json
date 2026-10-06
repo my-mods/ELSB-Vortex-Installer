@@ -681,6 +681,26 @@
         "id": "compat_chars_311_1805",
         "name": "ThiccLacrabyMM - table patch",
         "recommended": false
+      },
+      {
+        "id": "compat_chars_445_2457",
+        "name": "Lacra Gothic Makeup - complete face and body skin",
+        "recommended": false
+      },
+      {
+        "id": "compat_chars_445_2454",
+        "name": "Lacra Gothic Vanilla Makeup - complete face and body skin",
+        "recommended": false
+      },
+      {
+        "id": "compat_chars_445_2453",
+        "name": "Lacra Gothic Dead Skin Vanilla Makeup v2 - complete face and body skin",
+        "recommended": false
+      },
+      {
+        "id": "compat_chars_445_2448",
+        "name": "Lacra Gothic No Makeup - complete face and body skin",
+        "recommended": false
       }
     ]
   },
@@ -734,26 +754,6 @@
         "id": "compat_lacra_chest",
         "name": "Lacra Vrakhir Chest Texture - priority patch",
         "recommended": true
-      },
-      {
-        "id": "compat_chars_445_2457",
-        "name": "Lacra Gothic Makeup - complete face and body skin",
-        "recommended": false
-      },
-      {
-        "id": "compat_chars_445_2454",
-        "name": "Lacra Gothic Vanilla Makeup - complete face and body skin",
-        "recommended": false
-      },
-      {
-        "id": "compat_chars_445_2453",
-        "name": "Lacra Gothic Dead Skin Vanilla Makeup v2 - complete face and body skin",
-        "recommended": false
-      },
-      {
-        "id": "compat_chars_445_2448",
-        "name": "Lacra Gothic No Makeup - complete face and body skin",
-        "recommended": false
       }
     ]
   },

@@ -22,6 +22,10 @@ No ELSB toolkit program, configuration or direct-copy operation is installed.
 Every wizard choice has a picture. Face/head options now show face details
 from the original ELSB previews or Nexus screenshots. Where the author uses
 one page screenshot for several makeup variants, the caption says so.
+Coen, Anca and Lacra's default head references use AI restoration, and the
+Lacra Beautiful Hair preview has its subtitle and Skip prompt removed with AI.
+These edited references are labelled: fine details can differ from the game.
+Compressed previews keep their size small; original source images are retained.
 ELSB + Pussy Walker shows two labelled pictures side by side: the ELSB body
 and an original Pussy Walker mod image. They are source references, not a
 capture of the adapted combination. Preview images are installer-only.

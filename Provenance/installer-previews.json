@@ -110,14 +110,21 @@
   {
     "group": "hair",
     "option": "vanilla",
-    "image": "fomod/images/elsb/hair/_vanilla.png",
+    "image": "fomod/images/enhanced/coen-head.jpg",
     "source": "ELSB 1.1.1/modules/hair/_vanilla.png",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
     "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "",
-    "sha256": "021ba28b1e3f468448fa44da4fcaee1fb84090acf4fc9688fc4fa6b04ec1898b",
-    "width": 408,
-    "height": 316
+    "caption": "AI-enhanced ELSB head reference. Fine facial and hair details may differ from the in-game model.",
+    "sha256": "fe14147bf0d67d3190ad7a0a9c751c941192bf5d99fd8b232ba8cf59c3cc8526",
+    "width": 1024,
+    "height": 793,
+    "enhancement": {
+      "method": "AI restoration and JPEG compression",
+      "original_image": "fomod/images/elsb/hair/_vanilla.png",
+      "original_sha256": "021ba28b1e3f468448fa44da4fcaee1fb84090acf4fc9688fc4fa6b04ec1898b",
+      "original_preserved": true,
+      "reference_only": true
+    }
   },
   {
     "group": "hair",
@@ -278,14 +285,21 @@
   {
     "group": "hair_color",
     "option": "vanilla",
-    "image": "fomod/images/elsb/hair_color/_vanilla.png",
+    "image": "fomod/images/enhanced/coen-head.jpg",
     "source": "ELSB 1.1.1/modules/hair_color/_vanilla.png",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
     "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "",
-    "sha256": "021ba28b1e3f468448fa44da4fcaee1fb84090acf4fc9688fc4fa6b04ec1898b",
-    "width": 408,
-    "height": 316
+    "caption": "AI-enhanced ELSB head reference. Fine facial and hair details may differ from the in-game model.",
+    "sha256": "fe14147bf0d67d3190ad7a0a9c751c941192bf5d99fd8b232ba8cf59c3cc8526",
+    "width": 1024,
+    "height": 793,
+    "enhancement": {
+      "method": "AI restoration and JPEG compression",
+      "original_image": "fomod/images/elsb/hair_color/_vanilla.png",
+      "original_sha256": "021ba28b1e3f468448fa44da4fcaee1fb84090acf4fc9688fc4fa6b04ec1898b",
+      "original_preserved": true,
+      "reference_only": true
+    }
   },
   {
     "group": "hair_color",
@@ -302,14 +316,21 @@
   {
     "group": "hair_color",
     "option": "02_darkbrown",
-    "image": "fomod/images/elsb/hair_color/02_darkbrown/preview.png",
+    "image": "fomod/images/enhanced/coen-head.jpg",
     "source": "ELSB 1.1.1/modules/hair_color/02_darkbrown/preview.png",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
     "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "",
-    "sha256": "021ba28b1e3f468448fa44da4fcaee1fb84090acf4fc9688fc4fa6b04ec1898b",
-    "width": 408,
-    "height": 316
+    "caption": "AI-enhanced ELSB head reference. Fine facial and hair details may differ from the in-game model.",
+    "sha256": "fe14147bf0d67d3190ad7a0a9c751c941192bf5d99fd8b232ba8cf59c3cc8526",
+    "width": 1024,
+    "height": 793,
+    "enhancement": {
+      "method": "AI restoration and JPEG compression",
+      "original_image": "fomod/images/elsb/hair_color/02_darkbrown/preview.png",
+      "original_sha256": "021ba28b1e3f468448fa44da4fcaee1fb84090acf4fc9688fc4fa6b04ec1898b",
+      "original_preserved": true,
+      "reference_only": true
+    }
   },
   {
     "group": "hair_color",
@@ -902,14 +923,21 @@
   {
     "group": "anca_hair",
     "option": "vanilla",
-    "image": "fomod/images/elsb/anca_hair/_vanilla.png",
+    "image": "fomod/images/enhanced/anca-head.jpg",
     "source": "ELSB 1.1.1/modules/anca_hair/_vanilla.png",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
     "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "",
-    "sha256": "d4beb7dc55ff6a9241447006de734aa3def066b5b20b9292f0e699866b5db775",
-    "width": 408,
-    "height": 298
+    "caption": "AI-enhanced ELSB head reference. Fine facial and hair details may differ from the in-game model.",
+    "sha256": "fd9fcace51d04512371f2a23359f8e5c8a2ed7777a3dffff318db71c216c3009",
+    "width": 1024,
+    "height": 748,
+    "enhancement": {
+      "method": "AI restoration and JPEG compression",
+      "original_image": "fomod/images/elsb/anca_hair/_vanilla.png",
+      "original_sha256": "d4beb7dc55ff6a9241447006de734aa3def066b5b20b9292f0e699866b5db775",
+      "original_preserved": true,
+      "reference_only": true
+    }
   },
   {
     "group": "anca_hair",
@@ -974,14 +1002,21 @@
   {
     "group": "anca_hair_color",
     "option": "vanilla",
-    "image": "fomod/images/elsb/anca_hair_color/_vanilla.png",
+    "image": "fomod/images/enhanced/anca-head.jpg",
     "source": "ELSB 1.1.1/modules/anca_hair_color/_vanilla.png",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
     "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "",
-    "sha256": "d4beb7dc55ff6a9241447006de734aa3def066b5b20b9292f0e699866b5db775",
-    "width": 408,
-    "height": 298
+    "caption": "AI-enhanced ELSB head reference. Fine facial and hair details may differ from the in-game model.",
+    "sha256": "fd9fcace51d04512371f2a23359f8e5c8a2ed7777a3dffff318db71c216c3009",
+    "width": 1024,
+    "height": 748,
+    "enhancement": {
+      "method": "AI restoration and JPEG compression",
+      "original_image": "fomod/images/elsb/anca_hair_color/_vanilla.png",
+      "original_sha256": "d4beb7dc55ff6a9241447006de734aa3def066b5b20b9292f0e699866b5db775",
+      "original_preserved": true,
+      "reference_only": true
+    }
   },
   {
     "group": "anca_hair_color",
@@ -1214,14 +1249,21 @@
   {
     "group": "lacra_hair",
     "option": "vanilla",
-    "image": "fomod/images/elsb/lacra_hair/_vanilla.png",
+    "image": "fomod/images/enhanced/lacra-head.jpg",
     "source": "ELSB 1.1.1/modules/lacra_hair/_vanilla.png",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
     "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "",
-    "sha256": "0122a4ae0694af5925cef35c9e34654f54237f7b7a9f2e37acfa12433f64dd3a",
-    "width": 408,
-    "height": 298
+    "caption": "AI-enhanced ELSB head reference. Fine facial and hair details may differ from the in-game model.",
+    "sha256": "bbb2d7c7b015c460ea6327ee0d3ac3e1847cca65f7f126d134e0029b79a6a778",
+    "width": 1024,
+    "height": 747,
+    "enhancement": {
+      "method": "AI restoration and JPEG compression",
+      "original_image": "fomod/images/elsb/lacra_hair/_vanilla.png",
+      "original_sha256": "0122a4ae0694af5925cef35c9e34654f54237f7b7a9f2e37acfa12433f64dd3a",
+      "original_preserved": true,
+      "reference_only": true
+    }
   },
   {
     "group": "lacra_hair",
@@ -1322,14 +1364,21 @@
   {
     "group": "lacra_hair_color",
     "option": "vanilla",
-    "image": "fomod/images/elsb/lacra_hair_color/_vanilla.png",
+    "image": "fomod/images/enhanced/lacra-head.jpg",
     "source": "ELSB 1.1.1/modules/lacra_hair_color/_vanilla.png",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
     "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "",
-    "sha256": "0122a4ae0694af5925cef35c9e34654f54237f7b7a9f2e37acfa12433f64dd3a",
-    "width": 408,
-    "height": 298
+    "caption": "AI-enhanced ELSB head reference. Fine facial and hair details may differ from the in-game model.",
+    "sha256": "bbb2d7c7b015c460ea6327ee0d3ac3e1847cca65f7f126d134e0029b79a6a778",
+    "width": 1024,
+    "height": 747,
+    "enhancement": {
+      "method": "AI restoration and JPEG compression",
+      "original_image": "fomod/images/elsb/lacra_hair_color/_vanilla.png",
+      "original_sha256": "0122a4ae0694af5925cef35c9e34654f54237f7b7a9f2e37acfa12433f64dd3a",
+      "original_preserved": true,
+      "reference_only": true
+    }
   },
   {
     "group": "lacra_hair_color",
@@ -2218,14 +2267,21 @@
   {
     "group": "lacra_hair",
     "option": "compat_lacra_hair",
-    "image": "fomod/images/nexus/570.png",
+    "image": "fomod/images/enhanced/lacra-hair-clean.jpg",
     "source": "https://staticdelivery.nexusmods.com/mods/9719/images/570/570-1789726533-1432290282.png",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/570",
     "credit": "gleb63",
-    "caption": "Preview: original Nexus hair screenshot; other skin, makeup and eye changes pictured are not included.",
-    "sha256": "7f1a15dc088552790fcee27822b3379fe01fb2fdce17652b4aaf7f00e419ab62",
-    "width": 1672,
-    "height": 941
+    "caption": "Preview: Nexus hair reference with AI UI cleanup; fine details may differ from the original screenshot. Other skin, makeup and eye changes pictured are not included.",
+    "sha256": "f9d342995d9193f2476985c159b695e2bcbcf122c8f204216512224a19e87359",
+    "width": 1280,
+    "height": 720,
+    "enhancement": {
+      "method": "AI UI cleanup and JPEG compression",
+      "original_image": "fomod/images/nexus/570.png",
+      "original_sha256": "7f1a15dc088552790fcee27822b3379fe01fb2fdce17652b4aaf7f00e419ab62",
+      "original_preserved": true,
+      "reference_only": true
+    }
   },
   {
     "group": "lacra_skin",
@@ -2587,8 +2643,8 @@
     "source": "ELSB 1.1.1/modules/hair/_vanilla.png",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
     "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.",
-    "sha256": "e8538f539f33a8e0ceac25b57c13fdb5ea7f90d0c78f19dddc42ecd40a4b0ec9",
+    "caption": "AI-enhanced ELSB face reference; fine facial and hair details may differ from the in-game model. No additional overlay in this category; separately enabled skin packs may still affect the face.",
+    "sha256": "ede07ada527b29c7aa2f659ed43b92ce4e6c9442996f12a7e400b12b27a226df",
     "width": 135,
     "height": 190,
     "embedded_source_sha256": "021ba28b1e3f468448fa44da4fcaee1fb84090acf4fc9688fc4fa6b04ec1898b",
@@ -2597,7 +2653,16 @@
       38,
       135,
       190
-    ]
+    ],
+    "enhancement": {
+      "method": "AI restoration and JPEG compression",
+      "original_image": "fomod/images/faces/coen-vanilla.svg",
+      "original_sha256": "e8538f539f33a8e0ceac25b57c13fdb5ea7f90d0c78f19dddc42ecd40a4b0ec9",
+      "original_preserved": false,
+      "reference_only": true,
+      "original_raster": "fomod/images/elsb/hair/_vanilla.png",
+      "original_raster_sha256": "021ba28b1e3f468448fa44da4fcaee1fb84090acf4fc9688fc4fa6b04ec1898b"
+    }
   },
   {
     "group": "lacra_face",
@@ -2606,8 +2671,8 @@
     "source": "ELSB 1.1.1/modules/lacra_hair/_vanilla.png",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
     "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.",
-    "sha256": "1dc1faf0b488d324f260f33691f98d89f5c48ccc5ad80149152f47e99fcc7fa5",
+    "caption": "AI-enhanced ELSB face reference; fine facial and hair details may differ from the in-game model. No additional overlay in this category; separately enabled skin packs may still affect the face.",
+    "sha256": "40ef703cd6bf8307a767e872f6564dd8dec55a244ce3d26dace712368be777ed",
     "width": 140,
     "height": 200,
     "embedded_source_sha256": "0122a4ae0694af5925cef35c9e34654f54237f7b7a9f2e37acfa12433f64dd3a",
@@ -2616,7 +2681,16 @@
       35,
       140,
       200
-    ]
+    ],
+    "enhancement": {
+      "method": "AI restoration and JPEG compression",
+      "original_image": "fomod/images/faces/lacra-vanilla.svg",
+      "original_sha256": "1dc1faf0b488d324f260f33691f98d89f5c48ccc5ad80149152f47e99fcc7fa5",
+      "original_preserved": false,
+      "reference_only": true,
+      "original_raster": "fomod/images/elsb/lacra_hair/_vanilla.png",
+      "original_raster_sha256": "0122a4ae0694af5925cef35c9e34654f54237f7b7a9f2e37acfa12433f64dd3a"
+    }
   },
   {
     "group": "lacra_surface",
@@ -2625,8 +2699,8 @@
     "source": "ELSB 1.1.1/modules/lacra_hair/_vanilla.png",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
     "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.",
-    "sha256": "1dc1faf0b488d324f260f33691f98d89f5c48ccc5ad80149152f47e99fcc7fa5",
+    "caption": "AI-enhanced ELSB face reference; fine facial and hair details may differ from the in-game model. No additional overlay in this category; separately enabled skin packs may still affect the face.",
+    "sha256": "40ef703cd6bf8307a767e872f6564dd8dec55a244ce3d26dace712368be777ed",
     "width": 140,
     "height": 200,
     "embedded_source_sha256": "0122a4ae0694af5925cef35c9e34654f54237f7b7a9f2e37acfa12433f64dd3a",
@@ -2635,7 +2709,16 @@
       35,
       140,
       200
-    ]
+    ],
+    "enhancement": {
+      "method": "AI restoration and JPEG compression",
+      "original_image": "fomod/images/faces/lacra-vanilla.svg",
+      "original_sha256": "1dc1faf0b488d324f260f33691f98d89f5c48ccc5ad80149152f47e99fcc7fa5",
+      "original_preserved": false,
+      "reference_only": true,
+      "original_raster": "fomod/images/elsb/lacra_hair/_vanilla.png",
+      "original_raster_sha256": "0122a4ae0694af5925cef35c9e34654f54237f7b7a9f2e37acfa12433f64dd3a"
+    }
   },
   {
     "group": "lacra_wrinkles",
@@ -2644,8 +2727,8 @@
     "source": "ELSB 1.1.1/modules/lacra_hair/_vanilla.png",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
     "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.",
-    "sha256": "1dc1faf0b488d324f260f33691f98d89f5c48ccc5ad80149152f47e99fcc7fa5",
+    "caption": "AI-enhanced ELSB face reference; fine facial and hair details may differ from the in-game model. No additional overlay in this category; separately enabled skin packs may still affect the face.",
+    "sha256": "40ef703cd6bf8307a767e872f6564dd8dec55a244ce3d26dace712368be777ed",
     "width": 140,
     "height": 200,
     "embedded_source_sha256": "0122a4ae0694af5925cef35c9e34654f54237f7b7a9f2e37acfa12433f64dd3a",
@@ -2654,7 +2737,16 @@
       35,
       140,
       200
-    ]
+    ],
+    "enhancement": {
+      "method": "AI restoration and JPEG compression",
+      "original_image": "fomod/images/faces/lacra-vanilla.svg",
+      "original_sha256": "1dc1faf0b488d324f260f33691f98d89f5c48ccc5ad80149152f47e99fcc7fa5",
+      "original_preserved": false,
+      "reference_only": true,
+      "original_raster": "fomod/images/elsb/lacra_hair/_vanilla.png",
+      "original_raster_sha256": "0122a4ae0694af5925cef35c9e34654f54237f7b7a9f2e37acfa12433f64dd3a"
+    }
   },
   {
     "group": "lacra_head",
@@ -2663,8 +2755,8 @@
     "source": "ELSB 1.1.1/modules/lacra_hair/_vanilla.png",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
     "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.",
-    "sha256": "1dc1faf0b488d324f260f33691f98d89f5c48ccc5ad80149152f47e99fcc7fa5",
+    "caption": "AI-enhanced ELSB face reference; fine facial and hair details may differ from the in-game model. No additional overlay in this category; separately enabled skin packs may still affect the face.",
+    "sha256": "40ef703cd6bf8307a767e872f6564dd8dec55a244ce3d26dace712368be777ed",
     "width": 140,
     "height": 200,
     "embedded_source_sha256": "0122a4ae0694af5925cef35c9e34654f54237f7b7a9f2e37acfa12433f64dd3a",
@@ -2673,7 +2765,16 @@
       35,
       140,
       200
-    ]
+    ],
+    "enhancement": {
+      "method": "AI restoration and JPEG compression",
+      "original_image": "fomod/images/faces/lacra-vanilla.svg",
+      "original_sha256": "1dc1faf0b488d324f260f33691f98d89f5c48ccc5ad80149152f47e99fcc7fa5",
+      "original_preserved": false,
+      "reference_only": true,
+      "original_raster": "fomod/images/elsb/lacra_hair/_vanilla.png",
+      "original_raster_sha256": "0122a4ae0694af5925cef35c9e34654f54237f7b7a9f2e37acfa12433f64dd3a"
+    }
   },
   {
     "group": "lacra_face",
@@ -2739,8 +2840,8 @@
     "source": "ELSB 1.1.1/modules/anca_hair/_vanilla.png",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
     "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.",
-    "sha256": "7609a8744899d9eb87cfb81cf457be3bc5993df157710e33a427b08215563258",
+    "caption": "AI-enhanced ELSB face reference; fine facial and hair details may differ from the in-game model. No additional overlay in this category; separately enabled skin packs may still affect the face.",
+    "sha256": "4658b9f74b3a24ace9094ae35c1bf778d73ec59634b913cf9d7ede4ba67094b1",
     "width": 140,
     "height": 200,
     "embedded_source_sha256": "d4beb7dc55ff6a9241447006de734aa3def066b5b20b9292f0e699866b5db775",
@@ -2749,7 +2850,16 @@
       35,
       140,
       200
-    ]
+    ],
+    "enhancement": {
+      "method": "AI restoration and JPEG compression",
+      "original_image": "fomod/images/faces/anca-vanilla.svg",
+      "original_sha256": "7609a8744899d9eb87cfb81cf457be3bc5993df157710e33a427b08215563258",
+      "original_preserved": false,
+      "reference_only": true,
+      "original_raster": "fomod/images/elsb/anca_hair/_vanilla.png",
+      "original_raster_sha256": "d4beb7dc55ff6a9241447006de734aa3def066b5b20b9292f0e699866b5db775"
+    }
   },
   {
     "group": "anca_head",
@@ -2758,8 +2868,8 @@
     "source": "ELSB 1.1.1/modules/anca_hair/_vanilla.png",
     "source_url": "https://www.nexusmods.com/thebloodofdawnwalker/mods/695",
     "credit": "Akazonae36 / ELSB 1.1.1",
-    "caption": "Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.",
-    "sha256": "7609a8744899d9eb87cfb81cf457be3bc5993df157710e33a427b08215563258",
+    "caption": "AI-enhanced ELSB face reference; fine facial and hair details may differ from the in-game model. No additional overlay in this category; separately enabled skin packs may still affect the face.",
+    "sha256": "4658b9f74b3a24ace9094ae35c1bf778d73ec59634b913cf9d7ede4ba67094b1",
     "width": 140,
     "height": 200,
     "embedded_source_sha256": "d4beb7dc55ff6a9241447006de734aa3def066b5b20b9292f0e699866b5db775",
@@ -2768,6 +2878,15 @@
       35,
       140,
       200
-    ]
+    ],
+    "enhancement": {
+      "method": "AI restoration and JPEG compression",
+      "original_image": "fomod/images/faces/anca-vanilla.svg",
+      "original_sha256": "7609a8744899d9eb87cfb81cf457be3bc5993df157710e33a427b08215563258",
+      "original_preserved": false,
+      "reference_only": true,
+      "original_raster": "fomod/images/elsb/anca_hair/_vanilla.png",
+      "original_raster_sha256": "d4beb7dc55ff6a9241447006de734aa3def066b5b20b9292f0e699866b5db775"
+    }
   }
 ]

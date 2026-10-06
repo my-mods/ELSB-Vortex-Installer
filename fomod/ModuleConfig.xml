@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd">
   <moduleName>ELSB - Vortex Installer</moduleName>
   <requiredInstallFiles>
@@ -244,8 +244,10 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
             <plugin name="Vanilla (unchanged)">
               <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
 
+AI-enhanced ELSB head reference. Fine facial and hair details may differ from the in-game model.
+
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
-              <image path="fomod/images/elsb/hair/_vanilla.png" />
+              <image path="fomod/images/enhanced/coen-head.jpg" />
               <conditionFlags>
                 <flag name="hair">vanilla</flag>
               </conditionFlags>
@@ -416,8 +418,10 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
             <plugin name="Vanilla (unchanged)">
               <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
 
+AI-enhanced ELSB head reference. Fine facial and hair details may differ from the in-game model.
+
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
-              <image path="fomod/images/elsb/hair_color/_vanilla.png" />
+              <image path="fomod/images/enhanced/coen-head.jpg" />
               <conditionFlags>
                 <flag name="hair_color">vanilla</flag>
               </conditionFlags>
@@ -440,8 +444,10 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
             <plugin name="Dark brown">
               <description>Original ELSB 1.1.1 option. Third-party originals are managed separately in Vortex.
 
+AI-enhanced ELSB head reference. Fine facial and hair details may differ from the in-game model.
+
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
-              <image path="fomod/images/elsb/hair_color/02_darkbrown/preview.png" />
+              <image path="fomod/images/enhanced/coen-head.jpg" />
               <conditionFlags>
                 <flag name="hair_color">02_darkbrown</flag>
               </conditionFlags>
@@ -924,7 +930,7 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
             <plugin name="Vanilla (unchanged)">
               <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
 
-Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.
+AI-enhanced ELSB face reference; fine facial and hair details may differ from the in-game model. No additional overlay in this category; separately enabled skin packs may still affect the face.
 
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
               <image path="fomod/images/faces/coen-vanilla.svg" />
@@ -1217,8 +1223,10 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
             <plugin name="Vanilla (unchanged)">
               <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
 
+AI-enhanced ELSB head reference. Fine facial and hair details may differ from the in-game model.
+
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
-              <image path="fomod/images/elsb/anca_hair/_vanilla.png" />
+              <image path="fomod/images/enhanced/anca-head.jpg" />
               <conditionFlags>
                 <flag name="anca_hair">vanilla</flag>
               </conditionFlags>
@@ -1314,8 +1322,10 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
             <plugin name="Vanilla (unchanged)">
               <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
 
+AI-enhanced ELSB head reference. Fine facial and hair details may differ from the in-game model.
+
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
-              <image path="fomod/images/elsb/anca_hair_color/_vanilla.png" />
+              <image path="fomod/images/enhanced/anca-head.jpg" />
               <conditionFlags>
                 <flag name="anca_hair_color">vanilla</flag>
               </conditionFlags>
@@ -1462,7 +1472,7 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
             <plugin name="Vanilla (unchanged)">
               <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
 
-Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.
+AI-enhanced ELSB face reference; fine facial and hair details may differ from the in-game model. No additional overlay in this category; separately enabled skin packs may still affect the face.
 
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
               <image path="fomod/images/faces/anca-vanilla.svg" />
@@ -1564,7 +1574,7 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
             <plugin name="Vanilla (unchanged)">
               <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
 
-Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.
+AI-enhanced ELSB face reference; fine facial and hair details may differ from the in-game model. No additional overlay in this category; separately enabled skin packs may still affect the face.
 
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
               <image path="fomod/images/faces/anca-vanilla.svg" />
@@ -2005,8 +2015,10 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
             <plugin name="Vanilla (unchanged)">
               <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries.
 
+AI-enhanced ELSB head reference. Fine facial and hair details may differ from the in-game model.
+
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
-              <image path="fomod/images/elsb/lacra_hair/_vanilla.png" />
+              <image path="fomod/images/enhanced/lacra-head.jpg" />
               <conditionFlags>
                 <flag name="lacra_hair">vanilla</flag>
               </conditionFlags>
@@ -2120,10 +2132,10 @@ The downloaded v4 archive and current Vortex payload were verified byte for byte
 
 Requires Lacra Beautiful Hair v4 present and enabled separately. Keeps the selected ELSB body, outfit and scene presets and adds physics hair. Preserves all 928 ELSB clothing rows. Verified v4 and retained fixed-v2 container bytes match. First-install suggestion from the saved toolkit settings.
 
-Preview: original Nexus hair screenshot; other skin, makeup and eye changes pictured are not included.
+Preview: Nexus hair reference with AI UI cleanup; fine details may differ from the original screenshot. Other skin, makeup and eye changes pictured are not included.
 
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
-              <image path="fomod/images/nexus/570.png" />
+              <image path="fomod/images/enhanced/lacra-hair-clean.jpg" />
               <conditionFlags>
                 <flag name="lacra_hair">compat_lacra_hair</flag>
               </conditionFlags>
@@ -2138,8 +2150,10 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
             <plugin name="Vanilla (unchanged)">
               <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
 
+AI-enhanced ELSB head reference. Fine facial and hair details may differ from the in-game model.
+
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
-              <image path="fomod/images/elsb/lacra_hair_color/_vanilla.png" />
+              <image path="fomod/images/enhanced/lacra-head.jpg" />
               <conditionFlags>
                 <flag name="lacra_hair_color">vanilla</flag>
               </conditionFlags>
@@ -2374,7 +2388,7 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
             <plugin name="Vanilla (unchanged)">
               <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
 
-Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.
+AI-enhanced ELSB face reference; fine facial and hair details may differ from the in-game model. No additional overlay in this category; separately enabled skin packs may still affect the face.
 
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
               <image path="fomod/images/faces/lacra-vanilla.svg" />
@@ -2552,7 +2566,7 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
             <plugin name="Vanilla (unchanged)">
               <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
 
-Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.
+AI-enhanced ELSB face reference; fine facial and hair details may differ from the in-game model. No additional overlay in this category; separately enabled skin packs may still affect the face.
 
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
               <image path="fomod/images/faces/lacra-vanilla.svg" />
@@ -2602,7 +2616,7 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
             <plugin name="Vanilla (unchanged)">
               <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
 
-Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.
+AI-enhanced ELSB face reference; fine facial and hair details may differ from the in-game model. No additional overlay in this category; separately enabled skin packs may still affect the face.
 
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
               <image path="fomod/images/faces/lacra-vanilla.svg" />
@@ -2652,7 +2666,7 @@ After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Insta
             <plugin name="Vanilla (unchanged)">
               <description>Keep the original game choice for this category. This installer does not enable or disable other Vortex entries. First-install suggestion from the saved toolkit settings.
 
-Original ELSB head reference. No additional overlay in this category; separately enabled skin packs may still affect the face.
+AI-enhanced ELSB face reference; fine facial and hair details may differ from the in-game model. No additional overlay in this category; separately enabled skin packs may still affect the face.
 
 After installation, enable ELSB - Vortex Installer (archive: ELSB - Vortex Installer.zip) in Vortex and deploy.</description>
               <image path="fomod/images/faces/lacra-vanilla.svg" />

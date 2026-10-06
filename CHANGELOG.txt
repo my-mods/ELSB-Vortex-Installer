@@ -1,4 +1,5 @@
 Personal development build -- ELSB 1.1.1 base
+- Sharpen the default Coen, Anca and Lacra head previews and remove UI from the Lacra Beautiful Hair picture, with labelled AI-edited references.
 - Add face close-ups and side-by-side ELSB/Pussy Walker source previews.
 - Separate Anca faces from body textures; add both Lacra Young Makeup variants and Anca Croft head routing.
 - Keep Gothic variants as complete face/body skins and prevent partial face/chest combinations.

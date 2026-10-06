@@ -10,9 +10,11 @@ It also gives the ELSB wizard a larger window, clearer option groups, readable
 descriptions and more space for pictures. Each group header shows its current
 choice. Hover or focus a header to preview that choice's image and description,
 even while the group is closed. Click the header, or press Enter or Space, to
-open or close the group. The first group starts open; your open groups are
-remembered while moving between pages in the same wizard. Groups that need a
-valid choice stay open until corrected.
+open or close the group. Opening a group closes the others and scrolls its
+header toward the top of the options pane, as far as the remaining content
+allows. The first group starts open; the open group is remembered between
+pages in the same wizard. Groups that need a valid choice stay open until
+corrected, even when another group is opened.
 Expanded long lists use two columns when the options pane has enough room.
 Narrower panes return to one column. Selected options are highlighted, and
 the native radio controls and their reading order stay intact.

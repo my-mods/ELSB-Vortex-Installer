@@ -73,6 +73,15 @@ function createDisclosures(api, doc, schedule, setAttribute, restore) {
     restore(record.node);
     records.delete(record.node);
   };
+  const scrollToHeader = record => {
+    // Scroll only the options pane, never the dialog, page or preview pane.
+    for (let pane = record.node.parentElement; pane && pane.id !== 'fomod-installer-dialog'; pane = pane.parentElement) {
+      if (!/^(auto|scroll)$/.test(doc.defaultView.getComputedStyle(pane).overflowY)) continue;
+      pane.scrollTop += record.button.getBoundingClientRect().top
+        - pane.getBoundingClientRect().top - pane.clientTop;
+      break;
+    }
+  };
   const add = (node, heading, instanceId, step, group, index) => {
     const key = JSON.stringify([instanceId, String(step.id), String(group.id)]);
     if (!expanded.has(key)) expanded.set(key, index === 0);
@@ -97,8 +106,18 @@ function createDisclosures(api, doc, schedule, setAttribute, restore) {
       preview(record);
       const current = read(record);
       if (current && !current.invalid) {
-        expanded.set(key, !expanded.get(key));
+        const opening = !expanded.get(key);
+        if (opening) {
+          for (const other of records.values()) {
+            if (other === record || other.instanceId !== instanceId || other.stepId !== record.stepId) continue;
+            const peer = read(other);
+            if (peer && !peer.invalid) expanded.set(other.key, false);
+            paint(other);
+          }
+        }
+        expanded.set(key, opening);
         paint(record);
+        if (opening) scrollToHeader(record);
       }
     });
     // Insert a sibling only. React retains ownership and position of every native control.

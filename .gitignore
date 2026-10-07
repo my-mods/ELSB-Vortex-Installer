@@ -4,6 +4,7 @@ Reports/
 Audit/__pycache__/
 
 AGENTS.md
+.impeccable/
 
 # Supplied locally from the complete package; ownership remains with the authors.
 Payload/**

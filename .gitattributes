@@ -1,0 +1,2 @@
+# Preserve the verified package bytes on every checkout.
+* -text

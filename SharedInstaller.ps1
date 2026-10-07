@@ -191,6 +191,10 @@ function Get-RequestedSelection {
     }
     return Convert-SharedSelection $out
 }
+function Get-RequestedImports {
+    $value = if ($InvocationOptions.ContainsKey('Ext')) { [string]$ARG_EXT } else { [string](Read-Ini).ext_on }
+    return @($value.Split(',') | ForEach-Object { $_.Trim() } | Where-Object { $_ })
+}
 function Resolve-ContainedPath($base, $relative) {
     if ([IO.Path]::IsPathRooted($relative) -or $relative -match '(^|[\\/])\.\.([\\/]|$)' -or $relative -match ':') { throw "Unsafe package path: $relative" }
     $b = [IO.Path]::GetFullPath($base).TrimEnd('\','/') + [IO.Path]::DirectorySeparatorChar

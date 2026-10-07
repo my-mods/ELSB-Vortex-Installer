@@ -1868,7 +1868,7 @@ function Get-ModConflicts($root, $entries) {
 if ($LibraryOnly) { return }
 if ($Plan) {
     $selected = Get-RequestedSelection
-    Get-SharedPlan $selected @(([string]$ARG_EXT).Split(',') | Where-Object { $_ }) | ConvertTo-Json -Depth 30
+    Get-SharedPlan $selected @(Get-RequestedImports) | ConvertTo-Json -Depth 30
     return
 }
 if ($Import.Count -gt 0) {
@@ -1962,7 +1962,7 @@ if ($Apply -or $RemoveAll) {
     if (-not $root) { Write-Output 'NG: game folder not found'; exit 2 }
     $sel = Get-RequestedSelection
     if ($RemoveAll) { foreach ($kind in $KINDS) { $sel[$kind.key] = '' } }
-    $extOn = @(); if (-not $RemoveAll -and $ARG_EXT) { $extOn = @($ARG_EXT.Split(',') | ForEach-Object { $_.Trim() } | Where-Object { $_ }) }
+    $extOn = @(); if (-not $RemoveAll) { $extOn = @(Get-RequestedImports) }
     $known = @(@(Get-ExtMods) | ForEach-Object { $_.name })
     foreach ($e in $extOn) { if ($known -notcontains $e) { Write-Output ('NG: unknown external mod ' + $e); exit 3 } }
     $reset = @(Apply-Selection $root $sel $extOn)

@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "id": "revealing_lacra",
+  "title": "Revealing Lacra (ELSB fit)",
+  "author": "Joell560; fitted for ELSB",
+  "nexus": "https://www.nexusmods.com/thebloodofdawnwalker/mods/501",
+  "character": "lacra",
+  "mode": "fitted",
+  "requires": [
+    {
+      "item": "lacra_body",
+      "choice": "fitness"
+    },
+    {
+      "item": "lacra_scope",
+      "choice": "all"
+    }
+  ],
+  "source": {
+    "files": [
+      {
+        "name": "revealing-Lacra-300_P.pak",
+        "size": 339,
+        "sha256": "D5F0BDC4633E5DEFA4AEFCA1BFE4063015722177C2ED5500D8EC454A70859F23"
+      },
+      {
+        "name": "revealing-Lacra-300_P.ucas",
+        "size": 44929600,
+        "sha256": "1EA0302F583282654CFA291581CB39D2CDA232462369104441AE539F38881A64"
+      },
+      {
+        "name": "revealing-Lacra-300_P.utoc",
+        "size": 23986,
+        "sha256": "40BC648F8E2FBE99959FE00C5EC9EB4FC1F29F7737FB2490C4C0EC2B9B1A51E9"
+      }
+    ],
+    "assets": [
+      "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Lacra_Torso_A/CA_HFA_Lacra_Torso_A",
+      "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Lacra_Torso_A/SK_HFA_Lacra_Torso_A",
+      "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Lacra_Torso_B/SK_HFA_Lacra_Torso_B"
+    ]
+  },
+  "box": {
+    "name": "0ELSB_CompatRevealingLacra_P",
+    "files": [
+      {
+        "name": "0ELSB_CompatRevealingLacra_P.pak",
+        "size": 347,
+        "sha256": "F6E8B44BF5EABD6CCBB94EC365E157A7AA66A61216CCB4B97762023FEAC4B560"
+      },
+      {
+        "name": "0ELSB_CompatRevealingLacra_P.ucas",
+        "size": 40228704,
+        "sha256": "4EED301F8A7B7FDF27B120AA5BCCF9C34F73696C525D49E6A1C083F73554401D"
+      },
+      {
+        "name": "0ELSB_CompatRevealingLacra_P.utoc",
+        "size": 24106,
+        "sha256": "63EEF4AE3296DEC41F5BA3B5B56E30FE407CD48F92AE21C2AFC354326785C15A"
+      }
+    ],
+    "assets": [
+      "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Lacra_Torso_A/CA_HFA_Lacra_Torso_A",
+      "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Lacra_Torso_A/SK_HFA_Lacra_Torso_A",
+      "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Lacra_Torso_B/SK_HFA_Lacra_Torso_B"
+    ]
+  },
+  "must_beat": [
+    "source",
+    "lacra_scope"
+  ],
+  "preview": "preview.png",
+  "note": "Revealing Lacra 501: coat A (SkeletalMesh at the CA path and the SK path) and coat B fitted to the ELSB Lacra body W5c with the same settings as ELSB's own Lacra coats (lacra_w5c). Positions and normals written back with sk_writeback.py. Personal use only (no release flag).",
+  "release": true
+}

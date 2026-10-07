@@ -1,44 +1,32 @@
-User-controlled migration from direct ELSB installation to Vortex
+Switching ELSB installation methods
 
-No migration or live deployment was performed while preparing this package.
+Use one method for ELSB at a time. Back up ELSB.ini and imported mods before
+updating an existing manual toolkit. The combined package does not replace
+personal preferences or include personal imports.
 
-1. Close the game. Preserve the existing toolkit folder and ELSB.ini outside
-   the game. Extract the audit files outside the game and staging folders.
+Vortex to manual toolkit
+1. Disable the ELSB entry in Vortex and deploy. Keep required originals as
+   separate entries if you continue managing those originals with Vortex.
+2. Extract the complete combined archive outside the game, run Start_ELSB.bat,
+   choose the game folder and options, and click Apply. The script refuses
+   Apply while the Vortex ELSB ownership receipt is present.
 
-2. Run the read-only audit against the current game and Vortex staging paths.
-   Keep its HTML report, JSON and Migration-Files.csv. The CSV records each
-   deployed container file's exact hash, size, hardlink count and Vortex
-   owner. Re-run after changing activation; a snapshot is not a cleanup script.
+Current manual toolkit to Vortex
+1. Use this combined toolkit's Remove all action. It removes its owned ELSB
+   files and imported copies that this toolkit installed. Imported source
+   files and unrelated game mods are preserved.
+2. Install the combined ZIP in Vortex, complete its wizard, enable and deploy.
+   Third-party originals remain separate requirements.
 
-3. Back up only files marked "BACK UP then remove confirmed unmanaged copy"
-   to a directory outside the game and staging. Confirm hashes still match
-   the report before removing those same unmanaged copies. A changed hash,
-   unexpected link count or missing inventory requires another ownership
-   review. Do not remove files marked KEEP or REVIEW as part of this list.
+Earlier standalone toolkit to the combined package
+Keep your ELSB.ini and modules/external folder beside the new launcher. Earlier
+body names and moved Gothic/face selections migrate automatically. Settings
+are backed up before changed contents are saved.
 
-4. Never use the original toolkit's "Remove all" for migration. It can also
-   remove imported copies currently owned by Vortex, including Coen Nude.
-   Keep managed Coen Nude files intact. Its original remains a separate entry.
+Existing files are adopted only when they match known ELSB bytes. Unknown or
+externally changed files are reported instead of overwritten. The read-only
+Audit utility can help identify ownership before resolving those conflicts.
+Do not use an older toolkit's broad Remove all action on Vortex-owned files.
 
-5. The unmanaged Lacra Beautiful Hair and chest-texture copies should move
-   to their existing Vortex entries: after backing up/removing only the
-   confirmed unmanaged copies, enable the originals and deploy through Vortex.
-   Review only duplicate/incompatible entries identified for your chosen
-   combination. There is no need to disable the entire mod list.
-
-6. Install this archive into one Vortex entry, choose bodies and applicable
-   patches, then enable and deploy when ready. Leave standalone VaginaMod
-   disabled for the supported personal body setup. You control every mod's
-   activation. The wizard never changes other entries.
-
-7. Re-run the audit. Confirm required originals are deployed at supported
-   hashes, complete triples are present, and old unmanaged duplicates are
-   gone. Check the active patches and relevant internal asset overlaps.
-
-8. From this point use Vortex exclusively for installed ELSB assets. Change
-   choices through Reinstall on this entry and deploy. Do not use the old
-   toolkit's Apply, mod-moving controls or Remove all against the live game.
-
-If an older entry has a wrong stored directory layout, rerun installation
-with the corrected archive. Merely deploying again retains its old layout.
-The stable ZIP filename does not automatically merge duplicate entries.
+If a Vortex entry has the wrong stored directory layout, rerun installation
+with the corrected archive. Deploy alone does not rerun the installer.

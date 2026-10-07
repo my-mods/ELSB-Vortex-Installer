@@ -1,4 +1,7 @@
-Personal development build -- ELSB 1.1.1 base
+Development build -- ELSB 1.1.1 base
+- Install through Vortex or the original toolkit interface from the same archive, with matching predefined choices.
+- Start fresh installations with vanilla choices and preserve existing toolkit preferences.
+- Explain unavailable toolkit choices and restore previous files if manual installation fails.
 - Use the supplied full-resolution Pussy Walker preview, compressed below 1 MB.
 - Move all four Gothic variants into Lacra's body choices, with complete face/body skins and migration of previous selections.
 - Simplify installer descriptions to explain each choice, required originals and compatibility, with concise preview credits.

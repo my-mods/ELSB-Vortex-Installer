@@ -74,7 +74,7 @@ Preview credit: Akazonae36 (ELSB).</description>
                 <flag name="coen_uw">vanilla</flag>
               </conditionFlags>
               <typeDescriptor>
-                <type name="Optional" />
+                <type name="Recommended" />
               </typeDescriptor>
             </plugin>
             <plugin name="Off (also in normal scenes)">
@@ -86,7 +86,7 @@ Preview credit: Akazonae36 (ELSB).</description>
                 <flag name="coen_uw">off</flag>
               </conditionFlags>
               <typeDescriptor>
-                <type name="Recommended" />
+                <type name="Optional" />
               </typeDescriptor>
             </plugin>
           </plugins>
@@ -957,7 +957,7 @@ Preview credit: Akazonae36 (ELSB).</description>
                 <flag name="anca_body">vanilla</flag>
               </conditionFlags>
               <typeDescriptor>
-                <type name="Optional" />
+                <type name="Recommended" />
               </typeDescriptor>
             </plugin>
             <plugin name="ELSB">
@@ -969,7 +969,7 @@ Preview credit: Akazonae36 (ELSB).</description>
                 <flag name="anca_body">booty</flag>
               </conditionFlags>
               <typeDescriptor>
-                <type name="Recommended" />
+                <type name="Optional" />
               </typeDescriptor>
             </plugin>
             <plugin name="ELSB + Pussy Walker">
@@ -1001,7 +1001,7 @@ Preview credit: Akazonae36 (ELSB).</description>
                 <flag name="anca_scope">vanilla</flag>
               </conditionFlags>
               <typeDescriptor>
-                <type name="Optional" />
+                <type name="Recommended" />
               </typeDescriptor>
             </plugin>
             <plugin name="All scenes">
@@ -1023,7 +1023,7 @@ Preview credit: Akazonae36 (ELSB).</description>
                         <flagDependency flag="anca_body" value="booty" />
                         <flagDependency flag="anca_body" value="pussywalker" />
                       </dependencies>
-                      <type name="Recommended" />
+                      <type name="Optional" />
                     </pattern>
                   </patterns>
                 </dependencyType>
@@ -1594,7 +1594,7 @@ Preview credit: Akazonae36 (ELSB).</description>
                 <flag name="lacra_body">vanilla</flag>
               </conditionFlags>
               <typeDescriptor>
-                <type name="Optional" />
+                <type name="Recommended" />
               </typeDescriptor>
             </plugin>
             <plugin name="ELSB">
@@ -1606,7 +1606,7 @@ Preview credit: Akazonae36 (ELSB).</description>
                 <flag name="lacra_body">fitness</flag>
               </conditionFlags>
               <typeDescriptor>
-                <type name="Recommended" />
+                <type name="Optional" />
               </typeDescriptor>
             </plugin>
             <plugin name="ELSB + Pussy Walker">
@@ -1886,7 +1886,7 @@ Preview credit: Akazonae36 (ELSB).</description>
                 <flag name="lacra_skin">vanilla</flag>
               </conditionFlags>
               <typeDescriptor>
-                <type name="Optional" />
+                <type name="Recommended" />
               </typeDescriptor>
             </plugin>
             <plugin name="Lacra Vrakhir Chest Texture - priority patch">
@@ -1916,7 +1916,7 @@ Preview credit: PinkyDude.</description>
                         <flagDependency flag="lacra_body" value="compat_chars_311_1846" />
                         <flagDependency flag="lacra_body" value="compat_chars_311_1805" />
                       </dependencies>
-                      <type name="Recommended" />
+                      <type name="Optional" />
                     </pattern>
                   </patterns>
                 </dependencyType>
@@ -1939,7 +1939,7 @@ Preview credit: Akazonae36 (ELSB).</description>
                 <flag name="lacra_hair">vanilla</flag>
               </conditionFlags>
               <typeDescriptor>
-                <type name="Optional" />
+                <type name="Recommended" />
               </typeDescriptor>
             </plugin>
             <plugin name="Village woman hair A">
@@ -2053,7 +2053,7 @@ Preview credit: gleb63.</description>
                 <flag name="lacra_hair">compat_lacra_hair</flag>
               </conditionFlags>
               <typeDescriptor>
-                <type name="Recommended" />
+                <type name="Optional" />
               </typeDescriptor>
             </plugin>
           </plugins>
@@ -2649,7 +2649,7 @@ Preview credit: Akazonae36 (ELSB).</description>
                 <flag name="marat_body">vanilla</flag>
               </conditionFlags>
               <typeDescriptor>
-                <type name="Optional" />
+                <type name="Recommended" />
               </typeDescriptor>
             </plugin>
             <plugin name="ELSB">
@@ -2661,7 +2661,7 @@ Preview credit: Akazonae36 (ELSB).</description>
                 <flag name="marat_body">fitness</flag>
               </conditionFlags>
               <typeDescriptor>
-                <type name="Recommended" />
+                <type name="Optional" />
               </typeDescriptor>
             </plugin>
           </plugins>
@@ -2773,7 +2773,7 @@ Preview credit: Akazonae36 (ELSB).</description>
                 <flag name="marat_genitals">vanilla</flag>
               </conditionFlags>
               <typeDescriptor>
-                <type name="Optional" />
+                <type name="Recommended" />
               </typeDescriptor>
             </plugin>
             <plugin name="Coen Nude - Marat fit">
@@ -2799,7 +2799,7 @@ Preview credit: Akazonae36 (ELSB).</description>
                       <dependencies operator="And">
                         <flagDependency flag="marat_body" value="fitness" />
                       </dependencies>
-                      <type name="Recommended" />
+                      <type name="Optional" />
                     </pattern>
                   </patterns>
                 </dependencyType>

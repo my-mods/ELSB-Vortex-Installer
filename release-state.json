@@ -40,10 +40,10 @@
         "VortexExtension"
       ],
       "pending": {
-        "impact": "patch",
-        "rationale": "Add consistent installer version metadata and identifiable development packages to the audited local baseline.",
+        "impact": "minor",
+        "rationale": "Restore the original manual toolkit with shared FOMOD rules, preserved and migrated preferences, previews and imports, transactional Apply, and code-only public sources; retain installer version metadata and neutral vanilla defaults.",
         "majorOverride": false,
-        "reviewedInputs": "a84045d8affce8ceb731abe6cd90c48ddf05aad8224163e46a89758586c069b5",
+        "reviewedInputs": "4cee707b42318f5181d4bbad211eeeb17e59cc4f398086f4ca6127f1c8e76d46",
         "divergenceReviewed": false
       }
     },

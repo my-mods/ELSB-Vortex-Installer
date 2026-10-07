@@ -1,0 +1,167 @@
+{
+  "format": 1,
+  "id": "coen_nude",
+  "title": "Coen's Nude Mod (ELSB fit)",
+  "author": "dakyoz; fitted for ELSB",
+  "nexus": "https://www.nexusmods.com/thebloodofdawnwalker/mods/281",
+  "character": "coen",
+  "mode": "fitted",
+  "requires": [
+    {
+      "item": "body",
+      "choice": "masculine"
+    }
+  ],
+  "source": {
+    "files": [
+      {
+        "name": "zCoenNude_P.pak",
+        "size": 339,
+        "sha256": "DCEF9E5CE8EA46ABC4D11AD0C15D2816864D6B9274C287C512F59DCE46C4E071"
+      },
+      {
+        "name": "zCoenNude_P.ucas",
+        "size": 9668576,
+        "sha256": "19F53A51A3A263D77053DF75971175B6C614FC7BACA70190136B8BCE00FA2361"
+      },
+      {
+        "name": "zCoenNude_P.utoc",
+        "size": 9114,
+        "sha256": "7F4FE01D6E69A43C242E880E16662746E3DED6576538F269CFC38E0F8E6BB008"
+      }
+    ],
+    "assets": [
+      "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HMA_Coen_BodyLegs_A/SK_HMA_Coen_BodyLegs_A",
+      "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HMA_Coen_BodyLegs_A/Textures/T_HMA_Coen_BodyLegs_A_01_BDS",
+      "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HMA_Coen_BodyLegs_A/Textures/T_HMA_Coen_BodyLegs_A_01_D",
+      "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HMA_Coen_BodyLegs_A/Textures/T_HMA_Coen_BodyLegs_A_01_NC",
+      "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HMA_Coen_BodyLegs_A/Textures/T_HMA_Coen_BodyLegs_A_01_R",
+      "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyTorso/HMA_Coen_BodyTorso_A/SK_HMA_Coen_BodyTorso_A",
+      "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Legs/HMA_Coen_Legs_X/SK_HMA_Coen_Legs_X"
+    ],
+    "item": "genitals"
+  },
+  "box": {
+    "name": "0ELSB_CompatCoenNude_P",
+    "files": [
+      {
+        "name": "0ELSB_CompatCoenNude_P.pak",
+        "size": 347,
+        "sha256": "F6E8B44BF5EABD6CCBB94EC365E157A7AA66A61216CCB4B97762023FEAC4B560"
+      },
+      {
+        "name": "0ELSB_CompatCoenNude_P.ucas",
+        "size": 232896,
+        "sha256": "B667043475208BCC7DA1A249C317AB278D95112B0CA6E0FF9484FE14D8AB2AB5"
+      },
+      {
+        "name": "0ELSB_CompatCoenNude_P.utoc",
+        "size": 898,
+        "sha256": "8FB2BBBF0FC2649362A82D2C76E898652C9187EB0A39FBEAD9368C9BD9F2B7EF"
+      }
+    ],
+    "assets": [
+      "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HMA_CoNu_BodyLegs_A/Materials/MI_HMA_Coen_BodyLegs_A_01",
+      "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HMA_Coen_BodyLegs_A/SK_HMA_Coen_BodyLegs_A"
+    ]
+  },
+  "extra": [
+    {
+      "box": "0ELSB_CompatCoenNudeTex_P",
+      "files": [
+        {
+          "name": "0ELSB_CompatCoenNudeTex_P.pak",
+          "size": 347,
+          "sha256": "F6E8B44BF5EABD6CCBB94EC365E157A7AA66A61216CCB4B97762023FEAC4B560"
+        },
+        {
+          "name": "0ELSB_CompatCoenNudeTex_P.ucas",
+          "size": 4282496,
+          "sha256": "7224D6140B207D506B6B43F77C44D9C9AFB0E66A63FBB9CE9B8B254A87C528BE"
+        },
+        {
+          "name": "0ELSB_CompatCoenNudeTex_P.utoc",
+          "size": 3874,
+          "sha256": "3EF9C0D2E49890AECBA8165FBE599CBD14F78EB63F024E7781A99014DA30B6F4"
+        }
+      ],
+      "assets": [
+        "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HMA_CoNu_BodyLegs_A/Textures/T_HMA_Coen_BodyLegs_A_01_D",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HMA_CoNu_BodyLegs_A/Textures/T_HMA_Coen_BodyLegs_A_01_NC"
+      ]
+    }
+  ],
+  "must_beat": [
+    "source"
+  ],
+  "keeps": [
+    "body"
+  ],
+  "parts": [
+    {
+      "id": "marat",
+      "title": "Marat",
+      "item": "marat_genitals",
+      "preview": "preview_marat.png",
+      "requires": [
+        {
+          "item": "marat_body",
+          "choice": "fitness"
+        }
+      ],
+      "box": "0ELSB_CompatCoenNudeMarat_P",
+      "files": [
+        {
+          "name": "0ELSB_CompatCoenNudeMarat_P.pak",
+          "size": 347,
+          "sha256": "F6E8B44BF5EABD6CCBB94EC365E157A7AA66A61216CCB4B97762023FEAC4B560"
+        },
+        {
+          "name": "0ELSB_CompatCoenNudeMarat_P.ucas",
+          "size": 253520,
+          "sha256": "5F9231BDDC3CBB7E4CF0DE4B0F127BD0578E93D833D00F85123588D92C604D4F"
+        },
+        {
+          "name": "0ELSB_CompatCoenNudeMarat_P.utoc",
+          "size": 928,
+          "sha256": "CC719EB83007407E8AE053EE3A32B46A2D8B9BCE90AE7184BE740F9E269C4E77"
+        }
+      ],
+      "assets": [
+        "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HMA_MaNu_BodyLegs_A/Materials/MI_HMA_Common_BodyLegs_A_01",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HMA_MaratX_BodyLegs_A/SK_HMA_MaratX_BodyLegs_A"
+      ],
+      "extra": [
+        {
+          "box": "0ELSB_CompatCoenNudeMaratTex_P",
+          "files": [
+            {
+              "name": "0ELSB_CompatCoenNudeMaratTex_P.pak",
+              "size": 347,
+              "sha256": "F6E8B44BF5EABD6CCBB94EC365E157A7AA66A61216CCB4B97762023FEAC4B560"
+            },
+            {
+              "name": "0ELSB_CompatCoenNudeMaratTex_P.ucas",
+              "size": 13613984,
+              "sha256": "9A3DFA0C2477B3AF2409B9C53B2ACB68004E1FDBCBC929BF7D9F81F13D4B863E"
+            },
+            {
+              "name": "0ELSB_CompatCoenNudeMaratTex_P.utoc",
+              "size": 11569,
+              "sha256": "C3548FB2608BAD445E7CF4502D2889767D0493FEACA90A359B90119A75A53D6D"
+            }
+          ],
+          "assets": [
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HMA_MaNu_BodyLegs_A/Textures/T_HMA_Common_BodyLegs_BDS_A_01",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HMA_MaNu_BodyLegs_A/Textures/T_HMA_Common_BodyLegs_NC_A_01",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HMA_MaNu_BodyLegs_A/Textures/T_HMA_Common_BodyLegs_R_A_01",
+            "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Bodies/BodyLegs/HMA_MaNu_BodyLegs_A/Textures/T_HMA_Marat_BodyLegs_A_D"
+          ]
+        }
+      ]
+    }
+  ],
+  "preview": "preview.png",
+  "note": "Coen Nude 281: the author's legs mesh (with the genitals) fitted to the ELSB masculine body. Away from the genitals the legs are the ELSB legs (vertex positions, game normals/tangents and bone weights of ELSB_Body_P); the genitals and the inside of the buttock crease keep the author's shape (only inside body region 14, which the underwear row hides). The author's waist band (torso material on the legs) is collapsed into the body (ELSB's waist seam passed in game without it). Third UV (body regions, U x 64) rebuilt from vanilla: the genitals are region 14 (waist to crotch), so they are hidden whenever an underwear or legs garment is worn (all 56 Coen legs rows hide the legs or region 14) and shown when ELSB removes the underwear (coen_uw off, romance undress). Bone weights: ELSB's for the body (the author's thigh/hip weights left a 1.1 cm gap under ELSB's torso edge in recorded game poses); the author's for the genitals, with the author's extra bones D1/T1/C1/C2 (not in the game skeleton, they follow the pelvis) moved to the pelvis and their bone-map slots reused for thigh_in/thigh_fwd_lwr; genital base blended to the skin weights over 2 cm. The legs material slot points to a copy of the vanilla legs material (HMA_CoNu_BodyLegs_A) whose D/NC are the author's UV layout with ELSB's leg skin (extra box, recooked in UE); R/BDS are the author's (source box). The author's torso, underwear and textures at vanilla paths lose to ELSB's body box. Part 'marat' (placed when Marat's body is ELSB, independent of Coen's body): the same legs fitted to ELSB's Marat legs (SK_HMA_MaratX_BodyLegs_A, same topology as Coen's legs; genitals moved as one rigid block from their base ring, skin near them smoothed), ELSB's Marat weights and a copy of ELSB's Marat legs material (HMA_MaNu_BodyLegs_A) whose four textures are the author's UV layout with Marat's skin (D from ELSB's Marat box, NC/R/BDS from the vanilla common male legs; genital islands recolored to Marat's skin by the linear colour ratio around their base; DXT colour shift pre-compensated). Personal use only (no release flag).",
+  "release": true
+}

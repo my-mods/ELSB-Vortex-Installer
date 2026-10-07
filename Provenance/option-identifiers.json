@@ -38,12 +38,12 @@
       {
         "id": "vanilla",
         "name": "On (vanilla)",
-        "recommended": false
+        "recommended": true
       },
       {
         "id": "off",
         "name": "Off (also in normal scenes)",
-        "recommended": true
+        "recommended": false
       }
     ]
   },
@@ -422,12 +422,12 @@
       {
         "id": "vanilla",
         "name": "Vanilla (unchanged)",
-        "recommended": false
+        "recommended": true
       },
       {
         "id": "booty",
         "name": "ELSB",
-        "recommended": true
+        "recommended": false
       },
       {
         "id": "pussywalker",
@@ -443,12 +443,12 @@
       {
         "id": "vanilla",
         "name": "Naked scenes only (default)",
-        "recommended": false
+        "recommended": true
       },
       {
         "id": "all",
         "name": "All scenes",
-        "recommended": true
+        "recommended": false
       }
     ]
   },
@@ -660,12 +660,12 @@
       {
         "id": "vanilla",
         "name": "Vanilla (unchanged)",
-        "recommended": false
+        "recommended": true
       },
       {
         "id": "fitness",
         "name": "ELSB",
-        "recommended": true
+        "recommended": false
       },
       {
         "id": "pussywalker",
@@ -748,12 +748,12 @@
       {
         "id": "vanilla",
         "name": "None",
-        "recommended": false
+        "recommended": true
       },
       {
         "id": "compat_lacra_chest",
         "name": "Lacra Vrakhir Chest Texture - priority patch",
-        "recommended": true
+        "recommended": false
       }
     ]
   },
@@ -764,7 +764,7 @@
       {
         "id": "vanilla",
         "name": "Vanilla (unchanged)",
-        "recommended": false
+        "recommended": true
       },
       {
         "id": "Commoner_A",
@@ -809,7 +809,7 @@
       {
         "id": "compat_lacra_hair",
         "name": "Lacra Beautiful Hair - clothing-table patch",
-        "recommended": true
+        "recommended": false
       }
     ]
   },
@@ -1011,12 +1011,12 @@
       {
         "id": "vanilla",
         "name": "Vanilla (unchanged)",
-        "recommended": false
+        "recommended": true
       },
       {
         "id": "fitness",
         "name": "ELSB",
-        "recommended": true
+        "recommended": false
       }
     ]
   },
@@ -1075,12 +1075,12 @@
       {
         "id": "vanilla",
         "name": "None (vanilla)",
-        "recommended": false
+        "recommended": true
       },
       {
         "id": "compat_coen_nude_marat",
         "name": "Coen Nude - Marat fit",
-        "recommended": true
+        "recommended": false
       }
     ]
   },

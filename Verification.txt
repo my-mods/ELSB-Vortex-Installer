@@ -1,4 +1,19 @@
-Verification status -- personal development build, 2026-10-06
+Verification status -- dual installer development build, 2026-10-07
+
+Dual installation methods
+- 871 manual and native Vortex FOMOD plans agree by destination and SHA-256,
+  covering all 217 choices in 40 groups and dependency/body/outfit/hair/Gothic
+  scenarios. Fresh installation selects vanilla in every group.
+- The original Windows Forms interface loads all 217 previews. Unavailable
+  choices are blocked. Added categories pass Apply, reopen and process restart;
+  all 40 preference keys are present exactly once.
+- Disposable fixtures cover legacy aliases, moved Gothic choices, fresh,
+  partial and duplicate preferences, unrelated settings, repeated Apply,
+  imports, deselection, missing payloads, Vortex ownership, and recovery from
+  failed file copies or preference writes.
+- The optional Vortex extension retains its existing version and code.
+  Saved-choice migration, the accordion and hover previews remain supported.
+- No game-asset or compatibility-patch bytes changed for this feature.
 
 Completed checks
 - 34 Vortex Characters entries reviewed using their local original payloads.
@@ -63,5 +78,5 @@ Pending gameplay acceptance
 Hair physics; skin/neck seams; Croft head alignment and facial animation;
 clothing fit, extreme poses and clipping; scars, wounds and scene transitions;
 camera distance and LOD transitions. Offline checks do not prove these visual
-results. No installation, activation, deployment or public release is performed
-by this compatibility update. No performance claim is made.
+results. Verification does not install, activate or deploy files into a real
+game. No performance claim is made.

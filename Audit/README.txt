@@ -3,7 +3,7 @@ Read-only ELSB compatibility audit
 Requires Python 3.11 or newer. Extract Audit somewhere outside the game and
 Vortex staging. Run from a terminal (replace the example paths):
 
-py -3 CompatibilityAudit.py --game "<game-root>" --staging "<Vortex-staging>" --output "<report-folder>"
+py -3 CompatibilityAudit.py --game "path\to\The Blood of Dawnwalker" --staging "path\to\Vortex staging\thebloodofdawnwalker" --output "path\to\ELSB Audit Results"
 
 Open Compatibility-Audit.html in the output folder. Its main list shows
 patches for originals whose exact supported bytes are currently deployed.

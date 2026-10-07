@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "id": "revealing_anca_592",
+  "title": "Revealing Thicc Anca by MM (ELSB fit)",
+  "author": "ScrumpChewie; fitted for ELSB",
+  "nexus": "https://www.nexusmods.com/thebloodofdawnwalker/mods/592",
+  "character": "anca",
+  "mode": "fitted",
+  "requires": [
+    {
+      "item": "anca_body",
+      "choice": "booty"
+    },
+    {
+      "item": "anca_scope",
+      "choice": "all"
+    }
+  ],
+  "source": {
+    "files": [
+      {
+        "name": "A_ThiccAnca_P.pak",
+        "size": 339,
+        "sha256": "F4D0AD73B90B67533221113B35927E339A0F78E7D905CEA4126EED0FF00C4933"
+      },
+      {
+        "name": "A_ThiccAnca_P.ucas",
+        "size": 3557072,
+        "sha256": "24DD162B1B5C550E34B89529372E6021DF93A1D542FF0855766DBE7CD68588B2"
+      },
+      {
+        "name": "A_ThiccAnca_P.utoc",
+        "size": 2067,
+        "sha256": "FABD89D36417C863A79413370E2159A3B7F62A838A602A2192E9A94C60584781"
+      }
+    ],
+    "assets": [
+      "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Anca_Torso_A/CA_HFA_Anca_Torso_A",
+      "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Anca_Torso_A/SK_HFA_Anca_Torso_A"
+    ]
+  },
+  "box": {
+    "name": "0ELSB_CompatRevealingAnca592_P",
+    "files": [
+      {
+        "name": "0ELSB_CompatRevealingAnca592_P.pak",
+        "size": 347,
+        "sha256": "F6E8B44BF5EABD6CCBB94EC365E157A7AA66A61216CCB4B97762023FEAC4B560"
+      },
+      {
+        "name": "0ELSB_CompatRevealingAnca592_P.ucas",
+        "size": 3149248,
+        "sha256": "382D81C50AFCF60DC5E585CF7C80E1B106C2AC34CFEB31C27BA2684CDFA7080C"
+      },
+      {
+        "name": "0ELSB_CompatRevealingAnca592_P.utoc",
+        "size": 2690,
+        "sha256": "781D47120FF8E6F6EE8AFBEBA83ED0ADE510A3F202D57BEC45C0E1FE926B8914"
+      }
+    ],
+    "assets": [
+      "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/APP_Anca_A_Sq721",
+      "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/APP_Anca_A_default",
+      "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/APP_Anca_A_default_Bandage",
+      "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/APP_Anca_D_after_ritual",
+      "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Anca_Torso_A/CA_HFA_Anca_Torso_A",
+      "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Anca_Torso_A/SK_HFA_Anca_Torso_A"
+    ]
+  },
+  "playas": {
+    "anca_A": {
+      "box": "0ELSB_CompatRevealingAnca592PlayAs_P",
+      "base_sha256": "C30B03215539A62126B6434EE1A07AF2DAA90209493AB41FC79AF8DBC34EED72",
+      "files": [
+        {
+          "name": "0ELSB_CompatRevealingAnca592PlayAs_P.pak",
+          "size": 347,
+          "sha256": "F6E8B44BF5EABD6CCBB94EC365E157A7AA66A61216CCB4B97762023FEAC4B560"
+        },
+        {
+          "name": "0ELSB_CompatRevealingAnca592PlayAs_P.ucas",
+          "size": 11024,
+          "sha256": "E65CA8995F371A4EE4991D19525712499DAE11EC0C723821B4E5F6FABD4846F3"
+        },
+        {
+          "name": "0ELSB_CompatRevealingAnca592PlayAs_P.utoc",
+          "size": 2737,
+          "sha256": "B9BF0E9BDFB0D1F42EB528BA1CC7DDBAC688C2D2F98B3007A75F134AE9D83208"
+        }
+      ],
+      "assets": [
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/10_APP_Vampire_Coen_PostQ101_SexScene",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/10_APP_Vampire_Coen_SQ710",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/10_APP_Vampire_Coen_mountrousversion_711",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/11_APP_Human_Coen_SQ710",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/12_APP_Coen_Sexscene_Day",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/13_APP_Coen_Sexscene_Night",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/1_APP_Human_Coen_Prologue",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/2_APP_Human_Coen_PostPrologue_BeforeQ101",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/3_APP_Human_Coen_PostPrologue_BeforeQ101_Dirty",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/3_APP_Human_Coen_PostPrologue_BeforeQ101_Dirty_NoBandage",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/4_APP_Vampire_Coen_BeforeQ101",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/5_APP_Vampire_Coen_BeforeQ101_Blood",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/6_APP_Human_Coen_PostQ101",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/7_APP_Vampire_Coen_Astral",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/7_APP_Vampire_Coen_PostQ101",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/8_APP_Vampire_Coen_BeforeQ101_Blood2",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/9_APP_Human_Coen_PostQ101_SexScene",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/APP_Human_Coen_Sq721",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/APP_Human_Coen_Sq721_02",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/APP_Human_Coen_Sq721_Bandages"
+      ]
+    }
+  },
+  "must_beat": [
+    "source",
+    "anca_scope"
+  ],
+  "preview": "preview.png",
+  "note": "Revealing Anca 592: Anca's coat cut into a cropped open bolero over the bust plus the author's rebuilt waist (belt, pouches, apron), made for the Thicc Anca body, at the CA path and the SK path (two different meshes; SK lacks the chest-front parts). The bolero moves exactly like ELSB's own fitted Anca coat (anca_c4h, by vertex order); the waist keeps the author's shape and is scaled toward the ELSB hips; belts and pouches move as similar rigid pieces; the hem line is cleaned (step, side flap, slits, hanging fur). SK takes CA's motion at shared positions. Positions and normals written back with sk_writeback.py (--match=index, --scale=0.01). The undershirt is removed in the four ELSB Anca scope appearances that wear this coat, and in the play-as Anca appearances (second box, only with play-as anca_A). Personal use only (no release flag). Bone weights of the torso part copied from the ELSB body (wt4t) so the bolero follows the side of the breast when the arms move (shape unchanged; armpit and arm parts keep the author's weights).",
+  "release": true
+}

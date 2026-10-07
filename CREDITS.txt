@@ -24,7 +24,8 @@ The Blood of Dawnwalker game assets: their original rights holders.
 Vortex and the FOMOD installer: Nexus Mods and contributors.
 Asset inspection/build tools: retoc, CUE4Parse and UAssetAPI contributors.
 
-This local package does not imply endorsement or public redistribution rights.
+The maintainer confirms ELSB author permission to use, modify and redistribute ELSB.
+This does not grant rights to independent third-party content.
 
 Installer preview images:
 - ELSB option previews by Akazonae36.
@@ -32,8 +33,8 @@ Installer preview images:
 - Lacra Chest Texture - Vrakhir Fix Nexus illustration by PinkyDude (Nexus 709).
 The combined body choices show ELSB and Pussy Walker source images side by
 side; the combined body is not pictured. Per-choice sources, credits and image
-hashes are in Provenance/installer-previews.json. The images are included for
-this personal installer only; no new redistribution permission is implied.
+hashes are in Provenance/installer-previews.json. Images are omitted from the public source repository;
+their original authors retain all rights.
 
 
 Character compatibility additions

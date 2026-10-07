@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "id": "loose_anca",
+  "title": "Wrong Sized Tanktop For Thicc Anca (ELSB fit)",
+  "author": "ScrumpChewie; fitted for ELSB",
+  "nexus": "https://www.nexusmods.com/thebloodofdawnwalker/mods/607",
+  "character": "anca",
+  "mode": "fitted",
+  "requires": [
+    {
+      "item": "anca_body",
+      "choice": "booty"
+    },
+    {
+      "item": "anca_scope",
+      "choice": "all"
+    }
+  ],
+  "source": {
+    "files": [
+      {
+        "name": "A_Loose_Anca_P.pak",
+        "size": 339,
+        "sha256": "F4D0AD73B90B67533221113B35927E339A0F78E7D905CEA4126EED0FF00C4933"
+      },
+      {
+        "name": "A_Loose_Anca_P.ucas",
+        "size": 2403392,
+        "sha256": "3D58EDAC05D10A8C063208BF8C3C365FF16D73769EEB39638D0C3DEA3DB1AB05"
+      },
+      {
+        "name": "A_Loose_Anca_P.utoc",
+        "size": 1551,
+        "sha256": "E11043DF867B39A4FE3B21FB457F78726086EECB1B416228DCCFA63216985F9A"
+      }
+    ],
+    "assets": [
+      "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Anca_Torso_A/CA_HFA_Anca_Torso_A",
+      "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Anca_Torso_A/SK_HFA_Anca_Torso_A"
+    ]
+  },
+  "box": {
+    "name": "0ELSB_CompatLooseAnca_P",
+    "files": [
+      {
+        "name": "0ELSB_CompatLooseAnca_P.pak",
+        "size": 347,
+        "sha256": "F6E8B44BF5EABD6CCBB94EC365E157A7AA66A61216CCB4B97762023FEAC4B560"
+      },
+      {
+        "name": "0ELSB_CompatLooseAnca_P.ucas",
+        "size": 2120688,
+        "sha256": "EF0B540646DDE912B71FF41651B0C6117A6C7E8C046DF7E5177EC6F3A596AC33"
+      },
+      {
+        "name": "0ELSB_CompatLooseAnca_P.utoc",
+        "size": 2174,
+        "sha256": "2AE4DE5F5FBA6DE27E261C443FEE2D90A429DDD948B656DB01DC100F76E3D1A6"
+      }
+    ],
+    "assets": [
+      "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/APP_Anca_A_Sq721",
+      "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/APP_Anca_A_default",
+      "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/APP_Anca_A_default_Bandage",
+      "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Main_NPC/APP_Anca_D_after_ritual",
+      "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Anca_Torso_A/CA_HFA_Anca_Torso_A",
+      "Dawnwalker/Content/_Dawnwalker/Characters/Humans/Garments/Torso/HFA_Anca_Torso_A/SK_HFA_Anca_Torso_A"
+    ]
+  },
+  "must_beat": [
+    "source",
+    "anca_scope"
+  ],
+  "preview": "preview.png",
+  "note": "Loose Anca 607: the short tank top and coat skirt (SkeletalMesh at the CA path and the SK path) fitted to the ELSB Anca body (C4h): bust and waist shrunk to the body, tank top refitted with the author's back, wrinkles under the back armholes smoothed (v23b). Positions and normals written back with sk_writeback.py (rebuilt areas use geometric normals). The undershirt is removed in the four ELSB Anca scope appearances that wear this top (TorsoUndergarment = None). Personal use only (no release flag). Bone weights of the torso part copied from the ELSB body (wt6) so the top follows the side of the breast when the arms move (shape unchanged; armpit and arm parts keep the author's weights).",
+  "playas": {
+    "anca_A": {
+      "box": "0ELSB_CompatLooseAncaPlayAs_P",
+      "base_sha256": "C30B03215539A62126B6434EE1A07AF2DAA90209493AB41FC79AF8DBC34EED72",
+      "files": [
+        {
+          "name": "0ELSB_CompatLooseAncaPlayAs_P.pak",
+          "size": 347,
+          "sha256": "F6E8B44BF5EABD6CCBB94EC365E157A7AA66A61216CCB4B97762023FEAC4B560"
+        },
+        {
+          "name": "0ELSB_CompatLooseAncaPlayAs_P.ucas",
+          "size": 11024,
+          "sha256": "54FB638F27BC7484DF72A6CC81E4D864BBF4B8F07CC51CD76CE4E1CA97FBEB08"
+        },
+        {
+          "name": "0ELSB_CompatLooseAncaPlayAs_P.utoc",
+          "size": 2737,
+          "sha256": "62B7E1C00A60264E79144A5CCDD45F6FC6C651AE35416B1D267494B2C10A6085"
+        }
+      ],
+      "assets": [
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/10_APP_Vampire_Coen_PostQ101_SexScene",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/10_APP_Vampire_Coen_SQ710",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/10_APP_Vampire_Coen_mountrousversion_711",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/11_APP_Human_Coen_SQ710",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/12_APP_Coen_Sexscene_Day",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/13_APP_Coen_Sexscene_Night",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/1_APP_Human_Coen_Prologue",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/2_APP_Human_Coen_PostPrologue_BeforeQ101",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/3_APP_Human_Coen_PostPrologue_BeforeQ101_Dirty",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/3_APP_Human_Coen_PostPrologue_BeforeQ101_Dirty_NoBandage",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/4_APP_Vampire_Coen_BeforeQ101",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/5_APP_Vampire_Coen_BeforeQ101_Blood",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/6_APP_Human_Coen_PostQ101",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/7_APP_Vampire_Coen_Astral",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/7_APP_Vampire_Coen_PostQ101",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/8_APP_Vampire_Coen_BeforeQ101_Blood2",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/9_APP_Human_Coen_PostQ101_SexScene",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/APP_Human_Coen_Sq721",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/APP_Human_Coen_Sq721_02",
+        "Dawnwalker/Content/_Dawnwalker/Characters/Appearance/Player/Appearance/APP_Human_Coen_Sq721_Bandages"
+      ]
+    }
+  },
+  "release": true
+}

@@ -4,3 +4,15 @@ Reports/
 Audit/__pycache__/
 
 AGENTS.md
+
+# Supplied locally from the complete package; ownership remains with the authors.
+Payload/**
+!Payload/**/
+!Payload/**/manifest.json
+fomod/images/
+assets/
+modules/
+*.ini
+*.ini.*
+*.tmp-*
+__pycache__/

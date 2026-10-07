@@ -1,8 +1,13 @@
-Personal development package. All upstream content remains the property of
-its respective authors and rights holders. No license to redistribute the
-ELSB toolkit, donor content, game assets or third-party patch derivatives is
-granted by this package. Check upstream permissions for the exact content
-and destination before any remote upload. No public release is included.
+ELSB toolkit and original ELSB content: Akazonae36.
+The maintainer has confirmed permission from the ELSB author to use, modify
+and redistribute ELSB. This permission is recorded on 2026-10-07.
 
-Installer metadata, audit implementation and original integration work are
-provided for this personal package. They do not supersede upstream rights.
+The public repository distributes installer/integration code and metadata.
+Cooked game assets, donor assets, preview images, and personal mod imports
+are excluded. They remain the property of their respective authors and rights
+holders. ELSB permission does not relicense independent third-party content.
+
+Original integration code is provided as source with this project. No blanket
+open-source license or additional permission for upstream material is granted.
+Preserve attribution and obtain the relevant author's permission for reuse
+beyond permissions that author has already granted.

@@ -152,31 +152,50 @@ mutually exclusive alternatives.
 
 ## Building from source
 
-This repository contains the toolkit, FOMOD configuration, extension, player
-documentation, manifests and the installer screenshots shown above. Cooked
-game assets, donor assets and the full preview library are supplied locally.
+This repository includes the toolkit, FOMOD configuration, extension, **all
+175 JPEG previews**, toolkit artwork, documentation and provenance manifests.
+Cooked game and mod payloads are supplied from your own local files. The small
+preview library is stored directly in Git; Git LFS is not required.
 
-Copy the matching `Payload`, `fomod/images` and `assets` directories from a
-verified complete installer package into the checkout. The original ELSB
-archive alone does not contain all integrated payloads.
-[package-assets.json](Provenance/package-assets.json) lists the required local
-files with their sizes and SHA-256 hashes.
+Keep the checkout outside the game. In Windows PowerShell, run:
 
-Assemble the archive with these entries at its root:
-
-```text
-Start_ELSB.bat        ELSB.ps1             SharedInstaller.ps1
-fomod/               Payload/             assets/
-Readme/              Data/                Provenance/
-Audit/               docs/                mod.manifest
-README.md            README.txt           Compatibility.txt
-Migration.txt        Verification.txt     CREDITS.txt
-LICENSE.txt          CHANGELOG.txt        vortex_override_instructions.json
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -File .\Prepare-ELSB.ps1 -Plan
 ```
 
-Exclude `.git`, `.local`, personal INIs and backups, `modules/external` and
-reports. Package the files inside `VortexExtension` separately. Do not add an
-enclosing directory around either archive.
+The script first tries Steam, GOG and Epic installation records. It looks for
+matching files in detected games and checks ELSB ZIPs beside the checkout,
+in its parent folder, in a sibling `[Mods] Latest Archives` folder and in Downloads.
+`-Plan` reports missing files without copying or writing anything. If automatic
+detection misses your installation or downloads, provide their locations:
+
+```powershell
+.\Prepare-ELSB.ps1 -GamePath 'D:\Games\The Blood of Dawnwalker' -SourcePath 'D:\Downloads\ELSB - Vortex Installer.zip' -Plan
+```
+
+Remove `-Plan` to copy the verified missing files into the checkout. Add
+`-Build` to assemble and verify `ELSB - Vortex Installer.zip`:
+
+```powershell
+.\Prepare-ELSB.ps1 -SourcePath 'D:\Downloads\ELSB - Vortex Installer.zip' -Build
+```
+
+`-SourcePath` accepts one or more ZIPs or extracted folders. File sizes and
+SHA-256 hashes must match [package-assets.json](Provenance/package-assets.json),
+even when local filenames differ. Existing mismatched files are reported and
+left intact. Sources and game installations are read-only; preparation does
+not install anything. Copy failures roll back files added by that attempt.
+
+**The game alone cannot supply every mod alternative.** A deployed installation
+usually contains only selected choices. Use a matching complete ELSB package
+for the remaining modified payloads; the original ELSB archive alone does not
+contain all integrated options. This script copies already prepared files;
+it does not extract or alter game containers or recreate third-party mods.
+
+The build uses [package-files.json](Provenance/package-files.json) as an explicit
+archive list, excluding personal preferences, imports and local work folders.
+An existing output ZIP is backed up before replacement. Package the files inside
+`VortexExtension` separately for the optional extension.
 
 `fomod/ModuleConfig.xml` defines predefined choices, dependencies, descriptions
 and runtime files. The manual adapter reads those same rules. Both installers

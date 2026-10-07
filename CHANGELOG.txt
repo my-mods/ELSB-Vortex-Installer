@@ -1,4 +1,5 @@
 Development build -- ELSB 1.1.1 base
+- Source downloads now include all installer previews and artwork, with automatic local payload discovery and a verified package builder.
 - Install through Vortex or the original toolkit interface from the same archive, with matching predefined choices.
 - Start fresh installations with vanilla choices and preserve existing toolkit preferences.
 - Explain unavailable toolkit choices and restore previous files if manual installation fails.

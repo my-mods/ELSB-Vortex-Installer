@@ -6,14 +6,13 @@ Audit/__pycache__/
 AGENTS.md
 .impeccable/
 
-# Supplied locally from the complete package; ownership remains with the authors.
+# Cooked payloads are supplied locally; installer artwork is included.
 Payload/**
 !Payload/**/
 !Payload/**/manifest.json
-fomod/images/
-assets/
 modules/
 *.ini
 *.ini.*
 *.tmp-*
 __pycache__/
+.prepare-*/

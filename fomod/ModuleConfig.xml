@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd">
   <moduleName>ELSB - Vortex Installer</moduleName>
   <requiredInstallFiles>
@@ -13,7 +13,7 @@
               <description>Keep Coen's original body.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/body/_vanilla.png" />
+              <image path="fomod/images/elsb/body/_vanilla.jpg" />
               <conditionFlags>
                 <flag name="body">vanilla</flag>
               </conditionFlags>
@@ -25,7 +25,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Use Coen's ELSB body.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/body/masculine/preview.png" />
+              <image path="fomod/images/elsb/body/masculine/preview.jpg" />
               <conditionFlags>
                 <flag name="body">masculine</flag>
               </conditionFlags>
@@ -41,7 +41,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Keep underwear as shown in the original romance scenes.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/romance/_vanilla.png" />
+              <image path="fomod/images/elsb/romance/_vanilla.jpg" />
               <conditionFlags>
                 <flag name="romance">vanilla</flag>
               </conditionFlags>
@@ -53,7 +53,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Remove underwear in romance scenes that normally show it.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/romance/undress/preview.png" />
+              <image path="fomod/images/elsb/romance/undress/preview.jpg" />
               <conditionFlags>
                 <flag name="romance">undress</flag>
               </conditionFlags>
@@ -69,7 +69,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Keep underwear in normal scenes.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/coen_uw/_vanilla.png" />
+              <image path="fomod/images/elsb/romance/_vanilla.jpg" />
               <conditionFlags>
                 <flag name="coen_uw">vanilla</flag>
               </conditionFlags>
@@ -81,7 +81,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Remove Coen's underwear in normal scenes as well.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/coen_uw/off/preview.png" />
+              <image path="fomod/images/elsb/romance/undress/preview.jpg" />
               <conditionFlags>
                 <flag name="coen_uw">off</flag>
               </conditionFlags>
@@ -97,7 +97,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Add no genital replacement.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/genitals/_vanilla.png" />
+              <image path="fomod/images/elsb/genitals/_vanilla.jpg" />
               <conditionFlags>
                 <flag name="genitals">vanilla</flag>
               </conditionFlags>
@@ -116,7 +116,7 @@ Archive: Coen Nude 281 1.0.8 2026-09-27T15-48Z Y585g2wtS.rar
 Nexus Mods: mod 281, file 2748.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/compat/coen_nude/preview.png" />
+              <image path="fomod/images/elsb/compat/coen_nude/preview.jpg" />
               <conditionFlags>
                 <flag name="genitals">compat_coen_nude</flag>
               </conditionFlags>
@@ -142,7 +142,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Add no skin, makeup or tattoos from this category. Other enabled skin mods can still affect the character.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/skin/_vanilla.png" />
+              <image path="fomod/images/elsb/body/masculine/preview.jpg" />
               <conditionFlags>
                 <flag name="skin">vanilla</flag>
               </conditionFlags>
@@ -160,7 +160,7 @@ Nexus Mods: mod 523, file 2081.
 
 Preview: base ELSB appearance; this option is not pictured.
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/body/masculine/preview.png" />
+              <image path="fomod/images/elsb/body/masculine/preview.jpg" />
               <conditionFlags>
                 <flag name="skin">compat_chars_523_2081</flag>
               </conditionFlags>
@@ -178,7 +178,7 @@ Nexus Mods: mod 618, file 2504.
 
 Preview: base ELSB appearance; this option is not pictured.
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/body/masculine/preview.png" />
+              <image path="fomod/images/elsb/body/masculine/preview.jpg" />
               <conditionFlags>
                 <flag name="skin">compat_chars_618_2504</flag>
               </conditionFlags>
@@ -196,7 +196,7 @@ Nexus Mods: mod 618, file 2495.
 
 Preview: base ELSB appearance; this option is not pictured.
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/body/masculine/preview.png" />
+              <image path="fomod/images/elsb/body/masculine/preview.jpg" />
               <conditionFlags>
                 <flag name="skin">compat_chars_618_2495</flag>
               </conditionFlags>
@@ -214,7 +214,7 @@ Nexus Mods: mod 621, file 2827.
 
 Preview: base ELSB appearance; this option is not pictured.
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/body/masculine/preview.png" />
+              <image path="fomod/images/elsb/body/masculine/preview.jpg" />
               <conditionFlags>
                 <flag name="skin">compat_chars_621_2827</flag>
               </conditionFlags>
@@ -246,7 +246,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/hair/Ambrus_A/preview.png" />
+              <image path="fomod/images/elsb/hair/Ambrus_A/preview.jpg" />
               <conditionFlags>
                 <flag name="hair">Ambrus_A</flag>
               </conditionFlags>
@@ -258,7 +258,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/hair/Andrei_A/preview.png" />
+              <image path="fomod/images/elsb/hair/Andrei_A/preview.jpg" />
               <conditionFlags>
                 <flag name="hair">Andrei_A</flag>
               </conditionFlags>
@@ -270,7 +270,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/hair/Commoner_B/preview.png" />
+              <image path="fomod/images/elsb/hair/Commoner_B/preview.jpg" />
               <conditionFlags>
                 <flag name="hair">Commoner_B</flag>
               </conditionFlags>
@@ -282,7 +282,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/hair/Commoner_C/preview.png" />
+              <image path="fomod/images/elsb/hair/Commoner_C/preview.jpg" />
               <conditionFlags>
                 <flag name="hair">Commoner_C</flag>
               </conditionFlags>
@@ -294,7 +294,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/hair/Commoner_D/preview.png" />
+              <image path="fomod/images/elsb/hair/Commoner_D/preview.jpg" />
               <conditionFlags>
                 <flag name="hair">Commoner_D</flag>
               </conditionFlags>
@@ -306,7 +306,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/hair/Commoner_E/preview.png" />
+              <image path="fomod/images/elsb/hair/Commoner_E/preview.jpg" />
               <conditionFlags>
                 <flag name="hair">Commoner_E</flag>
               </conditionFlags>
@@ -318,7 +318,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/hair/Commoner_F/preview.png" />
+              <image path="fomod/images/elsb/hair/Commoner_F/preview.jpg" />
               <conditionFlags>
                 <flag name="hair">Commoner_F</flag>
               </conditionFlags>
@@ -330,7 +330,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/hair/Florin_A/preview.png" />
+              <image path="fomod/images/elsb/hair/Florin_A/preview.jpg" />
               <conditionFlags>
                 <flag name="hair">Florin_A</flag>
               </conditionFlags>
@@ -342,7 +342,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/hair/Isbrand_A/preview.png" />
+              <image path="fomod/images/elsb/hair/Isbrand_A/preview.jpg" />
               <conditionFlags>
                 <flag name="hair">Isbrand_A</flag>
               </conditionFlags>
@@ -354,7 +354,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/hair/Marat_B/preview.png" />
+              <image path="fomod/images/elsb/hair/Marat_B/preview.jpg" />
               <conditionFlags>
                 <flag name="hair">Marat_B</flag>
               </conditionFlags>
@@ -366,7 +366,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/hair/Marat_C/preview.png" />
+              <image path="fomod/images/elsb/hair/Marat_C/preview.jpg" />
               <conditionFlags>
                 <flag name="hair">Marat_C</flag>
               </conditionFlags>
@@ -378,7 +378,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/hair/Mihai_A/preview.png" />
+              <image path="fomod/images/elsb/hair/Mihai_A/preview.jpg" />
               <conditionFlags>
                 <flag name="hair">Mihai_A</flag>
               </conditionFlags>
@@ -390,7 +390,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/hair/Vicho_A/preview.png" />
+              <image path="fomod/images/elsb/hair/Vicho_A/preview.jpg" />
               <conditionFlags>
                 <flag name="hair">Vicho_A</flag>
               </conditionFlags>
@@ -418,7 +418,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's hair and eyebrow color to black.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/hair_color/01_black/preview.png" />
+              <image path="fomod/images/elsb/hair_color/01_black/preview.jpg" />
               <conditionFlags>
                 <flag name="hair_color">01_black</flag>
               </conditionFlags>
@@ -442,7 +442,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's hair and eyebrow color to brown.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/hair_color/03_brown/preview.png" />
+              <image path="fomod/images/elsb/hair_color/03_brown/preview.jpg" />
               <conditionFlags>
                 <flag name="hair_color">03_brown</flag>
               </conditionFlags>
@@ -454,7 +454,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's hair and eyebrow color to light brown.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/hair_color/04_lightbrown/preview.png" />
+              <image path="fomod/images/elsb/hair_color/04_lightbrown/preview.jpg" />
               <conditionFlags>
                 <flag name="hair_color">04_lightbrown</flag>
               </conditionFlags>
@@ -466,7 +466,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's hair and eyebrow color to auburn.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/hair_color/05_auburn/preview.png" />
+              <image path="fomod/images/elsb/hair_color/05_auburn/preview.jpg" />
               <conditionFlags>
                 <flag name="hair_color">05_auburn</flag>
               </conditionFlags>
@@ -478,7 +478,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's hair and eyebrow color to ginger.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/hair_color/06_ginger/preview.png" />
+              <image path="fomod/images/elsb/hair_color/06_ginger/preview.jpg" />
               <conditionFlags>
                 <flag name="hair_color">06_ginger</flag>
               </conditionFlags>
@@ -490,7 +490,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's hair and eyebrow color to dark blonde.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/hair_color/07_darkblonde/preview.png" />
+              <image path="fomod/images/elsb/hair_color/07_darkblonde/preview.jpg" />
               <conditionFlags>
                 <flag name="hair_color">07_darkblonde</flag>
               </conditionFlags>
@@ -502,7 +502,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's hair and eyebrow color to blonde.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/hair_color/08_blonde/preview.png" />
+              <image path="fomod/images/elsb/hair_color/08_blonde/preview.jpg" />
               <conditionFlags>
                 <flag name="hair_color">08_blonde</flag>
               </conditionFlags>
@@ -514,7 +514,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's hair and eyebrow color to platinum blonde.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/hair_color/09_platinum/preview.png" />
+              <image path="fomod/images/elsb/hair_color/09_platinum/preview.jpg" />
               <conditionFlags>
                 <flag name="hair_color">09_platinum</flag>
               </conditionFlags>
@@ -526,7 +526,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's hair and eyebrow color to salt and pepper.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/hair_color/10_saltpepper/preview.png" />
+              <image path="fomod/images/elsb/hair_color/10_saltpepper/preview.jpg" />
               <conditionFlags>
                 <flag name="hair_color">10_saltpepper</flag>
               </conditionFlags>
@@ -538,7 +538,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's hair and eyebrow color to white.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/hair_color/11_white/preview.png" />
+              <image path="fomod/images/elsb/hair_color/11_white/preview.jpg" />
               <conditionFlags>
                 <flag name="hair_color">11_white</flag>
               </conditionFlags>
@@ -554,7 +554,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Add no beard to Coen.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/beard/_vanilla.png" />
+              <image path="fomod/images/elsb/beard/_vanilla.jpg" />
               <conditionFlags>
                 <flag name="beard">vanilla</flag>
               </conditionFlags>
@@ -566,7 +566,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's beard to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/beard/Andrei_A/preview.png" />
+              <image path="fomod/images/elsb/beard/Andrei_A/preview.jpg" />
               <conditionFlags>
                 <flag name="beard">Andrei_A</flag>
               </conditionFlags>
@@ -578,7 +578,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's beard to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/beard/Commoner_B/preview.png" />
+              <image path="fomod/images/elsb/beard/Commoner_B/preview.jpg" />
               <conditionFlags>
                 <flag name="beard">Commoner_B</flag>
               </conditionFlags>
@@ -590,7 +590,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's beard to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/beard/Commoner_C/preview.png" />
+              <image path="fomod/images/elsb/beard/Commoner_C/preview.jpg" />
               <conditionFlags>
                 <flag name="beard">Commoner_C</flag>
               </conditionFlags>
@@ -602,7 +602,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's beard to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/beard/Commoner_D/preview.png" />
+              <image path="fomod/images/elsb/beard/Commoner_D/preview.jpg" />
               <conditionFlags>
                 <flag name="beard">Commoner_D</flag>
               </conditionFlags>
@@ -614,7 +614,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's beard to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/beard/Commoner_E/preview.png" />
+              <image path="fomod/images/elsb/beard/Commoner_E/preview.jpg" />
               <conditionFlags>
                 <flag name="beard">Commoner_E</flag>
               </conditionFlags>
@@ -626,7 +626,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's beard to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/beard/Marat_A/preview.png" />
+              <image path="fomod/images/elsb/beard/Marat_A/preview.jpg" />
               <conditionFlags>
                 <flag name="beard">Marat_A</flag>
               </conditionFlags>
@@ -638,7 +638,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's beard to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/beard/Neberu_A/preview.png" />
+              <image path="fomod/images/elsb/beard/Neberu_A/preview.jpg" />
               <conditionFlags>
                 <flag name="beard">Neberu_A</flag>
               </conditionFlags>
@@ -650,7 +650,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's beard to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/beard/Pieter_A/preview.png" />
+              <image path="fomod/images/elsb/beard/Pieter_A/preview.jpg" />
               <conditionFlags>
                 <flag name="beard">Pieter_A</flag>
               </conditionFlags>
@@ -662,7 +662,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's beard to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/beard/Villager_A/preview.png" />
+              <image path="fomod/images/elsb/beard/Villager_A/preview.jpg" />
               <conditionFlags>
                 <flag name="beard">Villager_A</flag>
               </conditionFlags>
@@ -678,7 +678,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Keep Coen's original beard color.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/beard_color/_vanilla.png" />
+              <image path="fomod/images/elsb/beard/Commoner_D/preview.jpg" />
               <conditionFlags>
                 <flag name="beard_color">vanilla</flag>
               </conditionFlags>
@@ -690,7 +690,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's beard color to black.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/beard_color/01_black/preview.png" />
+              <image path="fomod/images/elsb/beard_color/01_black/preview.jpg" />
               <conditionFlags>
                 <flag name="beard_color">01_black</flag>
               </conditionFlags>
@@ -702,7 +702,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's beard color to dark brown.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/beard_color/02_darkbrown/preview.png" />
+              <image path="fomod/images/elsb/beard_color/02_darkbrown/preview.jpg" />
               <conditionFlags>
                 <flag name="beard_color">02_darkbrown</flag>
               </conditionFlags>
@@ -714,7 +714,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's beard color to brown.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/beard_color/03_brown/preview.png" />
+              <image path="fomod/images/elsb/beard_color/03_brown/preview.jpg" />
               <conditionFlags>
                 <flag name="beard_color">03_brown</flag>
               </conditionFlags>
@@ -726,7 +726,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's beard color to light brown.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/beard_color/04_lightbrown/preview.png" />
+              <image path="fomod/images/elsb/beard_color/04_lightbrown/preview.jpg" />
               <conditionFlags>
                 <flag name="beard_color">04_lightbrown</flag>
               </conditionFlags>
@@ -738,7 +738,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's beard color to auburn.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/beard_color/05_auburn/preview.png" />
+              <image path="fomod/images/elsb/beard_color/05_auburn/preview.jpg" />
               <conditionFlags>
                 <flag name="beard_color">05_auburn</flag>
               </conditionFlags>
@@ -750,7 +750,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's beard color to ginger.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/beard_color/06_ginger/preview.png" />
+              <image path="fomod/images/elsb/beard_color/06_ginger/preview.jpg" />
               <conditionFlags>
                 <flag name="beard_color">06_ginger</flag>
               </conditionFlags>
@@ -762,7 +762,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's beard color to dark blonde.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/beard_color/07_darkblonde/preview.png" />
+              <image path="fomod/images/elsb/beard_color/07_darkblonde/preview.jpg" />
               <conditionFlags>
                 <flag name="beard_color">07_darkblonde</flag>
               </conditionFlags>
@@ -774,7 +774,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's beard color to blonde.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/beard_color/08_blonde/preview.png" />
+              <image path="fomod/images/elsb/beard_color/08_blonde/preview.jpg" />
               <conditionFlags>
                 <flag name="beard_color">08_blonde</flag>
               </conditionFlags>
@@ -786,7 +786,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's beard color to platinum blonde.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/beard_color/09_platinum/preview.png" />
+              <image path="fomod/images/elsb/beard_color/09_platinum/preview.jpg" />
               <conditionFlags>
                 <flag name="beard_color">09_platinum</flag>
               </conditionFlags>
@@ -798,7 +798,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's beard color to salt and pepper.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/beard_color/10_saltpepper/preview.png" />
+              <image path="fomod/images/elsb/beard_color/10_saltpepper/preview.jpg" />
               <conditionFlags>
                 <flag name="beard_color">10_saltpepper</flag>
               </conditionFlags>
@@ -810,7 +810,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's beard color to white.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/beard_color/11_white/preview.png" />
+              <image path="fomod/images/elsb/beard_color/11_white/preview.jpg" />
               <conditionFlags>
                 <flag name="beard_color">11_white</flag>
               </conditionFlags>
@@ -826,7 +826,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Keep Coen's original vampire eye color.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/eyes/_vanilla.png" />
+              <image path="fomod/images/elsb/eyes/_vanilla.jpg" />
               <conditionFlags>
                 <flag name="eyes">vanilla</flag>
               </conditionFlags>
@@ -838,7 +838,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's vampire eye color to blue.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/eyes/blue/preview.png" />
+              <image path="fomod/images/elsb/eyes/blue/preview.jpg" />
               <conditionFlags>
                 <flag name="eyes">blue</flag>
               </conditionFlags>
@@ -850,7 +850,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's vampire eye color to green.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/eyes/green/preview.png" />
+              <image path="fomod/images/elsb/eyes/green/preview.jpg" />
               <conditionFlags>
                 <flag name="eyes">green</flag>
               </conditionFlags>
@@ -862,7 +862,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's vampire eye color to orange.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/eyes/orange/preview.png" />
+              <image path="fomod/images/elsb/eyes/orange/preview.jpg" />
               <conditionFlags>
                 <flag name="eyes">orange</flag>
               </conditionFlags>
@@ -874,7 +874,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's vampire eye color to purple.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/eyes/purple/preview.png" />
+              <image path="fomod/images/elsb/eyes/purple/preview.jpg" />
               <conditionFlags>
                 <flag name="eyes">purple</flag>
               </conditionFlags>
@@ -886,7 +886,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's vampire eye color to red.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/eyes/red/preview.png" />
+              <image path="fomod/images/elsb/eyes/red/preview.jpg" />
               <conditionFlags>
                 <flag name="eyes">red</flag>
               </conditionFlags>
@@ -898,7 +898,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Coen's vampire eye color to yellow.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/eyes/yellow/preview.png" />
+              <image path="fomod/images/elsb/eyes/yellow/preview.jpg" />
               <conditionFlags>
                 <flag name="eyes">yellow</flag>
               </conditionFlags>
@@ -914,7 +914,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Add no separate face or makeup overlay. A selected skin pack can still change the face.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/faces/coen-vanilla.svg" />
+              <image path="fomod/images/faces/coen-vanilla.jpg" />
               <conditionFlags>
                 <flag name="coen_face">vanilla</flag>
               </conditionFlags>
@@ -932,7 +932,7 @@ Nexus Mods: mod 703, file 2986.
 
 Other hair, eye and outfit changes pictured are not included.
 Preview credit: christeeenith.</description>
-              <image path="fomod/images/faces/703.svg" />
+              <image path="fomod/images/faces/703.jpg" />
               <conditionFlags>
                 <flag name="coen_face">compat_chars_703_2986</flag>
               </conditionFlags>
@@ -952,7 +952,7 @@ Preview credit: christeeenith.</description>
               <description>Keep Anca's original body.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/anca_body/_vanilla.png" />
+              <image path="fomod/images/elsb/anca_body/_vanilla.jpg" />
               <conditionFlags>
                 <flag name="anca_body">vanilla</flag>
               </conditionFlags>
@@ -964,7 +964,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Use Anca's ELSB body.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/anca_body/booty/preview.png" />
+              <image path="fomod/images/elsb/anca_body/booty/preview.jpg" />
               <conditionFlags>
                 <flag name="anca_body">booty</flag>
               </conditionFlags>
@@ -980,7 +980,7 @@ Nexus Mods: mod 370.
 
 Preview: ELSB and Pussy Walker source images; the combined body is not pictured.
 Preview credit: Akazonae36 (ELSB) and supergreatluffy (Pussy Walker).</description>
-              <image path="fomod/images/faces/anca-pussywalker.svg" />
+              <image path="fomod/images/faces/anca-pussywalker.jpg" />
               <conditionFlags>
                 <flag name="anca_body">pussywalker</flag>
               </conditionFlags>
@@ -996,7 +996,7 @@ Preview credit: Akazonae36 (ELSB) and supergreatluffy (Pussy Walker).</descripti
               <description>Use Anca's ELSB body in naked scenes only. Choosing a non-vanilla outfit also applies the body to all scenes.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/anca_scope/_vanilla.png" />
+              <image path="fomod/images/elsb/anca_scope/_vanilla.jpg" />
               <conditionFlags>
                 <flag name="anca_scope">vanilla</flag>
               </conditionFlags>
@@ -1010,7 +1010,7 @@ Preview credit: Akazonae36 (ELSB).</description>
 Use Anca's ELSB body in both clothed and naked scenes.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/anca_scope/all/preview.png" />
+              <image path="fomod/images/elsb/anca_scope/all/preview.jpg" />
               <conditionFlags>
                 <flag name="anca_scope">all</flag>
               </conditionFlags>
@@ -1037,7 +1037,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Keep Anca's original outfit.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/anca_outfit/_vanilla.png" />
+              <image path="fomod/images/elsb/anca_scope/_vanilla.jpg" />
               <conditionFlags>
                 <flag name="anca_outfit">vanilla</flag>
               </conditionFlags>
@@ -1049,7 +1049,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Make Anca naked. With an ELSB body selected, this also applies that body to all scenes.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/anca_outfit/nude/preview.png" />
+              <image path="fomod/images/elsb/anca_outfit/nude/preview.jpg" />
               <conditionFlags>
                 <flag name="anca_outfit">nude</flag>
               </conditionFlags>
@@ -1068,7 +1068,7 @@ Archive: Loose Anca 607 1 2026-09-20T03-29Z XJrJvVqEZ.rar
 Nexus Mods: mod 607, file 2337.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/compat/loose_anca/preview.png" />
+              <image path="fomod/images/elsb/compat/loose_anca/preview.jpg" />
               <conditionFlags>
                 <flag name="anca_outfit">compat_loose_anca</flag>
               </conditionFlags>
@@ -1098,7 +1098,7 @@ Archive: Revealing Anca 531 1.2.1 2026-09-23T13-29Z tzYzjaIeC.zip
 Nexus Mods: mod 531, file 2521.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/compat/revealing_anca_531/preview.png" />
+              <image path="fomod/images/elsb/compat/revealing_anca_531/preview.jpg" />
               <conditionFlags>
                 <flag name="anca_outfit">compat_revealing_anca_531</flag>
               </conditionFlags>
@@ -1128,7 +1128,7 @@ Archive: Revealing Anca 592 1 2026-09-19T00-08Z mB9BLvDgW.rar
 Nexus Mods: mod 592, file 2258.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/compat/revealing_anca_592/preview.png" />
+              <image path="fomod/images/elsb/compat/revealing_anca_592/preview.jpg" />
               <conditionFlags>
                 <flag name="anca_outfit">compat_revealing_anca_592</flag>
               </conditionFlags>
@@ -1158,7 +1158,7 @@ Archive: ThiccAnca 279 1.1 2026-09-07T04-54Z C2B29rxz2.zip
 Nexus Mods: mod 279, file 825.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/compat/thicc_anca_279/preview.png" />
+              <image path="fomod/images/elsb/compat/thicc_anca_279/preview.jpg" />
               <conditionFlags>
                 <flag name="anca_outfit">compat_thicc_anca_279</flag>
               </conditionFlags>
@@ -1185,7 +1185,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Add no skin, makeup or tattoos from this category. Other enabled skin mods can still affect the character.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/anca_skin/_vanilla.png" />
+              <image path="fomod/images/elsb/anca_body/booty/preview.jpg" />
               <conditionFlags>
                 <flag name="anca_skin">vanilla</flag>
               </conditionFlags>
@@ -1217,7 +1217,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Anca's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/anca_hair/Anca_B/preview.png" />
+              <image path="fomod/images/elsb/anca_hair/Anca_B/preview.jpg" />
               <conditionFlags>
                 <flag name="anca_hair">Anca_B</flag>
               </conditionFlags>
@@ -1229,7 +1229,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Anca's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/anca_hair/Commoner_C/preview.png" />
+              <image path="fomod/images/elsb/anca_hair/Commoner_C/preview.jpg" />
               <conditionFlags>
                 <flag name="anca_hair">Commoner_C</flag>
               </conditionFlags>
@@ -1241,7 +1241,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Anca's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/anca_hair/Commoner_E/preview.png" />
+              <image path="fomod/images/elsb/anca_hair/Commoner_E/preview.jpg" />
               <conditionFlags>
                 <flag name="anca_hair">Commoner_E</flag>
               </conditionFlags>
@@ -1253,7 +1253,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Anca's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/anca_hair/Esme_A/preview.png" />
+              <image path="fomod/images/elsb/anca_hair/Esme_A/preview.jpg" />
               <conditionFlags>
                 <flag name="anca_hair">Esme_A</flag>
               </conditionFlags>
@@ -1265,7 +1265,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Anca's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/anca_hair/Yanna_H/preview.png" />
+              <image path="fomod/images/elsb/anca_hair/Yanna_H/preview.jpg" />
               <conditionFlags>
                 <flag name="anca_hair">Yanna_H</flag>
               </conditionFlags>
@@ -1283,7 +1283,7 @@ Nexus Mods: mod 626, file 2488.
 
 Preview: base ELSB appearance; this option is not pictured.
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/anca_body/booty/preview.png" />
+              <image path="fomod/images/elsb/anca_body/booty/preview.jpg" />
               <conditionFlags>
                 <flag name="anca_hair">compat_chars_626_2488</flag>
               </conditionFlags>
@@ -1311,7 +1311,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Anca's hair and eyebrow color to black.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/anca_hair_color/01_black/preview.png" />
+              <image path="fomod/images/elsb/anca_hair_color/01_black/preview.jpg" />
               <conditionFlags>
                 <flag name="anca_hair_color">01_black</flag>
               </conditionFlags>
@@ -1323,7 +1323,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Anca's hair and eyebrow color to dark brown.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/anca_hair_color/02_darkbrown/preview.png" />
+              <image path="fomod/images/elsb/anca_hair_color/02_darkbrown/preview.jpg" />
               <conditionFlags>
                 <flag name="anca_hair_color">02_darkbrown</flag>
               </conditionFlags>
@@ -1335,7 +1335,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Anca's hair and eyebrow color to brown.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/anca_hair_color/03_brown/preview.png" />
+              <image path="fomod/images/elsb/anca_hair_color/03_brown/preview.jpg" />
               <conditionFlags>
                 <flag name="anca_hair_color">03_brown</flag>
               </conditionFlags>
@@ -1347,7 +1347,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Anca's hair and eyebrow color to light brown.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/anca_hair_color/04_lightbrown/preview.png" />
+              <image path="fomod/images/elsb/anca_hair_color/04_lightbrown/preview.jpg" />
               <conditionFlags>
                 <flag name="anca_hair_color">04_lightbrown</flag>
               </conditionFlags>
@@ -1359,7 +1359,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Anca's hair and eyebrow color to auburn.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/anca_hair_color/05_auburn/preview.png" />
+              <image path="fomod/images/elsb/anca_hair_color/05_auburn/preview.jpg" />
               <conditionFlags>
                 <flag name="anca_hair_color">05_auburn</flag>
               </conditionFlags>
@@ -1371,7 +1371,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Anca's hair and eyebrow color to ginger.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/anca_hair_color/06_ginger/preview.png" />
+              <image path="fomod/images/elsb/anca_hair_color/06_ginger/preview.jpg" />
               <conditionFlags>
                 <flag name="anca_hair_color">06_ginger</flag>
               </conditionFlags>
@@ -1383,7 +1383,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Anca's hair and eyebrow color to dark blonde.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/anca_hair_color/07_darkblonde/preview.png" />
+              <image path="fomod/images/elsb/anca_hair_color/07_darkblonde/preview.jpg" />
               <conditionFlags>
                 <flag name="anca_hair_color">07_darkblonde</flag>
               </conditionFlags>
@@ -1395,7 +1395,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Anca's hair and eyebrow color to blonde.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/anca_hair_color/08_blonde/preview.png" />
+              <image path="fomod/images/elsb/anca_hair_color/08_blonde/preview.jpg" />
               <conditionFlags>
                 <flag name="anca_hair_color">08_blonde</flag>
               </conditionFlags>
@@ -1407,7 +1407,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Anca's hair and eyebrow color to platinum blonde.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/anca_hair_color/09_platinum/preview.png" />
+              <image path="fomod/images/elsb/anca_hair_color/09_platinum/preview.jpg" />
               <conditionFlags>
                 <flag name="anca_hair_color">09_platinum</flag>
               </conditionFlags>
@@ -1419,7 +1419,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Anca's hair and eyebrow color to salt and pepper.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/anca_hair_color/10_saltpepper/preview.png" />
+              <image path="fomod/images/elsb/anca_hair_color/10_saltpepper/preview.jpg" />
               <conditionFlags>
                 <flag name="anca_hair_color">10_saltpepper</flag>
               </conditionFlags>
@@ -1431,7 +1431,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Anca's hair and eyebrow color to white.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/anca_hair_color/11_white/preview.png" />
+              <image path="fomod/images/elsb/anca_hair_color/11_white/preview.jpg" />
               <conditionFlags>
                 <flag name="anca_hair_color">11_white</flag>
               </conditionFlags>
@@ -1447,7 +1447,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Add no separate face or makeup overlay. A selected skin pack can still change the face.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/faces/anca-vanilla.svg" />
+              <image path="fomod/images/faces/anca-vanilla.jpg" />
               <conditionFlags>
                 <flag name="anca_face">vanilla</flag>
               </conditionFlags>
@@ -1465,7 +1465,7 @@ Nexus Mods: mod 404, file 2069.
 
 Other hair, eye and outfit changes pictured are not included. The mod uses a shared preview for several variants; makeup may differ.
 Preview credit: LFAGM.</description>
-              <image path="fomod/images/faces/404.svg" />
+              <image path="fomod/images/faces/404.jpg" />
               <conditionFlags>
                 <flag name="anca_face">compat_chars_404_2069</flag>
               </conditionFlags>
@@ -1483,7 +1483,7 @@ Nexus Mods: mod 404, file 2068.
 
 Other hair, eye and outfit changes pictured are not included. The mod uses a shared preview for several variants; makeup may differ.
 Preview credit: LFAGM.</description>
-              <image path="fomod/images/faces/404.svg" />
+              <image path="fomod/images/faces/404.jpg" />
               <conditionFlags>
                 <flag name="anca_face">compat_chars_404_2068</flag>
               </conditionFlags>
@@ -1501,7 +1501,7 @@ Nexus Mods: mod 404, file 2067.
 
 Other hair, eye and outfit changes pictured are not included. The mod uses a shared preview for several variants; makeup may differ.
 Preview credit: LFAGM.</description>
-              <image path="fomod/images/faces/404.svg" />
+              <image path="fomod/images/faces/404.jpg" />
               <conditionFlags>
                 <flag name="anca_face">compat_chars_404_2067</flag>
               </conditionFlags>
@@ -1519,7 +1519,7 @@ Nexus Mods: mod 512, file 1957.
 
 Other hair, eye and outfit changes pictured are not included.
 Preview credit: LFAGM.</description>
-              <image path="fomod/images/faces/512.svg" />
+              <image path="fomod/images/faces/512.jpg" />
               <conditionFlags>
                 <flag name="anca_face">compat_chars_512_1957</flag>
               </conditionFlags>
@@ -1535,7 +1535,7 @@ Preview credit: LFAGM.</description>
               <description>Keep Anca's original head.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/faces/anca-vanilla.svg" />
+              <image path="fomod/images/faces/anca-vanilla.jpg" />
               <conditionFlags>
                 <flag name="anca_head">vanilla</flag>
               </conditionFlags>
@@ -1555,7 +1555,7 @@ Nexus Mods: mod 534, file 2025.
 
 Other hair, eye and outfit changes pictured are not included.
 Preview credit: LFAGM.</description>
-              <image path="fomod/images/faces/534.svg" />
+              <image path="fomod/images/faces/534.jpg" />
               <conditionFlags>
                 <flag name="anca_head">compat_chars_534_2025</flag>
               </conditionFlags>
@@ -1589,7 +1589,7 @@ Preview credit: LFAGM.</description>
               <description>Keep Lacra's original body.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_body/_vanilla.png" />
+              <image path="fomod/images/elsb/lacra_body/_vanilla.jpg" />
               <conditionFlags>
                 <flag name="lacra_body">vanilla</flag>
               </conditionFlags>
@@ -1601,7 +1601,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Use Lacra's ELSB body.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_body/fitness/preview.png" />
+              <image path="fomod/images/elsb/lacra_body/fitness/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_body">fitness</flag>
               </conditionFlags>
@@ -1617,7 +1617,7 @@ Nexus Mods: mod 370.
 
 Preview: ELSB and Pussy Walker source images; the combined body is not pictured.
 Preview credit: Akazonae36 (ELSB) and supergreatluffy (Pussy Walker).</description>
-              <image path="fomod/images/faces/lacra-pussywalker.svg" />
+              <image path="fomod/images/faces/lacra-pussywalker.jpg" />
               <conditionFlags>
                 <flag name="lacra_body">pussywalker</flag>
               </conditionFlags>
@@ -1635,7 +1635,7 @@ Nexus Mods: mod 311, file 1846.
 
 Preview: base ELSB appearance; this option is not pictured.
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_body/fitness/preview.png" />
+              <image path="fomod/images/elsb/lacra_body/fitness/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_body">compat_chars_311_1846</flag>
               </conditionFlags>
@@ -1653,7 +1653,7 @@ Nexus Mods: mod 311, file 1805.
 
 Preview: base ELSB appearance; this option is not pictured.
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_body/fitness/preview.png" />
+              <image path="fomod/images/elsb/lacra_body/fitness/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_body">compat_chars_311_1805</flag>
               </conditionFlags>
@@ -1671,7 +1671,7 @@ Nexus Mods: mod 445, file 2457.
 
 Preview: base ELSB appearance; this option is not pictured.
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_body/fitness/preview.png" />
+              <image path="fomod/images/elsb/lacra_body/fitness/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_body">compat_chars_445_2457</flag>
               </conditionFlags>
@@ -1689,7 +1689,7 @@ Nexus Mods: mod 445, file 2454.
 
 Preview: base ELSB appearance; this option is not pictured.
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_body/fitness/preview.png" />
+              <image path="fomod/images/elsb/lacra_body/fitness/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_body">compat_chars_445_2454</flag>
               </conditionFlags>
@@ -1707,7 +1707,7 @@ Nexus Mods: mod 445, file 2453.
 
 Preview: base ELSB appearance; this option is not pictured.
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_body/fitness/preview.png" />
+              <image path="fomod/images/elsb/lacra_body/fitness/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_body">compat_chars_445_2453</flag>
               </conditionFlags>
@@ -1725,7 +1725,7 @@ Nexus Mods: mod 445, file 2448.
 
 Preview: base ELSB appearance; this option is not pictured.
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_body/fitness/preview.png" />
+              <image path="fomod/images/elsb/lacra_body/fitness/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_body">compat_chars_445_2448</flag>
               </conditionFlags>
@@ -1741,7 +1741,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Use Lacra's ELSB body in naked scenes only. Choosing a non-vanilla outfit also applies the body to all scenes.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_scope/_vanilla.png" />
+              <image path="fomod/images/elsb/lacra_scope/_vanilla.jpg" />
               <conditionFlags>
                 <flag name="lacra_scope">vanilla</flag>
               </conditionFlags>
@@ -1755,7 +1755,7 @@ Preview credit: Akazonae36 (ELSB).</description>
 Use Lacra's ELSB body in both clothed and naked scenes.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_scope/all/preview.png" />
+              <image path="fomod/images/elsb/lacra_scope/all/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_scope">all</flag>
               </conditionFlags>
@@ -1786,7 +1786,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Keep Lacra's original outfit.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_outfit/_vanilla.png" />
+              <image path="fomod/images/elsb/lacra_scope/_vanilla.jpg" />
               <conditionFlags>
                 <flag name="lacra_outfit">vanilla</flag>
               </conditionFlags>
@@ -1800,7 +1800,7 @@ Preview credit: Akazonae36 (ELSB).</description>
 Make Lacra naked. With an ELSB body selected, this also applies that body to all scenes.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_outfit/nude/preview.png" />
+              <image path="fomod/images/elsb/lacra_outfit/nude/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_outfit">nude</flag>
               </conditionFlags>
@@ -1837,7 +1837,7 @@ Archive: Revealing Lacra 501 1.2 2026-09-23T01-46Z kZ3Z1psoc.zip
 Nexus Mods: mod 501, file 2503.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/compat/revealing_lacra/preview.png" />
+              <image path="fomod/images/elsb/compat/revealing_lacra/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_outfit">compat_revealing_lacra</flag>
               </conditionFlags>
@@ -1881,7 +1881,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Add no skin, makeup or tattoos from this category. Other enabled skin mods can still affect the character.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_skin/_vanilla.png" />
+              <image path="fomod/images/elsb/lacra_body/fitness/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_skin">vanilla</flag>
               </conditionFlags>
@@ -1946,7 +1946,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Lacra's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_hair/Commoner_A/preview.png" />
+              <image path="fomod/images/elsb/lacra_hair/Commoner_A/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_hair">Commoner_A</flag>
               </conditionFlags>
@@ -1958,7 +1958,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Lacra's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_hair/Commoner_B/preview.png" />
+              <image path="fomod/images/elsb/lacra_hair/Commoner_B/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_hair">Commoner_B</flag>
               </conditionFlags>
@@ -1970,7 +1970,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Lacra's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_hair/Commoner_C/preview.png" />
+              <image path="fomod/images/elsb/lacra_hair/Commoner_C/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_hair">Commoner_C</flag>
               </conditionFlags>
@@ -1982,7 +1982,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Lacra's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_hair/Commoner_E/preview.png" />
+              <image path="fomod/images/elsb/lacra_hair/Commoner_E/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_hair">Commoner_E</flag>
               </conditionFlags>
@@ -1994,7 +1994,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Lacra's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_hair/Esme_A/preview.png" />
+              <image path="fomod/images/elsb/lacra_hair/Esme_A/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_hair">Esme_A</flag>
               </conditionFlags>
@@ -2006,7 +2006,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Lacra's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_hair/Sarah_A/preview.png" />
+              <image path="fomod/images/elsb/lacra_hair/Sarah_A/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_hair">Sarah_A</flag>
               </conditionFlags>
@@ -2018,7 +2018,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Lacra's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_hair/XanthesDaughter_A/preview.png" />
+              <image path="fomod/images/elsb/lacra_hair/XanthesDaughter_A/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_hair">XanthesDaughter_A</flag>
               </conditionFlags>
@@ -2030,7 +2030,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Lacra's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_hair/Yanna_H/preview.png" />
+              <image path="fomod/images/elsb/lacra_hair/Yanna_H/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_hair">Yanna_H</flag>
               </conditionFlags>
@@ -2048,7 +2048,7 @@ Nexus Mods: mod 570, file 3104.
 
 Other skin, makeup and eye changes pictured are not included.
 Preview credit: gleb63.</description>
-              <image path="fomod/images/faces/lacra-beautiful-hair.svg" />
+              <image path="fomod/images/faces/lacra-beautiful-hair.jpg" />
               <conditionFlags>
                 <flag name="lacra_hair">compat_lacra_hair</flag>
               </conditionFlags>
@@ -2076,7 +2076,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Lacra's hair color to black.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_hair_color/01_black/preview.png" />
+              <image path="fomod/images/elsb/lacra_hair_color/01_black/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_hair_color">01_black</flag>
               </conditionFlags>
@@ -2088,7 +2088,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Lacra's hair color to dark brown.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_hair_color/02_darkbrown/preview.png" />
+              <image path="fomod/images/elsb/lacra_hair_color/02_darkbrown/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_hair_color">02_darkbrown</flag>
               </conditionFlags>
@@ -2100,7 +2100,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Lacra's hair color to brown.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_hair_color/03_brown/preview.png" />
+              <image path="fomod/images/elsb/lacra_hair_color/03_brown/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_hair_color">03_brown</flag>
               </conditionFlags>
@@ -2112,7 +2112,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Lacra's hair color to light brown.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_hair_color/04_lightbrown/preview.png" />
+              <image path="fomod/images/elsb/lacra_hair_color/04_lightbrown/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_hair_color">04_lightbrown</flag>
               </conditionFlags>
@@ -2124,7 +2124,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Lacra's hair color to auburn.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_hair_color/05_auburn/preview.png" />
+              <image path="fomod/images/elsb/lacra_hair_color/05_auburn/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_hair_color">05_auburn</flag>
               </conditionFlags>
@@ -2136,7 +2136,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Lacra's hair color to ginger.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_hair_color/06_ginger/preview.png" />
+              <image path="fomod/images/elsb/lacra_hair_color/06_ginger/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_hair_color">06_ginger</flag>
               </conditionFlags>
@@ -2148,7 +2148,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Lacra's hair color to dark blonde.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_hair_color/07_darkblonde/preview.png" />
+              <image path="fomod/images/elsb/lacra_hair_color/07_darkblonde/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_hair_color">07_darkblonde</flag>
               </conditionFlags>
@@ -2160,7 +2160,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Lacra's hair color to blonde.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_hair_color/08_blonde/preview.png" />
+              <image path="fomod/images/elsb/lacra_hair_color/08_blonde/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_hair_color">08_blonde</flag>
               </conditionFlags>
@@ -2172,7 +2172,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Lacra's hair color to platinum blonde.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_hair_color/09_platinum/preview.png" />
+              <image path="fomod/images/elsb/lacra_hair_color/09_platinum/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_hair_color">09_platinum</flag>
               </conditionFlags>
@@ -2184,7 +2184,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Lacra's hair color to salt and pepper.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_hair_color/10_saltpepper/preview.png" />
+              <image path="fomod/images/elsb/lacra_hair_color/10_saltpepper/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_hair_color">10_saltpepper</flag>
               </conditionFlags>
@@ -2196,7 +2196,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Lacra's hair color to white.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_hair_color/11_white/preview.png" />
+              <image path="fomod/images/elsb/lacra_hair_color/11_white/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_hair_color">11_white</flag>
               </conditionFlags>
@@ -2212,7 +2212,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Keep Lacra's original vampire eye color.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_eyes/_vanilla.png" />
+              <image path="fomod/images/elsb/lacra_eyes/_vanilla.jpg" />
               <conditionFlags>
                 <flag name="lacra_eyes">vanilla</flag>
               </conditionFlags>
@@ -2224,7 +2224,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Lacra's vampire eye color to blue.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_eyes/blue/preview.png" />
+              <image path="fomod/images/elsb/lacra_eyes/blue/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_eyes">blue</flag>
               </conditionFlags>
@@ -2236,7 +2236,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Lacra's vampire eye color to green.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_eyes/green/preview.png" />
+              <image path="fomod/images/elsb/lacra_eyes/green/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_eyes">green</flag>
               </conditionFlags>
@@ -2248,7 +2248,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Lacra's vampire eye color to orange.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_eyes/orange/preview.png" />
+              <image path="fomod/images/elsb/lacra_eyes/orange/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_eyes">orange</flag>
               </conditionFlags>
@@ -2260,7 +2260,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Lacra's vampire eye color to purple.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_eyes/purple/preview.png" />
+              <image path="fomod/images/elsb/lacra_eyes/purple/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_eyes">purple</flag>
               </conditionFlags>
@@ -2272,7 +2272,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Lacra's vampire eye color to red.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_eyes/red/preview.png" />
+              <image path="fomod/images/elsb/lacra_eyes/red/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_eyes">red</flag>
               </conditionFlags>
@@ -2284,7 +2284,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Lacra's vampire eye color to yellow.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/lacra_eyes/yellow/preview.png" />
+              <image path="fomod/images/elsb/lacra_eyes/yellow/preview.jpg" />
               <conditionFlags>
                 <flag name="lacra_eyes">yellow</flag>
               </conditionFlags>
@@ -2300,7 +2300,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Add no separate face or makeup overlay. A selected skin pack can still change the face.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/faces/lacra-vanilla.svg" />
+              <image path="fomod/images/faces/lacra-vanilla.jpg" />
               <conditionFlags>
                 <flag name="lacra_face">vanilla</flag>
               </conditionFlags>
@@ -2320,7 +2320,7 @@ Nexus Mods: mod 550, file 2442.
 
 Other hair, eye and outfit changes pictured are not included. The mod uses a shared preview for several variants; makeup may differ.
 Preview credit: gleb63.</description>
-              <image path="fomod/images/faces/550.svg" />
+              <image path="fomod/images/faces/550.jpg" />
               <conditionFlags>
                 <flag name="lacra_face">compat_chars_550_2442</flag>
               </conditionFlags>
@@ -2354,7 +2354,7 @@ Nexus Mods: mod 550, file 2444.
 
 Other hair, eye and outfit changes pictured are not included. The mod uses a shared preview for several variants; makeup may differ.
 Preview credit: gleb63.</description>
-              <image path="fomod/images/faces/550.svg" />
+              <image path="fomod/images/faces/550.jpg" />
               <conditionFlags>
                 <flag name="lacra_face">compat_chars_550_2444</flag>
               </conditionFlags>
@@ -2388,7 +2388,7 @@ Nexus Mods: mod 550, file 2443.
 
 Other hair, eye and outfit changes pictured are not included. The mod uses a shared preview for several variants; makeup may differ.
 Preview credit: gleb63.</description>
-              <image path="fomod/images/faces/550.svg" />
+              <image path="fomod/images/faces/550.jpg" />
               <conditionFlags>
                 <flag name="lacra_face">compat_chars_550_2443</flag>
               </conditionFlags>
@@ -2422,7 +2422,7 @@ Nexus Mods: mod 427, file 1588.
 
 Other hair, eye and outfit changes pictured are not included. The mod uses a shared preview for several variants; makeup may differ.
 Preview credit: LFAGM.</description>
-              <image path="fomod/images/faces/427.svg" />
+              <image path="fomod/images/faces/427.jpg" />
               <conditionFlags>
                 <flag name="lacra_face">compat_chars_427_1588</flag>
               </conditionFlags>
@@ -2456,7 +2456,7 @@ Nexus Mods: mod 427, file 1599.
 
 Other hair, eye and outfit changes pictured are not included. The mod uses a shared preview for several variants; makeup may differ.
 Preview credit: LFAGM.</description>
-              <image path="fomod/images/faces/427.svg" />
+              <image path="fomod/images/faces/427.jpg" />
               <conditionFlags>
                 <flag name="lacra_face">compat_chars_427_1599</flag>
               </conditionFlags>
@@ -2486,7 +2486,7 @@ Preview credit: LFAGM.</description>
               <description>Add no separate face smoothing. A selected skin pack can still change Lacra's face surface.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/faces/lacra-vanilla.svg" />
+              <image path="fomod/images/faces/lacra-vanilla.jpg" />
               <conditionFlags>
                 <flag name="lacra_surface">vanilla</flag>
               </conditionFlags>
@@ -2506,7 +2506,7 @@ Nexus Mods: mod 550, file 2083.
 
 Other hair, eye and outfit changes pictured are not included. The mod uses a shared preview for several variants; makeup may differ.
 Preview credit: gleb63.</description>
-              <image path="fomod/images/faces/550.svg" />
+              <image path="fomod/images/faces/550.jpg" />
               <conditionFlags>
                 <flag name="lacra_surface">compat_chars_550_2083</flag>
               </conditionFlags>
@@ -2536,7 +2536,7 @@ Preview credit: gleb63.</description>
               <description>Add no separate expression wrinkle changes. A selected skin pack can still change Lacra's wrinkles.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/faces/lacra-vanilla.svg" />
+              <image path="fomod/images/faces/lacra-vanilla.jpg" />
               <conditionFlags>
                 <flag name="lacra_wrinkles">vanilla</flag>
               </conditionFlags>
@@ -2556,7 +2556,7 @@ Nexus Mods: mod 550, file 2085.
 
 Other hair, eye and outfit changes pictured are not included. The mod uses a shared preview for several variants; makeup may differ.
 Preview credit: gleb63.</description>
-              <image path="fomod/images/faces/550.svg" />
+              <image path="fomod/images/faces/550.jpg" />
               <conditionFlags>
                 <flag name="lacra_wrinkles">compat_chars_550_2085</flag>
               </conditionFlags>
@@ -2586,7 +2586,7 @@ Preview credit: gleb63.</description>
               <description>Keep Lacra's original head.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/faces/lacra-vanilla.svg" />
+              <image path="fomod/images/faces/lacra-vanilla.jpg" />
               <conditionFlags>
                 <flag name="lacra_head">vanilla</flag>
               </conditionFlags>
@@ -2606,7 +2606,7 @@ Nexus Mods: mod 533, file 2024.
 
 Other hair, eye and outfit changes pictured are not included.
 Preview credit: LFAGM.</description>
-              <image path="fomod/images/faces/533.svg" />
+              <image path="fomod/images/faces/533.jpg" />
               <conditionFlags>
                 <flag name="lacra_head">compat_chars_533_2024</flag>
               </conditionFlags>
@@ -2644,7 +2644,7 @@ Preview credit: LFAGM.</description>
               <description>Keep Marat's original body.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_body/_vanilla.png" />
+              <image path="fomod/images/elsb/marat_body/_vanilla.jpg" />
               <conditionFlags>
                 <flag name="marat_body">vanilla</flag>
               </conditionFlags>
@@ -2656,7 +2656,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Use Marat's ELSB body.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_body/fitness/preview.png" />
+              <image path="fomod/images/elsb/marat_body/fitness/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_body">fitness</flag>
               </conditionFlags>
@@ -2672,7 +2672,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Use Marat's ELSB body in naked scenes only. Choosing a non-vanilla outfit also applies the body to all scenes.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_scope/_vanilla.png" />
+              <image path="fomod/images/elsb/marat_scope/_vanilla.jpg" />
               <conditionFlags>
                 <flag name="marat_scope">vanilla</flag>
               </conditionFlags>
@@ -2686,7 +2686,7 @@ Preview credit: Akazonae36 (ELSB).</description>
 Use Marat's ELSB body in both clothed and naked scenes.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_scope/all/preview.png" />
+              <image path="fomod/images/elsb/marat_scope/all/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_scope">all</flag>
               </conditionFlags>
@@ -2712,7 +2712,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Keep underwear as shown in the original romance scenes.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_romance/_vanilla.png" />
+              <image path="fomod/images/elsb/marat_romance/_vanilla.jpg" />
               <conditionFlags>
                 <flag name="marat_romance">vanilla</flag>
               </conditionFlags>
@@ -2724,7 +2724,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Remove underwear in romance scenes that normally show it.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_romance/undress/preview.png" />
+              <image path="fomod/images/elsb/marat_body/_vanilla.jpg" />
               <conditionFlags>
                 <flag name="marat_romance">undress</flag>
               </conditionFlags>
@@ -2740,7 +2740,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Keep Marat's original outfit.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_outfit/_vanilla.png" />
+              <image path="fomod/images/elsb/marat_scope/_vanilla.jpg" />
               <conditionFlags>
                 <flag name="marat_outfit">vanilla</flag>
               </conditionFlags>
@@ -2752,7 +2752,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Make Marat naked. With an ELSB body selected, this also applies that body to all scenes.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_outfit/nude/preview.png" />
+              <image path="fomod/images/elsb/marat_body/_vanilla.jpg" />
               <conditionFlags>
                 <flag name="marat_outfit">nude</flag>
               </conditionFlags>
@@ -2768,7 +2768,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Add no genital replacement.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_genitals/_vanilla.png" />
+              <image path="fomod/images/elsb/marat_genitals/_vanilla.jpg" />
               <conditionFlags>
                 <flag name="marat_genitals">vanilla</flag>
               </conditionFlags>
@@ -2787,7 +2787,7 @@ Archive: Coen Nude 281 1.0.8 2026-09-27T15-48Z Y585g2wtS.rar
 Nexus Mods: mod 281, file 2748.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/compat/coen_nude/preview_marat.png" />
+              <image path="fomod/images/elsb/compat/coen_nude/preview_marat.jpg" />
               <conditionFlags>
                 <flag name="marat_genitals">compat_coen_nude_marat</flag>
               </conditionFlags>
@@ -2813,7 +2813,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Add no skin, makeup or tattoos from this category. Other enabled skin mods can still affect the character.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_skin/_vanilla.png" />
+              <image path="fomod/images/elsb/marat_body/fitness/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_skin">vanilla</flag>
               </conditionFlags>
@@ -2833,7 +2833,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Keep Marat's original hairstyle.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_hair/_vanilla.png" />
+              <image path="fomod/images/elsb/marat_hair/_vanilla.jpg" />
               <conditionFlags>
                 <flag name="marat_hair">vanilla</flag>
               </conditionFlags>
@@ -2845,7 +2845,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_hair/Ambrus_A/preview.png" />
+              <image path="fomod/images/elsb/marat_hair/Ambrus_A/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_hair">Ambrus_A</flag>
               </conditionFlags>
@@ -2857,7 +2857,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_hair/Commoner_B/preview.png" />
+              <image path="fomod/images/elsb/marat_hair/Commoner_B/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_hair">Commoner_B</flag>
               </conditionFlags>
@@ -2869,7 +2869,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_hair/Commoner_D/preview.png" />
+              <image path="fomod/images/elsb/marat_hair/Commoner_D/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_hair">Commoner_D</flag>
               </conditionFlags>
@@ -2881,7 +2881,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_hair/Commoner_F/preview.png" />
+              <image path="fomod/images/elsb/marat_hair/Commoner_F/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_hair">Commoner_F</flag>
               </conditionFlags>
@@ -2893,7 +2893,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_hair/Isbrand_A/preview.png" />
+              <image path="fomod/images/elsb/marat_hair/Isbrand_A/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_hair">Isbrand_A</flag>
               </conditionFlags>
@@ -2905,7 +2905,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's hairstyle to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_hair/Mihai_A/preview.png" />
+              <image path="fomod/images/elsb/marat_hair/Mihai_A/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_hair">Mihai_A</flag>
               </conditionFlags>
@@ -2921,7 +2921,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Keep Marat's original hair and eyebrow color.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_hair_color/_vanilla.png" />
+              <image path="fomod/images/elsb/marat_hair/_vanilla.jpg" />
               <conditionFlags>
                 <flag name="marat_hair_color">vanilla</flag>
               </conditionFlags>
@@ -2933,7 +2933,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's hair and eyebrow color to black.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_hair_color/01_black/preview.png" />
+              <image path="fomod/images/elsb/marat_hair_color/01_black/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_hair_color">01_black</flag>
               </conditionFlags>
@@ -2945,7 +2945,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's hair and eyebrow color to dark brown.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_hair_color/02_darkbrown/preview.png" />
+              <image path="fomod/images/elsb/marat_hair/_vanilla.jpg" />
               <conditionFlags>
                 <flag name="marat_hair_color">02_darkbrown</flag>
               </conditionFlags>
@@ -2957,7 +2957,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's hair and eyebrow color to brown.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_hair_color/03_brown/preview.png" />
+              <image path="fomod/images/elsb/marat_hair_color/03_brown/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_hair_color">03_brown</flag>
               </conditionFlags>
@@ -2969,7 +2969,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's hair and eyebrow color to light brown.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_hair_color/04_lightbrown/preview.png" />
+              <image path="fomod/images/elsb/marat_hair_color/04_lightbrown/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_hair_color">04_lightbrown</flag>
               </conditionFlags>
@@ -2981,7 +2981,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's hair and eyebrow color to auburn.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_hair_color/05_auburn/preview.png" />
+              <image path="fomod/images/elsb/marat_hair_color/05_auburn/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_hair_color">05_auburn</flag>
               </conditionFlags>
@@ -2993,7 +2993,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's hair and eyebrow color to ginger.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_hair_color/06_ginger/preview.png" />
+              <image path="fomod/images/elsb/marat_hair_color/06_ginger/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_hair_color">06_ginger</flag>
               </conditionFlags>
@@ -3005,7 +3005,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's hair and eyebrow color to dark blonde.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_hair_color/07_darkblonde/preview.png" />
+              <image path="fomod/images/elsb/marat_hair_color/07_darkblonde/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_hair_color">07_darkblonde</flag>
               </conditionFlags>
@@ -3017,7 +3017,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's hair and eyebrow color to blonde.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_hair_color/08_blonde/preview.png" />
+              <image path="fomod/images/elsb/marat_hair_color/08_blonde/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_hair_color">08_blonde</flag>
               </conditionFlags>
@@ -3029,7 +3029,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's hair and eyebrow color to platinum blonde.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_hair_color/09_platinum/preview.png" />
+              <image path="fomod/images/elsb/marat_hair_color/09_platinum/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_hair_color">09_platinum</flag>
               </conditionFlags>
@@ -3041,7 +3041,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's hair and eyebrow color to salt and pepper.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_hair_color/10_saltpepper/preview.png" />
+              <image path="fomod/images/elsb/marat_hair_color/10_saltpepper/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_hair_color">10_saltpepper</flag>
               </conditionFlags>
@@ -3053,7 +3053,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's hair and eyebrow color to white.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_hair_color/11_white/preview.png" />
+              <image path="fomod/images/elsb/marat_hair_color/11_white/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_hair_color">11_white</flag>
               </conditionFlags>
@@ -3069,7 +3069,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Keep Marat's original beard.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_beard/_vanilla.png" />
+              <image path="fomod/images/elsb/marat_hair/_vanilla.jpg" />
               <conditionFlags>
                 <flag name="marat_beard">vanilla</flag>
               </conditionFlags>
@@ -3081,7 +3081,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Make Marat clean-shaven.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_beard/0_none/preview.png" />
+              <image path="fomod/images/elsb/marat_beard/0_none/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_beard">0_none</flag>
               </conditionFlags>
@@ -3093,7 +3093,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's beard to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_beard/Andrei_A/preview.png" />
+              <image path="fomod/images/elsb/marat_beard/Andrei_A/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_beard">Andrei_A</flag>
               </conditionFlags>
@@ -3105,7 +3105,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's beard to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_beard/Commoner_B/preview.png" />
+              <image path="fomod/images/elsb/marat_beard/Commoner_B/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_beard">Commoner_B</flag>
               </conditionFlags>
@@ -3117,7 +3117,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's beard to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_beard/Commoner_C/preview.png" />
+              <image path="fomod/images/elsb/marat_beard/Commoner_C/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_beard">Commoner_C</flag>
               </conditionFlags>
@@ -3129,7 +3129,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's beard to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_beard/Commoner_D/preview.png" />
+              <image path="fomod/images/elsb/marat_beard/Commoner_D/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_beard">Commoner_D</flag>
               </conditionFlags>
@@ -3141,7 +3141,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's beard to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_beard/Commoner_E/preview.png" />
+              <image path="fomod/images/elsb/marat_beard/Commoner_E/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_beard">Commoner_E</flag>
               </conditionFlags>
@@ -3153,7 +3153,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's beard to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_beard/Neberu_A/preview.png" />
+              <image path="fomod/images/elsb/marat_beard/Neberu_A/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_beard">Neberu_A</flag>
               </conditionFlags>
@@ -3165,7 +3165,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's beard to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_beard/Pieter_A/preview.png" />
+              <image path="fomod/images/elsb/marat_beard/Pieter_A/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_beard">Pieter_A</flag>
               </conditionFlags>
@@ -3177,7 +3177,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's beard to the pictured style.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_beard/Villager_A/preview.png" />
+              <image path="fomod/images/elsb/marat_beard/Villager_A/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_beard">Villager_A</flag>
               </conditionFlags>
@@ -3193,7 +3193,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Keep Marat's original beard color.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_beard_color/_vanilla.png" />
+              <image path="fomod/images/elsb/marat_hair/_vanilla.jpg" />
               <conditionFlags>
                 <flag name="marat_beard_color">vanilla</flag>
               </conditionFlags>
@@ -3205,7 +3205,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's beard color to black.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_beard_color/01_black/preview.png" />
+              <image path="fomod/images/elsb/marat_beard_color/01_black/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_beard_color">01_black</flag>
               </conditionFlags>
@@ -3217,7 +3217,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's beard color to dark brown.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_beard_color/02_darkbrown/preview.png" />
+              <image path="fomod/images/elsb/marat_beard_color/02_darkbrown/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_beard_color">02_darkbrown</flag>
               </conditionFlags>
@@ -3229,7 +3229,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's beard color to brown.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_beard_color/03_brown/preview.png" />
+              <image path="fomod/images/elsb/marat_beard_color/03_brown/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_beard_color">03_brown</flag>
               </conditionFlags>
@@ -3241,7 +3241,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's beard color to light brown.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_beard_color/04_lightbrown/preview.png" />
+              <image path="fomod/images/elsb/marat_beard_color/04_lightbrown/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_beard_color">04_lightbrown</flag>
               </conditionFlags>
@@ -3253,7 +3253,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's beard color to auburn.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_beard_color/05_auburn/preview.png" />
+              <image path="fomod/images/elsb/marat_beard_color/05_auburn/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_beard_color">05_auburn</flag>
               </conditionFlags>
@@ -3265,7 +3265,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's beard color to ginger.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_beard_color/06_ginger/preview.png" />
+              <image path="fomod/images/elsb/marat_beard_color/06_ginger/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_beard_color">06_ginger</flag>
               </conditionFlags>
@@ -3277,7 +3277,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's beard color to dark blonde.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_beard_color/07_darkblonde/preview.png" />
+              <image path="fomod/images/elsb/marat_beard_color/07_darkblonde/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_beard_color">07_darkblonde</flag>
               </conditionFlags>
@@ -3289,7 +3289,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's beard color to blonde.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_beard_color/08_blonde/preview.png" />
+              <image path="fomod/images/elsb/marat_beard_color/08_blonde/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_beard_color">08_blonde</flag>
               </conditionFlags>
@@ -3301,7 +3301,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's beard color to platinum blonde.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_beard_color/09_platinum/preview.png" />
+              <image path="fomod/images/elsb/marat_beard_color/09_platinum/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_beard_color">09_platinum</flag>
               </conditionFlags>
@@ -3313,7 +3313,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's beard color to salt and pepper.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_beard_color/10_saltpepper/preview.png" />
+              <image path="fomod/images/elsb/marat_beard_color/10_saltpepper/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_beard_color">10_saltpepper</flag>
               </conditionFlags>
@@ -3325,7 +3325,7 @@ Preview credit: Akazonae36 (ELSB).</description>
               <description>Change Marat's beard color to white.
 
 Preview credit: Akazonae36 (ELSB).</description>
-              <image path="fomod/images/elsb/marat_beard_color/11_white/preview.png" />
+              <image path="fomod/images/elsb/marat_beard_color/11_white/preview.jpg" />
               <conditionFlags>
                 <flag name="marat_beard_color">11_white</flag>
               </conditionFlags>

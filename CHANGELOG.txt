@@ -21,3 +21,5 @@ Development build -- ELSB 1.1.1 base
 - Choose the optional personal body independently for Anca and Lacra.
 - Keep third-party originals separate and select their applicable patches.
 - Preserve Lacra's custom hair and chest texture alongside ELSB choices.
+- Use one JPEG preview library for both installers and add an illustrated
+  README with installation instructions and linked compatibility choices.

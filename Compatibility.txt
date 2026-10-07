@@ -1,8 +1,9 @@
 ELSB character compatibility catalogue
 
 The Characters category review covers the 34 original entries listed below.
-Install only the originals for the choices you want. Each remains a separate
-Vortex entry; selecting a patch does not install or activate its original.
+Install only the originals for the choices you want. Keep each as a separate
+Vortex entry, or install/import it for the manual toolkit. Selecting a patch
+does not install or activate its original.
 The wizard names the supported archive and retains the previous choice names.
 
 Lacra Beautiful Hair v4
@@ -44,10 +45,10 @@ are not mesh refits: neck alignment and facial animation require gameplay.
 Gothic Lacra: complete face and body skin
 Every Gothic variant keeps all five original face, torso, hand, leg and foot
 colour textures together. There are no Gothic face-only options. Select it
-under Lacra body/skin, use a regular ELSB or original body, and enable only
-the matching Gothic original. Separate Lacra face/surface/wrinkle choices
-are unavailable with a Gothic skin. The chest texture is an alternative in
-the same category. Disable other Lacra face-colour and chest originals.
+directly under Lacra's body and enable only the matching Gothic original.
+Each Gothic option selects the regular ELSB body with the complete Gothic
+skin. Separate Lacra face/surface/wrinkle and chest choices are unavailable
+with it. Disable other Lacra face-colour and chest originals.
 Gothic skins are unavailable with ELSB + Pussy Walker: the private graft
 atlas is not recoloured by those originals. These are complete skin texture
 replacements; they do not replace the selected ELSB body shape.

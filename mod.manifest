@@ -5,7 +5,7 @@
     <modid>ELSBVortexInstaller</modid>
     <description>Original ELSB character options with optional personal bodies and compatibility patches.</description>
     <author>oOCamilleOo; upstream authors credited in CREDITS.txt</author>
-    <version>1.1.1</version>
+    <version>1.1.2-dev</version>
     <created_on>2026-10-06</created_on>
   </info>
   <supports>

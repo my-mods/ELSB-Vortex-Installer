@@ -2,6 +2,6 @@
   "id": "elsb-choice-preservation",
   "name": "The Blood of Dawnwalker ELSB Extension",
   "author": "oOCamilleOo",
-  "version": "1.1.1",
+  "version": "1.1.2-dev",
   "description": "Preserves saved ELSB choices and improves its installer layout, previews and keyboard browsing."
 }

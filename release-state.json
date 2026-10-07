@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "main": {
+      "id": "ELSBVortexInstaller",
+      "name": "ELSB - Vortex Installer",
+      "archive": "ELSB - Vortex Installer.zip",
+      "packageFormat": 1,
+      "baseline": {
+        "kind": "local",
+        "version": "1.1.1",
+        "normalizedVersion": "1.1.1",
+        "sourceCommit": "3ebb2691193828a6565766ceb46d32ab4eeee306",
+        "sourceTag": null,
+        "archiveSha256": "412c0a389c8d53bfda1184d6bba17f962a0332f9b2adaef18b4588168f51bbf3",
+        "verifiedAt": "2026-10-07",
+        "nexus": null
+      },
+      "bindings": [
+        {
+          "path": "fomod/info.xml",
+          "pattern": "<Version>(?P<version>[^<]+)</Version>",
+          "count": 1,
+          "members": [
+            "fomod/info.xml"
+          ]
+        },
+        {
+          "path": "mod.manifest",
+          "pattern": "<version>(?P<version>[^<]+)</version>",
+          "count": 1,
+          "members": [
+            "mod.manifest"
+          ]
+        }
+      ],
+      "excludePaths": [
+        "Optional",
+        "Compatibility",
+        "VortexExtension"
+      ],
+      "pending": {
+        "impact": "patch",
+        "rationale": "Add consistent installer version metadata and identifiable development packages to the audited local baseline.",
+        "majorOverride": false,
+        "reviewedInputs": "a84045d8affce8ceb731abe6cd90c48ddf05aad8224163e46a89758586c069b5",
+        "divergenceReviewed": false
+      }
+    },
+    "extension": {
+      "id": "elsb-choice-preservation",
+      "name": "The Blood of Dawnwalker ELSB Extension",
+      "kind": "vortex-extension",
+      "archive": "The Blood of Dawnwalker ELSB Extension.zip",
+      "packageFormat": 1,
+      "baseline": {
+        "kind": "local",
+        "version": "1.1.1",
+        "normalizedVersion": "1.1.1",
+        "sourceCommit": "3ebb2691193828a6565766ceb46d32ab4eeee306",
+        "sourceTag": null,
+        "archiveSha256": "e4cafde11976668a0af9e1a2deaa602cde0e88afeb238c3c60c3e364f88bccc4",
+        "verifiedAt": "2026-10-07",
+        "nexus": null
+      },
+      "bindings": [
+        {
+          "path": "VortexExtension/info.json",
+          "jsonPointer": [
+            "version"
+          ],
+          "members": [
+            "info.json"
+          ]
+        }
+      ],
+      "includePaths": [
+        "VortexExtension"
+      ],
+      "pending": {
+        "impact": "patch",
+        "rationale": "Identify extension development builds independently from the main installer.",
+        "majorOverride": false,
+        "reviewedInputs": "42fd44c5642f6c096c6203c75aec8da5fe070d760b1ac0bea5536562d485dea0",
+        "divergenceReviewed": false
+      }
+    }
+  }
+}

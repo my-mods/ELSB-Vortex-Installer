@@ -11,7 +11,31 @@ Fresh installations start with vanilla selections.
 
 *FOMOD preview with the optional ELSB extension. The standard Vortex installer works without it.*
 
-[Installation](#installation) · [Compatibility choices](#compatibility-choices) · [Preferences and updates](#preferences-and-updates) · [Building from source](#building-from-source)
+[Preparation](#preparation) · [Installation](#installation) · [Compatibility choices](#compatibility-choices) · [Preferences and updates](#preferences-and-updates)
+
+## Preparation
+
+**Nexus users can skip this step.** The complete installer package already
+includes the required files for both Vortex and manual installation.
+
+Otherwise, extract the download outside the game and prepare its required files.
+Open Windows PowerShell in that folder and run this command; no script arguments
+are needed:
+
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -File .\Prepare-ELSB.ps1
+```
+
+The script detects the game folder and asks you to **accept it or change it**.
+It searches for matching local files and ELSB archives. If anything is missing,
+it asks you to provide a matching ELSB ZIP or extracted folder. It then copies
+the verified files into the extracted download and offers to build the complete
+installer ZIP. Continue with either installation method below.
+
+The game alone does not contain every modified ELSB option. Keep your existing
+complete ELSB archive available for missing options. Preparation does not change
+the game or install mods. [Advanced options](#package-building-and-advanced-options)
+remain available for command-line use.
 
 ## Installation
 
@@ -150,24 +174,21 @@ before installing through Vortex. Imported third-party mods can be managed
 separately. Never copy the whole `Payload` folder into the game: it contains
 mutually exclusive alternatives.
 
-## Building from source
+## Package building and advanced options
 
 This repository includes the toolkit, FOMOD configuration, extension, **all
 175 JPEG previews**, toolkit artwork, documentation and provenance manifests.
 Cooked game and mod payloads are supplied from your own local files. The small
 preview library is stored directly in Git; Git LFS is not required.
 
-Keep the checkout outside the game. In Windows PowerShell, run:
-
-```powershell
-powershell -NoProfile -ExecutionPolicy Bypass -File .\Prepare-ELSB.ps1 -Plan
-```
-
-The script first tries Steam, GOG and Epic installation records. It looks for
-matching files in detected games and checks ELSB ZIPs beside the checkout,
+Automatic detection uses Steam, GOG and Epic installation records. You can
+accept the detected folder, provide another path, or choose to use archives only.
+The script looks for matching files in your chosen game and checks ELSB ZIPs beside the checkout,
 in its parent folder, in a sibling `[Mods] Latest Archives` folder and in Downloads.
-`-Plan` reports missing files without copying or writing anything. If automatic
-detection misses your installation or downloads, provide their locations:
+Arguments remain optional for advanced use and automation. Supplying arguments
+keeps the existing non-interactive behavior; add `-Interactive` to show prompts,
+or use `-NonInteractive` alone for automatic discovery without prompts.
+`-Plan` reports missing files without copying or writing anything:
 
 ```powershell
 .\Prepare-ELSB.ps1 -GamePath 'D:\Games\The Blood of Dawnwalker' -SourcePath 'D:\Downloads\ELSB - Vortex Installer.zip' -Plan

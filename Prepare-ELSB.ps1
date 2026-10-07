@@ -7,13 +7,17 @@ Reads game and source folders without changing them. Only verified, missing
 files are copied into this checkout. Existing mismatched files are not replaced.
 Game detection uses Steam, GOG and Epic installation records. Also searches
 nearby installer ZIPs and Downloads. Use -SourcePath for other folders or ZIPs.
+With no arguments, confirms the detected game folder and prompts for missing
+sources and optional ZIP assembly. Complete Nexus packages do not need this step.
 .EXAMPLE
 .\Prepare-ELSB.ps1 -Plan
 .EXAMPLE
 .\Prepare-ELSB.ps1 -GamePath 'D:\Games\The Blood of Dawnwalker' -SourcePath 'D:\Downloads\ELSB.zip' -Build
 #>
 [CmdletBinding()]
-param([string]$GamePath, [string[]]$SourcePath=@(), [switch]$Plan, [switch]$Build)
+param([string]$GamePath, [string[]]$SourcePath=@(), [switch]$Plan, [switch]$Build,
+      [switch]$Interactive, [switch]$NonInteractive)
+$interactiveMode = -not $NonInteractive -and ($Interactive -or $PSBoundParameters.Count -eq 0)
 $ErrorActionPreference='Stop'
 Add-Type -AssemblyName System.IO.Compression.FileSystem
 Add-Type -AssemblyName System.IO.Compression
@@ -93,8 +97,39 @@ function Get-SourceFiles([string]$Path) {
         }
     }
 }
+function Read-PreparationAnswer([string]$Prompt) {
+    if ([Console]::IsInputRedirected) {
+        Write-Host ($Prompt+': ') -NoNewline
+        $answer=[Console]::ReadLine()
+        if ($null -eq $answer) { throw 'Input ended. Preparation cancelled; use -NonInteractive for automation.' }
+        return $answer.Trim()
+    }
+    return (Read-Host $Prompt).Trim()
+}
+function Select-PreparationGame([string[]]$Candidates) {
+    $current=if ($Candidates.Count) { $Candidates[0] } else { '' }
+    while ($true) {
+        if ($current) {
+            Write-Host ('Game folder: '+$current)
+            $answer=Read-PreparationAnswer 'Enter = accept, C = change, S = use archives only, Q = quit'
+            if ($answer -eq '' -or $answer -ieq 'Y') { return $current }
+            if ($answer -ieq 'Q') { throw 'Preparation cancelled.' }
+            if ($answer -ieq 'S') { return '' }
+            if ($answer -ine 'C') { Write-Host 'Choose Enter, C, S or Q.'; continue }
+        } else { Write-Host 'Choose a game folder, or use archives only.' }
+        $current=''
+        $path=Read-PreparationAnswer 'Paste the game folder path, S to use archives only, or Q to quit'
+        if ($path -ieq 'Q') { throw 'Preparation cancelled.' }
+        if ($path -ieq 'S') { return '' }
+        $resolved=$null
+        try { $resolved=Get-GameRoot ($path.Trim('"')) } catch { }
+        if ($resolved) { $current=$resolved }
+        else { Write-Host 'That folder does not contain Dawnwalker/Binaries/Win64/Dawnwalker.exe. Try again.' }
+    }
+}
 
 try {
+    if ($Interactive -and $NonInteractive) { throw 'Use -Interactive or -NonInteractive separately.' }
     if ($Plan -and $Build) { throw 'Use -Plan or -Build separately. Plan never writes files.' }
     $games=@(Find-Games | Select-Object -Unique)
     if ($GamePath) {
@@ -103,6 +138,11 @@ try {
         $games=@($explicit)+$games | Select-Object -Unique
     }
     if (Get-GameRoot $root) { throw 'Extract this source checkout outside the game before preparing it.' }
+    if ($interactiveMode) {
+        Write-Host 'ELSB preparation - Nexus users with the complete package can skip this step.'
+        $selectedGame=Select-PreparationGame $games
+        $games=@(); if ($selectedGame) { $games=@($selectedGame) }
+    }
     Write-Host ('Detected game installations: '+$games.Count)
     foreach ($game in $games) { Write-Host ('  '+$game) }
     $manifest=Get-Content -LiteralPath (Join-Path $root 'Provenance/package-assets.json') -Raw | ConvertFrom-Json
@@ -129,6 +169,7 @@ try {
         $sources += @(Get-ChildItem -LiteralPath $directory -Filter '*ELSB*.zip' -File -ErrorAction SilentlyContinue | ForEach-Object { $_.FullName })
     }
     $scanned=@{}
+    while ($true) {
     foreach ($source in ($sources | Select-Object -Unique)) {
         if (@($needed.Keys | Where-Object { -not $available.ContainsKey($_) }).Count -eq 0) { break }
         Write-Host ('Searching '+$source)
@@ -152,6 +193,14 @@ try {
         }
     }
     $unavailable=@($missing | Where-Object { -not $available.ContainsKey($_.sha256) })
+    if (-not $unavailable.Count -or -not $interactiveMode) { break }
+    Write-Host ($unavailable.Count.ToString()+' required files are still missing. The game alone does not contain every mod alternative.')
+    Write-Host 'Provide a matching complete ELSB ZIP or extracted folder. No files have been copied yet.'
+    $additional=(Read-PreparationAnswer 'Paste a ZIP or folder path, or Q to quit').Trim('"')
+    if ($additional -eq '' -or $additional -ieq 'Q') { throw 'Preparation cancelled; no files copied.' }
+    if (-not (Test-Path -LiteralPath $additional)) { Write-Host 'That path does not exist. Try again.'; $sources=@(); continue }
+    $sources=@($additional); $scanned=@{}
+    }
     if ($unavailable.Count) {
         Write-Host 'Missing exact payloads (no files have been copied):'
         $unavailable | ForEach-Object { Write-Host ('  '+$_.path) }
@@ -188,6 +237,14 @@ try {
         if (Test-Path -LiteralPath $stage) { [IO.Directory]::Delete($stage,$true) }
     }
     Write-Host ('Verified '+$assets.Count+' assets; copied '+$missing.Count+' files into this checkout.')
+    if ($interactiveMode -and -not $Build) {
+        while ($true) {
+            $answer=Read-PreparationAnswer 'Build the complete installer ZIP now? Y = build, Enter = finish'
+            if ($answer -ieq 'Y') { $Build=$true; break }
+            if ($answer -eq '' -or $answer -ieq 'N') { break }
+            Write-Host 'Choose Y or press Enter.'
+        }
+    }
     if ($Build) {
         $paths=Get-Content -LiteralPath (Join-Path $root 'Provenance/package-files.json') -Raw | ConvertFrom-Json
         $unique=@{}

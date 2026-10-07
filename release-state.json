@@ -41,9 +41,9 @@
       ],
       "pending": {
         "impact": "minor",
-        "rationale": "Restore the original manual toolkit with shared FOMOD rules, preserved preferences and imports, transactional Apply and read-only plans; publish shared JPEG previews and illustrated documentation; add automatic local payload discovery, verified copying and package assembly.",
+        "rationale": "Restore the manual toolkit with shared FOMOD rules, preferences and imports, transactional Apply and read-only plans; publish JPEG previews and illustrated documentation; provide local payload discovery and verified assembly with an interactive no-argument preparation workflow.",
         "majorOverride": false,
-        "reviewedInputs": "45a93c53684fcdb21321ace899eb671f797e7e205a37e39f3890b50c6f0c3220",
+        "reviewedInputs": "13895f3dac1f93cac0194b54a279c11ed03f5093de2a937efcf8e69fbd1d8978",
         "divergenceReviewed": false
       }
     },

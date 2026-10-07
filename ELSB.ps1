@@ -1065,7 +1065,7 @@ function Get-ExtScores($dir, $utocs) {
     } catch { }
     $score = @{}
     foreach ($u in @($utocs)) { $sc = Get-BoxKindScores $u.FullName; foreach ($k in $sc.Keys) { $score[$k] = [int]$score[$k] + [int]$sc[$k] } }
-    try { $lines = @($fp); foreach ($k in @($score.Keys | Sort-Object)) { $lines += ($k + '=' + $score[$k]) }; [IO.File]::WriteAllLines($f, [string[]]$lines) } catch { }
+    if (-not $Plan) { try { $lines = @($fp); foreach ($k in @($score.Keys | Sort-Object)) { $lines += ($k + '=' + $score[$k]) }; [IO.File]::WriteAllLines($f, [string[]]$lines) } catch { } }
     return $score
 }
 function Get-ExtMods {

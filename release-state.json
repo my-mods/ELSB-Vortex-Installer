@@ -43,7 +43,7 @@
         "impact": "minor",
         "rationale": "Restore the original manual toolkit with shared FOMOD rules, preserved and migrated preferences, previews and imports, transactional Apply, and code-only public sources; retain installer version metadata and neutral vanilla defaults.",
         "majorOverride": false,
-        "reviewedInputs": "ae7ade8ff296c858cd69391eac126221f10441aaae0cd47c040a5a2224ddb9dc",
+        "reviewedInputs": "0aa3a5da4e6d074c08bcaf68b65cb30354f4b4a2d59e77ee038b6f161f4b8fa4",
         "divergenceReviewed": false
       }
     },
